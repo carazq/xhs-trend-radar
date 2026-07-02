@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>小红书外网选题雷达</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Spark Library / What's Trending Now</p>
+          <h1>外网选题套利雷达</h1>
+          <p class="lede">
+            先判断外网正在升温、国内还没充分消化的信号，再用可翻译性过滤器把它变成今天能发的小红书选题。
+          </p>
+        </div>
+        <div class="hero-panel" aria-label="本期摘要">
+          <span>本期窗口</span>
+          <strong>2026.06.17 - 07.02 / 10:15 CST</strong>
+          <p>先看 Summary Feed 和 Pop Culture 内容池，再下钻到 TikTok、AI、GitHub 与 Arbitrage Queue；本轮把窗口推进到 7/2，Social 主榜继续区分新近低量线索和窗口外高互动参考，TikTok 继续按可见搜索/公开视频样本记录，GitHub 以 7/1 公开可见基线加 7/2 复核状态记录。</p>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="页面导航">
+        <a class="chip is-active" href="#spark">Summary Feed</a>
+        <a class="chip" href="#social">Social media content</a>
+        <a class="chip" href="#tiktok">TikTok 趋势</a>
+        <a class="chip" href="#ai">AI 相关</a>
+        <a class="chip" href="#github">GitHub skill</a>
+        <a class="chip" href="#arbitrage">Arbitrage Queue</a>
+      </section>
+
+      <section class="finder" aria-label="灵感筛选工具">
+        <div class="finder-main">
+          <label for="sparkSearch">搜索 Spark</label>
+          <input id="sparkSearch" type="search" aria-label="搜索 Spark" />
+        </div>
+        <div class="filter-row" aria-label="Spark 分类筛选">
+          <button class="filter-chip is-active" data-spark-filter="all">全部</button>
+          <button class="filter-chip" data-spark-filter="pop">流行文化</button>
+          <button class="filter-chip" data-spark-filter="tiktok">TikTok</button>
+          <button class="filter-chip" data-spark-filter="beauty">审美</button>
+          <button class="filter-chip" data-spark-filter="ai">AI</button>
+          <button class="filter-chip" data-spark-filter="github">GitHub Skill</button>
+          <button class="filter-chip" data-spark-filter="startup">创业 Idea</button>
+          <button class="filter-chip" data-spark-filter="xhs">适合小红书</button>
+        </div>
+      </section>
+
+      <section id="spark" class="spark-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Summary Feed</p>
+            <h2>值得摘录的灵感</h2>
+          </div>
+          <p>点击任意 insight，会在右侧/下方展开关联内容、评论区热点、热度分和小红书切入点。</p>
+        </div>
+        <div class="summary-layout">
+          <div id="sparkGrid" class="spark-grid"></div>
+          <aside id="relatedPanel" class="related-panel" aria-label="关联内容"></aside>
+        </div>
+      </section>
+
+      <section id="social" class="rank-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Part 1 / Social Media Content</p>
+            <h2>Pop culture 选题流</h2>
+          </div>
+          <p>最近 15 天 YouTube UGC：评论数优先，播放和点赞辅助，重点围绕审美、明星 branding、音乐文化和创作者经济；7/2 复扫后窗口内新候选仍以低量线索为主，旧 6/13 高互动审美身体线继续降为窗口外参考，不冒充今日主榜。</p>
+        </div>
+        <div id="trendGrid" class="trend-grid"></div>
+      </section>
+
+      <section id="tiktok" class="tiktok-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">TikTok / Search + Verified Links</p>
+            <h2>TikTok 流行文化趋势</h2>
+          </div>
+          <p>混合站内搜索和已登录可见样本，不只看关注流；精确视频才放视频链接，搜索聚类只跳搜索页。TikTok 缩略图公开抓取不稳定，页面只显示可验证来源，不伪装图片。</p>
+        </div>
+        <div id="tiktokGrid" class="trend-grid"></div>
+      </section>
+
+      <section class="youtube-board">
+        <div>
+          <p class="eyebrow">YouTube Watchlist</p>
+          <h2>Social 内容的聚类方向</h2>
+        </div>
+        <div id="youtubeGrid" class="youtube-grid"></div>
+      </section>
+
+      <section id="arbitrage" class="arbitrage-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Signal Arbitrage</p>
+            <h2>本周最值得发的 3 条</h2>
+          </div>
+          <p>每条先看时间窗口和可翻译性，再决定标题、评论区引导和复盘指标。这里服务一周 1-3 条高质量发布，不追每日噪音。</p>
+        </div>
+        <div id="arbitrageGrid" class="arbitrage-grid"></div>
+      </section>
+
+      <section class="sop-board" aria-label="周更 SOP">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Weekly SOP</p>
+            <h2>周更跑法</h2>
+          </div>
+          <p>把 last30days、人工文化判断、发布复盘固定成一条很小的链路，先验证账号增长，再谈产品化。</p>
+        </div>
+        <div id="sopGrid" class="sop-grid"></div>
+      </section>
+
+      <section class="edition-board" aria-label="今日变化">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Daily Variation</p>
+            <h2>今天不一样的看法</h2>
+          </div>
+          <p>同一批信号每天换一个主线、反着讲法和内容格式，让这个库更像编辑部，不像静态榜单。</p>
+        </div>
+        <div id="editionGrid" class="edition-grid"></div>
+      </section>
+
+      <section id="ai" class="ai-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Part 2 / AI Related</p>
+            <h2>AI 观点和机会流</h2>
+          </div>
+          <p>AI feed 聚焦最近 30 天 YouTube agent/workflow 高互动内容、GitHub skill 和可转译的 AI 应用观察。</p>
+        </div>
+        <div id="aiGrid" class="trend-grid"></div>
+      </section>
+
+      <section id="github" class="github-board">
+        <div class="board-head">
+          <div>
+            <p class="eyebrow">Part 3 / GitHub Skill Radar</p>
+            <h2>GitHub skill 热度</h2>
+          </div>
+          <p>作为独立 Tab/Feed 看：只追突然变火的 GitHub skill、agent workflow、AI app repo；按近 7 天 star 增量、更新频率、讨论外溢和可转译内容价值排序，不再固定追踪某几个仓库。</p>
+        </div>
+        <div id="githubGrid" class="github-grid"></div>
+      </section>
+
+      <section class="notice">
+        <div>
+          <strong>图片挖掘能力</strong>
+          <p>
+            YouTube 可抓视频缩略图；GitHub 可用仓库预览图。页面会优先显示稳定可访问的公开图片，不稳定来源只保留链接。
+          </p>
+        </div>
+        <div>
+          <strong>Obsidian 结合方式</strong>
+          <p>
+            页面负责快速扫描和筛选，Obsidian 负责沉淀选题库、标题库、图片素材链接、关联内容和复盘。
+          </p>
+        </div>
+      </section>
+
+      <section class="policy-board">
+        <div>
+          <p class="eyebrow">Data Notes</p>
+          <h2>底层口径</h2>
+        </div>
+        <div class="policy-grid">
+          <article>
+            <strong>明星本体降权</strong>
+            <p>单纯 MV、绯闻、红毯、官方物料不进主榜；如果要讲明星，必须通过 UGC 分析、reaction 或评论区争议来进入。</p>
+          </article>
+          <article>
+            <strong>TikTok 口径</strong>
+            <p>TikTok 用登录态关注流、站内搜索和公开视频页可见样本；评论分析基于可见热评，不把不可见评论伪装成完整导出。</p>
+          </article>
+          <article>
+            <strong>AI 应用内容</strong>
+            <p>AI 区只保留 YouTube 与 GitHub 等稳定来源，重点看产品人格、应用形态和可复用工作流。</p>
+          </article>
+          <article>
+            <strong>GitHub 周活跃</strong>
+            <p>GitHub skill feed 不是收藏夹监控，而是爆发发现器：每日扫描候选 repo，从快涨、刚被讨论、能解释成工作流/产品机会的项目里挑选。</p>
+          </article>
+        </div>
+      </section>
+    </main>
+    <script src="./radar-data.js" defer></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
