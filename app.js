@@ -9,6 +9,7 @@ let arbitragePicks = [];
 let weeklySop = [];
 let contentFormats = [];
 let summarySparks = [];
+let radarMeta = {};
 
 const grid = document.querySelector("#trendGrid");
 const youtubeGrid = document.querySelector("#youtubeGrid");
@@ -28,7 +29,7 @@ const sparkState = {
   filter: "all"
 };
 
-const editionDate = "2026-07-02-1015";
+const editionDate = "2026-07-04-1000";
 let editionSeed = 0;
 let dailyLens = null;
 let dailySpotlight = null;
@@ -99,6 +100,19 @@ function renderSocial() {
       `;
     })
     .join("");
+}
+
+function renderHeroMeta() {
+  const label = document.querySelector("#radarMetaLabel");
+  const windowText = document.querySelector("#radarWindow");
+  const summary = document.querySelector("#radarSummary");
+  if (!label || !windowText || !summary) return;
+
+  label.textContent = radarMeta.label || "本期窗口";
+  windowText.textContent = radarMeta.contentWindow || "数据窗口待更新";
+  summary.textContent =
+    radarMeta.summary ||
+    "先看 Summary Feed 和 Pop Culture 内容池，再下钻到 TikTok、AI、GitHub 与 Arbitrage Queue。";
 }
 
 function renderYoutube() {
@@ -234,8 +248,8 @@ const aiFeedItems = [
     kind: "GitHub Skill",
     title: "awesome-llm-apps：AI 应用形态样本库",
     source: "Shubhamsaboo/awesome-llm-apps",
-    metrics: "2026-07-02 复核 / 约 116.1k stars / 17.2k forks / 较 6/22 基线继续上行",
-    heat: "AI app、agent、RAG、voice、multimodal、workflow 的集中样本；本轮使用 GitHub 公开页面可见量级，不写伪精确 delta。",
+    metrics: "2026-07-04 复核 / 本地 GitHub API 仍失败 / 沿用公开页面高星基线",
+    heat: "AI app、agent、RAG、voice、multimodal、workflow 的集中样本；本轮不写伪精确日增，重点看应用形态迁移。",
     summary: "把它当成 AI 应用趋势池：不是看单个 repo，而是观察哪些 app 类型被反复实现，哪些场景已经有足够多开发者在试。",
     comments: "内容讨论点：AI 应用是否同质化、agent 是否真的有用、RAG/voice/multimodal 哪些场景最容易被普通用户感知。",
     xhsTitle: "最近 AI 应用到底在做什么？先看这个开源样本库",
@@ -247,7 +261,7 @@ const aiFeedItems = [
 let activeSparkId = "";
 
 function initializeDerivedData() {
-  editionSeed = hashSeed(editionDate);
+  editionSeed = hashSeed(radarMeta.editionId || editionDate);
   dailyLens = pickItem(valueFlows, editionSeed);
   dailySpotlight = pickItem(summarySparks, editionSeed, 1);
   dailyReverse = pickItem(sparkPool, editionSeed, 3);
@@ -509,6 +523,7 @@ async function loadRadarData() {
 }
 
 function applyRadarData(data) {
+  radarMeta = data.meta || {};
   ({
     trends,
     youtubeWatchlist,
@@ -525,6 +540,7 @@ function applyRadarData(data) {
 }
 
 function renderApp() {
+  renderHeroMeta();
   initializeDerivedData();
   renderSocial();
   renderYoutube();
