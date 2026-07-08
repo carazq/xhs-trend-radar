@@ -694,6 +694,38 @@
       "几十播放/几百播放进入主榜",
       "官方 MV/红毯/新闻站直接进主榜",
       "药物/减肥药/处方药风险选题"
-    ]
+    ],
+    "discoveryStrategy": {
+      "mode": "dynamic-pop-culture-first",
+      "rule": "不以固定关键词作为主入口；先发现最近 24-72 小时和近 15/30 天正在被讨论的人、作品、事件、梗、审美风格、品牌联名和争议热簇，再从热簇反推二级搜索词。",
+      "sourceScan": [
+        "TikTok Discover / For You / search suggestions / high-engagement videos",
+        "YouTube UGC commentary / reaction / analysis sorted by recency and engagement",
+        "Google/YouTube/TikTok search suggestions for discovered entities",
+        "GitHub trending / search for AI skill, agent workflow, LLM app acceleration"
+      ],
+      "dynamicEntities": [
+        "person",
+        "song_or_album",
+        "movie_or_show",
+        "creator",
+        "brand_collab",
+        "award_show_or_tour",
+        "platform_meme",
+        "aesthetic_style",
+        "fan_conflict",
+        "comment_theme"
+      ],
+      "queryPattern": "{dynamic_entity} + analysis/commentary/reaction/aesthetic/branding/fan reaction/controversy/explained",
+      "fallbackOnly": [
+        "pop culture commentary",
+        "celebrity aesthetic analysis",
+        "music video visual identity",
+        "creator economy personal brand",
+        "AI workflow",
+        "open-source AI apps"
+      ],
+      "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
+    }
   }
 }
