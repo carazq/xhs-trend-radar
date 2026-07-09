@@ -29,7 +29,7 @@ const sparkState = {
   filter: "all"
 };
 
-const editionDate = "2026-07-04-1000";
+const editionDate = "2026-07-09-1021";
 let editionSeed = 0;
 let dailyLens = null;
 let dailySpotlight = null;
@@ -248,8 +248,8 @@ const aiFeedItems = [
     kind: "GitHub Skill",
     title: "awesome-llm-apps：AI 应用形态样本库",
     source: "Shubhamsaboo/awesome-llm-apps",
-    metrics: "2026-07-04 复核 / 本地 GitHub API 仍失败 / 沿用公开页面高星基线",
-    heat: "AI app、agent、RAG、voice、multimodal、workflow 的集中样本；本轮不写伪精确日增，重点看应用形态迁移。",
+    metrics: "2026-07-09 复核 / 作为 AI app 样本库基线 / 不伪装成日涨榜",
+    heat: "AI app、agent、RAG、voice、multimodal、workflow 的集中样本；本轮重点看应用形态迁移和工作流人格。",
     summary: "把它当成 AI 应用趋势池：不是看单个 repo，而是观察哪些 app 类型被反复实现，哪些场景已经有足够多开发者在试。",
     comments: "内容讨论点：AI 应用是否同质化、agent 是否真的有用、RAG/voice/multimodal 哪些场景最容易被普通用户感知。",
     xhsTitle: "最近 AI 应用到底在做什么？先看这个开源样本库",
