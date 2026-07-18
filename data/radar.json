@@ -1,7 +1,7 @@
 {
   "trends": [
     {
-      "title": "KPop Demon Hunters：虚拟女团把影视、音乐和角色身份绑成一个入坑系统",
+      "title": "KPop Demon Hunters：影视 IP 已经进入 UGC 高播放拆解期",
       "tags": [
         "Pop Culture",
         "Music",
@@ -9,18 +9,30 @@
         "Fandom"
       ],
       "priority": "high",
-      "metrics": "2026-07-13 动态实体热簇 / YouTube + TikTok 二级搜索聚类 / 官方报道与搜索结果交叉验证",
-      "channel": "Search cluster: KPop Demon Hunters reaction / Golden HUNTR/X / Saja Boys aesthetic",
-      "heat": "热度不在单一视频，而在同一实体下同时出现 soundtrack、角色 pick、仿妆、粉丝阵营和 K-pop 公式讨论。",
-      "signal": "可转译点：让用户先选择“我是哪类角色”，再进入歌曲、妆造和剧情，比单纯影评更容易引发评论。",
-      "why": "适合小红书：影视、音乐、穿搭、妆容、MBTI式身份选择可以合成一篇低门槛文化拆解。",
-      "discussion": "可见讨论主题集中在 Huntr/x 与 Saja Boys 的角色定位、Golden 的循环播放、K-pop 公式被动画放大、以及 Netflix/IP 如何制造可二创女团。",
+      "metrics": "2026-07-18 yt-dlp 搜索复核：多条 UGC reaction / analysis 达 50万-159万播放；点赞/评论因 YouTube 单页反 bot 不写精确值",
+      "channel": "YouTube UGC + Search cluster: KPop Demon Hunters reaction analysis / Golden / HUNTR/X / Korean culture details",
+      "heat": "高播放 UGC 不只在复述剧情，而是在拆角色人格、歌曲记忆点、韩语/文化细节、Sony 动画风格和虚拟女团的入坑机制。",
+      "signal": "可转译点：用户先被一个可 pick 的角色和一首可循环的歌带入，再愿意讨论剧情、妆造和身份投射。",
+      "why": "适合小红书：影视、音乐、穿搭、妆容、语言文化和“你 pick 谁”评论引导能合成强互动文化拆解。",
+      "discussion": "可见讨论主题集中在 Golden 循环播放、HUNTR/X 与 Saja Boys 阵营、K-pop 公式被动画放大、韩语文化彩蛋、以及虚拟偶像比真人偶像更易二创。",
       "ideas": [
         "标题：为什么动画女团比真人偶像更容易让人入坑？",
-        "结构：角色人格 -> 视觉锚点 -> 歌曲记忆点 -> 粉丝自我投射",
-        "视觉：三角色 pick 卡 + “你会 pick 谁”评论引导"
+        "结构：角色 pick -> 歌曲钩子 -> 视觉锚点 -> 粉丝自我投射",
+        "评论引导：如果这个团真实出道，你会 pick 谁？"
       ],
       "sources": [
+        [
+          "Danny Motta: Why Everyone is OBSSESSED With Kpop Demon Hunters / 159.89万播放",
+          "https://www.youtube.com/watch?v=_KUoOh2BpCo"
+        ],
+        [
+          "Talk To Me In Korean: K-pop Demon Hunters explained by a Korean teacher / 131.17万播放",
+          "https://www.youtube.com/watch?v=qCmpU3ssip8"
+        ],
+        [
+          "SamDoesArts: Sony is Winning Animation - Artist Analysis of Kpop Demon Hunters / 59.09万播放",
+          "https://www.youtube.com/watch?v=swDVdkyLzA8"
+        ],
         [
           "YouTube 搜索：KPop Demon Hunters reaction analysis",
           "https://www.youtube.com/results?search_query=KPop+Demon+Hunters+reaction+analysis"
@@ -28,45 +40,41 @@
         [
           "TikTok 搜索：KPop Demon Hunters",
           "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters"
-        ],
-        [
-          "Washington Post: KPop Demon Hunters global phenomenon",
-          "https://www.washingtonpost.com/opinions/2025/07/25/kpop-demon-hunters-asian-americans/"
         ]
       ]
     },
     {
-      "title": "Lizzo comeback discourse：旧人设资产也会变成公众审视的负债",
+      "title": "KPop Demon Hunters authenticity：动画女团让“真诚人设”变得可视化",
       "tags": [
-        "Music",
-        "Celebrity",
-        "Comeback",
-        "Commentary"
+        "Pop Culture",
+        "Music IP",
+        "Creator Persona",
+        "Analysis"
       ],
       "priority": "high",
-      "metrics": "2026-07-13 动态实体热簇 / Guardian 近期采访 + MusicRadar 商业表现报道 + YouTube commentary 搜索聚类",
-      "channel": "Search cluster: Lizzo comeback commentary / album performance / public goodwill",
-      "heat": "近期讨论重点不是单曲评价，而是公众善意、旧叙事疲劳、商业表现和危机后表达策略如何共同影响 comeback。",
-      "signal": "可转译点：公众记住一个明星的方式，也可能成为她重新开始时最难打破的标签。",
-      "why": "适合小红书：可写“人设资产如何变成人设债务”，但必须只谈公开作品和公开采访。",
-      "discussion": "可见主题集中在新专辑表现、public goodwill、幽默人格是否过时、以及 comeback 需要怎样的新叙事；不写身体、药物或私人健康猜测。",
+      "metrics": "2026-07-18 yt-dlp 搜索复核：Five by Five Takes 分析 7.60万播放；同簇 Cinema Therapy 68.05万播放、Hannah Bayles 73.64万播放",
+      "channel": "YouTube UGC exact videos + Search cluster: authenticity paradox / therapist reacts / vocal coach reacts",
+      "heat": "讨论从“电影火了”推进到更可写的主题：偶像需要真实感，但真实感又是被舞台、角色和粉丝共同制造出来的。",
+      "signal": "可转译点：越包装的偶像叙事，越需要让观众觉得“她不是只在营业”。",
+      "why": "适合小红书：可以从追星、个人品牌、创作者人设延展到普通人的“真诚感如何被设计”。",
+      "discussion": "可见主题集中在 parasocial relationship、艺术表达、fame、人设与真实的边界、以及粉丝为什么愿意相信一个被精心设计的角色。",
       "ideas": [
-        "标题：为什么有些明星越努力 comeback，观众越不买单？",
-        "结构：旧人设资产 -> 公众情绪变化 -> 新作品错位 -> comeback 怎么重建耐心",
-        "安全边界：只谈公开作品、采访和公众叙事"
+        "标题：为什么越会营业的人，越要看起来“不像营业”？",
+        "结构：舞台包装 -> 真实感线索 -> 粉丝共创 -> 人设信任",
+        "评论引导：你更吃“完美偶像”还是“有破绽的人设”？"
       ],
       "sources": [
         [
-          "Guardian: Lizzo interview, 2026-07-11",
-          "https://www.theguardian.com/music/2026/jul/11/lizzo-interview-answers-critics-accusations-fat-black-happy-girl-tear-me-down"
+          "Five by Five Takes: The Authenticity Paradox - a Kpop Demon Hunters Analysis / 7.60万播放",
+          "https://www.youtube.com/watch?v=9hS8xeLVZ8k"
         ],
         [
-          "MusicRadar: Lizzo album performance",
-          "https://www.musicradar.com/artists/singers-songwriters/i-was-so-excited-cause-i-met-my-pre-saves-goal-and-then-it-dropped-and-i-was-like-oh-ok-this-isnt-what-i-thought-it-would-be-lizzo-says-that-her-new-albums-poor-commercial-performance-felt-soul-crushing"
+          "Cinema Therapy: Therapist Reacts to KPOP DEMON HUNTERS / 68.05万播放",
+          "https://www.youtube.com/watch?v=-Moo6eTKkZM"
         ],
         [
-          "YouTube 搜索：Lizzo comeback commentary",
-          "https://www.youtube.com/results?search_query=Lizzo+comeback+commentary+album+performance"
+          "Hannah Bayles: Vocal Coach Reacts | KPop Demon Hunters FULL MOVIE / 73.64万播放",
+          "https://www.youtube.com/watch?v=QzjpRZTtPvI"
         ]
       ]
     },
@@ -78,13 +86,13 @@
         "Branding",
         "Fandom"
       ],
-      "priority": "high",
-      "metrics": "2026-07-13 动态实体热簇 / Manchild + reaction + branding 二级搜索聚类",
+      "priority": "medium",
+      "metrics": "2026-07-18 动态实体复扫 / Manchild + reaction + branding 二级搜索聚类；未取得新精确高互动评论数",
       "channel": "Search cluster: Sabrina Carpenter Manchild analysis / fan reaction / era management",
-      "heat": "Sabrina 的讨论已经从“她终于红了”变成“高度可识别的可爱/性感/讽刺人格，会不会限制下一轮表达”。",
-      "signal": "可转译点：成功的人设不是终点，而是会变成观众要求你一直扮演的角色。",
+      "heat": "Sabrina 的讨论仍在“成功人设维护期”：观众已经记住她的可爱、性感和讽刺语气，下一步风险是被自己的标签锁住。",
+      "signal": "可转译点：成功人设不是终点，而是观众要求你持续扮演的角色。",
       "why": "适合小红书：能从单曲争议跳到个人品牌、女性表达、粉丝期待和 era 管理，不依赖官方 MV。",
-      "discussion": "可见主题集中在 Manchild 的歌词语气、wink persona、粉丝维护和路人审美疲劳。",
+      "discussion": "可见主题集中在歌词语气、wink persona、粉丝维护、路人审美疲劳和下一阶段 era 如何破局。",
       "ideas": [
         "标题：Sabrina 红了之后，真正的难题才开始",
         "结构：成功人设 -> 观众期待 -> 反噬风险 -> 下一轮 era 怎么破",
@@ -106,7 +114,7 @@
       ]
     },
     {
-      "title": "Celebrity wedding fatigue：名人婚礼从向往内容变成奢华疲劳样本",
+      "title": "Taylor / Travis wedding fatigue：名人婚礼从向往内容变成消费景观",
       "tags": [
         "Celebrity",
         "Lifestyle",
@@ -114,30 +122,34 @@
         "Aesthetic"
       ],
       "priority": "medium",
-      "metrics": "2026-07-13 动态生活方式热簇 / TikTok + YouTube 搜索聚类",
-      "channel": "Search cluster: celebrity wedding fatigue / luxury wedding reaction / wedding aesthetic",
-      "heat": "豪华婚礼仍有观看欲，但评论更容易转向距离感、过度曝光、模板化审美和阶层展示疲劳。",
-      "signal": "可转译点：同一个素材可以从“梦中婚礼”转成“为什么我不再羡慕这种婚礼”。",
+      "metrics": "2026-07-18 动态生活方式热簇复扫 / celebrity wedding fatigue + luxury wedding reaction 搜索聚类",
+      "channel": "Search cluster: Taylor Swift Travis Kelce wedding reaction / celebrity wedding fatigue / luxury wedding reaction",
+      "heat": "名人婚礼仍有观看欲，但越盛大越容易触发距离感、过度曝光、品牌化和“为什么我不再羡慕”。",
+      "signal": "可转译点：同一组婚礼素材，可以从“梦中婚礼”转成“当婚礼变成品牌秀，普通人为什么开始疲劳”。",
       "why": "适合小红书：婚礼审美、反消费、奢侈品展示、阶层距离和视觉疲劳都能承接。",
-      "discussion": "可见主题集中在 guest list、品牌露出、婚礼视觉模板化、luxury fatigue 和观众对炫耀内容的耐心变短。",
+      "discussion": "可见主题集中在场地符号、guest list、品牌露出、慈善抵消争议、婚礼视觉模板化和 luxury fatigue。",
       "ideas": [
-        "标题：为什么现在的豪门婚礼，越来越不像梦想素材？",
+        "标题：为什么 Taylor 的世纪婚礼，反而让人开始婚礼疲劳？",
         "结构：视觉过载 -> 奢华疲劳 -> 阶层距离 -> 小红书审美反应",
         "评论引导：你会保存这种婚礼图，还是直接划走？"
       ],
       "sources": [
         [
-          "TikTok 搜索：celebrity wedding fatigue",
-          "https://www.tiktok.com/search?q=celebrity%20wedding%20fatigue"
+          "Guardian: Taylor Swift wedding obsession",
+          "https://www.theguardian.com/commentisfree/2026/jul/09/taylor-swift-wedding-obsession-msg"
         ],
         [
-          "YouTube 搜索：celebrity wedding fatigue",
-          "https://www.youtube.com/results?search_query=celebrity+wedding+fatigue+commentary"
+          "Vogue: Have We Reached Peak Celeb Wedding?",
+          "https://www.vogue.com/article/have-we-reached-peak-celeb-wedding"
+        ],
+        [
+          "YouTube 搜索：Taylor Swift Travis Kelce wedding reaction commentary",
+          "https://www.youtube.com/results?search_query=Taylor+Swift+Travis+Kelce+wedding+reaction+commentary"
         ]
       ]
     },
     {
-      "title": "AI agent skill governance：技能包热度进入维护、复用和权限讨论",
+      "title": "AI agent skill market：技能包从能力扩展变成供应链信任问题",
       "tags": [
         "AI",
         "Agent Skills",
@@ -145,12 +157,12 @@
         "Trust"
       ],
       "priority": "high",
-      "metrics": "2026-07-13 动态 AI 热簇 / 近期论文 + AI workflow 搜索聚类 + GitHub repo 观察",
-      "channel": "Search cluster: agent skills reuse / workflow governance / Claude Code skills",
-      "heat": "AI skill 从“装更多能力”进入“谁写的、怎么改、能调用什么工具、出错怎么回滚”的治理阶段。",
+      "metrics": "2026-07-18 动态 AI 热簇 / GitHub API + 7月 skill market 论文 + HalluSquatting 报道",
+      "channel": "Search cluster: agent skills market / HalluSquatting / workflow governance / Claude Code skills",
+      "heat": "AI skill 从“装更多能力”进入“谁写的、怎么改、能调用什么工具、是否会被幻觉仓库诱导”的供应链信任阶段。",
       "signal": "可转译点：普通用户真正关心的不是 skill 名字，而是来源、权限、版本、验收和可撤销性。",
       "why": "适合小红书：把工程概念翻译成“给 AI 装技能包前先问 4 个信任问题”。",
-      "discussion": "可见主题集中在技能复用常常是复制后本地改造、行为契约很少被改、以及第三方技能的权限边界。",
+      "discussion": "可见主题集中在技能复用常常是复制后本地改造、技能市场如何覆盖软件生命周期、幻觉仓库攻击、以及第三方技能的权限边界。",
       "ideas": [
         "标题：给 AI 装技能包之前，先问这 4 个信任问题",
         "结构：来源可信度 -> 权限范围 -> 本地绑定 -> 出错回滚",
@@ -162,97 +174,107 @@
           "https://arxiv.org/abs/2607.00911"
         ],
         [
-          "arXiv: Agent Skills data-driven analysis",
-          "https://arxiv.org/abs/2602.08004"
+          "arXiv: Inside the Skill Market, 2026-07-10",
+          "https://arxiv.org/abs/2607.09065"
         ],
         [
-          "YouTube 搜索：Claude Code skills workflow",
-          "https://www.youtube.com/results?search_query=Claude+Code+skills+workflow"
+          "Tom's Hardware: HalluSquatting agentic AI exploit",
+          "https://www.tomshardware.com/tech-industry/cyber-security/hallusquatting-is-the-latest-agentic-ai-exploit-where-models-dream-up-potentially-malicious-urls-in-tool-calls-attack-exploits-a-fundamental-weakness-in-every-available-model"
+        ],
+        [
+          "GitHub Search: agent skill created after 2026-06-01",
+          "https://api.github.com/search/repositories?q=agent+skill+created:%3E2026-06-01&sort=stars&order=desc"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "label": "Search cluster",
-      "title": "KPop Demon Hunters reaction analysis",
-      "use": "发布前补一条高互动 UGC reaction 或 analysis 视频，优先看评论里是否有角色 pick 和歌曲循环讨论。",
-      "url": "https://www.youtube.com/results?search_query=KPop+Demon+Hunters+reaction+analysis"
+      "label": "Exact video / view-verified",
+      "title": "Danny Motta: Why Everyone is OBSSESSED With Kpop Demon Hunters",
+      "use": "159.89万播放；适合补角色 pick、粉丝入坑和“为什么大家突然 obsessed”的评论观察。点赞/评论需浏览器复核后再写精确值。",
+      "url": "https://www.youtube.com/watch?v=_KUoOh2BpCo"
     },
     {
-      "label": "Search cluster",
-      "title": "Lizzo comeback album performance commentary",
-      "use": "只用于补充 comeback 叙事证据；不要使用身体、健康或药物相关切口。",
-      "url": "https://www.youtube.com/results?search_query=Lizzo+comeback+album+performance+commentary"
+      "label": "Exact video / view-verified",
+      "title": "Talk To Me In Korean: K-pop Demon Hunters explained by a Korean teacher",
+      "use": "131.17万播放；适合把韩语/文化彩蛋转成“为什么细节让 IP 更好二创”。点赞/评论需浏览器复核。",
+      "url": "https://www.youtube.com/watch?v=qCmpU3ssip8"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "SamDoesArts: Sony is Winning Animation - Artist Analysis of Kpop Demon Hunters",
+      "use": "59.09万播放；适合补视觉风格和动画工业拆解。点赞/评论需浏览器复核。",
+      "url": "https://www.youtube.com/watch?v=swDVdkyLzA8"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "Five by Five Takes: The Authenticity Paradox - a Kpop Demon Hunters Analysis",
+      "use": "7.60万播放；主题最适合转译成真诚人设/偶像营业悖论。点赞/评论需浏览器复核。",
+      "url": "https://www.youtube.com/watch?v=9hS8xeLVZ8k"
     },
     {
       "label": "Search cluster",
       "title": "Sabrina Carpenter Manchild analysis",
-      "use": "寻找高互动 UGC，重点看人设维护、粉丝期待和路人审美疲劳。",
+      "use": "继续找高互动 UGC，重点看人设维护、粉丝期待和路人审美疲劳；未达精确互动前不进主榜单条爆款。",
       "url": "https://www.youtube.com/results?search_query=Sabrina+Carpenter+Manchild+analysis"
-    },
-    {
-      "label": "AI reference",
-      "title": "Claude Code skills workflow",
-      "use": "补 AI skill 治理视频证据，优先保留达到 5万播放、2000赞、70评论的视频。",
-      "url": "https://www.youtube.com/results?search_query=Claude+Code+skills+workflow"
     }
   ],
   "aiSignals": [
     {
+      "title": "How I use Claude Code (Meta Staff Engineer Tips)",
+      "type": "YouTube / view-verified",
+      "metrics": "2026-07-18 yt-dlp 搜索复核 / 46.05万播放 / 点赞与评论被单页反 bot 阻断，待浏览器复核",
+      "source": "John Kim",
+      "heat": "高播放且贴近真实工程工作流，适合讲“高手不是问一句提示词，而是有一套上下文、检查和评审习惯”。",
+      "summary": "Claude Code 内容从工具尝鲜进入职业工作法：上下文组织、任务拆分、检查清单和日常使用习惯成为真正可复制的资产。",
+      "idea": "小红书角度：Meta 工程师怎么把 AI 编程变成每天能用的工作流？",
+      "url": "https://www.youtube.com/watch?v=mZzhfPle9QU"
+    },
+    {
+      "title": "How to Build Claude Agent Teams Better Than 99% of People",
+      "type": "YouTube / view-verified",
+      "metrics": "2026-07-18 yt-dlp 搜索复核 / 26.17万播放 / 点赞与评论待浏览器复核",
+      "source": "Nate Herk | AI Automation",
+      "heat": "多 agent team 叙事正在从炫技转向“怎么分工、怎么验收、怎么不失控”。",
+      "summary": "普通用户能理解的重点不是 agent 数量，而是把一个复杂任务拆给不同角色，再设置人工验收点。",
+      "idea": "小红书角度：别再只问 AI，一个复杂任务应该怎么拆给一组 AI 员工？",
+      "url": "https://www.youtube.com/watch?v=vDVSGVpB2vc"
+    },
+    {
+      "title": "Build a proactive agent workflow with Claude Code",
+      "type": "YouTube / official reference cluster",
+      "metrics": "2026-07-18 yt-dlp 搜索复核 / 25.96万播放 / 官方频道参考，不作为 UGC 主榜爆款",
+      "source": "Claude",
+      "heat": "官方内容反映“proactive teammate / 自动读 repo / 开 PR”成为产品叙事，但小红书转译要落到权限和验收。",
+      "summary": "AI agent 从被动聊天变成主动例行任务，真正的问题是它什么时候能动、动到哪里、谁来验收。",
+      "idea": "小红书角度：让 AI 主动工作之前，先给它划 3 条边界",
+      "url": "https://www.youtube.com/watch?v=eSP7PLTXNy8"
+    },
+    {
+      "title": "From Zero to Your First Agentic AI Workflow in 26 Minutes (Claude Code)",
+      "type": "YouTube / view-verified",
+      "metrics": "2026-07-18 yt-dlp 搜索复核 / 25.26万播放 / 点赞与评论待浏览器复核",
+      "source": "Nate Herk | AI Automation",
+      "heat": "教程型高播放说明“普通人可运行的 agent workflow”比模型新闻更容易被收藏。",
+      "summary": "可转译成从一个重复任务开始：输入、工具权限、执行循环、人工验收，而不是一次性买很多 app。",
+      "idea": "小红书角度：把一个重复工作做成 AI agent，需要哪 4 步？",
+      "url": "https://www.youtube.com/watch?v=tDGiWn0flK8"
+    },
+    {
       "title": "Matt Pocock’s Agentic Engineering Workflow (just copy him)",
-      "type": "YouTube",
+      "type": "YouTube / legacy high-interaction baseline",
       "metrics": "2026-06-18 / 20.37万播放 / 5283赞 / 271评论",
       "source": "David Ondrej and Matt Pocock",
-      "heat": "近 30 天播放最高的 agentic workflow 候选之一，适合做“专家流程可复制”拆解。",
+      "heat": "仍是近 30 天内有精确互动的 agentic workflow 基线，用来支撑“专家流程可复制”。",
       "summary": "AI coding 的吸引力不再是一次性生成代码，而是让专家的判断、约束和复盘步骤变成可复制流程。",
       "idea": "小红书角度：为什么 AI 时代最值得学的是高手的工作流，而不是提示词？",
       "url": "https://www.youtube.com/watch?v=nQwJVHCtDDY"
-    },
-    {
-      "title": "L8 Principal's Agentic Engineering Workflow",
-      "type": "YouTube",
-      "metrics": "2026-06-20 / 9.85万播放 / 4731赞 / 389评论",
-      "source": "Kun Chen",
-      "heat": "评论密度高，适合替代旧 AI 公司新闻线。",
-      "summary": "AI 工程师内容正在从“工具列表”进入“工作流配置”：任务拆解、上下文管理、评审回路和人类监督比单个模型更重要。",
-      "idea": "小红书角度：高手用 AI 不是多开工具，而是先设计一条工作流",
-      "url": "https://www.youtube.com/watch?v=iQyg-KypKAA"
-    },
-    {
-      "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
-      "type": "YouTube",
-      "metrics": "2026-06-24 / 6.24万播放 / 3291赞 / 97评论",
-      "source": "Matthew Berman",
-      "heat": "近 30 天较新的 AI 应用样本，贴近“普通人能用什么”。",
-      "summary": "AI 讨论从模型新闻转向开源项目和可运行 demo，适合把 GitHub repo 观察转成“我能不能今天用起来”的工具判断。",
-      "idea": "小红书角度：最近 AI 应用到底在做什么？先别看发布会，看开源项目",
-      "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I"
-    },
-    {
-      "title": "How I deleted 95% of my agent skills and got better results",
-      "type": "YouTube",
-      "metrics": "2026-05-30 / 12.25万播放 / 2664赞 / 133评论",
-      "source": "AI Engineer / Nick Nisi",
-      "heat": "虽然接近 30 天窗口边缘，但仍是 skill 精简与治理的高互动基线。",
-      "summary": "skill 不是越多越好，真正有用的是少量稳定、可维护、能被评审的流程组件。",
-      "idea": "小红书角度：为什么我不建议你给 AI 装一堆技能包？",
-      "url": "https://www.youtube.com/results?search_query=How+I+deleted+95%25+of+my+agent+skills+and+got+better+results"
-    },
-    {
-      "title": "CLI coding agents adoption: Microsoft early rollout research",
-      "type": "Research cluster",
-      "metrics": "2026-07-01 arXiv / agentic CLI 组织采用研究 / YouTube 精确高互动视频未纳入",
-      "source": "arXiv 2607.01418",
-      "heat": "AI 讨论从个人炫技转向组织如何推广、谁会持续使用、成本是否换来产出。",
-      "summary": "可转译点是“AI 工具采用不是广告驱动，而是同事网络和真实工作流驱动”。",
-      "idea": "小红书角度：AI 工具真正用起来，靠的不是安利，是同事先跑通",
-      "url": "https://arxiv.org/abs/2607.01418"
     }
   ],
   "tiktokSignals": [
     {
-      "title": "KPop Demon Hunters / Huntr-x aesthetic search cluster",
+      "title": "KPop Demon Hunters / HUNTR/X / Saja Boys aesthetic search cluster",
       "tags": [
         "TikTok",
         "Music",
@@ -260,38 +282,38 @@
         "Fandom"
       ],
       "priority": "high",
-      "metrics": "2026-07-13 站内搜索聚类 / 非关注搜索采样",
+      "metrics": "2026-07-18 站内搜索聚类 / 非关注搜索采样 / 精确视频链接待补",
       "channel": "TikTok Search: KPop Demon Hunters",
       "sourceType": "站内搜索聚类 / 非关注搜索采样",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "音乐 IP、角色人格和 K-pop 审美同时出现，是今天最具体的流行文化入口。",
+      "heat": "音乐 IP、角色人格、K-pop 审美和仿妆/角色 pick 同时出现，是今天最具体的流行文化入口。",
       "signal": "短视频可拆成角色 pick、妆造仿妆、歌单循环、动画女团和真人偶像对比。",
-      "discussion": "可见主题：Huntr/x、Saja Boys、Golden、which character are you、K-pop formula、Netflix fandom。",
+      "discussion": "可见主题：HUNTR/X、Saja Boys、Golden、which character are you、K-pop formula、Netflix fandom。",
       "xhsTitle": "为什么动画女团比真人偶像更容易让人入坑？",
       "angle": "结构：角色人格 -> 视觉锚点 -> 歌曲记忆点 -> 粉丝自我投射。",
       "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters"
     },
     {
-      "title": "Lizzo comeback / album performance search cluster",
+      "title": "KPop Demon Hunters authenticity / idol persona search cluster",
       "tags": [
         "TikTok",
-        "Music",
-        "Celebrity",
-        "Comeback"
+        "Fandom",
+        "Creator Persona",
+        "Aesthetic"
       ],
       "priority": "high",
-      "metrics": "2026-07-13 站内搜索聚类 / 公开报道反推实体词",
-      "channel": "TikTok Search: Lizzo comeback album performance",
+      "metrics": "2026-07-18 站内搜索聚类 / YouTube 高播放 UGC 反推实体词 / 精确视频链接待补",
+      "channel": "TikTok Search: KPop Demon Hunters authenticity idol persona",
       "sourceType": "站内搜索聚类 / 精确视频链接需人工复核",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "从新歌评价转向公众耐心、旧人设疲劳和 comeback 叙事。",
-      "signal": "小红书可翻译成“人设资产如何变成人设债务”。",
-      "discussion": "可见主题：album performance、public goodwill、comeback narrative、old persona fatigue；避开身体和健康猜测。",
-      "xhsTitle": "为什么有些明星越努力 comeback，观众越不买单？",
-      "angle": "结构：旧人设资产 -> 公众情绪变化 -> 新作品错位 -> 重新获得耐心。",
-      "url": "https://www.tiktok.com/search?q=Lizzo%20comeback%20album%20performance"
+      "heat": "从角色仿妆外溢到“真实感、营业感、粉丝相信什么”的创作者人设讨论。",
+      "signal": "小红书可讲“为什么越会营业的人，越要看起来不在营业”。",
+      "discussion": "可见主题：authenticity、parasocial、idol persona、fandom trust、character pick。",
+      "xhsTitle": "为什么越会营业的人，越要看起来“不像营业”？",
+      "angle": "结构：包装感 -> 真实感线索 -> 粉丝共创 -> 人设信任。",
+      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20authenticity%20idol%20persona"
     },
     {
       "title": "Sabrina Carpenter Manchild fan reaction search cluster",
@@ -301,8 +323,8 @@
         "Branding",
         "Fan Culture"
       ],
-      "priority": "high",
-      "metrics": "2026-07-13 站内搜索聚类 / Manchild + reaction + analysis",
+      "priority": "medium",
+      "metrics": "2026-07-18 站内搜索聚类 / Manchild + reaction + analysis / 精确视频链接待补",
       "channel": "TikTok Search: Sabrina Carpenter Manchild analysis",
       "sourceType": "站内搜索聚类 / 非关注搜索采样",
       "urlLabel": "打开 TikTok 搜索",
@@ -315,7 +337,7 @@
       "url": "https://www.tiktok.com/search?q=Sabrina%20Carpenter%20Manchild%20analysis"
     },
     {
-      "title": "Celebrity wedding fatigue search cluster",
+      "title": "Taylor / Travis wedding fatigue search cluster",
       "tags": [
         "TikTok",
         "Celebrity",
@@ -323,20 +345,20 @@
         "Lifestyle"
       ],
       "priority": "medium",
-      "metrics": "2026-07-13 站内搜索聚类 / 豪华婚礼与奢华疲劳方向",
-      "channel": "TikTok Search: celebrity wedding fatigue",
+      "metrics": "2026-07-18 站内搜索聚类 / celebrity wedding fatigue + luxury wedding reaction / 精确视频链接待补",
+      "channel": "TikTok Search: Taylor Swift Travis Kelce wedding fatigue",
       "sourceType": "站内搜索聚类 / 精确视频链接需人工复核",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "名人婚礼内容正在从羡慕经济转向审美疲劳和阶层距离讨论。",
+      "heat": "名人婚礼把“世纪婚礼”与“奢华疲劳”推到同一条内容链上。",
       "signal": "适合翻译成小红书婚礼审美、奢侈品展示、反消费和“梦想素材失效”。",
-      "discussion": "可见主题：luxury fatigue、overexposure、guest list、wedding aesthetic。",
-      "xhsTitle": "为什么现在的豪门婚礼，越来越不像梦想素材？",
+      "discussion": "可见主题：luxury fatigue、overexposure、guest list、wedding aesthetic、品牌秀。",
+      "xhsTitle": "为什么 Taylor 的世纪婚礼，反而让人开始婚礼疲劳？",
       "angle": "结构：视觉过载 -> 奢华疲劳 -> 阶层距离 -> 小红书审美反应。",
-      "url": "https://www.tiktok.com/search?q=celebrity%20wedding%20fatigue"
+      "url": "https://www.tiktok.com/search?q=Taylor%20Swift%20Travis%20Kelce%20wedding%20fatigue"
     },
     {
-      "title": "AI agent as solo founder workflow search cluster",
+      "title": "AI agent workflow / Claude Code routines search cluster",
       "tags": [
         "TikTok",
         "AI",
@@ -344,24 +366,24 @@
         "Creator Economy"
       ],
       "priority": "medium",
-      "metrics": "2026-07-13 站内搜索聚类 / open-source agent + workflow automation",
-      "channel": "TikTok Search: AI agent workflow automation",
+      "metrics": "2026-07-18 站内搜索聚类 / YouTube 高播放 AI workflow 反推实体词 / 精确视频链接待补",
+      "channel": "TikTok Search: Claude Code AI agent workflow",
       "sourceType": "站内搜索聚类 / 非关注搜索采样",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "AI agent 叙事从炫技转向一人公司的重复任务外包。",
+      "heat": "AI agent 叙事从炫技转向一人公司的重复任务外包和工作流分工。",
       "signal": "小红书可讲“别再买一个 app，先把重复工作做成 agent 流程”。",
-      "discussion": "可见主题：automation、solo founder、support triage、content drafting、permission boundaries。",
+      "discussion": "可见主题：automation、Claude Code、agent teams、support triage、content drafting、permission boundaries。",
       "xhsTitle": "一个人做项目，什么时候该用 AI agent？",
       "angle": "结构：重复任务 -> 最小权限 -> 自动执行 -> 人工验收。",
-      "url": "https://www.tiktok.com/search?q=AI%20agent%20workflow%20automation"
+      "url": "https://www.tiktok.com/search?q=Claude%20Code%20AI%20agent%20workflow"
     }
   ],
   "githubSkills": [
     {
       "title": "Shubhamsaboo/awesome-llm-apps",
       "rank": "01",
-      "heat": "7/13 继续作为 AI app 样本库基线；不把固定仓库伪装成日涨榜。",
+      "heat": "7/18 GitHub API：123,657 stars / 18,227 forks / pushed_at 2026-07-17；相对 7/15 的 121,451 stars 继续上行，仍作为 AI app 样本库基线。",
       "summary": "适合观察 AI 应用从聊天框迁移到 agent、voice、RAG、browser automation 和 workflow app。",
       "use": "小红书角度：不要讲 awesome list，要讲“最近 AI 应用正在变成什么形态”。",
       "idea": "标题方向：最近 AI 应用到底在做什么？先别看发布会，看开源项目目录",
@@ -369,109 +391,120 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
-      "title": "openclaw/openclaw",
-      "rank": "02",
-      "heat": "7/13 新增观察：外部报道把它作为开源 agent 和技能库生态样本；精确 stars 需 API 复核。",
-      "summary": "适合讲“AI agent 不是聊天框，而是带权限、记忆、渠道和计划任务的低配员工”。",
-      "use": "小红书角度：把技术项目转成一个人公司如何自动化支持、内容和账单。",
-      "idea": "标题方向：一个人做项目，什么时候该用 AI agent 而不是再买一个 app？",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "title": "contains-studio/agents",
-      "rank": "03",
-      "heat": "7/13 继续观察：agent 列表和模板化工作流适合做“可复用员工”叙事；星标变化待 API 复核。",
-      "summary": "把 agent 从聊天对象转成可复用角色库，方便普通用户理解“工作流人格”。",
-      "use": "适合连接 AI creator economy：每个人未来可能维护一组自己的 agent 角色。",
-      "idea": "标题方向：以后你需要的不是一个 AI，而是一组会分工的 AI 员工",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/contains-studio/agents"
-    },
-    {
-      "title": "coleam00/ottomator-agents",
-      "rank": "04",
-      "heat": "7/13 继续观察：自动化 agent 模板适合追踪普通人工作流产品化，精确周增待复核。",
-      "summary": "从单个提示词走向可部署 agent，是小红书“副业/效率/自动化”最容易理解的切口。",
-      "use": "不要只列工具名；要拆“输入、执行、验收、复用”四步。",
-      "idea": "标题方向：把一个重复工作做成 AI agent，需要哪 4 步？",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/coleam00/ottomator-agents"
-    },
-    {
       "title": "agno-agi/agno",
-      "rank": "05",
-      "heat": "7/13 作为 agent workflow 框架观察；本地 API 不通，不写周增 stars。",
+      "rank": "02",
+      "heat": "7/18 GitHub API：41,213 stars / 5,649 forks / pushed_at 2026-07-17；活跃 agent platform/workflow 框架。",
       "summary": "适合看多 agent、工具调用、记忆和产品化工作流如何被框架化。",
       "use": "小红书角度：AI agent 的门槛正在从会写 prompt 变成会设计流程。",
       "idea": "标题方向：会用 AI 的人，已经在把任务拆成 agent 流程了",
       "urlLabel": "打开 GitHub",
       "url": "https://github.com/agno-agi/agno"
+    },
+    {
+      "title": "chuspeeism/dashi-ppt-skill",
+      "rank": "03",
+      "heat": "7/18 GitHub search：2026-06-10 创建，3,798 stars / 361 forks / pushed_at 2026-07-17；agent skill + PPT 生成成为最新高星垂直样本。",
+      "summary": "把 agent skill 从代码任务扩展到浏览器可编辑演示文稿，说明“技能包”正进入办公室内容生产。",
+      "use": "小红书角度：别只说 AI 写 PPT，要讲主题、视觉、导出和人工改稿如何合成一条流程。",
+      "idea": "标题方向：AI 做 PPT 真正有用的不是一键生成，是能反复改的工作流",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill"
+    },
+    {
+      "title": "BuilderIO/skills",
+      "rank": "04",
+      "heat": "7/18 GitHub search：2026-06-10 创建，3,677 stars / 189 forks / pushed_at 2026-07-16；coding agent skills 进入产品化模板库。",
+      "summary": "技能仓库开始像 agent-native 的“能力商店”，适合观察哪些任务正在被封装成可安装能力。",
+      "use": "小红书角度：未来 AI 工作流会像 App Store 一样需要评分、权限和更新记录。",
+      "idea": "标题方向：AI 技能包市场真正缺的不是模板，是信任机制",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/BuilderIO/skills"
+    },
+    {
+      "title": "Forward-Future/loopy",
+      "rank": "05",
+      "heat": "7/18 GitHub search：2026-06-12 创建，2,747 stars / 241 forks；agent loops + installable skill，适合观察重复工作流库。",
+      "summary": "把 agent 的价值从一次回答转成循环执行、适配和复用。",
+      "use": "小红书角度：把“AI 员工”讲成一组可复用流程，而不是拟人化噱头。",
+      "idea": "标题方向：一个人做项目，最该先做的不是 AI 员工，是 AI 工作循环",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/Forward-Future/loopy"
+    },
+    {
+      "title": "JimLiu/baoyu-design",
+      "rank": "06",
+      "heat": "7/18 GitHub search：2026-06-07 创建，2,654 stars / 196 forks；local Claude Design agent skill 说明设计/原型也是 skill 化方向。",
+      "summary": "UI mockup、prototype、deck 和 wireframe 被打包成本地可运行技能，适合连接设计生产力。",
+      "use": "小红书角度：AI 设计不是只出图，而是把需求、风格、页面和导出串成流程。",
+      "idea": "标题方向：AI 设计工具开始从出图，变成能跑在本地的工作流",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/JimLiu/baoyu-design"
+    },
+    {
+      "title": "davidondrej/skills",
+      "rank": "07",
+      "heat": "7/18 GitHub search：2026-06-24 创建，2,580 stars / 316 forks / pushed_at 2026-07-17；个人 agent skills 仓库外溢，说明创作者工作流本身正在被收藏。",
+      "summary": "个人技能库变成公开影响力资产，适合观察 creator economy 与 AI workflow 的交叉。",
+      "use": "小红书角度：未来被关注的可能不是你用哪个 AI，而是你沉淀了哪些可复用流程。",
+      "idea": "标题方向：AI 时代，高手会把自己的工作方法做成技能库",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/davidondrej/skills"
     }
   ],
   "sparkPool": [
     {
-      "lane": "Music IP",
-      "source": "Search cluster",
-      "heat": "Now",
-      "title": "动画女团比真人偶像更容易做角色 pick",
-      "spark": "KPop Demon Hunters 可以拆成角色人格、视觉锚点、歌曲记忆点和粉丝自我投射。",
+      "lane": "Pop Culture",
+      "source": "7/18 dynamic cluster",
+      "heat": "96",
+      "title": "KPop Demon Hunters 从热片变成高播放 UGC 拆解对象",
+      "spark": "7/18 yt-dlp 搜索复核显示，多条 UGC reaction / analysis 已达 50万-159万播放，讨论点从剧情延伸到角色 pick、Golden、韩语文化细节和动画工业。",
       "use": "标题：为什么动画女团比真人偶像更容易让人入坑？",
-      "value": "音乐 + 影视 + 人格选择"
+      "value": "netflix + music-ip + fandom"
     },
     {
-      "lane": "Celebrity Comeback",
-      "source": "Guardian / MusicRadar / Search cluster",
-      "heat": "Now",
-      "title": "公众善意用完后，comeback 需要新叙事",
-      "spark": "Lizzo 线索适合讲旧人设资产、公众耐心和作品表现之间的错位。",
-      "use": "标题：为什么有些明星越努力 comeback，观众越不买单？",
-      "value": "明星叙事 + 危机后表达"
+      "lane": "Creator Persona",
+      "source": "7/18 dynamic cluster",
+      "heat": "91",
+      "title": "“真诚人设悖论”是 KPop Demon Hunters 的第二层选题",
+      "spark": "Five by Five Takes 的 authenticity analysis 进入 7万+ 播放，说明用户不只想看热片，也愿意讨论偶像、角色和创作者的真实感如何被制造。",
+      "use": "标题：为什么越会营业的人，越要看起来“不像营业”？",
+      "value": "persona + fandom + creator-brand"
     },
     {
-      "lane": "Pop Girl Era",
-      "source": "TikTok / YouTube search",
-      "heat": "Rising",
-      "title": "成功 rebrand 的第二阶段是避免被自己困住",
-      "spark": "Sabrina 的 Manchild 讨论适合讲“成功人设如何变成观众要求”。",
+      "lane": "AI",
+      "source": "7/18 dynamic cluster",
+      "heat": "92",
+      "title": "Claude Code 内容正在从工具清单变成“高手工作法”",
+      "spark": "7/18 YouTube 搜索复核出现多条 25万-46万播放的 Claude Code workflow / agent teams 候选，说明用户在找可复制流程而不是单点技巧。",
+      "use": "标题：高手用 AI 编程，不是多问一句提示词",
+      "value": "ai + claude-code + workflow"
+    },
+    {
+      "lane": "AI",
+      "source": "7/18 dynamic cluster",
+      "heat": "90",
+      "title": "6 月后创建的 agent skill 仓库已经出现 2k-3.8k stars 样本",
+      "spark": "GitHub search 显示 dashi-ppt-skill、BuilderIO/skills、loopy、baoyu-design、davidondrej/skills 等新仓库进入高星层，技能包从代码任务外溢到 PPT、设计和流程库。",
+      "use": "标题：AI 技能包市场真正缺的不是模板，是信任机制",
+      "value": "ai + agent-skills + github"
+    },
+    {
+      "lane": "Music Branding",
+      "source": "7/18 dynamic cluster",
+      "heat": "86",
+      "title": "Sabrina 的 Manchild 仍适合讲“成功人设维护期”",
+      "spark": "这条线没有新增可复核高互动单条，但实体热簇仍适合作为 pop girl 第二阶段：观众记住你的风格后，下一步是别被标签困住。",
       "use": "标题：Sabrina 红了之后，真正的难题才开始",
-      "value": "个人品牌 + 粉丝期待"
+      "value": "music + branding + fan-reaction"
     },
     {
       "lane": "Lifestyle",
-      "source": "TikTok search cluster",
-      "heat": "Rising",
-      "title": "豪华婚礼也会审美疲劳",
-      "spark": "Celebrity wedding fatigue 能从婚礼图转到奢华疲劳、阶层距离和反消费。",
-      "use": "标题：为什么现在的豪门婚礼，越来越不像梦想素材？",
-      "value": "婚礼审美 + 反消费"
-    },
-    {
-      "lane": "AI Workflow",
-      "source": "YouTube + arXiv",
-      "heat": "Now",
-      "title": "AI skill 从能力展示进入维护问题",
-      "spark": "技能包要看来源、权限、版本、环境绑定和回滚，而不是越多越好。",
-      "use": "标题：给 AI 装技能包之前，先问这 4 个信任问题",
-      "value": "AI 信任 + 普通人工作流"
-    },
-    {
-      "lane": "Workplace AI",
-      "source": "arXiv research cluster",
-      "heat": "Rising",
-      "title": "AI 工具采用靠同事网络扩散",
-      "spark": "CLI coding agent 的组织传播更像同事带同事，而不是工具广告。",
-      "use": "标题：AI 工具真正用起来，靠的不是安利，是同事先跑通",
-      "value": "职场效率 + 组织采用"
-    },
-    {
-      "lane": "Creator Economy",
-      "source": "TechRadar / GitHub watch",
-      "heat": "Rising",
-      "title": "开源 agent 变成一个人的小团队叙事",
-      "spark": "Open-source agent 可以翻译成支持、内容、账单等重复任务的低配员工。",
-      "use": "标题：一个人做项目，什么时候该用 AI agent？",
-      "value": "副业 + 自动化"
+      "source": "7/18 dynamic cluster",
+      "heat": "84",
+      "title": "名人婚礼内容仍能转成“奢华疲劳”讨论",
+      "spark": "Taylor / Travis wedding fatigue 仍是生活方式身份叙事的稳定方向，但今天没有精确 TikTok/YouTube 单条可写成爆款。",
+      "use": "标题：为什么世纪婚礼，反而让人开始婚礼疲劳？",
+      "value": "celebrity + luxury-fatigue + lifestyle"
     }
   ],
   "valueFlows": [
@@ -486,9 +519,9 @@
       "note": "从成功 rebrand 讲到人设维护和反噬。"
     },
     {
-      "from": "Celebrity wedding fatigue",
+      "from": "Taylor / Travis wedding fatigue",
       "to": "奢华审美失效",
-      "note": "把豪门婚礼从八卦改写成审美疲劳和生活方式距离。"
+      "note": "把世纪婚礼从八卦改写成审美疲劳、品牌景观和生活方式距离。"
     },
     {
       "from": "AI workflow",
@@ -499,65 +532,65 @@
   "arbitragePicks": [
     {
       "lane": "Pop Culture / Music IP",
-      "score": 93,
+      "score": 96,
       "status": "本周主稿候选",
-      "lag": "外网已经把 KPop Demon Hunters 当成角色、音乐和 fandom 的组合 IP 讨论，中文小红书还有空间从“好看/好听”上升到 world-building 方法论。",
+      "lag": "外网已经从“电影好看”推进到高播放 UGC 拆角色、音乐、文化细节和动画工业，中文小红书仍有方法论空间。",
       "translation": "强：动画女团可翻译成“角色 pick、视觉锚点、歌曲记忆点、粉丝身份选择”。",
       "title": "为什么动画女团比真人偶像更容易让人入坑？",
       "hook": "真人偶像要先认识人，动画女团先给你一个可以代入的角色。",
-      "proof": "7/13 KPop Demon Hunters 作为动态实体进入 YouTube/TikTok 二级搜索聚类，并有公开媒体对其全球传播的背景报道。",
-      "risk": "发布前最好补一条精确 UGC 视频；不要写成 Netflix 官方宣传。",
+      "proof": "7/18 yt-dlp 搜索复核：Danny Motta 159.89万播放、Talk To Me In Korean 131.17万播放、SamDoesArts 59.09万播放。",
+      "risk": "点赞/评论精确值仍需浏览器复核；不要写成 Netflix 官方宣传。",
       "format": "封面：角色 pick 卡；正文：角色人格、视觉锚点、歌曲记忆点、粉丝自我投射。",
       "review": "看评论里是否自发出现 pick、仿妆、歌单和“像哪个女团”的讨论。"
     },
     {
-      "lane": "Celebrity Comeback",
-      "score": 90,
+      "lane": "Creator Persona / Fandom",
+      "score": 91,
       "status": "文化分析候选",
-      "lag": "中文内容容易只写新歌或争议，外网更适合切入公众善意、旧人设疲劳和 comeback 叙事。",
-      "translation": "强：明星 comeback 可以翻译成普通人的“旧标签如何失效”。",
-      "title": "为什么有些明星越努力 comeback，观众越不买单？",
-      "hook": "一个曾经帮你出圈的人设，也可能在你想重新开始时拖住你。",
-      "proof": "Guardian 7/11 采访和 MusicRadar 近期商业表现报道支撑“comeback 叙事”热簇；短视频端作为 search cluster 观察。",
-      "risk": "只谈公开作品和公众叙事，不写身体、药物、私人健康或未经证实指控。",
-      "format": "四段：旧人设资产、公众情绪变化、新作品错位、如何重新获得耐心。",
-      "review": "看评论是否从明星个案转向“普通人也会被旧标签困住”。"
+      "lag": "外网已经有人把 KPop Demon Hunters 拆成 authenticity paradox，中文内容还容易停在安利和仿妆。",
+      "translation": "强：偶像真实感可以翻译成创作者/个人品牌的“真诚感设计”。",
+      "title": "为什么越会营业的人，越要看起来“不像营业”？",
+      "hook": "真正高级的人设，不是没有设计感，而是让你愿意相信它是真的。",
+      "proof": "Five by Five Takes 分析 7.60万播放；同簇 Cinema Therapy 68.05万播放、Hannah Bayles 73.64万播放。",
+      "risk": "避免粉圈拉踩，不把角色讨论扩写成真人攻击。",
+      "format": "四段：包装感、真实感线索、粉丝共创、人设信任。",
+      "review": "看评论是否从电影角色延伸到创作者真实感和营业感。"
     },
     {
       "lane": "AI / Workflow",
-      "score": 89,
+      "score": 92,
       "status": "可稳定发布",
-      "lag": "小红书 AI 内容仍大量停在工具清单和提示词；外网高互动样本更偏工作流、skill 精简和 agent 验收。",
+      "lag": "小红书 AI 内容仍大量停在工具清单和提示词；外网高播放样本更偏 Claude Code 工作流、agent teams 和 routines。",
       "translation": "强：agent workflow 可翻译成“把工作做成流程卡”，普通人能理解。",
-      "title": "AI 时代最值得抄的不是提示词，是高手的工作流",
+      "title": "高手用 AI 编程，不是多问一句提示词",
       "hook": "提示词像一句话，工作流像一套能反复使用的做事方法。",
-      "proof": "Matt Pocock 20.37万播放 / 5283赞 / 271评论；Kun Chen 9.85万播放 / 4731赞 / 389评论；Matthew Berman 6.24万播放 / 3291赞 / 97评论。",
-      "risk": "不要写成工程师术语周报；必须用普通人任务落地。",
+      "proof": "7/18 yt-dlp 搜索复核：John Kim 46.05万播放、Nate Herk agent teams 26.17万播放、Claude proactive workflow 25.96万播放、Nate Herk first workflow 25.26万播放。",
+      "risk": "点赞/评论精确值待复核；不要写成工程师术语周报。",
       "format": "步骤卡：任务拆解、上下文、执行循环、人工验收。",
       "review": "看收藏率和评论里是否有人问模板、代跑和工作流复用。"
     },
     {
       "lane": "AI / Trust",
-      "score": 88,
+      "score": 90,
       "status": "教育向候选",
       "lag": "skill 趋势正从“装更多”转向“怎么维护和信任”，中文内容仍缺少普通人权限解释。",
       "translation": "强：把 agent skill 讲成手机 App 权限和插件来源，门槛低。",
       "title": "给 AI 装技能包之前，先问这 4 个信任问题",
       "hook": "AI 技能包不是贴纸，是能调用工具的工作说明书。",
-      "proof": "7/1 arXiv skill reuse 研究和 2/8 agent skills 分析支撑 skill 维护、复用和权限治理。",
+      "proof": "7/18 GitHub search：dashi-ppt-skill 3,798 stars、BuilderIO/skills 3,677 stars、loopy 2,747 stars、baoyu-design 2,654 stars、davidondrej/skills 2,580 stars。",
       "risk": "不要鼓励用户安装来路不明技能；必须强调最小权限和人工验收。",
       "format": "四问卡：谁写的、能做什么、改过没、出错怎么撤回。",
       "review": "看评论是否询问具体 skill 来源、权限和模板。"
     },
     {
       "lane": "Lifestyle / Class Signal",
-      "score": 85,
+      "score": 84,
       "status": "轻量热点候选",
       "lag": "外网对名人婚礼的讨论更容易转向奢华疲劳，中文平台仍常停在婚礼图鉴。",
       "translation": "中强：能接小红书婚礼审美和反消费，但需要避免私人攻击。",
-      "title": "为什么现在的豪门婚礼，越来越不像梦想素材？",
+      "title": "为什么世纪婚礼，反而让人开始婚礼疲劳？",
       "hook": "当婚礼图越来越像品牌大片，观众反而更容易感到距离。",
-      "proof": "7/13 TikTok/YouTube 搜索聚类显示 celebrity wedding fatigue 与 luxury fatigue 可作为趋势方向。",
+      "proof": "Guardian / Vogue 与 7/18 search cluster 共同支撑 celebrity wedding fatigue 方向；未取得精确热视频。",
       "risk": "没有精确热视频时只当方向，不写成单条爆款；避免攻击私人关系。",
       "format": "三栏图：梦中婚礼、品牌大片、奢华疲劳。",
       "review": "看评论是否讨论保存欲、审美疲劳和消费观变化。"
@@ -594,7 +627,7 @@
   ],
   "summarySparks": [
     {
-      "id": "kpop-demon-hunters-0713",
+      "id": "kpop-demon-hunters-0718",
       "tags": [
         "netflix",
         "music-ip",
@@ -602,13 +635,13 @@
         "xhs"
       ],
       "lane": "Pop Culture / Music IP",
-      "heat": "93",
-      "title": "KPop Demon Hunters 继续证明“角色 pick”比剧情安利更易传播",
-      "spark": "这条线已经不只是动画电影，而是虚拟女团、歌曲、颜色、角色人格和粉丝自我投射组成的低门槛入坑系统。",
+      "heat": "96",
+      "title": "KPop Demon Hunters 从热片变成高播放 UGC 拆解对象",
+      "spark": "7/18 yt-dlp 搜索复核显示，多条 UGC reaction / analysis 已达 50万-159万播放，讨论点从剧情延伸到角色 pick、Golden、韩语文化细节和动画工业。",
       "xhsTitle": "为什么动画女团比真人偶像更容易让人入坑？",
-      "discussion": "可见讨论点：Huntr/x 与 Saja Boys 的角色分工、歌曲 Golden、K-pop 公式、Netflix 如何把影视做成可二创音乐 IP。",
+      "discussion": "可见讨论点：HUNTR/X 与 Saja Boys 阵营、Golden 循环播放、韩语文化彩蛋、虚拟女团可二创、Sony 动画视觉语言。",
       "prompt": "引导话题：如果这个团真实出道，你会 pick 谁？",
-      "tone": "很适合小红书影视、音乐、妆造、人格选择内容；继续标注为 search cluster，发布前补精确 UGC 链接。",
+      "tone": "非常适合小红书影视、音乐、妆造和人格选择内容；点赞/评论精确值需浏览器复核。",
       "related": [
         "KPop Demon Hunters reaction analysis",
         "Golden HUNTR/X",
@@ -616,29 +649,73 @@
       ]
     },
     {
-      "id": "lizzo-comeback-0713",
+      "id": "authenticity-paradox-0718",
       "tags": [
-        "music",
-        "comeback",
-        "celebrity-narrative",
+        "persona",
+        "fandom",
+        "creator-brand",
         "xhs"
       ],
-      "lane": "Celebrity Comeback",
-      "heat": "90",
-      "title": "Lizzo 线索适合讲“公众善意用完之后怎么 comeback”",
-      "spark": "近期采访和新专辑表现把讨论从单曲好坏推到更大的问题：明星旧人设什么时候会从资产变成负担。",
-      "xhsTitle": "为什么有些明星越努力 comeback，观众越不买单？",
-      "discussion": "可见讨论点：新专辑商业表现、公众耐心、旧幽默人格是否失效、危机后的叙事重建；不写身体、药物或私人健康猜测。",
-      "prompt": "引导话题：你见过哪些“以前很灵的人设突然不灵了”？",
-      "tone": "适合做文化分析，必须只谈公开作品、采访和公众叙事。",
+      "lane": "Creator Persona / Fandom",
+      "heat": "91",
+      "title": "“真诚人设悖论”是 KPop Demon Hunters 的第二层选题",
+      "spark": "Five by Five Takes 的 authenticity analysis 进入 7万+ 播放，说明用户不只想看热片，也愿意讨论偶像、角色和创作者的真实感如何被制造。",
+      "xhsTitle": "为什么越会营业的人，越要看起来“不像营业”？",
+      "discussion": "可见讨论点：parasocial relationship、fame、艺术表达、粉丝愿意相信什么、角色人设和真实感边界。",
+      "prompt": "引导话题：你更吃“完美偶像”还是“有破绽的人设”？",
+      "tone": "适合小红书个人品牌/追星文化拆解，避免粉圈拉踩。",
       "related": [
-        "Lizzo Guardian interview",
-        "Lizzo Bitch album performance",
-        "comeback narrative"
+        "authenticity paradox",
+        "idol persona",
+        "parasocial fandom"
       ]
     },
     {
-      "id": "sabrina-manchild-0713",
+      "id": "claude-code-workflow-0718",
+      "tags": [
+        "ai",
+        "claude-code",
+        "workflow",
+        "xhs"
+      ],
+      "lane": "AI / Workflow",
+      "heat": "92",
+      "title": "Claude Code 内容正在从工具清单变成“高手工作法”",
+      "spark": "7/18 YouTube 搜索复核出现多条 25万-46万播放的 Claude Code workflow / agent teams 候选，说明用户在找可复制流程而不是单点技巧。",
+      "xhsTitle": "高手用 AI 编程，不是多问一句提示词",
+      "discussion": "可见讨论点：上下文组织、agent teams、routines、任务拆解、权限边界、人工验收。",
+      "prompt": "引导话题：你最想把哪一步重复工作交给 AI？",
+      "tone": "适合职场效率和 AI 工作流内容，但点赞/评论精确值需后续复核。",
+      "related": [
+        "Claude Code workflow",
+        "agent teams",
+        "routines"
+      ]
+    },
+    {
+      "id": "agent-skill-github-0718",
+      "tags": [
+        "ai",
+        "agent-skills",
+        "github",
+        "xhs"
+      ],
+      "lane": "AI / GitHub Skill",
+      "heat": "90",
+      "title": "6 月后创建的 agent skill 仓库已经出现 2k-3.8k stars 样本",
+      "spark": "GitHub search 显示 dashi-ppt-skill、BuilderIO/skills、loopy、baoyu-design、davidondrej/skills 等新仓库进入高星层，技能包从代码任务外溢到 PPT、设计和流程库。",
+      "xhsTitle": "AI 技能包市场真正缺的不是模板，是信任机制",
+      "discussion": "可见讨论点：谁写的、能调用什么、怎么更新、出错怎么撤回、个人 workflow 如何产品化。",
+      "prompt": "引导话题：你会安装别人写的 AI 技能包吗？",
+      "tone": "适合 AI 普通用户教育：少讲仓库名，多讲权限、来源、版本、回滚。",
+      "related": [
+        "agent skills",
+        "skill market",
+        "workflow governance"
+      ]
+    },
+    {
+      "id": "sabrina-manchild-0718",
       "tags": [
         "music",
         "branding",
@@ -646,21 +723,21 @@
         "xhs"
       ],
       "lane": "Music Branding",
-      "heat": "88",
-      "title": "Sabrina 的 Manchild 讨论进入“成功人设维护期”",
-      "spark": "Manchild 仍适合拆 pop girl era 的第二阶段：当观众已经记住你的风格，下一步不是更用力重复，而是避免被标签困住。",
+      "heat": "86",
+      "title": "Sabrina 的 Manchild 仍适合讲“成功人设维护期”",
+      "spark": "这条线没有新增可复核高互动单条，但实体热簇仍适合作为 pop girl 第二阶段：观众记住你的风格后，下一步是别被标签困住。",
       "xhsTitle": "Sabrina 红了之后，真正的难题才开始",
-      "discussion": "可见讨论点：歌词语气、wink persona、可爱和讽刺的边界、粉丝期待、路人审美疲劳。",
+      "discussion": "可见讨论点：歌词语气、wink persona、粉丝期待、路人审美疲劳、下一轮 era 怎么破。",
       "prompt": "引导话题：你希望她一直保持现在这套风格吗？",
       "tone": "适合小红书个人品牌/审美风格拆解，避免粉圈拉踩。",
       "related": [
-        "Sabrina Carpenter Manchild analysis",
+        "Sabrina Carpenter Manchild",
         "fan reaction",
         "era management"
       ]
     },
     {
-      "id": "celebrity-wedding-fatigue-0713",
+      "id": "wedding-fatigue-0718",
       "tags": [
         "celebrity",
         "luxury-fatigue",
@@ -668,83 +745,17 @@
         "xhs"
       ],
       "lane": "Lifestyle / Class Signal",
-      "heat": "85",
-      "title": "名人婚礼从“梦想素材”变成“奢华疲劳”",
-      "spark": "豪华婚礼内容仍有观看欲，但评论更容易转向距离感、过度曝光、审美复制和“为什么我不再羡慕”。",
-      "xhsTitle": "为什么现在的豪门婚礼，越来越不像梦想素材？",
-      "discussion": "可见讨论点：guest list、品牌露出、婚礼视觉模板化、luxury fatigue、观众对炫耀内容的耐心变短。",
+      "heat": "84",
+      "title": "名人婚礼内容仍能转成“奢华疲劳”讨论",
+      "spark": "Taylor / Travis wedding fatigue 仍是生活方式身份叙事的稳定方向，但今天没有精确 TikTok/YouTube 单条可写成爆款。",
+      "xhsTitle": "为什么世纪婚礼，反而让人开始婚礼疲劳？",
+      "discussion": "可见讨论点：视觉过载、guest list、品牌秀、保存欲下降、反消费和阶层距离。",
       "prompt": "引导话题：你会保存这种婚礼图，还是直接划走？",
-      "tone": "适合小红书婚礼审美、反消费和阶层距离讨论；避免点名攻击私人关系。",
+      "tone": "适合轻量热点和婚礼审美反消费，避免私人关系攻击。",
       "related": [
         "celebrity wedding fatigue",
         "luxury fatigue",
         "wedding aesthetic"
-      ]
-    },
-    {
-      "id": "agent-skills-governance-0713",
-      "tags": [
-        "ai",
-        "agent-skills",
-        "workflow",
-        "xhs"
-      ],
-      "lane": "AI / Workflow",
-      "heat": "89",
-      "title": "AI skill 的重点从“装更多”转向“怎么维护”",
-      "spark": "近一周 agent skill 研究把问题从能力扩展推进到复用、版本、权限和本地环境绑定。小红书可以转成“给 AI 装技能包前先问 4 个问题”。",
-      "xhsTitle": "给 AI 装技能包之前，先问这 4 个信任问题",
-      "discussion": "可见讨论点：技能复用常常是复制后本地改造、行为契约很少被改、权限和工具调用需要治理。",
-      "prompt": "引导话题：你会让 AI 自动运行一个别人写的技能包吗？",
-      "tone": "适合 AI 普通用户教育：少讲论文，多讲权限、来源、版本、回滚。",
-      "related": [
-        "agent skills research",
-        "AI workflow governance",
-        "skill reuse"
-      ]
-    },
-    {
-      "id": "cli-agent-rollout-0713",
-      "tags": [
-        "ai",
-        "coding-agent",
-        "workplace",
-        "xhs"
-      ],
-      "lane": "AI / Workplace",
-      "heat": "87",
-      "title": "CLI coding agent 的传播更像“同事带同事”而不是工具广告",
-      "spark": "Microsoft 早期 rollout 研究显示，agentic CLI 的采用更依赖同事网络和真实工作产出，而不是单纯模型能力。",
-      "xhsTitle": "AI 工具真正用起来，靠的不是安利，是同事先跑通",
-      "discussion": "可见讨论点：谁会尝试、谁会留下、组织成本、PR 产出、可见同伴使用如何推动采用。",
-      "prompt": "引导话题：你第一次认真用 AI 工具，是被广告种草还是被同事带会的？",
-      "tone": "适合职场 AI 选题，能从“工具清单”升级到组织采用和工作流信任。",
-      "related": [
-        "Claude Code rollout",
-        "Copilot CLI adoption",
-        "agentic workflow"
-      ]
-    },
-    {
-      "id": "open-source-agent-founder-0713",
-      "tags": [
-        "ai",
-        "creator-economy",
-        "solo-founder",
-        "xhs"
-      ],
-      "lane": "AI / Creator Economy",
-      "heat": "86",
-      "title": "开源 agent 叙事正在从工程玩具变成“一个人的小团队”",
-      "spark": "Open-source agent 讨论最容易转译给小红书：不是又一个 app，而是会按计划运行、接 API、处理重复任务的低配员工。",
-      "xhsTitle": "一个人做项目，什么时候该用 AI agent 而不是再买一个 app？",
-      "discussion": "可见讨论点：支持邮件、内容草稿、账单追踪、权限分级、从小任务开始建立信任。",
-      "prompt": "引导话题：你最想丢给 AI 员工的第一件重复工作是什么？",
-      "tone": "适合副业/效率/创业内容，但要强调权限边界和人工验收。",
-      "related": [
-        "open-source AI agents",
-        "workflow automation",
-        "solo founder"
       ]
     }
   ],
@@ -768,11 +779,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-07-13-1118",
-    "contentWindow": "内容研究窗口：2026.06.28 - 2026.07.13 / 部署包生成：2026.07.13 11:18 CST",
-    "researchedThrough": "2026-07-13",
-    "packageGeneratedAt": "2026-07-13 11:18 CST",
-    "summary": "7/13 动态热簇从具体实体反推：KPop Demon Hunters 持续扩散、Lizzo 新专辑低迷与 comeback 叙事、Sabrina Carpenter Manchild 的人设维护期、celebrity wedding fatigue、AI agent skill/agent rollout。YouTube/TikTok 精确评论无法由本地环境展开的条目均标注 search cluster；主榜只保留高互动或明确聚类证据。"
+    "editionId": "2026-07-18-1255",
+    "contentWindow": "内容研究窗口：2026.07.03 - 2026.07.18 / 部署包生成：2026.07.18 12:55 CST",
+    "researchedThrough": "2026-07-18",
+    "packageGeneratedAt": "2026-07-18 12:55 CST",
+    "summary": "7/18 动态热簇从具体实体反推：KPop Demon Hunters 高播放 UGC reaction/analysis、authenticity paradox、Sabrina Carpenter Manchild 人设维护期、celebrity wedding fatigue、Claude Code/agent workflow、GitHub agent skill 仓库外溢。YouTube 单页点赞/评论被反 bot 阻断的条目只写播放复核或 search cluster，不伪装完整热评导出；TikTok 未取到精确 URL 的条目继续标注站内搜索聚类。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
