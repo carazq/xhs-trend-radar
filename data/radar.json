@@ -1,6 +1,49 @@
 {
   "trends": [
     {
+      "title": "KPop Demon Hunters：二次扩散从剧情反应转向专业声乐拆解",
+      "tags": [
+        "Pop Culture",
+        "Music IP",
+        "Vocal Analysis",
+        "Fandom"
+      ],
+      "priority": "high",
+      "metrics": "Billboard 7/26：BLACKPINK “Jump” 全球榜登顶，HUNTR/X “Golden” 仍列全球榜第 2，“How It’s Done” 升至第 9；7/27 yt-dlp 搜索复核 UGC：TerryAndKaniyia 179.69万播放、Tim Welch Vocal Studio 76.32万播放、Cinema Therapy 68.27万播放、Julia Nilon 33.86万播放、Peter Barber 21.37万播放。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters How It’s Done / Golden vocal analysis / HUNTR/X chart momentum",
+      "heat": "今天的新讨论点不是“这部片还火”，而是专业创作者开始把 HUNTR/X 当真实女团声乐现场拆，粉丝跟着学习技术词和角色人格。",
+      "signal": "可转译点：当虚拟 IP 能被声乐老师、影视治疗、reaction 频道分别拆解，它就不再只是剧情消费，而是可持续学习和身份参与。",
+      "why": "适合小红书：可做声乐高音、女团人格、角色 pick、虚拟偶像真实感、为什么一首动画歌会被当成舞台实力来讨论。",
+      "discussion": "可见主题集中在 How It’s Done 高音、Golden 副歌、HUNTR/X 真实女团错觉、谁的声线最有辨识度、Saja Boys 与角色入坑。",
+      "ideas": [
+        "标题：为什么一首动画歌，会被当成真实女团舞台来拆？",
+        "结构：榜单仍热 -> 声乐拆解爆发 -> 角色声线 -> 粉丝学习术语 -> 虚拟 IP 长尾",
+        "评论引导：你是先被歌吸引，还是先被某个角色人格吸引？"
+      ],
+      "sources": [
+        [
+          "Billboard Canada / BLACKPINK Jump + HUNTR/X chart",
+          "https://ca.billboard.com/music/chart-beat/blackpink-jump-global-charts-number-one-july-26-1236026031/"
+        ],
+        [
+          "TerryAndKaniyia / 179.69万播放",
+          "https://www.youtube.com/watch?v=NYRrFWlJOCM"
+        ],
+        [
+          "Tim Welch Vocal Studio / 76.32万播放",
+          "https://www.youtube.com/watch?v=cnPV5gXMTvc"
+        ],
+        [
+          "Cinema Therapy / 68.27万播放",
+          "https://www.youtube.com/watch?v=-Moo6eTKkZM"
+        ],
+        [
+          "Julia Nilon / 33.86万播放",
+          "https://www.youtube.com/watch?v=6KBBkAPbXqk"
+        ]
+      ]
+    },
+    {
       "title": "Avengers: Doomsday：预告经济重新变成粉丝集体考古",
       "tags": [
         "Pop Culture",
@@ -11,7 +54,7 @@
       "priority": "high",
       "metrics": "Variety 7/22：官方预告 24 小时 5.03 亿观看，Disney 史上最高预告首发、影史第二；7/25 yt-dlp 搜索复核 UGC：New Rockstars 277.53万播放、ScreenCrush 201.72万播放、New Rockstars second breakdown 110.55万播放、Emergency Awesome 51.40万播放。",
       "channel": "YouTube UGC view-verified search result + Search cluster: Avengers Doomsday trailer breakdown / Doctor Doom RDJ / X-Men return / Comic-Con trailer",
-      "heat": "今天的新讨论点不是“漫威又发预告”，而是预告本身重新变成需要被拆、被猜、被排队预售的集体事件。",
+      "heat": "讨论点不是“漫威又发预告”，而是预告本身重新变成需要被拆、被猜、被排队预售的集体事件。",
       "signal": "可转译点：当 IP 进入修复期，粉丝不是只看正片，而是先用预告考古确认它值不值得重新投入情绪。",
       "why": "适合小红书：可拆成预告经济、粉丝考古、彩蛋文化、IP 信任修复和“为什么我们又开始认真看漫威”。",
       "discussion": "可见主题集中在 Doctor Doom、RDJ 角色反转、X-Men 回归、Chris Evans、彩蛋逐帧分析、预售和超级英雄疲劳是否被打破。",
@@ -124,99 +167,86 @@
           "https://www.youtube.com/watch?v=9yUSft-sbG8"
         ]
       ]
-    },
-    {
-      "title": "Claude Code sub-agents：AI 内容从单工具教程进入多角色工作流",
-      "tags": [
-        "AI",
-        "Claude Code",
-        "Agent Workflow",
-        "Creator Economy"
-      ],
-      "priority": "high",
-      "metrics": "Anthropic 官方资料强调 subagents、hooks、MCP、Plan Mode、auto mode 和多 agent 治理；7/25 yt-dlp 搜索复核 YouTube：Developers Digest 26.52万播放、Nate Herk agent teams 26.71万播放、Leon van Zyl 10.34万播放、Web Dev Cody 7.98万播放。",
-      "channel": "YouTube AI view-verified search result + Official docs cluster: Claude Code subagents / agent teams / approval fatigue / trustworthy agents",
-      "heat": "AI 创作者不再只讲“哪个工具更强”，而是讲如何把任务拆给研究员、执行员、质检员，并让人类在关键节点验收。",
-      "signal": "可转译点：普通人真正需要的不是提示词清单，而是一套可以反复运行、能看状态、能接管的 AI 工作方法。",
-      "why": "适合小红书：可做 AI 小团队、工作流人格、权限边界、自动化创业 idea 和信息信任。",
-      "discussion": "可见主题集中在角色分工、上下文隔离、并行任务、权限批准、agent 越权和工作流复用。",
-      "ideas": [
-        "标题：别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
-        "结构：一个任务 -> 三个角色 -> 状态面板 -> 人工验收 -> 可复用模板",
-        "评论引导：你最想把哪个重复任务交给 AI 小团队？"
-      ],
-      "sources": [
-        [
-          "Anthropic / Claude Code advanced patterns",
-          "https://www.anthropic.com/webinars/claude-code-advanced-patterns"
-        ],
-        [
-          "Anthropic / trustworthy agents",
-          "https://www.anthropic.com/research/trustworthy-agents"
-        ],
-        [
-          "Anthropic / Claude Code auto mode",
-          "https://www.anthropic.com/engineering/claude-code-auto-mode"
-        ],
-        [
-          "Developers Digest / 26.52万播放",
-          "https://www.youtube.com/watch?v=DNGxMX7ym44"
-        ],
-        [
-          "Nate Herk agent teams / 26.71万播放",
-          "https://www.youtube.com/watch?v=vDVSGVpB2vc"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
       "label": "Exact video / view-verified",
-      "title": "New Rockstars: AVENGERS DOOMSDAY TRAILER BREAKDOWN! Easter Eggs & Details You Missed!",
-      "use": "277.53万播放；主支撑 Marvel 预告经济、彩蛋考古、Doctor Doom / X-Men 回归讨论。点赞/评论需浏览器复核后再写精确值。",
+      "title": "TerryAndKaniyia: KPop Demon Hunters Shows Us HOW IT’S DONE",
+      "use": "179.69万播放；主支撑 HUNTR/X 声乐拆解、角色声线和“虚拟女团像真实舞台”讨论。单页互动受限，不写精确点赞/评论。",
+      "url": "https://www.youtube.com/watch?v=NYRrFWlJOCM"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "Tim Welch Vocal Studio: Pro Vocal Coach Reacts to How It’s Done",
+      "use": "76.32万播放；支撑专业声乐老师拆解 KPop Demon Hunters 的二次扩散。",
+      "url": "https://www.youtube.com/watch?v=cnPV5gXMTvc"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "New Rockstars: AVENGERS DOOMSDAY TRAILER BREAKDOWN",
+      "use": "277.53万播放；主支撑 Marvel 预告经济、彩蛋考古、Doctor Doom / X-Men 回归讨论。",
       "url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE"
     },
     {
       "label": "Exact video / view-verified",
       "title": "ScreenCrush: Avengers: Doomsday Trailer BREAKDOWN",
-      "use": "201.72万播放；支撑 Marvel 逐帧拆解和粉丝考古。点赞/评论需浏览器复核。",
+      "use": "201.72万播放；支撑 Marvel 逐帧拆解和粉丝考古。",
       "url": "https://www.youtube.com/watch?v=JjT7hGTRr1E"
-    },
-    {
-      "label": "Exact video / view-verified",
-      "title": "Screen Junkies: Honest Trailers | KPop Demon Hunters",
-      "use": "191.50万播放；支撑 KPop Demon Hunters 从热片进入可讽刺、可复盘、可二创的长线 fandom。点赞/评论需浏览器复核。",
-      "url": "https://www.youtube.com/watch?v=ywJtKTRhq5A"
-    },
-    {
-      "label": "Exact video / view-verified",
-      "title": "Dylan Is In Trouble: Does Kpop Demon Hunters live up to the hype?",
-      "use": "128.24万播放；支撑重看欲、角色入坑和 hype 验证。点赞/评论需浏览器复核。",
-      "url": "https://www.youtube.com/watch?v=uVkbxGCflH0"
     },
     {
       "label": "AI exact video / view-verified",
       "title": "Developers Digest: Claude Code NEW Sub Agents in 7 Minutes",
-      "use": "26.52万播放；支撑 sub-agent 教程热度。点赞/评论受单页反 bot 限制未写精确值。",
+      "use": "26.57万播放；支撑 sub-agent 教程热度。单页互动受限，不写精确点赞/评论。",
       "url": "https://www.youtube.com/watch?v=DNGxMX7ym44"
     },
     {
       "label": "AI exact video / view-verified",
-      "title": "Nate Herk: How to Build Claude Agent Teams Better Than 99% of People",
-      "use": "26.71万播放；支撑 agent teams / 工作流角色分工。点赞/评论需浏览器复核。",
-      "url": "https://www.youtube.com/watch?v=vDVSGVpB2vc"
+      "title": "Tech With Tim: The Ultimate Claude Code Guide | MCP, Skills & More",
+      "use": "23.20万播放；支撑 Claude Code 从 subagents 延伸到 MCP/skills 的整套工作流。",
+      "url": "https://www.youtube.com/watch?v=uogzSxOw4LU"
     }
   ],
   "aiSignals": [
     {
       "title": "Claude Code sub-agents / agent teams",
       "type": "YouTube view-verified + official docs cluster",
-      "metrics": "2026-07-25 yt-dlp 搜索复核：Developers Digest 26.52万播放、Nate Herk agent teams 26.71万播放、Leon van Zyl 10.34万播放、Web Dev Cody 7.98万播放；单页点赞/评论触发反 bot 未写精确值。",
+      "metrics": "2026-07-27 yt-dlp 搜索复核：Developers Digest 26.57万播放、Nate Herk agent teams 26.85万播放、Tech With Tim Claude Code guide 23.20万播放、Nate Herk dynamic workflows 10.22万播放、Web Dev Cody 7.99万播放。",
       "source": "Anthropic + YouTube creators",
       "heat": "高互动入口仍是“把一个复杂任务拆给多个 AI 角色”，评论语境集中在角色分工、上下文隔离、复用模板和风险边界。",
       "summary": "AI 工作流内容正在从工具清单变成组织设计：谁研究、谁执行、谁检查、谁发布。",
       "idea": "小红书角度：给 AI 配一个研究员、执行员、质检员，工作会怎么变？",
       "url": "https://www.youtube.com/watch?v=vDVSGVpB2vc"
+    },
+    {
+      "title": "Claude Code skills / MCP 工作流变成“可安装能力包”",
+      "type": "YouTube view-verified + GitHub search cluster",
+      "metrics": "Tech With Tim “The Ultimate Claude Code Guide | MCP, Skills & More” 23.20万播放；GitHub Search API 7/27 显示 video-shotcraft 1,959 stars / 171 forks、gzh-design-skill 2,547 stars / 290 forks。",
+      "source": "YouTube + GitHub Search API",
+      "heat": "从“会用 Claude Code”转向“给 Claude Code 装技能、接工具、形成产线”。",
+      "summary": "AI app repo 正在把工作流打包成可复用产品，而不是一次性提示词。",
+      "idea": "小红书角度：未来的 AI 教程不是提示词大全，而是技能商店。",
+      "url": "https://www.youtube.com/watch?v=uogzSxOw4LU"
+    },
+    {
+      "title": "AI video skill：从生成视频到产品视频工厂",
+      "type": "GitHub repo cluster",
+      "metrics": "GitHub Search API 7/27：Vincentwei1021/video-shotcraft created_at 2026-07-19，1,959 stars / 171 forks / pushed_at 2026-07-27；OpenChatCut created_at 2026-07-15，537 stars / 56 forks / pushed_at 2026-07-26。",
+      "source": "GitHub Search API",
+      "heat": "应用趋势从“生成一条视频”转向“把镜头脚本、剪辑、字幕、渲染流程做成 agent skill”。",
+      "summary": "视频创作的 AI 机会在流程编排：镜头、文案、字幕、剪辑、版本。",
+      "idea": "小红书角度：普通人做短视频，最缺的不是模型，而是一套稳定出片流程。",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "title": "Self-learning / token-efficiency skills",
+      "type": "GitHub repo cluster",
+      "metrics": "GitHub Search API 7/27：Kulaxyz/self-learning-skills 916 stars / 39 forks；Kulaxyz/token-diet 510 stars / 5 forks；均是近 30 天新建并围绕 agent skill 复用。",
+      "source": "GitHub Search API",
+      "heat": "开发者开始把“复盘一次成功路径”和“节省上下文成本”做成常驻 skill。",
+      "summary": "AI 工作流的下一层价值是记住成功路径，并控制上下文成本。",
+      "idea": "小红书角度：会用 AI 的人，已经开始训练 AI 记住自己的工作习惯。",
+      "url": "https://github.com/Kulaxyz/self-learning-skills"
     },
     {
       "title": "Claude Code auto mode / approval fatigue",
@@ -227,39 +257,72 @@
       "summary": "从“让 AI 自己干”转向“让 AI 在安全边界内少打扰地干”。",
       "idea": "小红书角度：AI 自动化最危险的不是不会做，而是你忘了它在做什么。",
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode"
-    },
-    {
-      "title": "Trustworthy agents / Plan Mode",
-      "type": "Official research cluster",
-      "metrics": "Anthropic research 2026-04-09：讨论 Claude Code、Claude Cowork、Plan Mode、subagents 和 agent 治理；作为高信任工作流背景源。",
-      "source": "Anthropic Research",
-      "heat": "用户从逐步批准转向先看整体计划，说明 AI agent 的信任问题正在从“每一步能不能做”变成“整体策略对不对”。",
-      "summary": "适合转译成“先看计划，再让 AI 执行”的普通人工作法。",
-      "idea": "小红书角度：用 AI 做大任务前，先让它交一份施工图。",
-      "url": "https://www.anthropic.com/research/trustworthy-agents"
-    },
-    {
-      "title": "openai/skills + installable skill catalog",
-      "type": "GitHub API verified",
-      "metrics": "2026-07-25 GitHub API：24,155 stars / 1,637 forks / pushed_at 2026-07-14。",
-      "source": "GitHub",
-      "heat": "skill catalog 把“会用 AI”从个人经验变成可安装、可分发、可治理的能力包。",
-      "summary": "下一个小红书 AI 内容机会，是把高频任务做成可复用 skill。",
-      "idea": "小红书角度：为什么会用 AI 的人，开始给 AI 写岗位说明书？",
-      "url": "https://github.com/openai/skills"
-    },
-    {
-      "title": "Forward-Future/loopy agent loops",
-      "type": "GitHub API verified",
-      "metrics": "2026-07-25 GitHub API：2,851 stars / 255 forks / created_at 2026-06-12 / updated_at 2026-07-25。",
-      "source": "GitHub",
-      "heat": "loopy 代表“重复 agent loop”这个更贴近日常工作的形态：不是收藏提示词，而是设计一条可反复跑的链路。",
-      "summary": "AI workflow 的内容表达可以从工具清单转成“我的任务循环”。",
-      "idea": "小红书角度：别收藏提示词了，把你的重复工作做成一个 loop。",
-      "url": "https://github.com/Forward-Future/loopy"
     }
   ],
   "tiktokSignals": [
+    {
+      "title": "KPop Demon Hunters How It’s Done vocal search cluster",
+      "tags": [
+        "TikTok",
+        "KPop Demon Hunters",
+        "Vocal Analysis",
+        "Fandom"
+      ],
+      "priority": "high",
+      "metrics": "2026-07-27 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
+      "channel": "TikTok Search: KPop Demon Hunters How It’s Done vocal HUNTR/X Golden",
+      "sourceType": "站内搜索聚类 / 非关注搜索采样",
+      "urlLabel": "打开 TikTok 搜索",
+      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
+      "heat": "短视频入口集中在 How It’s Done 高音、Golden 副歌、HUNTR/X 角色声线和“虚拟女团像真实舞台”。",
+      "signal": "小红书可拆成动画歌为什么被当真实女团舞台来拆。",
+      "discussion": "可见主题：高音、声线辨识度、角色 pick、真实女团错觉、Saja Boys。",
+      "xhsTitle": "为什么一首动画歌，会被当成真实女团舞台来拆？",
+      "angle": "结构：榜单 -> 声乐老师 -> 角色人格 -> 粉丝学习术语。",
+      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20How%20It%27s%20Done%20vocal%20HUNTR%2FX%20Golden"
+    },
+    {
+      "title": "BLACKPINK Jump comeback search cluster",
+      "tags": [
+        "TikTok",
+        "BLACKPINK",
+        "K-pop",
+        "Dance"
+      ],
+      "priority": "medium",
+      "metrics": "2026-07-27 搜索聚类；Billboard 7/26 确认 “Jump” 登顶全球榜，但 YouTube UGC reaction 搜索未达 Social 主榜门槛。",
+      "channel": "TikTok Search: BLACKPINK Jump dance reaction comeback",
+      "sourceType": "站内搜索聚类 / 榜单验证",
+      "urlLabel": "打开 TikTok 搜索",
+      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
+      "heat": "入口集中在回归舞蹈、成员造型、BLINK 集体庆祝和与 HUNTR/X 同榜的 K-pop 女团时刻。",
+      "signal": "小红书可拆成“真实女团和虚拟女团同时占领全球榜”的文化信号。",
+      "discussion": "可见主题：Jump 舞蹈、成员造型、全球榜、女团回归、与 Golden 同榜。",
+      "xhsTitle": "为什么真实女团和虚拟女团，正在同时接管全球榜？",
+      "angle": "结构：BLACKPINK comeback -> HUNTR/X 同榜 -> 女团视觉与粉丝动员。",
+      "url": "https://www.tiktok.com/search?q=BLACKPINK%20Jump%20dance%20reaction%20comeback"
+    },
+    {
+      "title": "Katy Perry Firework White House search cluster",
+      "tags": [
+        "TikTok",
+        "Music Rights",
+        "Celebrity",
+        "Political Pop Culture"
+      ],
+      "priority": "medium",
+      "metrics": "2026-07-27 搜索聚类；Variety 7/26 报道 Katy Perry 公开批评 White House TikTok 使用 “Firework” 配军事打击画面；YouTube UGC 未达主榜门槛。",
+      "channel": "TikTok Search: Katy Perry Firework White House TikTok reaction",
+      "sourceType": "站内搜索聚类 / 新闻验证",
+      "urlLabel": "打开 TikTok 搜索",
+      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
+      "heat": "入口集中在流行歌曲被政治内容挪用、艺人边界声明和平台传播伦理。",
+      "signal": "小红书可拆成“当你的代表作被放进你不认同的语境，品牌人格怎么办”。",
+      "discussion": "可见主题：音乐授权、艺人态度、政治短视频、歌曲原本情绪、平台传播。",
+      "xhsTitle": "一首歌被放进错误语境，艺人为什么必须立刻切割？",
+      "angle": "结构：事件 -> 歌曲意义 -> 平台剪辑 -> 艺人品牌边界。",
+      "url": "https://www.tiktok.com/search?q=Katy%20Perry%20Firework%20White%20House%20TikTok%20reaction"
+    },
     {
       "title": "Avengers Doomsday trailer breakdown search cluster",
       "tags": [
@@ -269,7 +332,7 @@
         "Fandom"
       ],
       "priority": "high",
-      "metrics": "2026-07-25 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
+      "metrics": "2026-07-27 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
       "channel": "TikTok Search: Avengers Doomsday trailer breakdown Doctor Doom RDJ",
       "sourceType": "站内搜索聚类 / 非关注搜索采样",
       "urlLabel": "打开 TikTok 搜索",
@@ -282,274 +345,211 @@
       "url": "https://www.tiktok.com/search?q=Avengers%20Doomsday%20trailer%20breakdown%20Doctor%20Doom%20RDJ"
     },
     {
-      "title": "Spider-Man Brand New Day reaction search cluster",
-      "tags": [
-        "TikTok",
-        "Marvel",
-        "Spider-Man",
-        "Leaks"
-      ],
-      "priority": "medium",
-      "metrics": "2026-07-25 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
-      "channel": "TikTok Search: Spider-Man Brand New Day trailer reaction Hulk Punisher",
-      "sourceType": "站内搜索聚类 / 非关注搜索采样",
-      "urlLabel": "打开 TikTok 搜索",
-      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在泄露、角色猜测和“看不看剧透”的粉丝选择。",
-      "signal": "小红书可拆成保密失败如何变成参与式营销。",
-      "discussion": "可见主题：Tom Holland、Hulk、Punisher、Sadie Sink、泄露、剧透。",
-      "xhsTitle": "现在的电影营销，为什么越怕剧透越像在喂粉丝？",
-      "angle": "结构：泄露 -> 预告 -> 反应 -> 猜测 -> 期待管理。",
-      "url": "https://www.tiktok.com/search?q=Spider-Man%20Brand%20New%20Day%20trailer%20reaction%20Hulk%20Punisher"
-    },
-    {
-      "title": "KPop Demon Hunters HUNTR/X Golden search cluster",
-      "tags": [
-        "TikTok",
-        "Music IP",
-        "Fandom",
-        "Aesthetic"
-      ],
-      "priority": "high",
-      "metrics": "2026-07-25 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
-      "channel": "TikTok Search: KPop Demon Hunters HUNTR/X Golden merch tour",
-      "sourceType": "站内搜索聚类 / 非关注搜索采样",
-      "urlLabel": "打开 TikTok 搜索",
-      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口从歌曲循环和角色 pick 延伸到巡演、周边、仿妆和虚拟女团消费。",
-      "signal": "小红书可拆成音乐 IP 如何变成身份消费。",
-      "discussion": "可见主题：Golden、HUNTR/X、Saja Boys、角色 pick、周边、巡演。",
-      "xhsTitle": "这部动画为什么不是爆一阵，而是变成了入坑系统？",
-      "angle": "结构：歌 -> 角色 -> 仿妆 -> 周边 -> 巡演想象。",
-      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20HUNTR%2FX%20Golden%20merch%20tour"
-    },
-    {
-      "title": "Claude Code subagents workflow search cluster",
+      "title": "Claude Code skills workflow search cluster",
       "tags": [
         "TikTok",
         "AI",
-        "Workflow",
-        "Productivity"
-      ],
-      "priority": "high",
-      "metrics": "2026-07-25 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
-      "channel": "TikTok Search: Claude Code subagents workflow AI agents",
-      "sourceType": "站内搜索聚类 / 非关注搜索采样",
-      "urlLabel": "打开 TikTok 搜索",
-      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 AI 小团队、角色分工、自动批准和可复制模板。",
-      "signal": "小红书可把工程工作流翻译成普通人任务分工。",
-      "discussion": "可见主题：subagents、agent teams、approval、workflow template、AI automation。",
-      "xhsTitle": "别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
-      "angle": "结构：任务拆解 -> AI 角色 -> 状态管理 -> 人工验收。",
-      "url": "https://www.tiktok.com/search?q=Claude%20Code%20subagents%20workflow%20AI%20agents"
-    },
-    {
-      "title": "agent skill prompt-to-SOP search cluster",
-      "tags": [
-        "TikTok",
-        "AI Skill",
-        "Creator Economy",
-        "SOP"
+        "Claude Code",
+        "Workflow"
       ],
       "priority": "medium",
-      "metrics": "2026-07-25 站内搜索聚类 / 非关注搜索采样 / 精确视频链接需人工复核",
-      "channel": "TikTok Search: AI agent skills workflow prompt SOP",
-      "sourceType": "站内搜索聚类 / 非关注搜索采样",
+      "metrics": "2026-07-27 站内搜索聚类 / 非关注搜索采样 / GitHub API 验证 repo 热度",
+      "channel": "TikTok Search: Claude Code skills MCP subagents workflow",
+      "sourceType": "站内搜索聚类 / GitHub 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在把提示词、模板、自动化和个人知识库打包成可复用技能。",
-      "signal": "小红书可拆成“从收藏提示词到沉淀 SOP”。",
-      "discussion": "可见主题：skill、prompt、SOP、automation、creator workflow。",
-      "xhsTitle": "为什么会用 AI 的人，开始给 AI 写岗位说明书？",
-      "angle": "结构：重复任务 -> prompt -> skill -> checklist -> 输出验收。",
-      "url": "https://www.tiktok.com/search?q=AI%20agent%20skills%20workflow%20prompt%20SOP"
+      "heat": "入口集中在 subagents、MCP、skills、自动化工作流和普通人能否搭 AI 小团队。",
+      "signal": "小红书可拆成“AI 工具不是问答框，而是岗位体系”。",
+      "discussion": "可见主题：角色分工、权限、安装 skill、MCP、视频/剪辑/排版工作流。",
+      "xhsTitle": "别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
+      "angle": "结构：任务 -> subagent -> skill -> MCP -> 人工验收。",
+      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20MCP%20subagents%20workflow"
     }
   ],
   "githubSkills": [
     {
-      "title": "openai/skills",
+      "title": "isjiamu/gzh-design-skill",
       "rank": "01",
-      "heat": "7/25 GitHub API：24,155 stars / 1,637 forks / pushed_at 2026-07-14；Codex Skills Catalog，作为 agent skill 标准化与分发锚点，不写成日涨榜。",
-      "summary": "Agent skill 正在从个人提示词变成可安装、可分发、可治理的能力包。",
-      "use": "小红书角度：高手不是只写提示词，而是把重复任务做成技能包。",
-      "idea": "标题方向：为什么会用 AI 的人，开始给 AI 写岗位说明书？",
+      "heat": "7/27 GitHub Search API：2,547 stars / 290 forks / created_at 2026-07-01 / updated_at 2026-07-27；把 Markdown 排成可粘贴公众号 HTML 的 agent skill。",
+      "summary": "内容创作 skill 正在从写稿扩展到排版交付。",
+      "use": "小红书角度：AI 不只写文案，还能把发布格式也一起交付。",
+      "idea": "标题方向：真正省时间的 AI，不是帮你写，而是帮你发得像样",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/openai/skills"
+      "url": "https://github.com/isjiamu/gzh-design-skill"
     },
     {
-      "title": "Forward-Future/loopy",
+      "title": "Vincentwei1021/video-shotcraft",
       "rank": "02",
-      "heat": "7/25 GitHub API：2,851 stars / 255 forks / created_at 2026-06-12 / updated_at 2026-07-25；agent loops + installable skill 样本。",
-      "summary": "从单次提示词转向可重复 loop，适合观察 AI 工作流产品化。",
-      "use": "小红书角度：真正能复用的不是提示词，而是执行循环。",
-      "idea": "标题方向：别收藏提示词了，把你的重复工作做成一个 loop",
+      "heat": "7/27 GitHub Search API：1,959 stars / 171 forks / created_at 2026-07-19 / pushed_at 2026-07-27；Remotion 产品视频、镜头 recipe 和 motion preview skill。",
+      "summary": "视频生成开始产品化为镜头脚本和生产模板。",
+      "use": "小红书角度：普通人短视频工作流可以被拆成镜头、字幕、节奏和渲染。",
+      "idea": "标题方向：AI 视频不是一键生成，而是把镜头做成菜谱",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/Forward-Future/loopy"
+      "url": "https://github.com/Vincentwei1021/video-shotcraft"
     },
     {
-      "title": "anthropics/claude-code",
+      "title": "Kulaxyz/self-learning-skills",
       "rank": "03",
-      "heat": "7/25 GitHub API：138,985 stars / 22,301 forks / pushed_at 2026-07-25；agentic coding tool，适合作为 sub-agent 与权限治理的产品锚点。",
-      "summary": "Claude Code 把 agent workflow 从教程推向日常开发基础设施。",
-      "use": "小红书角度：AI 不再只是聊天框，而是会跑任务的工作台。",
-      "idea": "标题方向：AI 编程为什么开始像管理一个小团队？",
+      "heat": "7/27 GitHub Search API：916 stars / 39 forks / created_at 2026-06-28 / updated_at 2026-07-26；把一次成功路径沉淀成 reusable skill/rule。",
+      "summary": "AI agent 开始学习用户自己的“黄金路径”。",
+      "use": "小红书角度：会用 AI 的人不是重复调教，而是让 AI 记住工作习惯。",
+      "idea": "标题方向：别每次重新教 AI，把你的成功流程存成技能",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/anthropics/claude-code"
+      "url": "https://github.com/Kulaxyz/self-learning-skills"
     },
     {
-      "title": "langflow-ai/langflow",
+      "title": "Archive228/loopkit",
       "rank": "04",
-      "heat": "7/25 GitHub Search API：152,349 stars / 9,644 forks / pushed_at 2026-07-25；AI agents and workflows 可视化搭建平台。",
-      "summary": "低代码 agent workflow 说明普通用户也在找可见、可拖拽、可管理的 AI 流程。",
-      "use": "小红书角度：把 AI 工作流画出来，普通人才知道哪里能接管。",
-      "idea": "标题方向：AI 工作流为什么一定要可视化？",
+      "heat": "7/27 GitHub Search API：726 stars / 131 forks / created_at 2026-06-30；33 个 skills + minimal harness，面向 Claude Code、Cursor、Codex、Gemini CLI。",
+      "summary": "跨 agent 的 skill harness 正在变成工作流基础设施。",
+      "use": "小红书角度：真正能复用的不是一个平台，而是一套跨工具工作方法。",
+      "idea": "标题方向：为什么高手的 AI 工作流可以换工具也不崩？",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/langflow-ai/langflow"
+      "url": "https://github.com/Archive228/loopkit"
     },
     {
-      "title": "langgenius/dify",
+      "title": "0xsline/OpenChatCut",
       "rank": "05",
-      "heat": "7/25 GitHub Search API：150,152 stars / 23,662 forks / pushed_at 2026-07-25；agentic workflows、RAG、低代码应用平台。",
-      "summary": "Dify 继续代表“从 demo 到可部署 AI app”的创业机会。",
-      "use": "小红书角度：不是每个人都要写模型，但每个人都能设计一个 AI 小应用。",
-      "idea": "标题方向：普通人的 AI 创业，为什么先从一个工作流开始？",
+      "heat": "7/27 GitHub Search API：537 stars / 56 forks / created_at 2026-07-15 / pushed_at 2026-07-26；local-first conversational video editor with Agent Skills + MCP + Remotion。",
+      "summary": "视频编辑正在变成对话式、多轨和本地优先的 agent app。",
+      "use": "小红书角度：AI 剪辑不是替代剪辑师，而是把反复改稿流程对话化。",
+      "idea": "标题方向：如果剪视频可以像改文案一样聊天，会发生什么？",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/langgenius/dify"
+      "url": "https://github.com/0xsline/OpenChatCut"
     },
     {
-      "title": "tinyhumansai/openhuman",
+      "title": "Shubhamsaboo/awesome-llm-apps",
       "rank": "06",
-      "heat": "7/25 GitHub Search API：35,365 stars / 3,471 forks / pushed_at 2026-07-25；local-first memory + agent fleets + workflows，适合作为个人 AI 操作系统观察样本。",
-      "summary": "个人 AI 记忆与 agent fleet 结合，正在靠近“私人工作系统”。",
-      "use": "小红书角度：真正的个人 AI 不是陪聊，而是记住、调度、复盘你的生活和工作。",
-      "idea": "标题方向：你的私人 AI 应该先记住什么？",
+      "heat": "7/27 作为 AI app 样本库基线继续保留；不写成上涨榜。用于对照今天 skill repo 的应用方向：视频、排版、工作流、知识沉淀、剪辑。",
+      "summary": "基线库帮助判断哪些 AI app 类型正在被拆成可安装 skill。",
+      "use": "小红书角度：从应用清单里找普通人真正会反复用的流程。",
+      "idea": "标题方向：AI 应用太多，先看哪些能变成你的固定流程",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/tinyhumansai/openhuman"
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     }
   ],
   "sparkPool": [
     {
-      "lane": "Pop Culture / Trailer Event",
-      "source": "7/25 dynamic cluster",
+      "lane": "Pop Culture / Vocal Analysis",
+      "source": "7/27 dynamic cluster",
       "heat": "99",
+      "title": "KPop Demon Hunters 进入专业声乐二次扩散",
+      "spark": "Billboard 7/26 显示 HUNTR/X “Golden” 全球榜第 2，“How It’s Done” 第 9；YouTube 搜索复核显示 TerryAndKaniyia 179.69万播放、Tim Welch Vocal Studio 76.32万播放、Cinema Therapy 68.27万播放，讨论从剧情和角色扩展到高音、声线和真实女团舞台感。",
+      "use": "标题：为什么一首动画歌，会被当成真实女团舞台来拆？",
+      "value": "kpop-demon-hunters + vocal-analysis + fandom + music-ip"
+    },
+    {
+      "lane": "Music / Girl Group Moment",
+      "source": "7/27 dynamic cluster",
+      "heat": "93",
+      "title": "BLACKPINK Jump 与 HUNTR/X 同榜制造真实/虚拟女团对照",
+      "spark": "Billboard 7/26 报道 BLACKPINK “Jump” 登顶 Global 200 和 Global Excl. U.S.，HUNTR/X “Golden” 位列第 2，“How It’s Done” 升至第 9。YouTube UGC reaction 搜索未达到主榜门槛，因此作为 TikTok/search cluster 和榜单观察进入。",
+      "use": "标题：为什么真实女团和虚拟女团，正在同时接管全球榜？",
+      "value": "blackpink + huntr-x + chart + girl-group"
+    },
+    {
+      "lane": "Pop Culture / Trailer Event",
+      "source": "7/27 carry-forward verified cluster",
+      "heat": "98",
       "title": "Marvel 预告重新变成全球级事件",
-      "spark": "Variety 7/22 报道 Avengers: Doomsday 官方预告 24 小时 5.03 亿观看，是影史第二大预告首发；同文提到 Spider-Man: Brand New Day 以 7.19 亿观看保持第一。YouTube 搜索复核显示 New Rockstars 277.53万播放、ScreenCrush 201.72万播放、Emergency Awesome 51.40万播放的拆解视频已经形成高播放 UGC 层。",
+      "spark": "Variety 7/22 报道 Avengers: Doomsday 官方预告 24 小时 5.03 亿观看；YouTube 搜索复核显示 New Rockstars 277.53万播放、ScreenCrush 201.72万播放、Emergency Awesome 51.40万播放。",
       "use": "标题：为什么超级英雄预告又突然像春晚一样被全网拆？",
       "value": "marvel + trailer-event + fandom + ugc-analysis"
     },
     {
-      "lane": "Pop Culture / Music IP",
-      "source": "7/25 dynamic cluster",
-      "heat": "97",
-      "title": "KPop Demon Hunters 从爆款变成长线 fandom 机器",
-      "spark": "Netflix Tudum 官方页继续把 KPop Demon Hunters 定义为周年周边、巡演、最受欢迎影片和 HUNTR/X 音乐 IP；7/25 yt-dlp 搜索复核显示 Screen Junkies Honest Trailers 191.50万播放、Dylan Is In Trouble 128.24万播放、Critical Drinker 109.82万播放、Cinema Therapy 68.23万播放、RICHLEV 62.84万播放。",
-      "use": "标题：这部动画为什么不是爆一阵，而是变成了入坑系统？",
-      "value": "netflix + music-ip + fandom + ugc"
-    },
-    {
-      "lane": "Pop Culture / Anticipation",
-      "source": "7/25 dynamic cluster",
-      "heat": "94",
-      "title": "Spider-Man Brand New Day 的热度来自“保密失败也能营销”",
-      "spark": "Marvel 官方电影页显示 Spider-Man: Brand New Day 定档 2026-07-31；Variety 把它列为 7.19 亿观看的影史最大预告首发。YouTube 搜索复核显示同簇 Reaction/Breakdown 包括 The Media Knights 20.72万播放、Emergency Awesome 22.15万播放、Critically Moist 29.00万播放。",
-      "use": "标题：现在的电影营销，为什么越怕剧透越像在喂粉丝？",
-      "value": "marvel + spider-man + leaks + fan-reaction"
-    },
-    {
-      "lane": "AI / Workflow",
-      "source": "7/25 dynamic cluster",
-      "heat": "94",
-      "title": "Claude sub-agent 内容仍在从工具教程变成工作流人格",
-      "spark": "Anthropic 官方材料持续强调 subagents、hooks、MCP、计划模式和多 agent 治理；7/25 YouTube 搜索复核显示 Developers Digest 26.52万播放、Nate Herk agent teams 26.71万播放、Leon van Zyl 10.34万播放、Web Dev Cody 7.98万播放。",
-      "use": "标题：别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
-      "value": "ai + agent-workflow + claude-code + productivity"
-    },
-    {
-      "lane": "GitHub Skill / AI Apps",
-      "source": "7/25 dynamic cluster",
-      "heat": "91",
-      "title": "Agent skill 从仓库榜单变成“可安装工作方法”",
-      "spark": "GitHub API 7/25 复核：openai/skills 24,155 stars / 1,637 forks；Forward-Future/loopy 2,851 stars / 255 forks；anthropics/claude-code 138,985 stars / 22,301 forks；langflow-ai/langflow 152,349 stars / 9,644 forks；langgenius/dify 150,152 stars / 23,662 forks。",
-      "use": "标题：为什么会用 AI 的人，开始给 AI 写岗位说明书？",
-      "value": "github + skills + ai-workflow + open-source"
-    },
-    {
-      "lane": "TikTok / Search Cluster",
-      "source": "7/25 dynamic cluster",
+      "lane": "Pop Culture / Music Rights",
+      "source": "7/27 dynamic cluster",
       "heat": "88",
-      "title": "TikTok 入口仍是实体搜索，不是抽象趋势词",
-      "spark": "今天只记录搜索聚类：Avengers Doomsday trailer breakdown、Spider-Man Brand New Day reaction、KPop Demon Hunters HUNTR/X Golden、Claude Code subagents workflow。未拿到精确视频 URL 时不链接账号页。",
-      "use": "标题：外网热梗不是关键词，而是一串可复制的实体组合",
-      "value": "tiktok + search-cluster + fandom + aesthetic"
+      "title": "Katy Perry Firework 争议是艺人品牌边界样本",
+      "spark": "Variety 7/26 报道 Katy Perry 批评 White House TikTok 把 “Firework” 用在军事打击画面。YouTube 相关 UGC 搜索未过主榜门槛，因此只进入搜索聚类/观察；可转译为歌曲意义、政治挪用和艺人品牌边界。",
+      "use": "标题：一首歌被放进错误语境，艺人为什么必须立刻切割？",
+      "value": "katy-perry + music-rights + brand-boundary"
+    },
+    {
+      "lane": "AI / Agent Workflow",
+      "source": "7/27 dynamic cluster",
+      "heat": "96",
+      "title": "Claude Code 内容从 subagents 延伸到 skills/MCP",
+      "spark": "7/27 yt-dlp 搜索复核：Developers Digest 26.57万播放、Nate Herk agent teams 26.85万播放、Tech With Tim Claude Code guide 23.20万播放；GitHub Search API 同步出现 video-shotcraft、gzh-design-skill、OpenChatCut 等应用型 skill repo。",
+      "use": "标题：别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
+      "value": "claude-code + subagents + skills + mcp"
+    },
+    {
+      "lane": "GitHub / Skill Economy",
+      "source": "7/27 GitHub Search API",
+      "heat": "94",
+      "title": "Skill repo 从提示词走向内容生产 app",
+      "spark": "7/27 GitHub Search API：gzh-design-skill 2,547 stars、video-shotcraft 1,959 stars、self-learning-skills 916 stars、loopkit 726 stars、OpenChatCut 537 stars。共同点是把具体交付物和工作流打包为可安装能力。",
+      "use": "标题：为什么会用 AI 的人，开始给 AI 写岗位说明书？",
+      "value": "github + agent-skills + creator-workflow"
     }
   ],
   "valueFlows": [
     {
-      "from": "KPop Demon Hunters collabs",
-      "to": "IP 联名经济",
-      "note": "把动画热度拆成角色物件、线下活动和粉丝身份。"
+      "from": "KPop Demon Hunters vocal UGC",
+      "to": "声乐知识内容",
+      "note": "把动画歌热度拆成高音、声线、角色人格和舞台实力感。"
     },
     {
-      "from": "KPop Demon Hunters UGC",
-      "to": "角色 pick 内容",
-      "note": "把高播放 reaction 拆成声乐、心理、视觉和重看机制。"
+      "from": "BLACKPINK Jump + HUNTR/X chart",
+      "to": "真实/虚拟女团对照",
+      "note": "把同榜现象转成女团视觉系统、粉丝动员和 IP 真实性讨论。"
     },
     {
-      "from": "Sabrina Manchild",
-      "to": "个人品牌第二阶段",
-      "note": "从成功 rebrand 讲到人设维护和观众期待。"
+      "from": "Marvel trailer breakdown",
+      "to": "粉丝考古内容",
+      "note": "把官方预告热度转成彩蛋、角色猜测和 IP 信任修复。"
     },
     {
-      "from": "Claude Code agent view",
-      "to": "AI 团队调度台",
-      "note": "把多 agent 管理翻译成普通人的研究员、执行员、质检员。"
+      "from": "Katy Perry music-rights dispute",
+      "to": "品牌边界内容",
+      "note": "把歌曲语境冲突转成艺人形象、授权和平台传播伦理。"
     },
     {
-      "from": "Agent security",
-      "to": "工作流信任边界",
-      "note": "把权限、暂停、验收和撤回写成可收藏的 AI 家规。"
+      "from": "GitHub agent skills",
+      "to": "普通人工作流产品",
+      "note": "把 repo 热度翻译成视频、排版、剪辑、复盘和上下文管理的应用机会。"
     }
   ],
   "arbitragePicks": [
     {
-      "lane": "Pop Culture / Trailer Event",
+      "lane": "Pop Culture / Vocal Analysis",
       "score": 99,
       "status": "今日主稿候选",
-      "lag": "外网已经把 Avengers: Doomsday / Spider-Man: Brand New Day 当成预告事件、彩蛋考古和预售行为来拆；中文小红书仍有“预告经济为什么复活”的结构化空间。",
-      "translation": "强：超级英雄不只是电影内容，而是粉丝参与式考古和情绪回归。",
-      "title": "为什么超级英雄预告又突然像春晚一样被全网拆？",
-      "hook": "这次热的不是一支预告，而是大家重新愿意为一个 IP 做功课。",
-      "proof": "Variety 报道 Doomsday 24 小时 5.03 亿观看；YouTube UGC 搜索复核 New Rockstars 277.53万播放、ScreenCrush 201.72万播放。",
-      "risk": "不要把官方预告当 UGC 主榜；评论精确值未复核前只写可见主题。",
-      "format": "封面：预告经济五格；正文：纪录、彩蛋、角色、预售、信任修复。",
-      "review": "看评论里是否有人主动讨论“又想回坑漫威”。"
+      "lag": "外网已经把 KPop Demon Hunters 的 “How It’s Done/Golden” 当成真实舞台能力拆；中文小红书仍可从声乐、角色声线和虚拟女团真实感做结构化内容。",
+      "translation": "强：不是影评，而是“动画角色被当成真实 idol 训练素材”。",
+      "title": "为什么一首动画歌，会被当成真实女团舞台来拆？",
+      "hook": "真正的长尾不是大家还在听歌，而是专业老师开始认真拆它的唱法。",
+      "proof": "Billboard 7/26 榜单 + YouTube UGC：TerryAndKaniyia 179.69万播放、Tim Welch Vocal Studio 76.32万播放、Cinema Therapy 68.27万播放。",
+      "risk": "不要把官方歌曲或 MV 当 UGC 主榜；评论精确值未复核前只写可见主题。",
+      "format": "封面：动画歌变真实舞台；正文：榜单、声乐拆解、角色声线、粉丝学习、IP 长尾。",
+      "review": "看评论里用户是否开始争论谁最像真实 idol。"
     },
     {
-      "lane": "Pop Culture / Music IP",
-      "score": 97,
-      "status": "本周系列稿候选",
-      "lag": "KPop Demon Hunters 已从观看爆款转为周年周边、巡演和多创作者反复拆解；中文平台仍可从虚拟女团身份消费切入。",
-      "translation": "强：HUNTR/X 可翻译成角色人格、仿妆、周边、巡演想象和粉丝身份。",
-      "title": "这部动画为什么不是爆一阵，而是变成了入坑系统？",
-      "hook": "它不只让你听歌，还让你像追真实女团一样选择角色和物件。",
-      "proof": "Netflix Tudum 周边/巡演资料 + YouTube UGC：Screen Junkies 191.50万播放、Dylan Is In Trouble 128.24万播放、Critical Drinker 109.82万播放。",
-      "risk": "不要写成官方宣传；重点放在 IP 机制和用户为什么愿意参与。",
-      "format": "封面：虚拟女团入坑系统；正文：歌、角色、二创、周边、线下。",
-      "review": "看收藏与评论里最想买/最想 cos 的角色。"
+      "lane": "Music / Girl Group Moment",
+      "score": 93,
+      "status": "本周对照稿候选",
+      "lag": "BLACKPINK “Jump” 是强榜单实体，但 UGC reaction 未过主榜门槛；适合和 HUNTR/X 同榜一起做“真实/虚拟女团同时上桌”的观察稿。",
+      "translation": "中高：榜单事实强，UGC 支撑偏弱，因此不做单条爆款，做文化对照。",
+      "title": "为什么真实女团和虚拟女团，正在同时接管全球榜？",
+      "hook": "一个是真实回归，一个是动画女团，但粉丝动员和视觉系统正在用同一种语言工作。",
+      "proof": "Billboard 7/26：BLACKPINK “Jump” 全球榜第 1，HUNTR/X “Golden” 第 2，“How It’s Done” 第 9。",
+      "risk": "BLACKPINK 搜索结果里 UGC 播放未过 Social 主榜门槛，不要写成高互动 YouTube 爆款。",
+      "format": "封面：真实女团 vs 虚拟女团；正文：榜单、视觉、舞蹈、角色、粉丝身份。",
+      "review": "看用户是否主动比较“真人 charisma”和“角色设定”。"
     },
     {
-      "lane": "AI / Workflow",
-      "score": 94,
-      "status": "可稳定发布",
-      "lag": "小红书 AI 内容仍大量停在工具清单；外网产品与高播放样本更偏 sub-agents、agent teams、Plan Mode 和 auto mode。",
-      "translation": "强：多 agent 可翻译成普通人懂的“研究员、执行员、质检员”。",
-      "title": "别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
-      "hook": "提示词像一句话，agent workflow 像一套可以反复运行的工作方法。",
-      "proof": "Anthropic 官方 subagents/auto mode/trustworthy agents 资料 + Developers Digest 26.52万播放、Nate Herk agent teams 26.71万播放。",
-      "risk": "不能承诺全自动无风险；必须写人工验收和权限边界。",
-      "format": "步骤卡：任务拆解、角色分工、后台状态、上下文隔离、人工验收。",
-      "review": "看评论里是否有人要模板、代跑和工作流复用。"
+      "lane": "AI / Skill Economy",
+      "score": 96,
+      "status": "AI 系列稿候选",
+      "lag": "外网 GitHub 已出现高星应用型 skill repo，中文内容仍常停留在提示词和工具榜。",
+      "translation": "强：把“技能包”解释成普通人可复用的工作岗位，能落到排版、视频、剪辑、复盘。",
+      "title": "为什么会用 AI 的人，开始给 AI 写岗位说明书？",
+      "hook": "提示词只能解决一次，skill 解决的是下次也能按同一标准交付。",
+      "proof": "GitHub Search API 7/27：gzh-design-skill 2,547 stars、video-shotcraft 1,959 stars、self-learning-skills 916 stars、OpenChatCut 537 stars。",
+      "risk": "不要把 awesome-llm-apps 写成上涨榜，只作为样本库基线。",
+      "format": "封面：AI 技能包四宫格；正文：排版、视频、剪辑、复盘、验收。",
+      "review": "看收藏率和评论里用户最想装哪类 skill。"
     }
   ],
   "weeklySop": [
@@ -575,15 +575,59 @@
     }
   ],
   "contentFormats": [
-    "格式：1 张联名地图封面 + 4 张机制卡 + 1 张评论区站队问题。",
-    "格式：用“大家以为它只是火 / 真正发生的是 IP 资产化”做两段式。",
-    "格式：先放一个可见联名事件，再拆角色人格、物件符号和粉丝身份。",
-    "格式：AI 工作流用角色分工卡呈现，不用工程周报口吻。",
-    "格式：风险类 AI 选题只写普通人权限清单，不写漏洞教程。"
+    "格式：1 张“真实女团 vs 虚拟女团”对照封面 + 4 张榜单/视觉/粉丝/商业机制卡。",
+    "格式：用“大家以为它只是动画歌 / 真正发生的是声乐二次扩散”做两段式。",
+    "格式：AI skill 选题用“岗位说明书”隐喻，拆成研究员、设计师、剪辑师、质检员。",
+    "格式：音乐授权争议只讲语境和品牌边界，不煽动政治立场争吵。",
+    "格式：GitHub repo 卡片必须写 created_at、stars、forks 和“基线/搜索聚类”口径。"
   ],
   "summarySparks": [
     {
-      "id": "marvel-trailer-economy-0725",
+      "id": "kdh-vocal-analysis-0727",
+      "tags": [
+        "kpop-demon-hunters",
+        "vocal-analysis",
+        "fandom",
+        "music-ip"
+      ],
+      "lane": "Pop Culture / Vocal Analysis",
+      "heat": "99",
+      "title": "KPop Demon Hunters 进入专业声乐二次扩散",
+      "spark": "Billboard 7/26 显示 HUNTR/X “Golden” 全球榜第 2，“How It’s Done” 第 9；YouTube 搜索复核显示 TerryAndKaniyia 179.69万播放、Tim Welch Vocal Studio 76.32万播放、Cinema Therapy 68.27万播放。讨论从剧情和角色扩展到高音、声线和真实女团舞台感。",
+      "xhsTitle": "为什么一首动画歌，会被当成真实女团舞台来拆？",
+      "discussion": "可见讨论点：How It’s Done 高音、Golden 副歌、HUNTR/X 真实女团错觉、角色声线、Saja Boys、谁最像真实 idol。",
+      "prompt": "引导话题：你是先被歌吸引，还是先被某个角色人格吸引？",
+      "tone": "非常适合小红书做声乐学习、女团人格、虚拟偶像真实感和 IP 长尾；只用高播放 UGC 支撑，不写未复核的精确互动。",
+      "related": [
+        "KPop Demon Hunters How It’s Done vocal",
+        "HUNTR/X Golden",
+        "virtual idol fandom"
+      ]
+    },
+    {
+      "id": "blackpink-huntrx-chart-0727",
+      "tags": [
+        "blackpink",
+        "huntr-x",
+        "girl-group",
+        "chart"
+      ],
+      "lane": "Music / Girl Group Moment",
+      "heat": "93",
+      "title": "BLACKPINK Jump 与 HUNTR/X 同榜制造真实/虚拟女团对照",
+      "spark": "Billboard 7/26 报道 BLACKPINK “Jump” 登顶 Global 200 和 Global Excl. U.S.，HUNTR/X “Golden” 位列第 2，“How It’s Done” 升至第 9。BLACKPINK YouTube UGC reaction 搜索未达主榜门槛，因此作为榜单验证与 TikTok/search cluster 使用。",
+      "xhsTitle": "为什么真实女团和虚拟女团，正在同时接管全球榜？",
+      "discussion": "可见讨论点：Jump 回归、BLINK 动员、HUNTR/X 同榜、女团视觉系统、舞蹈传播、真实 charisma 与角色设定。",
+      "prompt": "引导话题：你更容易被真人舞台吸引，还是被虚拟角色设定吸引？",
+      "tone": "适合做文化对照，不适合写成 BLACKPINK UGC 爆款；用榜单事实 + 搜索聚类口径。",
+      "related": [
+        "BLACKPINK Jump",
+        "HUNTR/X Golden",
+        "girl group comeback"
+      ]
+    },
+    {
+      "id": "marvel-trailer-economy-0727",
       "tags": [
         "marvel",
         "trailer-event",
@@ -591,13 +635,13 @@
         "ugc-analysis"
       ],
       "lane": "Pop Culture / Trailer Event",
-      "heat": "99",
+      "heat": "98",
       "title": "Marvel 预告重新变成全球级事件",
-      "spark": "Variety 7/22 报道 Avengers: Doomsday 官方预告 24 小时 5.03 亿观看，是影史第二大预告首发；同文提到 Spider-Man: Brand New Day 以 7.19 亿观看保持第一。YouTube 搜索复核显示 New Rockstars 277.53万播放、ScreenCrush 201.72万播放、Emergency Awesome 51.40万播放的拆解视频已经形成高播放 UGC 层。",
+      "spark": "Variety 7/22 报道 Avengers: Doomsday 官方预告 24 小时 5.03 亿观看，是影史第二大预告首发；YouTube 搜索复核显示 New Rockstars 277.53万播放、ScreenCrush 201.72万播放、Emergency Awesome 51.40万播放的拆解视频已经形成高播放 UGC 层。",
       "xhsTitle": "为什么超级英雄预告又突然像春晚一样被全网拆？",
       "discussion": "可见讨论点：Doctor Doom、RDJ 反派身份、X-Men 回归、Chris Evans、彩蛋考据、预售焦虑和漫威是否找回事件感。",
       "prompt": "引导话题：你现在看预告，是为了剧情，还是为了参与集体考古？",
-      "tone": "适合小红书做“预告经济”“粉丝考古”“IP 修复期”拆解；不要把官方预告本身当 UGC 主榜，只用高播放创作者拆解作支撑。",
+      "tone": "适合小红书做“预告经济”“粉丝考古”“IP 修复期”拆解；不要把官方预告本身当 UGC 主榜。",
       "related": [
         "Avengers Doomsday trailer breakdown",
         "Doctor Doom RDJ",
@@ -605,113 +649,69 @@
       ]
     },
     {
-      "id": "kdh-ugc-second-wave-0725",
+      "id": "katy-firework-rights-0727",
       "tags": [
-        "netflix",
-        "music-ip",
-        "fandom",
-        "ugc"
+        "katy-perry",
+        "music-rights",
+        "brand-boundary",
+        "tiktok"
       ],
-      "lane": "Pop Culture / Music IP",
-      "heat": "97",
-      "title": "KPop Demon Hunters 从爆款变成长线 fandom 机器",
-      "spark": "Netflix Tudum 官方页继续把 KPop Demon Hunters 定义为周年周边、巡演、最受欢迎影片和 HUNTR/X 音乐 IP；7/25 yt-dlp 搜索复核显示 Screen Junkies Honest Trailers 191.50万播放、Dylan Is In Trouble 128.24万播放、Critical Drinker 109.82万播放、Cinema Therapy 68.23万播放、RICHLEV 62.84万播放。",
-      "xhsTitle": "这部动画为什么不是爆一阵，而是变成了入坑系统？",
-      "discussion": "可见讨论点：Golden、HUNTR/X、Saja Boys、真实女团错觉、角色 pick、韩流细节、周边与巡演是否值得买单。",
-      "prompt": "引导话题：你会为一个虚拟女团买演唱会票或周边吗？",
-      "tone": "非常适合小红书做音乐 IP、角色人格、周边消费和“虚拟偶像为何更好跨品类”的系列稿。",
+      "lane": "Pop Culture / Music Rights",
+      "heat": "88",
+      "title": "Katy Perry Firework 争议是艺人品牌边界样本",
+      "spark": "Variety 7/26 报道 Katy Perry 批评 White House TikTok 把 “Firework” 用在军事打击画面。YouTube 相关 UGC 搜索未过主榜门槛，因此只进入搜索聚类/观察；可转译为歌曲意义、政治挪用和艺人品牌边界。",
+      "xhsTitle": "一首歌被放进错误语境，艺人为什么必须立刻切割？",
+      "discussion": "可见讨论点：音乐授权、艺人态度、政治短视频、歌曲原本情绪、平台传播伦理。",
+      "prompt": "引导话题：如果你的代表作被放进不认同的语境，你会第一时间公开切割吗？",
+      "tone": "适合做品牌人格边界，不适合做高互动 UGC 主榜。",
       "related": [
-        "KPop Demon Hunters analysis reaction",
-        "HUNTR/X Golden",
-        "KPop Demon Hunters merch tour"
+        "Katy Perry Firework White House",
+        "music rights TikTok",
+        "artist brand boundary"
       ]
     },
     {
-      "id": "spiderman-secret-marketing-0725",
+      "id": "claude-skills-mcp-0727",
       "tags": [
-        "marvel",
-        "spider-man",
-        "leaks",
-        "fan-reaction"
-      ],
-      "lane": "Pop Culture / Anticipation",
-      "heat": "94",
-      "title": "Spider-Man Brand New Day 的热度来自“保密失败也能营销”",
-      "spark": "Marvel 官方电影页显示 Spider-Man: Brand New Day 定档 2026-07-31；Variety 把它列为 7.19 亿观看的影史最大预告首发。YouTube 搜索复核显示同簇 Reaction/Breakdown 包括 The Media Knights 20.72万播放、Emergency Awesome 22.15万播放、Critically Moist 29.00万播放。",
-      "xhsTitle": "现在的电影营销，为什么越怕剧透越像在喂粉丝？",
-      "discussion": "可见讨论点：Tom Holland、Hulk/Punisher 猜测、泄露内容、情怀与疲劳并存、粉丝到底想不想被剧透。",
-      "prompt": "引导话题：你会主动看泄露和拆解，还是等正片？",
-      "tone": "适合拆“泄露-预告-考古-二创”的期待管理，但精确评论需人工复核后再做细评论卡。",
-      "related": [
-        "Spider-Man Brand New Day trailer reaction",
-        "Marvel leaks fan reaction",
-        "trailer anticipation"
-      ]
-    },
-    {
-      "id": "claude-subagents-0725",
-      "tags": [
-        "ai",
-        "agent-workflow",
         "claude-code",
-        "productivity"
+        "subagents",
+        "skills",
+        "mcp"
       ],
-      "lane": "AI / Workflow",
-      "heat": "94",
-      "title": "Claude sub-agent 内容仍在从工具教程变成工作流人格",
-      "spark": "Anthropic 官方材料持续强调 subagents、hooks、MCP、计划模式和多 agent 治理；7/25 YouTube 搜索复核显示 Developers Digest 26.52万播放、Nate Herk agent teams 26.71万播放、Leon van Zyl 10.34万播放、Web Dev Cody 7.98万播放。",
+      "lane": "AI / Agent Workflow",
+      "heat": "96",
+      "title": "Claude Code 内容从 subagents 延伸到 skills/MCP",
+      "spark": "7/27 yt-dlp 搜索复核：Developers Digest 26.57万播放、Nate Herk agent teams 26.85万播放、Tech With Tim Claude Code guide 23.20万播放；GitHub Search API 同步出现 video-shotcraft、gzh-design-skill、OpenChatCut 等应用型 skill repo。",
       "xhsTitle": "别再只问 AI，一个复杂任务应该拆给几种 AI 角色？",
-      "discussion": "可见讨论点：研究员/执行员/质检员分工、上下文隔离、什么时候该人工批准、agent 会不会越权。",
-      "prompt": "引导话题：你最想把哪个重复任务做成 AI 小团队？",
-      "tone": "适合小红书把工程师术语翻译成普通人工作流；必须保留权限、验收和安全边界。",
+      "discussion": "可见讨论点：角色分工、上下文隔离、权限、MCP、安装 skill、自动化创业 idea。",
+      "prompt": "引导话题：你最想把哪个重复任务交给 AI 小团队？",
+      "tone": "适合小红书做普通人 AI 工作流、技能包和产品人格；不要写成纯开发者教程。",
       "related": [
         "Claude Code subagents",
-        "agent teams workflow",
-        "AI approval fatigue"
+        "Claude Code skills",
+        "MCP workflow"
       ]
     },
     {
-      "id": "agent-skill-github-0725",
+      "id": "github-skill-economy-0727",
       "tags": [
         "github",
-        "skills",
-        "ai-workflow",
-        "open-source"
+        "agent-skills",
+        "creator-workflow",
+        "ai-apps"
       ],
-      "lane": "GitHub Skill / AI Apps",
-      "heat": "91",
-      "title": "Agent skill 从仓库榜单变成“可安装工作方法”",
-      "spark": "GitHub API 7/25 复核：openai/skills 24,155 stars / 1,637 forks；Forward-Future/loopy 2,851 stars / 255 forks；anthropics/claude-code 138,985 stars / 22,301 forks；langflow-ai/langflow 152,349 stars / 9,644 forks；langgenius/dify 150,152 stars / 23,662 forks。",
+      "lane": "GitHub / Skill Economy",
+      "heat": "94",
+      "title": "Skill repo 从提示词走向内容生产 app",
+      "spark": "7/27 GitHub Search API：gzh-design-skill 2,547 stars、video-shotcraft 1,959 stars、self-learning-skills 916 stars、loopkit 726 stars、OpenChatCut 537 stars。共同点是把具体交付物和工作流打包为可安装能力。",
       "xhsTitle": "为什么会用 AI 的人，开始给 AI 写岗位说明书？",
-      "discussion": "可见讨论点：技能包、agent loop、低代码工作流、团队治理、从收藏提示词到沉淀 SOP。",
-      "prompt": "引导话题：你的第一个 AI skill 会写给哪类任务？",
-      "tone": "适合做普通人 AI 工作流和创业 idea；不把固定仓库列表伪装成上涨榜，只写 API 可复核基线。",
+      "discussion": "可见讨论点：排版、视频、剪辑、复盘、token 成本、跨 agent 复用、普通人是否需要 skill 商店。",
+      "prompt": "引导话题：你最希望 AI 固定掌握哪项技能：排版、剪辑、研究，还是复盘？",
+      "tone": "适合做 AI 应用趋势和创业 idea；awesome-llm-apps 只作为基线，不写成上涨榜。",
       "related": [
-        "openai skills",
-        "Forward-Future loopy",
-        "Claude Code GitHub"
-      ]
-    },
-    {
-      "id": "tiktok-search-clusters-0725",
-      "tags": [
-        "tiktok",
-        "search-cluster",
-        "fandom",
-        "aesthetic"
-      ],
-      "lane": "TikTok / Search Cluster",
-      "heat": "88",
-      "title": "TikTok 入口仍是实体搜索，不是抽象趋势词",
-      "spark": "今天只记录搜索聚类：Avengers Doomsday trailer breakdown、Spider-Man Brand New Day reaction、KPop Demon Hunters HUNTR/X Golden、Claude Code subagents workflow。未拿到精确视频 URL 时不链接账号页。",
-      "xhsTitle": "外网热梗不是关键词，而是一串可复制的实体组合",
-      "discussion": "可见讨论点：粉丝考古、角色 pick、预告二创、AI 小团队模板、收藏型教程。",
-      "prompt": "引导话题：你刷到一个热梗时，会先搜人名、作品名还是事件名？",
-      "tone": "适合小红书运营 SOP，不适合当成单条爆款证明。",
-      "related": [
-        "TikTok search cluster",
-        "entity-first research",
-        "fan reaction"
+        "gzh-design-skill",
+        "video-shotcraft",
+        "OpenChatCut"
       ]
     }
   ],
@@ -735,11 +735,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-07-25-1208",
-    "contentWindow": "内容研究窗口：2026.07.10 - 2026.07.25 / 部署包生成：2026.07.25 12:08 CST",
-    "researchedThrough": "2026-07-25",
-    "packageGeneratedAt": "2026-07-25 12:08 CST",
-    "summary": "7/25 动态发现从具体实体反推：Marvel 线由 Avengers: Doomsday 官方预告 24 小时 5.03 亿观看、Spider-Man: Brand New Day 7.19 亿观看纪录，以及 New Rockstars / ScreenCrush / Emergency Awesome 等高播放 UGC 拆解支撑；KPop Demon Hunters 线继续从官方周年周边、巡演、HUNTR/X 角色经济和 YouTube 高播放反应视频支撑；AI 线从 Claude Code subagents、agent teams、auto mode 和 GitHub skills/API star 基线切入。TikTok 只写站内搜索聚类，不链接不匹配账号页；YouTube 单页点赞/评论仍触发反 bot，因此新样本只写播放复核和可见评论主题，不伪装完整评论导出。"
+    "editionId": "2026-07-27-1225",
+    "contentWindow": "内容研究窗口：2026.07.12 - 2026.07.27 / 部署包生成：2026.07.27 12:25 CST",
+    "researchedThrough": "2026-07-27",
+    "packageGeneratedAt": "2026-07-27 12:25 CST",
+    "summary": "7/27 动态发现从具体实体反推：BLACKPINK “Jump” 登顶全球榜但 YouTube UGC 反应搜索未过主榜门槛，因此只进入搜索聚类；Katy Perry “Firework” 政治挪用争议缺少高互动 UGC，只作为 TikTok/话题观察。主榜继续使用可复核高播放 UGC 支撑：KPop Demon Hunters 的 “How It’s Done/Golden” 声乐拆解二次扩散、Marvel 预告经济、Claude Code subagents/skills 工作流。GitHub skill 区改为 7/27 GitHub Search API 中突然可见的 agent skill/workflow repo，并保留 awesome-llm-apps 为基线。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
