@@ -738,10 +738,10 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-07-28-1048",
-    "contentWindow": "内容研究窗口：2026.07.13 - 2026.07.28 / 部署包生成：2026.07.28 10:48 CST",
+    "editionId": "2026-07-28-1036",
+    "contentWindow": "内容研究窗口：2026.07.13 - 2026.07.28 / 部署包生成：2026.07.28 10:36 CST",
     "researchedThrough": "2026-07-28",
-    "packageGeneratedAt": "2026-07-28 10:48 CST",
+    "packageGeneratedAt": "2026-07-28 10:36 CST",
     "summary": "7/28 动态发现从具体实体反推：BLACKPINK “Jump” 高播放剪辑/声乐 UGC 已过主榜播放门槛并有 Billboard 榜单验证；KPop Demon Hunters 从 HUNTR/X 声乐延伸到 Saja Boys “Soda Pop” 的专业音乐拆解；Superman 高播放影评形成 DCU 重启与真诚英雄价值观争论；Justin Bieber “Daisies” 只进观察。AI 线更新为 Claude Code skills/MCP 的普通人解释层，并用 GitHub Search API 更新 open-science、jakubkrehel/skills、story-to-handdrawn-video 等新 skill/workflow 样本。TikTok 只写搜索聚类，不伪装精确视频链接。"
   },
   "selectionPolicy": {
