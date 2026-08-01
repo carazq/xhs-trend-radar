@@ -1,7 +1,7 @@
 window.RADAR_DATA = {
   "trends": [
     {
-      "title": "KPop Demon Hunters：Soda Pop 把男团 parody 变成专业音乐拆解对象",
+      "title": "KPop Demon Hunters：Golden 声乐拆解从动画歌变成 belting 教材",
       "tags": [
         "Pop Culture",
         "Music IP",
@@ -9,16 +9,94 @@ window.RADAR_DATA = {
         "Fandom"
       ],
       "priority": "high",
-      "metrics": "7/29 yt-dlp 搜索复核 UGC：TerryAndKaniyia 44.18万播放、Throga Vocal Gym 19.28万播放、Alex Sinclair 16.65万播放、Beth Roars 15.22万播放、Jennifer Glatzhofer 11.38万播放、Justin Burke 9.42万播放、Chris Liepe 6.85万播放。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Soda Pop reaction / vocal coach / songwriter analysis / Saja Boys",
-      "heat": "今天最干净的 pop culture 热簇是 Saja Boys “Soda Pop”：从好笑的男团桥段变成 vocal coach、songwriter 和歌手反应认真拆的 hook 设计。",
-      "signal": "可转译点：强 IP 会让反派/配角歌曲也拥有二创寿命；粉丝不是只消费主角团，而是围绕整个音乐宇宙找身份位置。",
-      "why": "适合小红书：可拆“为什么反派男团歌更容易上头”、K-pop 男团公式、parody 如何做得像真歌。",
-      "discussion": "可见主题集中在 Saja Boys、hook 反复、男团套路、搞笑和性感边界、角色声线、编曲小机关和舞蹈记忆点。",
+      "metrics": "8/1 yt-dlp 搜索复核 UGC：Tim Welch Vocal Studio 256.32万播放、The Charismatic Voice 109.97万播放、Chris Liepe 75.13万播放、Throga Vocal Gym 58.75万播放、Julia Nilon 33.91万播放、Tristan Paredes 19.27万播放、The Vocalyst 17.36万播放。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Golden reaction / vocal coach / belting analysis / HUNTR/X",
+      "heat": "今天最强的 pop culture 热簇是 Golden：专业声乐创作者把它从“动画爆歌”拆成高音、belting、角色声线和 K-pop 式情绪顶点。",
+      "signal": "可转译点：虚拟 IP 的音乐传播，不靠官方宣传解释世界观，而靠可被专业拆解、可被粉丝模仿的技术记忆点。",
+      "why": "适合小红书：可拆“为什么 Golden 的高音让人想反复看 reaction”、虚拟女团如何获得真人女团式讨论。",
+      "discussion": "可见主题集中在 belted A5、高音爽感、HUNTR/X 角色声线、Ejae/Audrey Nuna/Rei Ami、动画歌曲专业度和粉丝跟唱门槛。",
       "ideas": [
-        "标题：为什么一首反派男团歌，比正经情歌还容易洗脑？",
-        "结构：Soda Pop 入耳 -> 专业拆解 -> 男团公式 -> 角色魅力 -> IP 长尾",
-        "评论引导：你更爱 HUNTR/X 的 Golden，还是 Saja Boys 的 Soda Pop？"
+        "标题：为什么 Golden 的高音，会让全网声乐老师集体上头？",
+        "结构：高播放 reaction -> 高音技术 -> 角色声线 -> 虚拟女团真实感 -> 粉丝模仿",
+        "评论引导：你第一次被 Golden 击中，是副歌高音还是角色入场？"
+      ],
+      "sources": [
+        [
+          "Tim Welch Vocal Studio / 256.32万播放",
+          "https://www.youtube.com/watch?v=IreDFhu9AOE"
+        ],
+        [
+          "The Charismatic Voice / 109.97万播放",
+          "https://www.youtube.com/watch?v=QsTQQ42UhvU"
+        ],
+        [
+          "Chris Liepe / 75.13万播放",
+          "https://www.youtube.com/watch?v=7FseDVBhzXw"
+        ],
+        [
+          "Throga Vocal Gym / 58.75万播放",
+          "https://www.youtube.com/watch?v=Z53ghfFuTT8"
+        ]
+      ]
+    },
+    {
+      "title": "Fantastic Four: First Steps：Marvel 家庭牌和复古未来感带回高互动影评",
+      "tags": [
+        "Pop Culture",
+        "Film",
+        "Marvel",
+        "Fandom Debate"
+      ],
+      "priority": "high",
+      "metrics": "8/1 yt-dlp 搜索复核 UGC：New Rockstars 226.74万播放、The Critical Drinker 223.61万播放、ScreenCrush breakdown 116.42万播放、CinemaWins 59.94万播放、ScreenCrush re-review 27.17万播放、Writing WestWord 19.09万播放、Amanda the Jedi 15.71万播放。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: Fantastic Four First Steps review / breakdown / Easter eggs / family dynamic",
+      "heat": "Fantastic Four 讨论已经从“MCU 是否回春”进入更可转译的家庭叙事：观众在争论 Marvel 是否终于重新做出有温度、有审美标识的团队。",
+      "signal": "可转译点：IP 疲劳期的破局不只是彩蛋密度，而是能不能让角色关系、家庭感和美术风格重新变成观众愿意复述的卖点。",
+      "why": "适合小红书：可做“为什么现在观众想看家庭型英雄团队”、复古未来审美、Marvel 信任修复。",
+      "discussion": "可见主题集中在 First Steps、家庭感、Pedro Pascal 版 Reed、复古未来美术、Galactus、彩蛋密度、MCU 连接和“没想到还不错”的预期反转。",
+      "ideas": [
+        "标题：Marvel 这次被夸，不是因为彩蛋多，而是因为像一家人",
+        "结构：高播放影评 -> 预期反转 -> 家庭叙事 -> 复古未来视觉 -> IP 信任修复",
+        "评论引导：你看超英片更吃世界观彩蛋，还是角色关系？"
+      ],
+      "sources": [
+        [
+          "New Rockstars / 226.74万播放",
+          "https://www.youtube.com/watch?v=8bP78x4Z09A"
+        ],
+        [
+          "The Critical Drinker / 223.61万播放",
+          "https://www.youtube.com/watch?v=ZTON5_5NH7A"
+        ],
+        [
+          "ScreenCrush / 116.42万播放",
+          "https://www.youtube.com/watch?v=fF_zF0KR3Tk"
+        ],
+        [
+          "CinemaWins / 59.94万播放",
+          "https://www.youtube.com/watch?v=Ave3SFyAvz0"
+        ]
+      ]
+    },
+    {
+      "title": "Soda Pop / Saja Boys：反派男团歌继续证明 parody 也能被认真消费",
+      "tags": [
+        "Pop Culture",
+        "Music IP",
+        "K-pop Formula",
+        "Fandom"
+      ],
+      "priority": "high",
+      "metrics": "8/1 复扫沿用并更新 7/29 高播放 UGC 搜索元数据：TerryAndKaniyia 44.18万播放、Throga Vocal Gym 19.28万播放、Beth Roars 15.22万播放、Chris Liepe 6.85万播放；搜索聚类继续集中在 Soda Pop / Saja Boys / songwriter analysis。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Soda Pop reaction / songwriter analysis / Saja Boys",
+      "heat": "Soda Pop 没有退成短期梗，而是继续作为 Golden 的反面镜像被讨论：一个负责专业高音爽点，一个负责男团公式和角色欲望投射。",
+      "signal": "可转译点：当 parody 做得足够像真作品，粉丝会用对待真人团的方式讨论角色、舞蹈、hook 和站队。",
+      "why": "适合小红书：可做 Golden vs Soda Pop 双线对照，一条讲女团高音神话，一条讲反派男团为什么更容易洗脑。",
+      "discussion": "可见主题集中在 Saja Boys、hook 反复、男团套路、搞笑和性感边界、角色声线、Golden vs Soda Pop 站队。",
+      "ideas": [
+        "标题：为什么反派男团歌，反而最像一首真的 K-pop 热单？",
+        "结构：Soda Pop 入耳 -> 男团公式 -> parody 认真做 -> Golden 对照 -> IP 长尾",
+        "评论引导：Golden 和 Soda Pop，你更愿意把哪首加入歌单？"
       ],
       "sources": [
         [
@@ -38,212 +116,138 @@ window.RADAR_DATA = {
           "https://www.youtube.com/watch?v=K4pLiiovmpg"
         ]
       ]
-    },
-    {
-      "title": "BLACKPINK Jump：回归继续被拆成剪辑语言、采样和硬派舞曲能量",
-      "tags": [
-        "Pop Culture",
-        "K-pop",
-        "Music Video",
-        "Fandom"
-      ],
-      "priority": "high",
-      "metrics": "7/29 yt-dlp 搜索复核 UGC：Jordan Orme 71.54万播放、Katriinka 32.60万播放、Form of Therapy 11.87万播放；Billboard Canada 7/26 报道 Jump 登顶 Global 200 与 Global Excl. U.S.。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: BLACKPINK Jump reaction / MV editing analysis / vocal coach / tour discourse",
-      "heat": "BLACKPINK 线继续从“榜单第一”转成创作者拆解：MV 剪辑、hardstyle/drop、成员造型和巡演舞台被合并成一套视觉冲击型 comeback。",
-      "signal": "可转译点：大团回归的传播力来自可截图的视觉系统、可复述的声音标签和粉丝能立刻加入的舞蹈/舞台语言。",
-      "why": "适合小红书：可做 K-pop 回归视觉、MV 剪辑、女团 comeback 为什么要有一眼记住的动作和声音钩子。",
-      "discussion": "可见主题集中在 MV 剪辑节奏、hardstyle/drop、成员造型、Jennie/Tame Impala 同期榜单语境、BLINK 集体回归感和巡演表现。",
-      "ideas": [
-        "标题：BLACKPINK 这次回归，为什么像在用 15 秒剪辑训练全网记忆？",
-        "结构：榜单确认 -> 剪辑反应爆发 -> 声音/采样 -> 舞台动作 -> 粉丝参与",
-        "评论引导：你记住 Jump 是因为旋律、drop、造型还是某个镜头？"
-      ],
-      "sources": [
-        [
-          "Jordan Orme / 71.54万播放",
-          "https://www.youtube.com/watch?v=lsHmtJyotdM"
-        ],
-        [
-          "Katriinka / 32.60万播放",
-          "https://www.youtube.com/watch?v=GQ1ddsoyQgw"
-        ],
-        [
-          "Form of Therapy / 11.87万播放",
-          "https://www.youtube.com/watch?v=rLuD4R5kDMg"
-        ],
-        [
-          "Billboard Canada / BLACKPINK Jump chart",
-          "https://ca.billboard.com/music/chart-beat/blackpink-jump-global-charts-number-one-july-26-1236026031/"
-        ]
-      ]
-    },
-    {
-      "title": "Superman / DCU：真诚英雄、反犬儒和重启焦虑继续制造高互动影评",
-      "tags": [
-        "Pop Culture",
-        "Film",
-        "Fandom Debate",
-        "DCU"
-      ],
-      "priority": "high",
-      "metrics": "近 15 天高播放 UGC 主证据沿用并复扫：penguinz0 216.95万播放、The Critical Drinker 213.23万播放、FilmSpeak 46.67万播放；搜索聚类：Superman James Gunn DCU reaction controversy explained。",
-      "channel": "YouTube UGC high-view commentary + Search cluster: Superman James Gunn DCU values debate / superhero fatigue",
-      "heat": "Superman 讨论的可摘录点不是单纯好不好看，而是观众是否重新需要“不酷但真诚”的英雄。",
-      "signal": "可转译点：当大众内容进入疲劳期，反而会回到最朴素的人格价值：善良、希望感、可相信。",
-      "why": "适合小红书：影视内容可以转成“为什么我们又想看真诚的人”这样的情绪消费和人设分析。",
-      "discussion": "可见主题集中在 James Gunn、DCU 重启、真诚 vs 犬儒、旧超英疲劳、粉丝护城河和价值观站队。",
-      "ideas": [
-        "标题：为什么大家又开始需要一个“不酷但真诚”的英雄？",
-        "结构：争议 -> 高播放影评 -> 真诚英雄 -> 反犬儒 -> 小红书情绪话题",
-        "评论引导：你现在还吃“真诚英雄”这一套吗？"
-      ],
-      "sources": [
-        [
-          "penguinz0 / 216.95万播放",
-          "https://www.youtube.com/results?search_query=Superman+penguinz0+James+Gunn"
-        ],
-        [
-          "The Critical Drinker / 213.23万播放",
-          "https://www.youtube.com/results?search_query=The+Critical+Drinker+Superman+James+Gunn"
-        ],
-        [
-          "FilmSpeak / 46.67万播放",
-          "https://www.youtube.com/results?search_query=FilmSpeak+Superman+2026+review"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
       "label": "Exact video / view-verified",
-      "title": "Chris Liepe: Genius writing and arranging! Full Analysis of Soda Pop",
-      "use": "6.85万播放；7/29 新增专业编曲/写作拆解样本，支撑 Soda Pop 从玩梗进入 songwriter 分析。单页互动受限，不写精确点赞/评论。",
-      "url": "https://www.youtube.com/watch?v=K4pLiiovmpg"
+      "title": "Tim Welch Vocal Studio: Pro Vocal Coach Reacts to Golden",
+      "use": "256.32万播放；8/1 搜索复核最高播放声乐拆解，支撑 Golden 高音、belting、角色声线主线。单页互动受反 bot 限制，不新增精确点赞/评论。",
+      "url": "https://www.youtube.com/watch?v=IreDFhu9AOE"
     },
     {
       "label": "Exact video / view-verified",
-      "title": "TerryAndKaniyia: Soda Pop reaction",
-      "use": "44.18万播放；支撑 Saja Boys / Soda Pop 的大众反应和 hook 上头讨论。",
-      "url": "https://www.youtube.com/watch?v=8bPA4aK0vp0"
+      "title": "The Charismatic Voice: Is This The Best Belted A5 Ever?",
+      "use": "109.97万播放；把 Golden 的副歌高音拆成专业声乐话题，适合转成“技术爽点如何制造传播”。",
+      "url": "https://www.youtube.com/watch?v=QsTQQ42UhvU"
     },
     {
       "label": "Exact video / view-verified",
-      "title": "Jordan Orme: BLACKPINK Jump MV editing reaction",
-      "use": "71.54万播放；支撑 Jump 的 MV 剪辑、镜头记忆点和视觉冲击型 comeback 讨论。",
-      "url": "https://www.youtube.com/watch?v=lsHmtJyotdM"
+      "title": "New Rockstars: Fantastic Four First Steps breakdown",
+      "use": "226.74万播放；支撑 Marvel 彩蛋、复古未来美术和 MCU 连接讨论。",
+      "url": "https://www.youtube.com/watch?v=8bP78x4Z09A"
     },
     {
       "label": "Exact video / view-verified",
-      "title": "Katriinka: BLACKPINK Jump sampled WHAT?!",
-      "use": "32.60万播放；支撑 hardstyle/drop、采样感和声乐反应角度。",
-      "url": "https://www.youtube.com/watch?v=GQ1ddsoyQgw"
+      "title": "The Critical Drinker: Fantastic Four - This Movie Shocked Me",
+      "use": "223.61万播放；支撑预期反转和“Marvel 是否重新赢回信任”的争议语境。",
+      "url": "https://www.youtube.com/watch?v=ZTON5_5NH7A"
     },
     {
       "label": "Search cluster / watchlist",
       "title": "Ariana Grande Petal / hate that i made you love me",
-      "use": "Cedric Johnson 12.36万播放、Tristan Paredes 9.51万播放；但搜索结果混入官方 MV、旧专辑和低量 AI 视频，今天只作观察。",
+      "use": "8/1 搜索复核：Cedric Johnson 12.42万播放，但 Petal 专辑/视频 reaction 大量结果低于主榜量级或混入旧内容；今天只作观察，不进 Social 主榜。",
       "url": "https://www.youtube.com/results?search_query=Ariana+Grande+Petal+album+reaction+analysis"
     }
   ],
   "aiSignals": [
     {
-      "title": "Claude Code skills / MCP / agents concept boundary",
-      "type": "YouTube view-verified exact videos + workflow explainer cluster",
-      "metrics": "7/29 yt-dlp 搜索复核：Tech With Tim “The Ultimate Claude Code Guide” 23.29万播放、Confluent Developer “Agent Skills or MCP” 21.72万播放、Grace Leung agent team 19.18万播放、AI Master agent tutorial 11.04万播放。",
+      "title": "Claude Code full-course economy: non-coders want agent workbenches, not prompts",
+      "type": "YouTube view-verified exact videos + workflow tutorial cluster",
+      "metrics": "8/1 yt-dlp 搜索复核：Nick Saraev “CLAUDE CODE FULL COURSE 4 HOURS” 220.83万播放、Productive Dude “FULL Claude Tutorial” 78.01万播放、Tech With Tim “Ultimate Claude Code Guide” 23.42万播放、Nate Herk “Claude Code for Non-Coders” 11.59万播放。",
       "source": "YouTube creators",
-      "heat": "AI 内容热点继续从“新工具很强”转向“普通人如何理解 Skills、MCP、agents、plugins 的边界”。",
-      "summary": "教程流量来自概念翻译：把技术名词翻译成角色、权限、流程和验收标准。",
-      "idea": "小红书角度：一个 AI 任务到底该交给 skill、MCP 还是 agent？",
-      "url": "https://www.youtube.com/watch?v=uogzSxOw4LU"
+      "heat": "AI 教程热点从单个工具演示升级成长课和非开发者工作流：观众想知道如何把 agent、skills、MCP、plugins 组合成可交付系统。",
+      "summary": "高播放不来自一个新按钮，而来自“把复杂概念变成可执行工作台”的承诺。",
+      "idea": "小红书角度：不会写代码的人，为什么开始学 Claude Code？",
+      "url": "https://www.youtube.com/watch?v=QoQBzR1NIqI"
     },
     {
-      "title": "Agent harness / AI workbench replaces single chatbox",
-      "type": "GitHub Search API + YouTube workflow cluster",
-      "metrics": "GitHub Search API 7/29：xai-org/grok-build 23,260 stars / 4,405 forks / created_at 2026-07-14；unicity-aos/aos-ce 7,721 stars / 13 forks / created_at 2026-07-12；synthetic-sciences/openscience 2,914 stars / 404 forks / pushed_at 2026-07-29。",
+      "title": "Agent skills split into vertical capability packs: video, writing, charts, games",
+      "type": "GitHub Search API / newly-created skill repo cluster",
+      "metrics": "GitHub Search API 8/1：Vincentwei1021/video-shotcraft 3,039 stars / 258 forks / created_at 2026-07-19；AminBlg/SimpleEnglish 1,138 stars / 34 forks / created_at 2026-07-21；Raymondhou0917/speak-human-tw 729 stars / 85 forks / created_at 2026-07-08；worldwonderer/novel-to-game 460 stars / 73 forks / created_at 2026-07-18。",
       "source": "GitHub Search API",
-      "heat": "开发者和 creator 工具都在把 AI 从聊天框推进到 harness、TUI、agent OS 和 research workbench。",
-      "summary": "产品机会不只是更强模型，而是把任务上下文、工具权限和交付格式做成可复用系统。",
-      "idea": "小红书角度：下一批 AI 应用，可能不是聊天框，而是你的专属工作台。",
-      "url": "https://github.com/xai-org/grok-build"
-    },
-    {
-      "title": "AI video skill / UI skill becomes creator economy infrastructure",
-      "type": "GitHub Search API / creator workflow repo cluster",
-      "metrics": "GitHub Search API 7/29：Vincentwei1021/video-shotcraft 2,534 stars / 216 forks / created_at 2026-07-19；jakubkrehel/skills 1,323 stars / 34 forks / pushed_at 2026-07-28；Jakubantalik/thinking-orbs 1,218 stars / 91 forks / created_at 2026-07-21。",
-      "source": "GitHub Search API",
-      "heat": "creator economy 的 AI repo 正从“生成内容”走向“固定风格、固定动作、固定 UI 状态”的能力包。",
-      "summary": "内容生产的下一步是把审美、分镜、动效和交付格式固化成 skill。",
-      "idea": "小红书角度：真正省时间的 AI，不是帮你写，而是帮你稳定复刻风格。",
+      "heat": "Skill repo 正在从通用 prompt 包转成垂直能力包：视频分镜、技术英文、去 AI 味写作、小说转游戏。",
+      "summary": "产品机会在“把一种可重复审美/工艺封装成技能”，而不是只卖提示词。",
+      "idea": "小红书角度：AI skill 的下一波，是把你的固定手艺做成可复用包。",
       "url": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "title": "Local-first research and media workbenches become agent infrastructure",
+      "type": "GitHub Search API / workbench repo cluster",
+      "metrics": "GitHub Search API 8/1：ai4s-research/open-science 1,054 stars / 115 forks / pushed_at 2026-07-31；0xsline/OpenChatCut 729 stars / 88 forks / pushed_at 2026-07-31；Pluviobyte/rnskill 1,078 stars / 132 forks / pushed_at 2026-07-27。",
+      "source": "GitHub Search API",
+      "heat": "AI 应用趋势继续从聊天框走向本地优先的工作台：研究、视频剪辑、内容技能都强调 MCP、agent skills 和可控交付。",
+      "summary": "信任感来自可见时间线、文件、权限和产物，而不是更拟人的聊天语气。",
+      "idea": "小红书角度：下一代 AI 应用，为什么都想变成“桌面工作台”？",
+      "url": "https://github.com/ai4s-research/open-science"
     }
   ],
   "tiktokSignals": [
     {
-      "title": "KPop Demon Hunters Soda Pop / Saja Boys search cluster",
+      "title": "KPop Demon Hunters Golden / HUNTR/X vocal search cluster",
       "tags": [
         "TikTok",
         "KPop Demon Hunters",
-        "Saja Boys",
-        "Audio"
+        "Golden",
+        "HUNTR/X"
       ],
       "priority": "high",
-      "metrics": "2026-07-29 站内搜索聚类 / 非关注搜索采样；YouTube vocal/songwriter 高播放 UGC 作外部验证。",
-      "channel": "TikTok Search: KPop Demon Hunters Soda Pop Saja Boys dance vocal reaction",
+      "metrics": "2026-08-01 站内搜索聚类口径 / 非关注搜索方向；YouTube 声乐拆解高播放 UGC 作外部验证。",
+      "channel": "TikTok Search: KPop Demon Hunters Golden HUNTR/X vocal cover high note reaction",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Saja Boys、Soda Pop 舞蹈、hook 洗脑、男团套路和角色二创。",
-      "signal": "小红书可拆成“反派男团歌为什么比正经情歌更上头”。",
-      "discussion": "可见主题：男团公式、搞笑性感边界、hook、角色 pick、二创舞蹈。",
-      "xhsTitle": "为什么一首反派男团歌，比正经情歌还容易洗脑？",
-      "angle": "结构：音频上头 -> 男团公式 -> parody 认真做 -> 角色魅力。",
-      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Soda%20Pop%20Saja%20Boys%20dance%20vocal%20reaction"
+      "heat": "入口集中在 Golden 副歌高音、HUNTR/X 角色站队、跟唱/翻唱、声乐老师 reaction。",
+      "signal": "小红书可拆成“虚拟女团为什么也能有真人女团式声乐神话”。",
+      "discussion": "可见主题：高音爽感、角色声线、女团能量、跟唱难度、声乐老师集体上头。",
+      "xhsTitle": "为什么 Golden 的高音，会让全网声乐老师集体上头？",
+      "angle": "结构：音频爆点 -> 高音技术 -> 角色声线 -> 粉丝模仿。",
+      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Golden%20HUNTRX%20vocal"
     },
     {
-      "title": "BLACKPINK Jump dance / MV editing search cluster",
+      "title": "Fantastic Four First Steps review / family team search cluster",
       "tags": [
         "TikTok",
-        "BLACKPINK",
-        "K-pop",
-        "Dance"
+        "Marvel",
+        "Fantastic Four",
+        "Film"
       ],
       "priority": "high",
-      "metrics": "2026-07-29 站内搜索聚类 / 非关注搜索采样；YouTube 高播放 UGC 和 Billboard 榜单作外部验证。",
-      "channel": "TikTok Search: BLACKPINK Jump dance MV edit reaction hardstyle comeback",
-      "sourceType": "站内搜索聚类 / 榜单与 YouTube UGC 验证",
+      "metrics": "2026-08-01 站内搜索聚类口径；YouTube 高播放 review/breakdown 作外部验证。",
+      "channel": "TikTok Search: Fantastic Four First Steps review family Marvel reaction",
+      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Jump 舞蹈、MV 高冲击剪辑、成员造型、hardstyle/drop 和 BLINK 回归庆祝。",
-      "signal": "小红书可拆成“一支 comeback 如何设计 15 秒可记忆点”。",
-      "discussion": "可见主题：舞蹈动作、MV 镜头、成员造型、drop、巡演舞台、真实女团回归。",
-      "xhsTitle": "BLACKPINK 这次回归，为什么像在用 15 秒剪辑训练全网记忆？",
-      "angle": "结构：榜单 -> MV 剪辑 -> 声音钩子 -> 舞蹈传播 -> 粉丝参与。",
-      "url": "https://www.tiktok.com/search?q=BLACKPINK%20Jump%20dance%20MV%20edit%20reaction%20hardstyle%20comeback"
+      "heat": "入口集中在 Marvel 回春、家庭型团队、Pedro Pascal、复古未来审美和 Galactus。",
+      "signal": "小红书可转成“为什么大家又想看像一家人的超英团队”。",
+      "discussion": "可见主题：家庭感、复古未来、预期反转、MCU 疲劳、角色关系。",
+      "xhsTitle": "Marvel 这次被夸，不是因为彩蛋多，而是因为像一家人",
+      "angle": "结构：影评热度 -> 家庭叙事 -> 审美系统 -> IP 信任修复。",
+      "url": "https://www.tiktok.com/search?q=Fantastic%20Four%20First%20Steps%20review%20family"
     },
     {
-      "title": "Ariana Grande Petal / Petal-Man Day search cluster",
+      "title": "KPop Demon Hunters Soda Pop / Saja Boys search cluster",
       "tags": [
         "TikTok",
-        "Ariana Grande",
-        "Pop Era",
-        "Fandom"
+        "Soda Pop",
+        "Saja Boys",
+        "Audio"
       ],
       "priority": "medium",
-      "metrics": "2026-07-29 搜索聚类；AP 7/27-8/2 娱乐周报和 SocialPilot 7/31 “Petal-Man Day” 预热作外部验证；精确视频链接待补。",
-      "channel": "TikTok Search: Ariana Grande Petal hate that i made you love me fan reaction era",
-      "sourceType": "站内搜索聚类 / 娱乐周报与 YouTube UGC 验证",
+      "metrics": "2026-08-01 站内搜索聚类延续；YouTube songwriter/vocal reaction 作外部验证。",
+      "channel": "TikTok Search: Saja Boys Soda Pop dance reaction KPop Demon Hunters",
+      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Petal 新专辑、lead single、粉丝怀旧和 Spider-Man 同日 fandom 编辑。",
-      "signal": "小红书可拆成“为什么女明星每次换 era，粉丝都在找旧版她”。",
-      "discussion": "可见主题：新 era、旧 Ariana 怀旧、Wicked 后形象、pop girl 日程撞车、粉丝期待管理。",
-      "xhsTitle": "为什么每个女明星新 era，都会被问“以前的她去哪了”？",
-      "angle": "结构：新专辑预热 -> 旧形象怀念 -> 女明星 era 更替 -> 粉丝关系。",
-      "url": "https://www.tiktok.com/search?q=Ariana%20Grande%20Petal%20hate%20that%20i%20made%20you%20love%20me%20fan%20reaction%20era"
+      "heat": "入口集中在反派男团、hook 洗脑、舞蹈二创、Golden vs Soda Pop 站队。",
+      "signal": "小红书可拆成“parody 为什么会被当成真男团消费”。",
+      "discussion": "可见主题：男团公式、角色欲望投射、搞笑性感边界、hook、站队。",
+      "xhsTitle": "为什么反派男团歌，反而最像一首真的 K-pop 热单？",
+      "angle": "结构：音频上头 -> 男团公式 -> parody 认真做 -> IP 长尾。",
+      "url": "https://www.tiktok.com/search?q=Saja%20Boys%20Soda%20Pop%20KPop%20Demon%20Hunters"
     },
     {
-      "title": "Claude Code skills vs MCP workflow search cluster",
+      "title": "Claude Code skills / non-coder workflow search cluster",
       "tags": [
         "TikTok",
         "AI",
@@ -251,162 +255,162 @@ window.RADAR_DATA = {
         "Workflow"
       ],
       "priority": "medium",
-      "metrics": "2026-07-29 站内搜索聚类 / YouTube 与 GitHub 验证；Tech With Tim 23.29万播放、Confluent Developer 21.72万播放。",
-      "channel": "TikTok Search: Claude Code skills MCP agent workflow explained",
-      "sourceType": "站内搜索聚类 / YouTube UGC + GitHub Search API 验证",
+      "metrics": "2026-08-01 站内搜索聚类；YouTube 4h/6h Claude Code 课程和 GitHub skill repo 作外部验证。",
+      "channel": "TikTok Search: Claude Code skills MCP non coders workflow AI agent",
+      "sourceType": "站内搜索聚类 / YouTube + GitHub 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 skill、MCP、agent、plugins 的区别和普通人工作流。",
-      "signal": "小红书可拆成“别再只问 AI，你需要的是一套可解释的 AI 小团队”。",
-      "discussion": "可见主题：概念太多、权限边界、任务拆分、工作流模板、工具选择焦虑。",
-      "xhsTitle": "一个 AI 任务到底该交给 skill、MCP 还是 agent？",
-      "angle": "结构：概念混乱 -> 三类边界 -> 一个普通人工作流例子。",
-      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20MCP%20agent%20workflow%20explained"
+      "heat": "入口集中在非程序员学 Claude Code、skills vs MCP、用 AI 做网站/自动化/视频。",
+      "signal": "小红书可转成普通人工作流：把 agent 当成可验收的外包，而不是聊天对象。",
+      "discussion": "可见主题：不懂代码能不能用、长课值不值、MCP/skill 区别、自动化变现。",
+      "xhsTitle": "不会写代码的人，为什么开始学 Claude Code？",
+      "angle": "结构：教程爆发 -> 概念翻译 -> 工作台 -> 普通人可复制流程。",
+      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20MCP%20non%20coders"
     }
   ],
   "githubSkills": [
     {
-      "title": "xai-org/grok-build",
-      "rank": "01",
-      "heat": "7/29 GitHub Search API：23,260 stars / 4,405 forks / created_at 2026-07-14 / pushed_at 2026-07-28；coding agent harness + fullscreen TUI。",
-      "summary": "Agent 产品正在回到可操作的本地界面。",
-      "use": "小红书角度：AI 工具不只是聊天，而是一个能接管项目的工作界面。",
-      "idea": "标题方向：为什么 AI 工具又开始像“工作台”而不是聊天框",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/xai-org/grok-build"
-    },
-    {
-      "title": "unicity-aos/aos-ce",
-      "rank": "02",
-      "heat": "7/29 GitHub Search API：7,721 stars / 13 forks / created_at 2026-07-12 / pushed_at 2026-07-25；open agent operating system。",
-      "summary": "Agent OS 叙事开始被开源项目包装。",
-      "use": "小红书角度：普通人需要的是能管理任务、权限和记忆的 AI 操作系统。",
-      "idea": "标题方向：AI OS 到底是不是下一个个人工作流入口？",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/unicity-aos/aos-ce"
-    },
-    {
-      "title": "synthetic-sciences/openscience",
-      "rank": "03",
-      "heat": "7/29 GitHub Search API：2,914 stars / 404 forks / created_at 2026-07-03 / pushed_at 2026-07-29；open-source AI workbench for scientific research。",
-      "summary": "科研 AI 从问答转向可审计工作台。",
-      "use": "小红书角度：论文、资料和实验流程需要一个能复盘的 AI 工作台。",
-      "idea": "标题方向：科研人为什么不只需要聊天框，而需要 AI 工作台",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/synthetic-sciences/openscience"
-    },
-    {
       "title": "Vincentwei1021/video-shotcraft",
-      "rank": "04",
-      "heat": "7/29 GitHub Search API：2,534 stars / 216 forks / created_at 2026-07-19 / pushed_at 2026-07-28；AI video skill for Claude Code & Codex，含 106 shot recipe cards。",
-      "summary": "视频创作 skill 正把分镜和动作模板化。",
-      "use": "小红书角度：爆款短视频不是只靠文案，而是可复用镜头库。",
-      "idea": "标题方向：把短视频分镜做成 AI skill，会发生什么？",
+      "rank": "01",
+      "heat": "8/1 GitHub Search API：3,039 stars / 258 forks / created_at 2026-07-19 / pushed_at 2026-07-28；7/29 记录为 2,534 stars，本轮可见继续上涨。",
+      "summary": "AI 视频 skill 正从生成提示词变成分镜/动效交付系统。",
+      "use": "小红书角度：真正省时间的 AI，是把你的固定视频风格做成 skill。",
+      "idea": "标题方向：为什么下一个爆款 AI 工具，可能是你的专属分镜师",
       "urlLabel": "打开 GitHub",
       "url": "https://github.com/Vincentwei1021/video-shotcraft"
     },
     {
-      "title": "kvcache-ai/AgentENV",
-      "rank": "05",
-      "heat": "7/29 GitHub Search API：1,451 stars / 127 forks / created_at 2026-07-23 / pushed_at 2026-07-29；distributed platform for running agent environments at scale。",
-      "summary": "Agent 运行环境开始平台化。",
-      "use": "小红书角度：当人人都有 agent，下一步要解决的是它们在哪里跑、怎么验收。",
-      "idea": "标题方向：AI agent 普及后，真正难的是运行环境",
+      "title": "AminBlg/SimpleEnglish",
+      "rank": "02",
+      "heat": "8/1 GitHub Search API：1,138 stars / 34 forks / created_at 2026-07-21 / pushed_at 2026-07-21；Agent skill for ASD-STE100 Simplified Technical English。",
+      "summary": "“去 AI 味”之外，专业写作规范也在被 skill 化。",
+      "use": "小红书角度：AI 写作不只要像人，还要符合行业标准。",
+      "idea": "标题方向：为什么 AI 写作的下一步不是润色，而是按行业规矩写",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/kvcache-ai/AgentENV"
+      "url": "https://github.com/AminBlg/SimpleEnglish"
     },
     {
-      "title": "jakubkrehel/skills",
-      "rank": "06",
-      "heat": "7/29 GitHub Search API：1,323 stars / 34 forks / created_at 2026-07-10 / pushed_at 2026-07-28；interface、animation、UI polish、accessibility、product writing agent skills。",
-      "summary": "设计工程 skill 继续有外溢需求。",
-      "use": "小红书角度：审美、动效和可访问性可以被做成可复用能力包。",
-      "idea": "标题方向：AI 写代码之后，为什么还需要“审美 skill”？",
+      "title": "Pluviobyte/rnskill",
+      "rank": "03",
+      "heat": "8/1 GitHub Search API：1,078 stars / 132 forks / created_at 2026-07-04 / pushed_at 2026-07-27；AI Agent Skills collection。",
+      "summary": "个人/团队开始把常用工作流打包成技能合集。",
+      "use": "小红书角度：你的工作方法如果能复用，就能被做成 AI skill。",
+      "idea": "标题方向：会用 AI 的人，已经在整理自己的技能库",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/jakubkrehel/skills"
+      "url": "https://github.com/Pluviobyte/rnskill"
+    },
+    {
+      "title": "ai4s-research/open-science",
+      "rank": "04",
+      "heat": "8/1 GitHub Search API：1,054 stars / 115 forks / created_at 2026-07-03 / pushed_at 2026-07-31；local-first AI research workbench with MCP and agent skills。",
+      "summary": "科研场景把 AI agent 包进本地优先工作台。",
+      "use": "小红书角度：AI 研究助手的信任感来自文件、引用、权限和复现。",
+      "idea": "标题方向：为什么 AI 科研工具都在变成桌面工作台",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/ai4s-research/open-science"
+    },
+    {
+      "title": "0xsline/OpenChatCut",
+      "rank": "05",
+      "heat": "8/1 GitHub Search API：729 stars / 88 forks / created_at 2026-07-15 / pushed_at 2026-07-31；conversational AI video editor with timeline, Agent Skills, MCP and Remotion。",
+      "summary": "视频剪辑工具正在把聊天、时间线和 agent skills 合并。",
+      "use": "小红书角度：AI 视频编辑不该只会生成，还要能按时间线改。",
+      "idea": "标题方向：真正可用的 AI 剪辑，要能看见时间线",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/0xsline/OpenChatCut"
+    },
+    {
+      "title": "Raymondhou0917/speak-human-tw",
+      "rank": "06",
+      "heat": "8/1 GitHub Search API：729 stars / 85 forks / created_at 2026-07-08 / pushed_at 2026-07-31；Traditional Chinese humanizer skill for Claude Code / Codex / Cursor。",
+      "summary": "本地语言和语气修正也开始 skill 化。",
+      "use": "小红书角度：AI 内容工具的机会在方言、地区语感和平台语气。",
+      "idea": "标题方向：AI 去味不是一个按钮，而是一套本地语感规则",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/Raymondhou0917/speak-human-tw"
     }
   ],
   "sparkPool": [
     {
       "lane": "Pop Culture / Music IP",
-      "source": "7/29 dynamic cluster",
+      "source": "8/1 dynamic cluster",
       "heat": "99",
-      "title": "Soda Pop 把 Saja Boys 从笑点变成入坑入口",
-      "spark": "7/29 搜索复核显示 TerryAndKaniyia 44.18万播放、Throga 19.28万播放、Beth Roars 15.22万播放、Chris Liepe 6.85万播放；说明男团 parody 也拥有专业音乐拆解价值。",
-      "use": "标题：为什么一首反派男团歌，比正经情歌还容易洗脑？",
-      "value": "kpop-demon-hunters + soda-pop + saja-boys + hook-design"
+      "title": "Golden 把虚拟女团做成声乐技术话题",
+      "spark": "Tim Welch 256.32万播放、The Charismatic Voice 109.97万播放、Chris Liepe 75.13万播放、Throga 58.75万播放；声乐创作者围绕高音、belting 和角色声线持续拆解。",
+      "use": "标题：为什么 Golden 的高音，会让全网声乐老师集体上头？",
+      "value": "kpop-demon-hunters + golden + vocal-analysis + virtual-idol"
     },
     {
-      "lane": "Music / K-pop Comeback",
-      "source": "7/29 dynamic cluster",
-      "heat": "98",
-      "title": "BLACKPINK Jump 继续是视觉冲击型 comeback 样本",
-      "spark": "Jordan Orme 71.54万播放、Katriinka 32.60万播放、Form of Therapy 11.87万播放；Billboard Canada 7/26 确认 Jump 登顶 Global 200 与 Global Excl. U.S.。",
-      "use": "标题：BLACKPINK 这次回归，为什么像在用 15 秒剪辑训练全网记忆？",
-      "value": "blackpink + comeback + music-video-editing + fandom"
+      "lane": "Pop Culture / Film",
+      "source": "8/1 dynamic cluster",
+      "heat": "97",
+      "title": "Fantastic Four 的核心不是彩蛋，是家庭感",
+      "spark": "New Rockstars 226.74万播放、The Critical Drinker 223.61万播放、ScreenCrush 116.42万播放；讨论集中在预期反转、家庭团队、复古未来审美和 Marvel 信任修复。",
+      "use": "标题：Marvel 这次被夸，不是因为彩蛋多，而是因为像一家人",
+      "value": "fantastic-four + marvel-fatigue + family-team + retro-future"
     },
     {
-      "lane": "Film / Values Debate",
-      "source": "7/29 dynamic cluster",
+      "lane": "Pop Culture / Music IP",
+      "source": "8/1 dynamic cluster",
       "heat": "94",
-      "title": "Superman 真诚英雄争论可转成情绪价值内容",
-      "spark": "高播放影评继续围绕 James Gunn、DCU 重启、真诚英雄和反犬儒讨论；适合从影视争议转译到“现在为什么又需要希望感”。",
-      "use": "标题：为什么大家又开始需要一个“不酷但真诚”的英雄？",
-      "value": "superman + values + fandom-debate + anti-cynicism"
+      "title": "Soda Pop 继续证明 parody 可以被认真消费",
+      "spark": "Saja Boys / Soda Pop 搜索聚类延续，UGC 样本支撑反派男团歌被当成真 K-pop 热单讨论。",
+      "use": "标题：为什么反派男团歌，反而最像一首真的 K-pop 热单？",
+      "value": "saja-boys + soda-pop + parody + fandom"
     },
     {
-      "lane": "Music / Pop Era Watch",
-      "source": "7/29 dynamic cluster",
-      "heat": "90",
-      "title": "Ariana Petal 触发新 era 与粉丝怀旧",
-      "spark": "AP 娱乐周报和 SocialPilot 趋势页预热 Petal / Petal-Man Day；YouTube 搜索有 12.36万播放 UGC，但混入旧专辑和官方内容，今天作观察。",
-      "use": "标题：为什么每个女明星新 era，都会被问“以前的她去哪了”？",
-      "value": "ariana-grande + petal + pop-era + fan-nostalgia"
+      "lane": "AI / Workflow",
+      "source": "8/1 YouTube + GitHub",
+      "heat": "93",
+      "title": "Claude Code 长课说明普通人想要工作台",
+      "spark": "Nick Saraev 220.83万播放、Productive Dude 78.01万播放、Tech With Tim 23.42万播放；教程从“怎么提示”变成“怎么交付项目”。",
+      "use": "标题：不会写代码的人，为什么开始学 Claude Code？",
+      "value": "claude-code + non-coders + skills + mcp"
     },
     {
-      "lane": "AI Workflow",
-      "source": "7/29 dynamic cluster",
-      "heat": "92",
-      "title": "Claude Code skills/MCP 变成普通人概念翻译题",
-      "spark": "Tech With Tim 23.29万播放、Confluent Developer 21.72万播放、Grace Leung 19.18万播放；核心是解释 skill、MCP、agent、plugin 的边界。",
-      "use": "标题：一个 AI 任务到底该交给 skill、MCP 还是 agent？",
-      "value": "claude-code + skills + mcp + workflow"
-    },
-    {
-      "lane": "GitHub Skill / AI App",
-      "source": "7/29 GitHub Search API",
+      "lane": "AI / Creator Tooling",
+      "source": "8/1 GitHub Search API",
       "heat": "91",
-      "title": "Agent harness、视频 skill、UI skill 同时升温",
-      "spark": "grok-build 23,260 stars、aos-ce 7,721 stars、openscience 2,914 stars、video-shotcraft 2,534 stars、jakubkrehel/skills 1,323 stars。",
-      "use": "标题：下一批 AI 应用，可能不是聊天框，而是“可复用能力包”",
-      "value": "agent-harness + creator-tools + ui-skills + ai-workbench"
+      "title": "视频和写作 skill 正在变成垂直能力包",
+      "spark": "video-shotcraft 3,039 stars、SimpleEnglish 1,138 stars、speak-human-tw 729 stars；skill 机会从通用 prompt 包转向稳定工艺。",
+      "use": "标题：真正省时间的 AI，是把你的固定手艺做成 skill",
+      "value": "agent-skills + creator-economy + vertical-workflows"
+    },
+    {
+      "lane": "Pop Culture / Watchlist",
+      "source": "8/1 search cluster",
+      "heat": "76",
+      "title": "Ariana Petal 有实体热度，但 UGC 主榜证据不足",
+      "spark": "Cedric Johnson 12.42万播放，其余 Petal reaction 多数低量或混入旧内容；适合观察“你爱上的 Ariana 不会回来”人设线，不进主榜。",
+      "use": "标题备选：为什么粉丝总想等一个旧版 Ariana 回来？",
+      "value": "ariana-grande + petal + fan-expectation + watchlist"
     }
   ],
   "valueFlows": [
     {
-      "from": "BLACKPINK Jump UGC",
-      "to": "视觉记忆内容",
-      "note": "把 comeback 拆成 MV 剪辑、drop、动作钩子和粉丝参与。"
+      "from": "Golden 声乐 reaction",
+      "to": "虚拟女团声乐神话",
+      "note": "把高音、角色声线和跟唱门槛拆成“为什么虚拟 IP 也能获得真人女团式崇拜”。"
+    },
+    {
+      "from": "Fantastic Four 高播放影评",
+      "to": "家庭型英雄团队",
+      "note": "把 Marvel 讨论从彩蛋搬运转成关系感、复古未来审美和 IP 信任修复。"
     },
     {
       "from": "Soda Pop / Saja Boys",
-      "to": "男团公式拆解",
-      "note": "把搞笑桥段拆成 hook 设计、角色魅力和 K-pop parody 的认真程度。"
+      "to": "parody 的真人团消费逻辑",
+      "note": "把反派男团歌拆成 hook、舞蹈、性感边界和角色站队。"
     },
     {
-      "from": "Superman review debate",
-      "to": "当代真诚感讨论",
-      "note": "把电影争议转成英雄人格、IP 信任修复和反讽时代的理想主义。"
+      "from": "Claude Code 长课",
+      "to": "普通人 AI 工作台",
+      "note": "把 tools、skills、MCP、agents 翻译成岗位、权限、流程和验收。"
     },
     {
-      "from": "Claude Code skills vs MCP",
-      "to": "AI 工作流教育",
-      "note": "把工具名词翻译成规则、工具、角色和验收边界。"
-    },
-    {
-      "from": "GitHub creator skills",
-      "to": "普通人内容生产产品",
-      "note": "把排版、手绘视频、镜头 recipe 和设计工程变成固定交付格式。"
+      "from": "GitHub skill repo 上涨",
+      "to": "垂直能力包产品机会",
+      "note": "把视频、写作、图表、科研工作台都看作可复用工艺。"
     }
   ],
   "arbitragePicks": [
@@ -414,40 +418,40 @@ window.RADAR_DATA = {
       "lane": "Pop Culture / Music IP",
       "score": 99,
       "status": "今日主稿候选",
-      "lag": "外网已经把 Soda Pop 从玩梗反应推进到 vocal/songwriter 分析；中文内容还可以抢“反派男团歌为什么上头”的结构化口径。",
-      "translation": "强：高播放 UGC 多，适合从娱乐感进入音乐设计。",
-      "title": "为什么一首反派男团歌，比正经情歌还容易洗脑？",
-      "hook": "它看起来像玩笑，但编曲、hook 和角色声线都是认真按男团公式做的。",
-      "proof": "TerryAndKaniyia 44.18万播放、Throga 19.28万播放、Beth Roars 15.22万播放、Chris Liepe 6.85万播放。",
-      "risk": "不要写成官方歌曲数据；主证据使用 UGC 搜索复核。",
-      "format": "封面：反派男团歌更洗脑；正文：hook、角色、parody、二创、IP 长尾。",
-      "review": "看用户是否开始在评论区站队 HUNTR/X vs Saja Boys。"
+      "lag": "外网声乐创作者已经把 Golden 拆成高音、belting 和角色声线；中文内容可以抢“虚拟女团为什么也能制造真人女团式声乐神话”。",
+      "translation": "强：高播放 UGC 多，专业拆解明确，适合娱乐内容和音乐审美账号。",
+      "title": "为什么 Golden 的高音，会让全网声乐老师集体上头？",
+      "hook": "它不是“动画歌火了”，而是每个 reaction 都能抓住同一个技术爽点。",
+      "proof": "Tim Welch 256.32万播放、The Charismatic Voice 109.97万播放、Chris Liepe 75.13万播放、Throga 58.75万播放。",
+      "risk": "不要写官方歌曲成绩；主证据用 UGC 搜索复核。",
+      "format": "封面：Golden 高音为什么上头；正文：高音、角色声线、虚拟女团、粉丝跟唱、IP 长尾。",
+      "review": "看评论是否出现 Golden vs Soda Pop 站队。"
     },
     {
-      "lane": "Music / K-pop Comeback",
-      "score": 98,
-      "status": "今日副稿候选",
-      "lag": "外网已经把 BLACKPINK Jump 当成 MV 剪辑、drop 和视觉冲击系统来拆；中文小红书可把它转成“15 秒记忆点设计”。",
-      "translation": "强：有榜单事实，也有高播放 UGC 剪辑/声乐分析支撑。",
-      "title": "BLACKPINK 这次回归，为什么像在用 15 秒剪辑训练全网记忆？",
-      "hook": "大团 comeback 不是只发一首歌，而是发一套全网能立刻复述的镜头语言。",
-      "proof": "Jordan Orme 71.54万播放、Katriinka 32.60万播放、Form of Therapy 11.87万播放；Billboard Canada 7/26 榜单。",
-      "risk": "不要只做粉丝夸夸；重点放在视觉、声音和传播机制。",
-      "format": "封面：15 秒记忆点；正文：榜单、剪辑、drop、造型、舞蹈、粉丝参与。",
-      "review": "看评论里用户是否能说出自己记住的具体镜头/动作。"
+      "lane": "Pop Culture / Film",
+      "score": 97,
+      "status": "今日主稿候选",
+      "lag": "外网影评在讨论 Fantastic Four 的预期反转和家庭感；中文内容可以避开纯彩蛋搬运，转向“超英疲劳期为什么要看一家人”。",
+      "translation": "强：高播放影评多，适合影视/情绪价值/审美分析。",
+      "title": "Marvel 这次被夸，不是因为彩蛋多，而是因为像一家人",
+      "hook": "观众不是不想看超英了，是不想再看没有关系感的超英。",
+      "proof": "New Rockstars 226.74万播放、The Critical Drinker 223.61万播放、ScreenCrush 116.42万播放、CinemaWins 59.94万播放。",
+      "risk": "避免剧透堆砌；用关系和美术作为主轴。",
+      "format": "封面：Marvel 终于像一家人；正文：预期反转、家庭感、复古未来、IP 信任。",
+      "review": "看用户更讨论角色关系还是 MCU 彩蛋。"
     },
     {
-      "lane": "AI Workflow",
-      "score": 92,
-      "status": "今日 AI 副稿候选",
-      "lag": "外网开发者讨论已经从“Claude Code 怎么用”变成“skill、MCP、agent 边界怎么分”。中文普通人工作流解释还可以更早占位。",
-      "translation": "中强：AI 主题不如 pop culture 情绪强，但适合知识型账号。",
-      "title": "一个 AI 任务到底该交给 skill、MCP 还是 agent？",
-      "hook": "不是每个任务都要接工具；有些任务只需要一套规则，有些任务才需要外部系统。",
-      "proof": "Tech With Tim 23.29万播放、Confluent Developer 21.72万播放、Grace Leung 19.18万播放；GitHub 新 skill/workflow repo 活跃。",
-      "risk": "避免写成程序员教程；必须用普通人场景解释。",
-      "format": "封面：skill / MCP / agent 三选一；正文：规则、工具、角色各举一个生活/工作例子。",
-      "review": "看收藏率和评论里用户是否能说出自己的重复工作流。"
+      "lane": "AI / Workflow",
+      "score": 93,
+      "status": "今日 AI 主稿候选",
+      "lag": "YouTube 长课和 GitHub skill repo 同时证明：用户需要的是可交付工作台，不是单次聊天技巧。",
+      "translation": "强：普通人工作流、创业 idea、产品人格都能转译。",
+      "title": "不会写代码的人，为什么开始学 Claude Code？",
+      "hook": "他们不是想变程序员，而是想把 AI 变成一个能交付项目的外包团队。",
+      "proof": "Nick Saraev 220.83万播放、Productive Dude 78.01万播放、video-shotcraft 3,039 stars、open-science 1,054 stars。",
+      "risk": "不要夸大“零基础立刻变现”；强调任务拆解、验收和权限。",
+      "format": "封面：普通人为什么学 Claude Code；正文：长课爆发、skills/MCP、工作台、可复用产物。",
+      "review": "看评论是否追问“我该先学 skill 还是 MCP”。"
     }
   ],
   "weeklySop": [
@@ -473,29 +477,70 @@ window.RADAR_DATA = {
     }
   ],
   "contentFormats": [
-    "格式：1 张“15 秒记忆点”封面 + 5 张拆 BLACKPINK Jump 的剪辑、drop、造型、舞蹈、粉丝参与。",
-    "格式：用“它看起来像玩笑 / 其实按男团公式认真做”拆 Soda Pop。",
-    "格式：Superman 做价值观投票型笔记，封面问“真诚英雄过时了吗？”",
-    "格式：AI 线做四象限图：skill=规则，MCP=工具，agent=岗位，human=验收。",
-    "格式：GitHub skill 线做“普通人能用的 AI 能力包”合集，不堆仓库名。"
+    "格式：1 张“Golden 高音为什么上头”封面 + 5 张拆 high note、belting、角色声线、reaction 传播、粉丝跟唱。",
+    "格式：1 张“Marvel 终于像一家人”封面 + 5 张拆 Fantastic Four 的家庭感、复古未来、美术、预期反转、IP 信任。",
+    "格式：Golden vs Soda Pop 双栏：女团高音神话 / 反派男团 hook 公式 / 你站哪边。",
+    "格式：普通人 Claude Code 工作流：任务、skill、MCP、agent、验收，各用一个生活化比喻。",
+    "格式：GitHub skill 榜单卡：video-shotcraft / SimpleEnglish / open-science / OpenChatCut，各写“它把什么工艺固化了”。"
   ],
   "summarySparks": [
     {
-      "id": "soda-pop-saja-boys-0729",
+      "id": "golden-vocal-0801",
       "tags": [
         "kpop-demon-hunters",
-        "soda-pop",
-        "saja-boys",
-        "songwriting"
+        "golden",
+        "vocal-analysis"
       ],
       "lane": "Pop Culture / Music IP",
       "heat": "99",
-      "title": "Soda Pop 从玩梗男团歌升级成专业编曲拆解对象",
-      "spark": "7/29 yt-dlp 搜索复核：TerryAndKaniyia 44.18万播放、Throga 19.28万播放、Alex Sinclair 16.65万播放、Beth Roars 15.22万播放；新增 Chris Liepe “Genius writing and arranging” 6.85万播放。热簇从反应视频扩展到 songwriter / vocal coach 拆 hook、和声、角色声线。",
-      "xhsTitle": "为什么一首反派男团歌，比正经情歌还容易洗脑？",
-      "discussion": "可见讨论点：Saja Boys、hook 反复、男团公式、角色声线、parody 认真做、搞笑和性感边界。",
-      "prompt": "引导话题：你更想循环 HUNTR/X 的 Golden，还是 Saja Boys 的 Soda Pop？",
-      "tone": "最适合今天主稿；高播放 UGC 多，且没有医疗/身体风险叙事。",
+      "title": "Golden 把动画爆歌升级成声乐老师集体拆解的高音样本",
+      "spark": "8/1 yt-dlp 搜索复核：Tim Welch 256.32万播放、The Charismatic Voice 109.97万播放、Chris Liepe 75.13万播放、Throga 58.75万播放。热簇围绕 belted A5、高音爽感、HUNTR/X 角色声线和跟唱门槛。",
+      "xhsTitle": "为什么 Golden 的高音，会让全网声乐老师集体上头？",
+      "discussion": "可见讨论点：高音、belting、角色声线、虚拟女团真实感、粉丝跟唱难度。",
+      "prompt": "引导话题：你第一次被 Golden 击中，是副歌高音还是角色入场？",
+      "tone": "最适合今天主稿；高播放 UGC 多，内容安全风险低。",
+      "related": [
+        "Golden",
+        "HUNTR/X",
+        "KPop Demon Hunters"
+      ]
+    },
+    {
+      "id": "fantastic-four-family-0801",
+      "tags": [
+        "fantastic-four",
+        "marvel",
+        "family-team"
+      ],
+      "lane": "Pop Culture / Film",
+      "heat": "97",
+      "title": "Fantastic Four 的讨论重点从彩蛋转向家庭感和复古未来美学",
+      "spark": "8/1 yt-dlp 搜索复核：New Rockstars 226.74万播放、The Critical Drinker 223.61万播放、ScreenCrush 116.42万播放、CinemaWins 59.94万播放。热簇围绕 Marvel 预期反转、家庭型团队和 IP 信任修复。",
+      "xhsTitle": "Marvel 这次被夸，不是因为彩蛋多，而是因为像一家人",
+      "discussion": "可见讨论点：家庭感、Pedro Pascal 版 Reed、复古未来审美、Galactus、MCU 疲劳。",
+      "prompt": "引导话题：你看超英片更吃世界观彩蛋，还是角色关系？",
+      "tone": "适合影视/审美/情绪价值账号；避免剧透堆砌。",
+      "related": [
+        "Fantastic Four: First Steps",
+        "Marvel",
+        "retro future"
+      ]
+    },
+    {
+      "id": "soda-pop-parody-0801",
+      "tags": [
+        "saja-boys",
+        "soda-pop",
+        "kpop-formula"
+      ],
+      "lane": "Pop Culture / Music IP",
+      "heat": "94",
+      "title": "Soda Pop 继续证明 parody 只要够认真，也会被当真男团消费",
+      "spark": "8/1 复扫：TerryAndKaniyia 44.18万播放、Throga 19.28万播放、Beth Roars 15.22万播放、Chris Liepe 6.85万播放；和 Golden 形成“女团高音神话 vs 反派男团 hook 公式”的对照。",
+      "xhsTitle": "为什么反派男团歌，反而最像一首真的 K-pop 热单？",
+      "discussion": "可见讨论点：Saja Boys、hook 反复、男团公式、搞笑性感边界、Golden vs Soda Pop 站队。",
+      "prompt": "引导话题：Golden 和 Soda Pop，你更愿意把哪首加入歌单？",
+      "tone": "适合做第二条或合集对照；外网已有多条 UGC 支撑。",
       "related": [
         "Soda Pop",
         "Saja Boys",
@@ -503,87 +548,21 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "id": "blackpink-jump-editing-0729",
+      "id": "claude-code-courses-0801",
       "tags": [
-        "blackpink",
-        "jump",
-        "music-video",
-        "kpop-comeback"
-      ],
-      "lane": "Music / K-pop Comeback",
-      "heat": "98",
-      "title": "BLACKPINK Jump 继续被当成 15 秒视觉记忆系统拆解",
-      "spark": "7/29 yt-dlp 搜索复核：Jordan Orme 71.54万播放、Katriinka 32.60万播放、Form of Therapy 11.87万播放；Billboard Canada 7/26 榜单事实继续支撑 Jump 的全球热度。讨论仍集中在 MV 剪辑、hardstyle/drop、成员造型和巡演舞台传播。",
-      "xhsTitle": "BLACKPINK 这次回归，为什么像在用 15 秒剪辑训练全网记忆？",
-      "discussion": "可见讨论点：镜头节奏、drop、采样感、成员造型、BLINK 回归情绪、舞台动作。",
-      "prompt": "引导话题：你记住 Jump 是因为旋律、drop、造型还是某个镜头？",
-      "tone": "适合做视觉传播拆解；不要只写粉丝夸夸，要拆“可截图、可复述、可模仿”。",
-      "related": [
-        "BLACKPINK Jump",
-        "MV editing reaction",
-        "K-pop comeback"
-      ]
-    },
-    {
-      "id": "superman-dcu-values-0729",
-      "tags": [
-        "superman",
-        "dcu",
-        "film-commentary",
-        "values"
-      ],
-      "lane": "Film / Fandom Debate",
-      "heat": "94",
-      "title": "Superman 争议从票房/口碑变成“真诚英雄还流行吗”",
-      "spark": "沿用 7/28 高播放影评主证据：penguinz0 216.95万播放、The Critical Drinker 213.23万播放、FilmSpeak 46.67万播放；7/29 复扫显示 DCU 重启讨论仍围绕 James Gunn、英雄真诚感、反犬儒和 superhero fatigue。",
-      "xhsTitle": "为什么大家又开始需要一个“不酷但真诚”的英雄？",
-      "discussion": "可见讨论点：James Gunn、DCU 重启、真诚 vs 犬儒、旧超英审美疲劳、观众要不要希望感。",
-      "prompt": "引导话题：你现在还吃“真诚英雄”这一套吗？",
-      "tone": "适合小红书做影视价值观和情绪消费，不做票房预测。",
-      "related": [
-        "Superman 2026",
-        "James Gunn DCU",
-        "superhero fatigue"
-      ]
-    },
-    {
-      "id": "ariana-petal-era-0729",
-      "tags": [
-        "ariana-grande",
-        "petal",
-        "pop-era",
-        "identity"
-      ],
-      "lane": "Music / Pop Era Watch",
-      "heat": "90",
-      "title": "Ariana Petal 新 era 先触发“你爱的她回不来了”讨论",
-      "spark": "动态发现来自 AP 7/27-8/2 娱乐周报和 TikTok 月度趋势里 “Petal / Petal-Man Day” 预热；YouTube 搜索复核显示 Cedric Johnson “the ariana grande you fell in love with isn’t coming back” 12.36万播放、Tristan Paredes lead single vocal reaction 9.51万播放，但结果混入官方 MV和旧专辑，因此今天只作观察/辅助 insight。",
-      "xhsTitle": "为什么每个女明星新 era，都会被问“以前的她去哪了”？",
-      "discussion": "可见讨论点：新专辑预热、lead single、Wicked 后公众形象、粉丝怀旧、pop girl era 更替。",
-      "prompt": "引导话题：你期待她回到旧风格，还是接受一个完全不同的新 era？",
-      "tone": "可做身份叙事和粉丝怀旧，但主证据不如 K-pop 两条干净。",
-      "related": [
-        "Ariana Grande Petal",
-        "pop era",
-        "fan nostalgia"
-      ]
-    },
-    {
-      "id": "claude-code-skills-mcp-0729",
-      "tags": [
-        "ai",
         "claude-code",
         "skills",
-        "mcp"
+        "mcp",
+        "non-coders"
       ],
-      "lane": "AI Workflow / Concept Translation",
-      "heat": "92",
-      "title": "Claude Code 热点继续从教程转向“概念边界教育”",
-      "spark": "7/29 yt-dlp 搜索复核：Tech With Tim 23.29万播放、Confluent Developer 21.72万播放、AI Master 11.04万播放、Grace Leung 19.18万播放。用户关注点不是单一工具，而是 Skills、MCP、agents、plugins 到底怎么分工。",
-      "xhsTitle": "一个 AI 任务到底该交给 skill、MCP 还是 agent？",
-      "discussion": "可见讨论点：概念太多、权限边界、团队工作流、普通人如何搭自己的 AI 小队。",
-      "prompt": "引导话题：你最想让 AI 固定记住哪套工作规则？",
-      "tone": "适合小红书做普通人 AI 工作流解释，避免只面向程序员。",
+      "lane": "AI / Workflow",
+      "heat": "93",
+      "title": "Claude Code 长课爆发说明普通人要的是可交付 AI 工作台",
+      "spark": "8/1 yt-dlp 搜索复核：Nick Saraev 220.83万播放、Productive Dude 78.01万播放、Tech With Tim 23.42万播放、Nate Herk 11.59万播放。热簇围绕非程序员、skills、MCP、agents 和项目交付。",
+      "xhsTitle": "不会写代码的人，为什么开始学 Claude Code？",
+      "discussion": "可见讨论点：零基础能不能用、skills vs MCP、agent 权限、自动化变现、长课是否值得。",
+      "prompt": "引导话题：你更想让 AI 帮你写代码，还是帮你交付一个完整项目？",
+      "tone": "适合 AI/效率账号；要避免承诺零基础暴富。",
       "related": [
         "Claude Code",
         "MCP",
@@ -591,25 +570,45 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "id": "github-agent-ui-skills-0729",
+      "id": "vertical-skills-0801",
       "tags": [
         "github",
         "agent-skills",
-        "creator-tools",
-        "workflow"
+        "creator-tooling"
       ],
-      "lane": "GitHub Skill / AI App Trend",
+      "lane": "GitHub Skill / AI Apps",
       "heat": "91",
-      "title": "GitHub 新近热仓从聊天框转向 agent harness、视频 skill 和 UI skill",
-      "spark": "7/29 GitHub Search API：xai-org/grok-build 23,260 stars / 4,405 forks；unicity-aos/aos-ce 7,721 stars / 13 forks；synthetic-sciences/openscience 2,914 stars / 404 forks；Vincentwei1021/video-shotcraft 2,534 stars / 216 forks；jakubkrehel/skills 1,323 stars / 34 forks。",
-      "xhsTitle": "下一批 AI 应用，可能不是聊天框，而是“可复用能力包”",
-      "discussion": "可见讨论点：agent TUI、open agent OS、科研工作台、视频模板 skill、UI polish skill。",
-      "prompt": "引导话题：你最想把哪件重复工作做成自己的 AI skill？",
-      "tone": "适合连接创业 idea 和普通人工作流；不把 awesome-llm-apps 当上涨榜。",
+      "title": "GitHub 新 skill 榜显示：视频、写作、科研、剪辑都在变成能力包",
+      "spark": "8/1 GitHub Search API：video-shotcraft 3,039 stars、SimpleEnglish 1,138 stars、open-science 1,054 stars、OpenChatCut 729 stars、speak-human-tw 729 stars。趋势不是固定仓库列表，而是垂直工艺 skill 化。",
+      "xhsTitle": "真正省时间的 AI，是把你的固定手艺做成 skill",
+      "discussion": "可见讨论点：分镜、技术英文、本地语感、时间线剪辑、科研复现、可复用工作流。",
+      "prompt": "引导话题：你最想把哪一项重复工作做成自己的 AI skill？",
+      "tone": "适合产品机会/创业 idea；数据来自 8/1 API，不伪装周涨榜。",
       "related": [
-        "grok-build",
         "video-shotcraft",
-        "jakubkrehel/skills"
+        "SimpleEnglish",
+        "OpenChatCut"
+      ]
+    },
+    {
+      "id": "ariana-petal-watch-0801",
+      "tags": [
+        "ariana-grande",
+        "petal",
+        "watchlist"
+      ],
+      "lane": "Pop Culture / Watchlist",
+      "heat": "76",
+      "title": "Ariana Petal 有实体热度，但今天不够主榜证据",
+      "spark": "8/1 搜索复核：Cedric Johnson 12.42万播放，但 Petal 专辑/视频 reaction 大量结果在数千播放或混入旧内容；只进入观察，适合后续跟“粉丝想等旧版 Ariana 回来”的人设线。",
+      "xhsTitle": "为什么粉丝总想等一个旧版 Ariana 回来？",
+      "discussion": "可见讨论点：旧 era 怀念、新专辑期待、粉丝投射、艺人不再回到过去。",
+      "prompt": "引导话题：你会希望一个歌手回到你最爱她的那个时期吗？",
+      "tone": "观察位，不进 Social 主榜；等更多高互动 UGC 或评论证据。",
+      "related": [
+        "Ariana Grande",
+        "Petal",
+        "fan expectation"
       ]
     }
   ],
@@ -633,11 +632,11 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-07-29-1018",
-    "contentWindow": "内容研究窗口：2026.07.14 - 2026.07.29 / 部署包生成：2026.07.29 10:18 CST",
-    "researchedThrough": "2026-07-29",
-    "packageGeneratedAt": "2026-07-29 10:18 CST",
-    "summary": "7/29 动态发现从具体实体反推：Soda Pop / Saja Boys 成为今天最干净的高播放 UGC 音乐 IP 热簇，新增 Chris Liepe 6.85万播放编曲拆解；BLACKPINK Jump 继续以 Jordan Orme、Katriinka、Form of Therapy 和 Billboard 榜单支撑视觉冲击型 comeback；Superman 线保留真诚英雄/反犬儒高播放影评；Ariana Grande Petal / Petal-Man Day 有趋势预热但搜索混入官方和旧内容，只进观察。AI 线更新为 Claude Code skills/MCP/agents 概念边界，GitHub Search API 更新 grok-build、aos-ce、openscience、video-shotcraft、AgentENV、jakubkrehel/skills。TikTok 只写搜索聚类，不伪装精确视频链接。"
+    "editionId": "2026-08-01-1027",
+    "contentWindow": "内容研究窗口：2026.07.17 - 2026.08.01 / 部署包生成：2026.08.01 10:27 CST",
+    "researchedThrough": "2026-08-01",
+    "packageGeneratedAt": "2026-08-01 10:27 CST",
+    "summary": "8/1 动态发现从具体实体反推：KPop Demon Hunters / Golden 成为今天最强高播放 UGC 声乐拆解热簇；Fantastic Four: First Steps 以高播放影评支撑家庭感、复古未来和 Marvel 信任修复；Soda Pop / Saja Boys 继续作为 Golden 的反面镜像保留。Ariana Grande Petal 搜索有 Cedric Johnson 12.42万播放但主榜证据不足，只进观察。AI 线更新为 Claude Code 长课、非程序员工作台、skills/MCP/agents 概念边界；GitHub Search API 更新 video-shotcraft、SimpleEnglish、rnskill、open-science、OpenChatCut、speak-human-tw。TikTok 只写站内搜索聚类，不伪装精确视频链接；YouTube 单页详情仍被反 bot，新增样本只写播放复核。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
