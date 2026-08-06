@@ -1,46 +1,46 @@
 {
   "trends": [
     {
-      "title": "KPop Demon Hunters：Golden 声乐拆解从高音爽感进入“真人女团化”长尾",
+      "title": "KATSEYE Gabriela/Touch：全球女团叙事从官方舞台进入 reaction 站队",
       "tags": [
         "Pop Culture",
-        "Music IP",
-        "Vocal Analysis",
+        "K-pop",
+        "Girl Group",
         "Fandom"
       ],
       "priority": "high",
-      "metrics": "8/4 yt-dlp 搜索复核 UGC：Tim Welch Vocal Studio 256.44万播放、The Charismatic Voice 110.08万播放、Chris Liepe 75.16万播放、Throga Vocal Gym 58.79万播放、Hannah Bayles 48.46万播放、Peter Barber 34.42万播放、Julia Nilon 33.93万播放、The Vocalyst 17.39万播放。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Golden vocal coach / belted A5 / Rumi real voice / HUNTR/X",
-      "heat": "Golden 仍是今天最强 pop culture 热簇；讨论不再停留在“动画歌爆了”，而是声乐老师、reaction 频道和粉丝共同把它拆成高音技术、角色声线和虚拟 IP 真人化。",
-      "signal": "可转译点：虚拟 IP 的长尾不是官方持续解释，而是专业创作者每天把同一首歌拆成可学习、可模仿、可站队的对象。",
-      "why": "适合小红书：可做“为什么 Golden 不像一首动画歌，更像一场真人女团声乐考试”。",
-      "discussion": "可见主题集中在 belted A5、Rumi 真声线、Ejae/Audrey Nuna/Rei Ami、HUNTR/X 角色站队、声乐老师反复拆同一首歌和粉丝跟唱门槛。",
+      "metrics": "8/6 yt-dlp 搜索复核 UGC：PlayBackBoyz Touch/Gnarly/Gabriela 211.07万播放、Kess and Han Reacts Gabriela 94.25万播放、BRISxLIFE Gabriela 49.30万播放、OhioAssassins Gabriela/Gameboy 41.65万播放、Katriinka Gabriela vocal reaction 28.26万播放、GZBKarma 10.44万播放；官方 reaction/MV 只作热度背景，不作主榜证据。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: KATSEYE Gabriela Touch Gnarly Gameboy reaction / performance / global girl group",
+      "heat": "今天 KATSEYE 是最值得新增的 pop culture 热簇：讨论不只是歌好听，而是全球化女团的成员人设、拉丁 pop 视觉、K-pop 训练体系和欧美 reaction 频道的入坑路径。",
+      "signal": "可转译点：新女团破圈不是先靠路人理解完整企划，而是靠 reaction 创作者把成员、视觉和歌曲顺序讲成一条入坑路线。",
+      "why": "适合小红书：可做“为什么 KATSEYE 的爆点不是某首歌，而是让你开始认人”。",
+      "discussion": "可见主题集中在 Gabriela 的 telenovela/拉丁 pop 视觉、Touch 的二次入坑、成员分工、舞台能量、全球女团是否还算 K-pop、reaction 主播从怀疑到上头。",
       "ideas": [
-        "标题：Golden 最厉害的地方，不是火，而是能被反复拆",
-        "结构：高播放 reaction -> 现场真声线 -> 高音技术 -> 角色声线 -> 虚拟女团真人化",
-        "评论引导：你更在意 Golden 的高音，还是 Rumi 的真实歌手身份？"
+        "标题：KATSEYE 最聪明的地方，是把路人变成认人观众",
+        "结构：高播放 reaction -> Gabriela 视觉 -> Touch 入坑 -> 成员分工 -> 全球女团身份争议",
+        "评论引导：你是先被歌吸引，还是先开始认成员？"
       ],
       "sources": [
         [
-          "Tim Welch Vocal Studio / 256.44万播放",
-          "https://www.youtube.com/watch?v=IreDFhu9AOE"
+          "PlayBackBoyz / 211.07万播放",
+          "https://www.youtube.com/watch?v=wzLVdWM4iUE"
         ],
         [
-          "The Charismatic Voice / 110.08万播放",
-          "https://www.youtube.com/watch?v=QsTQQ42UhvU"
+          "Kess and Han Reacts / 94.25万播放",
+          "https://www.youtube.com/watch?v=1J12UQYnP4w"
         ],
         [
-          "Chris Liepe / 75.16万播放",
-          "https://www.youtube.com/watch?v=7FseDVBhzXw"
+          "BRISxLIFE / 49.30万播放",
+          "https://www.youtube.com/watch?v=QK2Q5QihzPg"
         ],
         [
-          "Throga Vocal Gym / 58.79万播放",
-          "https://www.youtube.com/watch?v=Z53ghfFuTT8"
+          "Katriinka / 28.26万播放",
+          "https://www.youtube.com/watch?v=Pjn9OXpLiEQ"
         ]
       ]
     },
     {
-      "title": "Spider-Man: Brand New Day：街区英雄、recap 和 post-credit 解析继续拉高讨论",
+      "title": "Spider-Man: Brand New Day：trailer breakdown 把街区英雄升级成 MCU 信任修复测试",
       "tags": [
         "Pop Culture",
         "Film",
@@ -48,72 +48,72 @@
         "Fandom Debate"
       ],
       "priority": "high",
-      "metrics": "8/4 yt-dlp 搜索复核 UGC/解析：New Rockstars recap 137.58万播放、ScreenCrush post-credit 85.98万播放、Emergency Awesome post-credit 66.19万播放、Emergency Awesome alternate/deleted scenes 47.35万播放、The Cosmic Wonder 28.00万播放、Emergency Awesome top questions 20.61万播放；fan-made/concept trailer 161.28万播放，仅作为搜索热度背景。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: Spider-Man Brand New Day recap / post-credit / Tombstone / Punisher / X-Men setup",
-      "heat": "Spider-Man 讨论继续从“彩蛋堆叠”转向街区英雄回归、Tombstone/Punisher 反派尺度、X-Men 伏笔和观众对 MCU 重新收束的期待。",
-      "signal": "可转译点：IP 疲劳期观众并不拒绝解析，而是更想确认角色是否回到街区、人际关系和更接地的危险。",
-      "why": "适合小红书：可拆“为什么大家想让蜘蛛侠先回到街区”，也能做 Marvel 信息焦虑和预告解析经济。",
-      "discussion": "可见主题集中在 grounded Spider-Man、Tombstone、Punisher、Sadie Sink 角色猜测、Mutant/X-Men 伏笔、post-credit 和 MCU 是否重新收束。",
+      "metrics": "8/6 yt-dlp 搜索复核 UGC/解析：New Rockstars trailer breakdown 276.33万播放、New Rockstars easter eggs 237.31万播放、New Rockstars detail breakdown 255.07万播放、New Rockstars post-credit 179.68万播放、ScreenCrush breakdown 124.47万播放、Emergency Awesome 43.50万播放、Heavy Spoilers 39.78万播放。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: Spider-Man Brand New Day trailer breakdown / easter eggs / post-credit / Sadie Sink / X-Men",
+      "heat": "Spider-Man 线在 8/6 明显升级：不再只是 recap，而是 trailer breakdown 经济重新启动，观众用彩蛋、post-credit 和角色猜测判断 MCU 是否能把故事拉回可相信的街区尺度。",
+      "signal": "可转译点：IP 续作的传播力来自“观众一起验收它有没有回到该回到的地方”，不是单纯堆新角色。",
+      "why": "适合小红书：可拆“为什么蜘蛛侠预告能让大家重新想相信 MCU”。",
+      "discussion": "可见主题集中在 street-level、Sadie Sink 身份猜测、Tombstone/Punisher 尺度、X-Men/Mutant 伏笔、post-credit 是否过度消费、MCU 重新收束。",
       "ideas": [
-        "标题：为什么观众想让蜘蛛侠别再拯救宇宙，先回到街区？",
-        "结构：高播放解析 -> 街区感 -> 反派尺度 -> X-Men 伏笔 -> IP 信任修复",
-        "评论引导：你更想看蜘蛛侠街区故事，还是继续 MCU 大事件？"
+        "标题：蜘蛛侠这次最重要的任务，不是打赢反派，是修复观众信任",
+        "结构：高播放 breakdown -> 街区尺度 -> 角色猜测 -> 彩蛋经济 -> MCU 信任修复",
+        "评论引导：你希望预告讲清楚剧情，还是只给足猜测空间？"
       ],
       "sources": [
         [
-          "New Rockstars recap / 137.58万播放",
-          "https://www.youtube.com/watch?v=SQBeWuhUHmA"
+          "New Rockstars trailer breakdown / 276.33万播放",
+          "https://www.youtube.com/watch?v=LbTo7I9M6kM"
         ],
         [
-          "ScreenCrush / 85.98万播放",
-          "https://www.youtube.com/watch?v=C_ckJBQGVjg"
+          "New Rockstars easter eggs / 237.31万播放",
+          "https://www.youtube.com/watch?v=1NHS5OP73Sc"
         ],
         [
-          "Emergency Awesome post-credit / 66.19万播放",
-          "https://www.youtube.com/watch?v=WOfZwL4NKFE"
+          "ScreenCrush breakdown / 124.47万播放",
+          "https://www.youtube.com/watch?v=BAQ5-tvm8Go"
         ],
         [
-          "The Cosmic Wonder / 28.00万播放",
-          "https://www.youtube.com/watch?v=mimDHvXgiRI"
+          "New Rockstars post-credit / 179.68万播放",
+          "https://www.youtube.com/watch?v=7azgVk62GKc"
         ]
       ]
     },
     {
-      "title": "Ariana Grande Petal：专辑 reaction 分散，但“旧版她回不来”人格分析仍有转译价值",
+      "title": "KPop Demon Hunters Golden：声乐拆解长尾继续扩散，新增 Julia Nilon 进入高播放池",
       "tags": [
         "Pop Culture",
-        "Celebrity Branding",
-        "Music",
+        "Music IP",
+        "Vocal Analysis",
         "Fandom"
       ],
-      "priority": "medium",
-      "metrics": "8/4 yt-dlp 搜索复核 UGC：Cedric Johnson “the ariana grande you fell in love with is not coming back” 12.54万播放、Tristan Paredes 单曲声乐 reaction 9.69万播放；Petal 全专 reaction 以 Cameryn Grace 0.39万播放、Talks With Tay 0.45万播放为代表，作为 search cluster 观察，不作主证据。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: Ariana Grande Petal review / old Ariana / identity analysis",
-      "heat": "Petal 的全专 reaction 没有形成强单条爆款，但 Ariana 人格叙事仍有讨论点：粉丝真正追问的是“她还会不会变回以前的 Ariana”。",
-      "signal": "可转译点：流行女星新 era 的冲突不是造型换色，而是粉丝是否接受她把旧人设关掉。",
-      "why": "适合小红书：可做“为什么粉丝总在等旧版她回来”，连接演员身份、音乐身份、公众亲密感和粉丝所有权。",
-      "discussion": "可见主题集中在 old Ariana、Glinda 后的身份切换、Petal 情绪、粉丝怀旧、艺术家成长与粉丝期待之间的拉扯。",
+      "priority": "high",
+      "metrics": "8/6 yt-dlp 搜索复核 UGC：Tim Welch Vocal Studio 256.52万播放、The Charismatic Voice 110.17万播放、Chris Liepe 75.18万播放、Throga Vocal Gym 58.82万播放、Hannah Bayles 48.47万播放、Peter Barber 34.46万播放、Julia Nilon 33.95万播放、The Vocalyst 17.41万播放。",
+      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Golden vocal coach / belted A5 / Rumi real voice / HUNTR/X",
+      "heat": "Golden 仍是强热簇，但今天的变化是长尾更扎实：中腰部声乐老师和 opera/vocal coach 频道继续补充技术拆解，使它从一次爆歌变成可连续学习和站队的声乐话题。",
+      "signal": "可转译点：虚拟 IP 的生命力在于专业创作者不断提供新的拆解层，而不是官方不断发物料。",
+      "why": "适合小红书：可做“为什么 Golden 已经不是一首歌，而是一套声乐挑战”。",
+      "discussion": "可见主题集中在 belted A5、Rumi 真声线、Ejae/Audrey Nuna/Rei Ami、HUNTR/X 角色站队、跟唱门槛和专业拆解反复出现。",
       "ideas": [
-        "标题：粉丝最难接受的，不是 Ariana 换风格，而是她不再演旧版自己",
-        "结构：高播放人格分析 -> Petal 观察 -> 旧人设怀旧 -> 粉丝所有权 -> 新 era 接受成本",
-        "评论引导：你喜欢艺人保持熟悉感，还是每个 era 都彻底重启？"
+        "标题：Golden 已经不是一首歌，而是一套声乐挑战",
+        "结构：头部 reaction -> 中腰部续涨 -> 高音技术 -> 角色声线 -> 粉丝跟唱",
+        "评论引导：你会因为声乐拆解重新爱上一首歌吗？"
       ],
       "sources": [
         [
-          "cedric johnson / 12.54万播放",
-          "https://www.youtube.com/watch?v=LhojQ8snQBk"
+          "Tim Welch Vocal Studio / 256.52万播放",
+          "https://www.youtube.com/watch?v=IreDFhu9AOE"
         ],
         [
-          "Tristan Paredes / 9.69万播放",
-          "https://www.youtube.com/watch?v=0BElWaNzMck"
+          "The Charismatic Voice / 110.17万播放",
+          "https://www.youtube.com/watch?v=QsTQQ42UhvU"
         ],
         [
-          "Cameryn Grace / search cluster observation",
-          "https://www.youtube.com/watch?v=MMnNJwATy3k"
+          "Julia Nilon / 33.95万播放",
+          "https://www.youtube.com/watch?v=6KBBkAPbXqk"
         ],
         [
-          "Talks With Tay / search cluster observation",
-          "https://www.youtube.com/watch?v=QRU6fdbtPi0"
+          "Peter Barber / 34.46万播放",
+          "https://www.youtube.com/watch?v=YKATsUJFGwE"
         ]
       ]
     }
@@ -121,97 +121,97 @@
   "youtubeWatchlist": [
     {
       "label": "Exact video / view-verified",
+      "title": "PlayBackBoyz: first time watching KATSEYE Touch + Gnarly + Gabriela",
+      "use": "211.07万播放；支撑 KATSEYE 从单曲 reaction 变成入坑路线和成员认知话题。",
+      "url": "https://www.youtube.com/watch?v=wzLVdWM4iUE"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "New Rockstars: Spider-Man Brand New Day trailer breakdown",
+      "use": "276.33万播放；支撑 trailer breakdown、彩蛋经济和 MCU 信任修复。",
+      "url": "https://www.youtube.com/watch?v=LbTo7I9M6kM"
+    },
+    {
+      "label": "Exact video / view-verified",
+      "title": "New Rockstars: Spider-Man Brand New Day easter eggs",
+      "use": "237.31万播放；支撑 Sadie Sink、X-Men 伏笔和 street-level 讨论。",
+      "url": "https://www.youtube.com/watch?v=1NHS5OP73Sc"
+    },
+    {
+      "label": "Exact video / view-verified",
       "title": "Tim Welch Vocal Studio: Pro Vocal Coach Reacts to Golden",
-      "use": "256.44万播放；8/4 搜索复核最高播放声乐拆解，支撑 Golden 高音、真声线和虚拟女团真人化。",
+      "use": "256.52万播放；支撑 Golden 声乐挑战、真声线和虚拟女团真人化。",
       "url": "https://www.youtube.com/watch?v=IreDFhu9AOE"
     },
     {
       "label": "Exact video / view-verified",
-      "title": "The Charismatic Voice: Is This The Best Belted A5 Ever?",
-      "use": "110.08万播放；支撑 belted A5、专业声乐拆解和粉丝跟唱门槛。",
-      "url": "https://www.youtube.com/watch?v=QsTQQ42UhvU"
-    },
-    {
-      "label": "Exact video / view-verified",
-      "title": "New Rockstars: Spider-Man recap before Brand New Day",
-      "use": "137.58万播放；支撑街区英雄回归、角色关系和 MCU 预习经济。",
-      "url": "https://www.youtube.com/watch?v=SQBeWuhUHmA"
-    },
-    {
-      "label": "Exact video / view-verified",
-      "title": "ScreenCrush: Spider-Man Brand New Day post-credit and ending explained",
-      "use": "85.98万播放；支撑 Mutant Saga、Doomsday tease 和 post-credit 解析。",
-      "url": "https://www.youtube.com/watch?v=C_ckJBQGVjg"
+      "title": "Tech With Tim: The Ultimate Claude Code Guide",
+      "use": "23.60万播放；支撑 MCP、skills、agents 和 AI 工作台分层。",
+      "url": "https://www.youtube.com/watch?v=uogzSxOw4LU"
     },
     {
       "label": "Watchlist / search cluster",
-      "title": "Stray Kids RUN IT vocal and lyric reactions",
-      "use": "Tim Welch 5.96万播放、Chris Liepe 5.79万播放；刚过播放线但缺少可见评论/点赞精确值，今日只作 K-pop comeback 观察。",
-      "url": "https://www.youtube.com/watch?v=Ww05lBjJCVs"
-    },
-    {
-      "label": "Watchlist / search cluster",
-      "title": "Ariana Grande Petal full album reactions",
-      "use": "Petal 全专 reaction 搜索结果分散，主证据仍用 old Ariana 人格分析；适合继续观察粉丝怀旧线。",
-      "url": "https://www.youtube.com/results?search_query=Ariana+Grande+Petal+album+reaction"
+      "title": "KATSEYE Gameboy / Gabriela performance follow-up",
+      "use": "站内和 YouTube 搜索继续出现 Gameboy/Gabriela performance reaction，等待更完整互动数据后再决定是否拆成独立主线。",
+      "url": "https://www.youtube.com/results?search_query=KATSEYE+Gameboy+Gabriela+performance+reaction"
     }
   ],
   "aiSignals": [
     {
-      "title": "Claude Code skills/subagents: the hot question is which layer owns the work",
+      "title": "Claude Code skills/MCP/agents: users are asking for a workbench map",
       "type": "YouTube view-verified exact videos + workflow tutorial cluster",
-      "metrics": "8/4 yt-dlp 搜索复核：Matt Pocock “5 Claude Code skills” 46.15万播放、Developers Digest “Claude Code NEW Sub Agents” 26.76万播放、Tech With Tim “Ultimate Claude Code Guide” 23.52万播放、Confluent Developer “Agent Skills or MCP” 21.79万播放、Nate Herk “Master 95% of Claude Code Skills” 21.36万播放。",
+      "metrics": "8/6 yt-dlp 搜索复核：Nate Herk beginner Claude Code 40.90万播放、Tech With Tim Ultimate Claude Code Guide 23.60万播放、Anthropic Agent Skills explained 23.32万播放、Confluent Developer Agent Skills or MCP 21.81万播放、Nate Herk skills 21.44万播放。",
       "source": "YouTube creators",
-      "heat": "AI 教程热点继续从“工具清单”转向架构判断：skills、subagents、MCP、plugins 到底谁负责流程、权限、上下文和验收。",
-      "summary": "真正有传播力的是把 AI 工作台拆成岗位、工具、规则和交接边界。",
-      "idea": "小红书角度：别再问 prompt，先搞懂你的 AI 团队里每个人负责什么。",
-      "url": "https://www.youtube.com/watch?v=EJyuu6zlQCg"
+      "heat": "AI 教程热点继续从“安装哪个工具”转向“如何给工作台分层”：rules、skills、agents、MCP、plugins 的边界被反复解释。",
+      "summary": "传播点是把 AI 工作台画成角色、权限、工具和验收边界。",
+      "idea": "小红书角度：你的 AI 团队不是缺工具，是缺岗位说明书。",
+      "url": "https://www.youtube.com/watch?v=saggDHHnmtQ"
     },
     {
-      "title": "Non-coder AI agent courses: ordinary users want a deliverable factory",
-      "type": "YouTube view-verified exact videos + non-coder workflow cluster",
-      "metrics": "8/4 yt-dlp 搜索复核：Nate Herk “Claude Code for Non-Coders” 12.33万播放、AI Master Claude Code agent tutorial 13.36万播放；上轮 Teacher's Tech / Futurepedia 非技术入门线继续作为 30 天窗口验证。",
-      "source": "YouTube creators",
-      "heat": "非程序员线的承诺不是“学代码”，而是把调研、网页、销售材料、自动化和交付流程跑成可验收产物。",
-      "summary": "普通用户要的是项目交付工厂，不是更会聊天的助手。",
-      "idea": "小红书角度：不会写代码的人，为什么也开始搭自己的 AI 外包团队？",
-      "url": "https://www.youtube.com/watch?v=jdbOVepEtUE"
-    },
-    {
-      "title": "AI-native media tools: video editing is becoming agent-operable infrastructure",
+      "title": "Agentic workflow platforms: no-code is turning into ops for AI teams",
       "type": "GitHub Search API + YouTube creator workflow cluster",
-      "metrics": "8/4 GitHub Search API：Alisa0808/vox-director 1,025 stars / 154 forks / pushed_at 2026-08-03；0xsline/OpenChatCut 779 stars / 99 forks / pushed_at 2026-08-03；ronak-create/FableCut 572 stars / 57 forks / pushed_at 2026-07-28。",
+      "metrics": "8/6 GitHub Search API：langgenius/dify 151,473 stars / 23,911 forks / pushed_at 2026-08-06；langflow-ai/langflow 152,867 stars / 9,810 forks / pushed_at 2026-08-06；obra/superpowers 267,357 stars / 23,891 forks / pushed_at 2026-08-06。",
       "source": "GitHub repositories",
-      "heat": "视频 AI 不只是在生成画面，而是在把选题、脚本、剪辑、时间线、字幕和验收做成 agent 可调用的生产系统。",
-      "summary": "下一个 AI 视频机会是可被 agent 驱动的制作流水线。",
-      "idea": "小红书角度：真正省时间的 AI 视频工具，不是给你灵感，而是能接管时间线。",
-      "url": "https://github.com/Alisa0808/vox-director"
+      "heat": "AI app 热点从单点工具转向可部署的 workflow / agent ops：低代码、RAG、编排、skills 和多 agent 协作被包装成团队生产系统。",
+      "summary": "普通人关心的不是模型参数，而是 AI 团队能否稳定交付。",
+      "idea": "小红书角度：下一个效率工具卖点，是帮你管理一支 AI 团队。",
+      "url": "https://github.com/langgenius/dify"
+    },
+    {
+      "title": "Production-grade agent skills: skills are becoming reusable product assets",
+      "type": "GitHub Search API + agent skill repo cluster",
+      "metrics": "8/6 GitHub Search API：addyosmani/agent-skills 82,029 stars / 8,828 forks / pushed_at 2026-08-05；farion1231/cc-switch 103,084 stars / 10,016 forks / pushed_at 2026-08-05；lobehub/lobehub 81,312 stars / 15,776 forks / pushed_at 2026-08-06。",
+      "source": "GitHub repositories",
+      "heat": "GitHub skill 线的机会不是固定仓库列表，而是把工程经验、上下文规则和 agent 可调用能力做成可复用资产。",
+      "summary": "技能包正在从提示词合集变成产品化交付模板。",
+      "idea": "小红书角度：把你的工作方法做成 AI skill，才是真正的个人品牌复利。",
+      "url": "https://github.com/addyosmani/agent-skills"
     }
   ],
   "tiktokSignals": [
     {
-      "title": "KPop Demon Hunters Golden / Rumi real voice search cluster",
+      "title": "KATSEYE Gabriela / Touch / global girl group search cluster",
       "tags": [
         "TikTok",
-        "KPop Demon Hunters",
-        "Golden",
-        "HUNTR/X"
+        "KATSEYE",
+        "Gabriela",
+        "Girl Group"
       ],
       "priority": "high",
-      "metrics": "2026-08-04 站内搜索聚类口径 / 非关注搜索方向；YouTube Golden 声乐拆解高播放 UGC 作外部验证。",
-      "channel": "TikTok Search: KPop Demon Hunters Golden Rumi real voice HUNTRX vocal cover",
+      "metrics": "2026-08-06 站内搜索聚类口径 / 非关注搜索方向；YouTube KATSEYE reaction 高播放 UGC 作外部验证。",
+      "channel": "TikTok Search: KATSEYE Gabriela Touch Gnarly Gameboy reaction performance",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Golden 高音、Rumi 真声线、HUNTR/X 角色站队、跟唱/翻唱、声乐老师 reaction。",
-      "signal": "小红书可拆成“虚拟女团为什么开始拥有真人女团式声乐神话”。",
-      "discussion": "可见主题：高音爽感、角色声线、真实歌手身份、跟唱难度、声乐老师集体上头。",
-      "xhsTitle": "Golden 最厉害的地方，不是火，而是能被反复拆",
-      "angle": "结构：音频爆点 -> 现场真声线 -> 高音技术 -> 虚拟女团真人化。",
-      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Golden%20Rumi%20real%20voice"
+      "heat": "入口集中在 Gabriela 视觉、Touch 二次入坑、成员认人、全球女团身份、reaction 主播入坑路线。",
+      "signal": "小红书可拆成“全球女团为什么先让你认人，再让你追企划”。",
+      "discussion": "可见主题：Gabriela 拉丁 pop 视觉、成员分工、舞台能量、K-pop/欧美 pop 身份边界。",
+      "xhsTitle": "KATSEYE 最聪明的地方，是把路人变成认人观众",
+      "angle": "结构：音频爆点 -> MV 视觉 -> 成员认知 -> reaction 入坑 -> 全球女团身份争议。",
+      "url": "https://www.tiktok.com/search?q=KATSEYE%20Gabriela%20Touch%20reaction"
     },
     {
-      "title": "Spider-Man Brand New Day street-level / post-credit search cluster",
+      "title": "Spider-Man Brand New Day trailer breakdown search cluster",
       "tags": [
         "TikTok",
         "Marvel",
@@ -219,121 +219,121 @@
         "Film"
       ],
       "priority": "high",
-      "metrics": "2026-08-04 站内搜索聚类口径；YouTube New Rockstars/ScreenCrush/Emergency Awesome 高播放解析作外部验证。",
-      "channel": "TikTok Search: Spider-Man Brand New Day Tombstone Punisher street level post credit",
+      "metrics": "2026-08-06 站内搜索聚类口径；YouTube trailer breakdown 高播放 UGC 作外部验证。",
+      "channel": "TikTok Search: Spider-Man Brand New Day trailer breakdown Sadie Sink X-Men",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在街区蜘蛛侠、Tombstone、Punisher、Sadie Sink 角色猜测、X-Men/Mutant 伏笔。",
-      "signal": "小红书可转成“为什么大家想让蜘蛛侠从宇宙大事件回到街区”。",
-      "discussion": "可见主题：grounded Spider-Man、street-level、post-credit、MCU 收束、角色关系。",
-      "xhsTitle": "为什么观众想让蜘蛛侠别再拯救宇宙，先回到街区？",
-      "angle": "结构：解析热度 -> 街区感 -> 反派尺度 -> IP 信任修复。",
-      "url": "https://www.tiktok.com/search?q=Spider-Man%20Brand%20New%20Day%20Tombstone%20street%20level"
+      "heat": "入口集中在 trailer easter eggs、Sadie Sink 身份猜测、X-Men 伏笔、街区英雄和 MCU 是否重新收束。",
+      "signal": "小红书可拆成“预告解析为什么像一次观众信任投票”。",
+      "discussion": "可见主题：彩蛋、post-credit、street-level、Mutant/X-Men、角色猜测、IP 疲劳。",
+      "xhsTitle": "蜘蛛侠这次最重要的任务，是修复观众信任",
+      "angle": "结构：预告细节 -> 角色猜测 -> 街区尺度 -> MCU 信任修复。",
+      "url": "https://www.tiktok.com/search?q=Spider-Man%20Brand%20New%20Day%20trailer%20breakdown"
     },
     {
-      "title": "Ariana Grande Petal / old Ariana search cluster",
+      "title": "KPop Demon Hunters Golden / vocal challenge search cluster",
       "tags": [
         "TikTok",
-        "Ariana Grande",
-        "Petal",
-        "Celebrity Branding"
+        "KPop Demon Hunters",
+        "Golden",
+        "HUNTR/X"
       ],
-      "priority": "medium",
-      "metrics": "2026-08-04 站内搜索聚类口径；YouTube Cedric Johnson / Tristan Paredes 播放复核作外部验证。",
-      "channel": "TikTok Search: Ariana Grande Petal old Ariana hate that i made you love me",
+      "priority": "high",
+      "metrics": "2026-08-06 站内搜索聚类口径；YouTube Golden 声乐拆解高播放 UGC 作外部验证。",
+      "channel": "TikTok Search: KPop Demon Hunters Golden Rumi real voice vocal challenge",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 old Ariana 怀旧、Glinda 后身份切换、Petal 情绪和粉丝对新 era 的接受成本。",
-      "signal": "小红书可拆“为什么粉丝总在等旧版艺人回来”。",
-      "discussion": "可见主题：旧人设、粉丝所有权、音乐身份、演员身份、新 era 是否可信。",
-      "xhsTitle": "粉丝最难接受的，不是她换风格，而是她不再演旧版自己",
-      "angle": "结构：新专辑 -> 旧人设怀旧 -> 粉丝所有权 -> 成长叙事。",
-      "url": "https://www.tiktok.com/search?q=Ariana%20Grande%20Petal%20old%20Ariana"
+      "heat": "入口集中在 Golden 高音挑战、Rumi 真声线、HUNTR/X 角色站队、跟唱/翻唱、声乐老师 reaction。",
+      "signal": "小红书可拆成“虚拟女团为什么拥有真人女团式声乐神话”。",
+      "discussion": "可见主题：高音、belted A5、真实歌手身份、跟唱难度、专业拆解。",
+      "xhsTitle": "Golden 已经不是一首歌，而是一套声乐挑战",
+      "angle": "结构：音频爆点 -> 真声线 -> 高音技术 -> 虚拟女团真人化。",
+      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Golden%20vocal%20challenge"
     },
     {
-      "title": "Claude Code skills vs subagents vs MCP search cluster",
+      "title": "Claude Code skills vs MCP workbench search cluster",
       "tags": [
         "TikTok",
-        "AI Workflow",
+        "AI",
         "Claude Code",
-        "Creator Economy"
+        "Workflow"
       ],
       "priority": "medium",
-      "metrics": "2026-08-04 站内搜索聚类口径；YouTube Claude Code skills/subagents 高播放教程作外部验证。",
-      "channel": "TikTok Search: Claude Code skills subagents MCP workflow non coders",
-      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
+      "metrics": "2026-08-06 站内搜索聚类口径；YouTube Claude Code 高播放教程和 GitHub skill repo 作外部验证。",
+      "channel": "TikTok Search: Claude Code skills MCP agents workflow",
+      "sourceType": "站内搜索聚类 / YouTube + GitHub 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 skills、subagents、MCP、plugins、普通人如何搭 AI 工作台。",
-      "signal": "小红书可转成“AI 团队分工表”，让非程序员理解每个组件负责什么。",
-      "discussion": "可见主题：工具混淆、权限边界、自动化交付、非程序员能不能用。",
-      "xhsTitle": "别再问 prompt，先搞懂你的 AI 团队里每个人负责什么",
-      "angle": "结构：岗位 -> 工具 -> 权限 -> 交接 -> 验收。",
-      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20subagents%20MCP"
+      "heat": "入口集中在 skills、MCP、agents、plugins、普通人 AI workflow 和 non-coder deliverable factory。",
+      "signal": "小红书可拆成“你的 AI 团队不是缺工具，是缺岗位说明书”。",
+      "discussion": "可见主题：谁管上下文、谁调工具、谁验收、非程序员如何复用。",
+      "xhsTitle": "别再问 prompt，先搞懂你的 AI 团队岗位分工",
+      "angle": "结构：工作台分层 -> 角色/工具/权限 -> 普通人可复用流程。",
+      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20MCP%20agents"
     }
   ],
   "githubSkills": [
     {
-      "title": "Alisa0808/vox-director",
+      "title": "obra/superpowers",
       "rank": "01",
-      "heat": "8/4 GitHub Search API：1,025 stars / 154 forks / created_at 2026-07-10 / pushed_at 2026-08-03；定位为把一个主题自动变成 Vox-style paper-collage explainer/ad video 的端到端 agent skill。",
-      "summary": "视频选题到成片正在被包装成 agent skill。",
-      "use": "小红书角度：AI 视频真正有价值的地方，是把脚本、分镜、剪辑和验收连成流水线。",
-      "idea": "标题方向：为什么下一个 AI 视频工具，可能不是生成器，而是导演助理",
+      "heat": "8/6 GitHub Search API：267,357 stars / 23,891 forks / created_at 2025-10-09 / pushed_at 2026-08-06；定位为 agentic skills framework 与软件开发方法论。",
+      "summary": "agent skills 正在从技巧合集变成工程方法论。",
+      "use": "小红书角度：不是让 AI 更聪明，而是给 AI 一套可复用工作规程。",
+      "idea": "标题方向：为什么真正好用的 AI，不靠灵感，靠方法论",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/Alisa0808/vox-director"
+      "url": "https://github.com/obra/superpowers"
     },
     {
-      "title": "0xsline/OpenChatCut",
+      "title": "langgenius/dify",
       "rank": "02",
-      "heat": "8/4 GitHub Search API：779 stars / 99 forks / created_at 2026-07-15 / pushed_at 2026-08-03；local-first conversational AI video editor，含多轨时间线、Agent Skills、MCP 和 Remotion rendering。",
-      "summary": "剪辑软件开始变成 agent 可操作的专业时间线。",
-      "use": "小红书角度：以后不是让 AI 给建议，而是让它直接操作你的剪辑工程。",
-      "idea": "标题方向：真正的 AI 剪辑，不是自动成片，而是会改时间线",
+      "heat": "8/6 GitHub Search API：151,473 stars / 23,911 forks / pushed_at 2026-08-06；Agentic workflow、RAG、model/tool 支持和团队协作工作台持续更新。",
+      "summary": "低代码 AI 平台正在变成 agent ops 工作台。",
+      "use": "小红书角度：AI 工具从单点提效，变成管理流程、知识库和工具调用。",
+      "idea": "标题方向：下一个效率工具卖点，是帮你管理一支 AI 团队",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/0xsline/OpenChatCut"
+      "url": "https://github.com/langgenius/dify"
     },
     {
-      "title": "ronak-create/FableCut",
+      "title": "langflow-ai/langflow",
       "rank": "03",
-      "heat": "8/4 GitHub Search API：572 stars / 57 forks / created_at 2026-07-06 / pushed_at 2026-07-28；零依赖浏览器视频编辑器，AI agents 可通过 JSON timeline、MCP、REST 驱动。",
-      "summary": "JSON timeline 正成为 AI 视频编辑的可执行接口。",
-      "use": "小红书角度：把剪辑风格写成可执行时间线，才可能稳定复刻。",
-      "idea": "标题方向：以后你的剪辑风格，可能是一份 JSON 文件",
+      "heat": "8/6 GitHub Search API：152,867 stars / 9,810 forks / pushed_at 2026-08-06；可视化构建和部署 AI agents/workflows。",
+      "summary": "可视化工作流仍是普通用户理解 agent 的入口。",
+      "use": "小红书角度：让用户看见流程，才有机会相信 AI 交付。",
+      "idea": "标题方向：为什么 AI 工作流一定要可视化，普通人才敢交给它",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/ronak-create/FableCut"
+      "url": "https://github.com/langflow-ai/langflow"
     },
     {
-      "title": "codejunkie99/graph-engineering",
+      "title": "farion1231/cc-switch",
       "rank": "04",
-      "heat": "8/4 GitHub Search API：291 stars / 42 forks / created_at 2026-07-23 / pushed_at 2026-07-23；把知识图谱 pipeline 和 task-graph orchestration patterns 包装成 Claude skill。",
-      "summary": "知识图谱从研究概念变成 agent 工作流教学包。",
-      "use": "小红书角度：AI 不是缺信息，而是缺一张能安排任务的关系图。",
-      "idea": "标题方向：为什么下一代 AI 工作流，要先画一张知识图谱",
+      "heat": "8/6 GitHub Search API：103,084 stars / 10,016 forks / pushed_at 2026-08-05；主题覆盖 Claude Code、Codex、Cursor、MCP、skills、code search 和知识图谱。",
+      "summary": "编码 agent 的下一层竞争是上下文切换和知识图谱。",
+      "use": "小红书角度：AI 编程不只是会写代码，而是知道该切到哪套上下文。",
+      "idea": "标题方向：AI 编程真正难的不是生成，是切换正确上下文",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/codejunkie99/graph-engineering"
+      "url": "https://github.com/farion1231/cc-switch"
     },
     {
-      "title": "oxbshw/watch-skill",
+      "title": "addyosmani/agent-skills",
       "rank": "05",
-      "heat": "8/4 GitHub Search API：254 stars / 39 forks / created_at 2026-07-05 / pushed_at 2026-07-12；视频理解和自验证 skill，把视频、stream、agent screen recording 变成可搜索证据。",
-      "summary": "agent 验收开始依赖视频证据和回看循环。",
-      "use": "小红书角度：让 AI 自己看回放，可能是减少返工的关键。",
-      "idea": "标题方向：为什么会看回放的 AI，比会生成的 AI 更值钱",
-      "urlLabel": "打开 GitHub",
-      "url": "https://github.com/oxbshw/watch-skill"
-    },
-    {
-      "title": "tech4idea/viforge",
-      "rank": "06",
-      "heat": "8/4 GitHub Search API：76 stars / 15 forks / created_at 2026-07-09 / pushed_at 2026-07-26；local-first AI collaboration workbench，把个人方法论转成 reusable agents、skills、knowledge bases 和 workflows。",
-      "summary": "个人方法论正在产品化成可复用 AI 工作台。",
-      "use": "小红书角度：未来的个人品牌资产，可能是一套能反复调用的 workflow。",
+      "heat": "8/6 GitHub Search API：82,029 stars / 8,828 forks / pushed_at 2026-08-05；production-grade engineering skills for AI coding agents。",
+      "summary": "高质量工程经验正在被封装成 agent skill。",
+      "use": "小红书角度：高级工程师的价值会变成一套 AI 可调用的验收标准。",
       "idea": "标题方向：把你的工作方法做成 AI skill，才是真正的个人品牌复利",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/tech4idea/viforge"
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "rank": "06",
+      "heat": "8/6 GitHub Search API：81,312 stars / 15,776 forks / pushed_at 2026-08-06；主题覆盖 agent collaboration、agent harness、knowledge base、MCP 和 skills。",
+      "summary": "agent 管理和调度开始产品化。",
+      "use": "小红书角度：当 AI 变多，真正稀缺的是谁来排班、报告和验收。",
+      "idea": "标题方向：未来的 AI 工具，不是一个助手，而是一张排班表",
+      "urlLabel": "打开 GitHub",
+      "url": "https://github.com/lobehub/lobehub"
     }
   ],
   "sparkPool": [
@@ -504,20 +504,62 @@
   ],
   "summarySparks": [
     {
-      "id": "golden-vocal-0804",
+      "id": "katseye-gabriela-0806",
+      "tags": [
+        "katseye",
+        "gabriela",
+        "girl-group"
+      ],
+      "lane": "Pop Culture / Girl Group",
+      "heat": "99",
+      "title": "KATSEYE 让 reaction 频道变成新女团入坑导游",
+      "spark": "8/6 yt-dlp 搜索复核：PlayBackBoyz 211.07万播放、Kess and Han Reacts 94.25万播放、BRISxLIFE 49.30万播放、OhioAssassins 41.65万播放。热簇围绕 Gabriela 视觉、Touch 二次入坑、成员认人和全球女团身份。",
+      "xhsTitle": "KATSEYE 最聪明的地方，是把路人变成认人观众",
+      "discussion": "可见讨论点：Gabriela 拉丁 pop 视觉、成员分工、舞台能量、K-pop/欧美 pop 身份边界。",
+      "prompt": "引导话题：你是先被歌吸引，还是先开始认成员？",
+      "tone": "今天最适合新增主稿；高播放 UGC 多，安全风险低。",
+      "related": [
+        "KATSEYE",
+        "Gabriela",
+        "Touch"
+      ]
+    },
+    {
+      "id": "spiderman-trailer-0806",
+      "tags": [
+        "spider-man",
+        "marvel",
+        "trailer-breakdown"
+      ],
+      "lane": "Pop Culture / Film",
+      "heat": "98",
+      "title": "Spider-Man 预告解析像一次 MCU 信任修复测试",
+      "spark": "8/6 yt-dlp 搜索复核：New Rockstars 276.33万、237.31万、255.07万播放，ScreenCrush 124.47万播放，New Rockstars post-credit 179.68万播放。",
+      "xhsTitle": "蜘蛛侠这次最重要的任务，是修复观众信任",
+      "discussion": "可见讨论点：street-level、Sadie Sink、Tombstone/Punisher、X-Men 伏笔、post-credit。",
+      "prompt": "引导话题：你希望预告讲清楚剧情，还是只给足猜测空间？",
+      "tone": "适合影视/IP账号；明确使用 UGC 解析，不把概念视频当官方。",
+      "related": [
+        "Spider-Man: Brand New Day",
+        "Marvel",
+        "X-Men"
+      ]
+    },
+    {
+      "id": "golden-vocal-0806",
       "tags": [
         "kpop-demon-hunters",
         "golden",
         "vocal-analysis"
       ],
       "lane": "Pop Culture / Music IP",
-      "heat": "99",
-      "title": "Golden 从动画爆歌变成可被反复拆的声乐对象",
-      "spark": "8/4 yt-dlp 搜索复核：Tim Welch 256.44万播放、The Charismatic Voice 110.08万播放、Chris Liepe 75.16万播放、Throga 58.79万播放。热簇围绕 Rumi 真声线、belted A5、角色声线和虚拟女团真人化。",
-      "xhsTitle": "Golden 最厉害的地方，不是火，而是能被反复拆",
-      "discussion": "可见讨论点：高音、belting、Rumi 真声线、HUNTR/X 角色声线、粉丝跟唱难度。",
-      "prompt": "引导话题：你更在意 Golden 的高音，还是 Rumi 的真实歌手身份？",
-      "tone": "最适合今天主稿；高播放 UGC 多，内容安全风险低。",
+      "heat": "97",
+      "title": "Golden 继续从爆歌变成声乐挑战和角色站队对象",
+      "spark": "8/6 yt-dlp 搜索复核：Tim Welch 256.52万播放、The Charismatic Voice 110.17万播放、Chris Liepe 75.18万播放、Throga 58.82万播放、Julia Nilon 33.95万播放。",
+      "xhsTitle": "Golden 已经不是一首歌，而是一套声乐挑战",
+      "discussion": "可见讨论点：belted A5、Rumi 真声线、HUNTR/X 角色声线、粉丝跟唱难度。",
+      "prompt": "引导话题：你会因为声乐拆解重新爱上一首歌吗？",
+      "tone": "强长尾题；更适合作为第二篇或复盘稿。",
       "related": [
         "Golden",
         "HUNTR/X",
@@ -525,108 +567,66 @@
       ]
     },
     {
-      "id": "spiderman-street-0804",
-      "tags": [
-        "spider-man",
-        "marvel",
-        "street-level"
-      ],
-      "lane": "Pop Culture / Film",
-      "heat": "98",
-      "title": "Spider-Man 的热度从多元宇宙回到街区英雄和角色尺度",
-      "spark": "8/4 yt-dlp 搜索复核：New Rockstars 137.58万播放、ScreenCrush 85.98万播放、Emergency Awesome post-credit 66.19万播放、The Cosmic Wonder 28.00万播放。热簇围绕 Tombstone、Punisher、X-Men 伏笔和 street-level。",
-      "xhsTitle": "为什么观众想让蜘蛛侠别再拯救宇宙，先回到街区？",
-      "discussion": "可见讨论点：街区感、Tombstone、Punisher、Sadie Sink 猜测、Mutant/X-Men 伏笔、post-credit。",
-      "prompt": "引导话题：你更想看蜘蛛侠街区故事，还是继续 MCU 大事件？",
-      "tone": "适合影视/IP账号；避免把 concept trailer 当官方物料。",
-      "related": [
-        "Spider-Man: Brand New Day",
-        "Tombstone",
-        "Marvel"
-      ]
-    },
-    {
-      "id": "ariana-old-self-0804",
-      "tags": [
-        "ariana-grande",
-        "petal",
-        "celebrity-branding"
-      ],
-      "lane": "Pop Culture / Celebrity Branding",
-      "heat": "87",
-      "title": "Petal 的可讲点不是全专 reaction，而是粉丝在等旧版 Ariana",
-      "spark": "8/4 搜索复核：Cedric Johnson 12.54万播放、Tristan Paredes 9.69万播放；Petal 全专 reaction 分散，适合写成 old Ariana / 新 era 接受成本的 search cluster。",
-      "xhsTitle": "粉丝最难接受的，不是她换风格，而是她不再演旧版自己",
-      "discussion": "可见讨论点：old Ariana、Glinda 后身份切换、粉丝怀旧、音乐身份和公众亲密感。",
-      "prompt": "引导话题：你喜欢艺人保持熟悉感，还是每个 era 都彻底重启？",
-      "tone": "适合娱乐人格分析；不要把分散 reaction 写成爆款。",
-      "related": [
-        "Ariana Grande",
-        "Petal",
-        "old Ariana"
-      ]
-    },
-    {
-      "id": "claude-code-layers-0804",
+      "id": "claude-code-workbench-0806",
       "tags": [
         "claude-code",
         "skills",
         "mcp"
       ],
       "lane": "AI / Workflow",
-      "heat": "92",
-      "title": "Claude Code 热点从教程进入工作台分层解释",
-      "spark": "8/4 yt-dlp 搜索复核：Matt Pocock 46.15万播放、Developers Digest 26.76万播放、Tech With Tim 23.52万播放、Confluent Developer 21.79万播放、Nate Herk 21.36万播放。",
-      "xhsTitle": "别再问 prompt，先搞懂你的 AI 团队里每个人负责什么",
-      "discussion": "可见讨论点：skills vs subagents vs MCP、权限边界、上下文管理、普通人能否复用。",
+      "heat": "94",
+      "title": "Claude Code 热点从教程变成工作台岗位说明书",
+      "spark": "8/6 yt-dlp 搜索复核：Nate Herk 40.90万播放、Tech With Tim 23.60万播放、Anthropic Agent Skills 23.32万播放、Confluent Developer 21.81万播放。",
+      "xhsTitle": "你的 AI 团队不是缺工具，是缺岗位说明书",
+      "discussion": "可见讨论点：skills vs MCP vs agents、上下文、权限、验收、非程序员如何复用。",
       "prompt": "引导话题：你最想让 AI 团队先接管哪类工作？",
       "tone": "适合 AI 工具/效率账号；用生活化岗位比喻降低门槛。",
       "related": [
         "Claude Code",
         "MCP",
-        "Subagents"
+        "Agent Skills"
       ]
     },
     {
-      "id": "agent-video-tools-0804",
+      "id": "github-agent-ops-0806",
       "tags": [
         "github",
-        "ai-video",
-        "agent-skills"
+        "agent-skills",
+        "workflow"
       ],
       "lane": "AI / GitHub Skill",
-      "heat": "90",
-      "title": "AI 视频工具开始从生成器变成 agent 可操作的制作系统",
-      "spark": "8/4 GitHub Search API：vox-director 1,025 stars、OpenChatCut 779 stars、FableCut 572 stars；共同点是把脚本、时间线、剪辑、字幕和验收变成可执行接口。",
-      "xhsTitle": "真正的 AI 剪辑，不是自动成片，而是会改时间线",
-      "discussion": "可见讨论点：JSON timeline、MCP、agent skills、local-first、端到端视频流水线。",
-      "prompt": "引导话题：你更想让 AI 帮你出创意，还是直接改工程？",
-      "tone": "适合 AI 产品机会和创业 idea；强调可执行 workflow。",
+      "heat": "91",
+      "title": "GitHub skill 线从单个仓库转向 agent ops 和可复用方法论",
+      "spark": "8/6 GitHub Search API：superpowers 267,357 stars、dify 151,473 stars、langflow 152,867 stars、agent-skills 82,029 stars；共同点是把方法、工具调用和流程验收产品化。",
+      "xhsTitle": "把你的工作方法做成 AI skill，才是真正的个人品牌复利",
+      "discussion": "可见讨论点：skills、workflow、agent ops、knowledge base、可视化流程、验收标准。",
+      "prompt": "引导话题：你最想把哪套个人工作方法封装成 AI skill？",
+      "tone": "适合 AI 产品机会和创业 idea；不要写成固定仓库上涨榜。",
       "related": [
-        "vox-director",
-        "OpenChatCut",
-        "FableCut"
+        "agent-skills",
+        "Dify",
+        "Langflow"
       ]
     },
     {
-      "id": "stray-kids-watch-0804",
+      "id": "tiktok-search-clusters-0806",
       "tags": [
-        "stray-kids",
-        "run-it",
-        "kpop-watchlist"
+        "tiktok",
+        "search-cluster",
+        "pop-culture"
       ],
-      "lane": "Watchlist / K-pop Comeback",
-      "heat": "73",
-      "title": "Stray Kids RUN IT 有 K-pop 讨论势能，但今天不够主榜",
-      "spark": "8/4 yt-dlp 搜索复核：Tim Welch 5.96万播放、Chris Liepe 5.79万播放、itsANDYandJAS 4.60万播放；刚过播放线但缺少完整互动证据，先作为 search cluster 观察。",
-      "xhsTitle": "Stray Kids 这次最值得看的是速度感，而不是单纯回归成绩",
-      "discussion": "可见讨论点：rap 速度、vocal reaction、MV 剪辑、Stay 粉丝解读。",
-      "prompt": "引导话题：你觉得 RUN IT 更像舞台歌，还是剪辑型短视频歌？",
-      "tone": "只放观察位；等出现更高互动 UGC 后再进主榜。",
+      "lane": "TikTok / Search Cluster",
+      "heat": "86",
+      "title": "TikTok 今日只记录四个搜索聚类，不伪装精确热视频",
+      "spark": "8/6 站内搜索聚类：KATSEYE Gabriela/Touch、Spider-Man Brand New Day trailer、Golden vocal challenge、Claude Code skills/MCP；均用 YouTube/GitHub 外部高互动证据验证方向。",
+      "xhsTitle": "今天的短视频趋势，不是一个爆款，而是四条正在成形的搜索路线",
+      "discussion": "可见讨论点：女团入坑、预告解析、声乐挑战、AI 工作台分层。",
+      "prompt": "引导话题：你今天最想追哪条搜索路线？",
+      "tone": "保守写法；没有精确视频 URL 时只放搜索页。",
       "related": [
-        "Stray Kids",
-        "RUN IT",
-        "THIS AND THAT"
+        "KATSEYE",
+        "Spider-Man",
+        "Claude Code"
       ]
     }
   ],
@@ -650,11 +650,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-08-04-0953",
-    "contentWindow": "内容研究窗口：2026.07.20 - 2026.08.04 / 部署包生成：2026.08.04 09:53 CST",
-    "researchedThrough": "2026-08-04",
-    "packageGeneratedAt": "2026-08-04 09:53 CST",
-    "summary": "8/4 动态发现继续从具体实体反推：Golden/KPop Demon Hunters 仍是最高强度声乐拆解热簇；Spider-Man: Brand New Day 从街区英雄回归扩展到 recap/post-credit 解析；Ariana Grande Petal 专辑 reaction 仍分散，但 old Ariana 怀旧和艺人人格切换可做观察；Stray Kids RUN IT 刚过播放线但互动证据不足，仅进 watchlist/TikTok search cluster。AI 线继续由 Claude Code skills/subagents/MCP 和非程序员 agent 工作流支撑；GitHub Search API 今日新增 graph-engineering、vox-director、OpenChatCut、FableCut 等 skill/workflow 样本。TikTok 只写站内搜索聚类，不伪装精确视频链接。"
+    "editionId": "2026-08-06-1045",
+    "contentWindow": "内容研究窗口：2026.07.22 - 2026.08.06 / 部署包生成：2026.08.06 10:45 CST",
+    "researchedThrough": "2026-08-06",
+    "packageGeneratedAt": "2026-08-06 10:45 CST",
+    "summary": "8/6 动态发现先从具体实体反推：KATSEYE Gabriela/Touch 成为新增 pop culture 主线；Spider-Man: Brand New Day trailer breakdown 热度升级；KPop Demon Hunters Golden 继续以声乐拆解长尾支撑。AI 线继续由 Claude Code skills/MCP/agents 工作台分层和 GitHub agent ops/workflow repo 支撑。TikTok 只写站内搜索聚类，不伪装精确视频链接；YouTube 单页详情仍被反机器人拦截，因此不新增点赞/评论精确值。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
