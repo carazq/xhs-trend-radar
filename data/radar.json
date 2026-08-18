@@ -1,85 +1,7 @@
 {
   "trends": [
     {
-      "title": "KATSEYE Animal/WILD：全球女团被讨论成一套“工业化人格系统”",
-      "tags": [
-        "Pop Culture",
-        "Music",
-        "KATSEYE",
-        "Creator Branding"
-      ],
-      "priority": "high",
-      "metrics": "8/14 yt-dlp 搜索复核 UGC/解析：NK's Wrld “Katseye is a Social Experiment” 46.58万播放、Kess and Han Reacts Animal reaction 31.55万播放、Jordan Orme Animal MV analysis 12.77万播放；官方/媒体背景包括 HYBE Animal MV 4869.95万播放、Wild Hearts trailer 416.40万播放、Vanity Fair Hot Seat 236.80万播放、Billboard News 50.42万播放。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: KATSEYE Animal / WILD / Wild Hearts / Manon documentary reaction / social experiment",
-      "heat": "今日新增最强 music/creator branding 热簇。讨论不是单曲本身，而是 K-pop 训练营逻辑、全球女团身份、成员人格、粉丝投射和纪录片里的真实/制作感边界。",
-      "signal": "可转译点：粉丝在消费舞台，也在审核“这个团到底是真成长，还是精密设计的人格产品”。",
-      "why": "适合小红书：可做“为什么 KATSEYE 让人上头：她们不是女团，是一套可追剧的人格系统”。",
-      "discussion": "可见主题集中在 Manon 叙事、训练营压力、global girl group 是否像实验、Animal 视觉变成熟、粉丝对 authenticity 和 industry plant 的站队。",
-      "ideas": [
-        "标题：KATSEYE 真正卖的不是歌，是一套可追剧的人格系统",
-        "结构：Animal 视觉升级 -> Wild Hearts 纪录片 -> Manon/成员人格 -> 粉丝站队 -> 小红书自我投射",
-        "评论引导：你会更喜欢“真实成长型女团”，还是“设计得很完整的女团”？"
-      ],
-      "sources": [
-        [
-          "NK's Wrld / 46.58万播放",
-          "https://www.youtube.com/watch?v=Dux2ppcMrHg"
-        ],
-        [
-          "Kess and Han Reacts / 31.55万播放",
-          "https://www.youtube.com/watch?v=Gg9h3dCHgJU"
-        ],
-        [
-          "Jordan Orme / 12.77万播放",
-          "https://www.youtube.com/watch?v=WkMCNrzru3g"
-        ],
-        [
-          "Billboard News / 50.42万播放",
-          "https://www.youtube.com/watch?v=y_n9MJusatg"
-        ]
-      ]
-    },
-    {
-      "title": "KPop Demon Hunters Golden：现场声乐把虚拟 IP 拉进“真唱验收”",
-      "tags": [
-        "Pop Culture",
-        "Music",
-        "KPop Demon Hunters",
-        "Vocal Analysis"
-      ],
-      "priority": "high",
-      "metrics": "8/14 yt-dlp 搜索复核 UGC/解析：Beth Roars Golden vocal reaction 235.24万播放、The Charismatic Voice live performance analysis 47.05万播放、Songs From A Suitcase live vocal reaction 40.26万播放、Tristan Paredes live vocal coach reaction 15.36万播放；低量 BAFTA/Oscars 即时短评只作站内聚类观察。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: KPop Demon Hunters Golden live performance / EJAE / Audrey Nuna / Rei Ami / vocal analysis",
-      "heat": "Golden 的长尾从“电影歌爆了”进入“真人舞台能不能承接虚拟角色”的验收期；声乐老师和 reaction 频道继续把 A5、高音、混声、角色声线拆成可讨论的技术点。",
-      "signal": "可转译点：二次元/动画 IP 破圈后，观众会要求真人表演也证明它是真的。",
-      "why": "适合小红书：可做“虚拟角色最难的一关，是被真人现场验证”。",
-      "discussion": "可见主题集中在 live vocal 是否还原角色、EJAE/Audrey Nuna/Rei Ami 的声线分工、A5 高音、粉丝对原声与现场的真实感验证。",
-      "ideas": [
-        "标题：Golden 为什么还在火？因为大家开始验收“角色背后的真人”",
-        "结构：高播放声乐拆解 -> 现场验收 -> 角色声线分工 -> IP 真实感 -> 评论站队",
-        "评论引导：动画神曲真人现场唱出来，会加分还是破坏幻想？"
-      ],
-      "sources": [
-        [
-          "Beth Roars / 235.24万播放",
-          "https://www.youtube.com/watch?v=nFN-RdByLLo"
-        ],
-        [
-          "The Charismatic Voice / 47.05万播放",
-          "https://www.youtube.com/watch?v=4ryqIDvAPT4"
-        ],
-        [
-          "Songs From A Suitcase / 40.26万播放",
-          "https://www.youtube.com/watch?v=e9YgeiA9BUM"
-        ],
-        [
-          "Tristan Paredes / 15.36万播放",
-          "https://www.youtube.com/watch?v=TrfVFZLlxRs"
-        ]
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day：上映后口碑继续围绕“街区英雄承诺”验收",
+      "title": "Spider-Man: Brand New Day 后信用彩蛋：粉丝把 MCU 续作当“信任验收表”在审",
       "tags": [
         "Pop Culture",
         "Film",
@@ -87,173 +9,242 @@
         "Fandom Debate"
       ],
       "priority": "high",
-      "metrics": "8/14 复扫仍在 15 天窗口内的高播放 UGC：New Rockstars breakdown 318.83万播放、penguinz0 review 230.37万播放、The Critical Drinker review 140.14万播放、Jeremy Jahns spoiler talk 59.70万播放。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: Spider-Man Brand New Day review / spoiler talk / plot holes / Marvel street-level",
-      "heat": "Spider-Man 线从预告彩蛋经济变成上映后口碑验收：观众不只猜客串，而是在判断 Peter 是否真正回到街区、人物关系是否压过 MCU 工业彩蛋。",
-      "signal": "可转译点：IP 续作的传播节点是“预告承诺有没有兑现”，不是预告本身。",
+      "metrics": "8/18 yt-dlp 精确复核：New Rockstars 2026-07-30 222.96万播放 / 5.43万赞 / 4100评论；ScreenCrush 2026-07-29 126.27万播放 / 2.66万赞 / 2700评论；Emergency Awesome 2026-08-04 27.96万播放 / 7351赞 / 1000评论；Beyond The Trailer 2026-07-31 8.20万播放 / 3243赞 / 392评论。",
+      "channel": "YouTube exact videos + Search cluster: Spider-Man Brand New Day post-credit / Jean Grey / MCU X-Men / ending explained",
+      "heat": "今日最强影视 UGC 主榜。热度从“电影好不好看”转向“片尾是不是又把观众拉回 MCU 长线工程”，X-Men / Jean Grey / Doomsday 彩蛋成为粉丝重新下注或继续怀疑的触发点。",
+      "signal": "可转译点：IP 续作现在不是靠彩蛋赢，而是靠兑现承诺修复观众信任。",
       "why": "适合小红书：可做“蜘蛛侠这次最难的反派，是观众的不信任”。",
-      "discussion": "可见主题集中在 street-level 是否兑现、plot holes、spoiler 角色使用、Marvel 疲劳、Peter 的普通人尺度、彩蛋是否服务故事。",
+      "discussion": "可见主题集中在 Jean Grey 身份、X-Men 接入方式、post-credit 是否服务剧情、street-level 承诺是否被 MCU 大线稀释、Peter 普通人尺度。",
       "ideas": [
         "标题：蜘蛛侠这次最难的反派，是观众的不信任",
-        "结构：预告期待 -> 上映验收 -> 街区英雄承诺 -> Marvel 疲劳 -> 评论站队",
-        "评论引导：你更在意蜘蛛侠像普通人，还是 MCU 彩蛋够多？"
+        "结构：后信用彩蛋 -> X-Men 入口 -> 街区英雄承诺 -> MCU 疲劳 -> 评论站队",
+        "评论引导：你想要独立蜘蛛侠故事，还是继续接 MCU 大线？"
       ],
       "sources": [
         [
-          "New Rockstars / 318.83万播放",
-          "https://www.youtube.com/watch?v=n5NRm3eqDCI"
+          "New Rockstars / 222.96万播放 / 5.43万赞 / 4100评论",
+          "https://www.youtube.com/watch?v=7azgVk62GKc"
         ],
         [
-          "penguinz0 / 230.37万播放",
-          "https://www.youtube.com/watch?v=nUNX2NSa2c8"
+          "ScreenCrush / 126.27万播放 / 2.66万赞 / 2700评论",
+          "https://www.youtube.com/watch?v=C_ckJBQGVjg"
         ],
         [
-          "The Critical Drinker / 140.14万播放",
-          "https://www.youtube.com/watch?v=ibp4505uWPk"
+          "Emergency Awesome / 27.96万播放 / 7351赞 / 1000评论",
+          "https://www.youtube.com/watch?v=3QWBc3bYbQw"
         ],
         [
-          "Jeremy Jahns / 59.70万播放",
-          "https://www.youtube.com/watch?v=7Z9FmqP6PaQ"
+          "Beyond The Trailer / 8.20万播放 / 3243赞 / 392评论",
+          "https://www.youtube.com/watch?v=YbluJdWuODM"
         ]
       ]
     },
     {
-      "title": "The Odyssey：Nolan 改编争议继续把经典 IP 变成文化所有权讨论",
+      "title": "KATSEYE Animal / WILD：女团传播进入“成员缺席与人格系统”争议期",
       "tags": [
         "Pop Culture",
-        "Film",
-        "Nolan",
-        "Adaptation Debate"
+        "Music",
+        "KATSEYE",
+        "Creator Branding"
       ],
       "priority": "high",
-      "metrics": "8/14 复扫仍在 15 天窗口内的高播放 UGC/解析：Nerdrotic The Odyssey Backlash 168.32万播放、New Rockstars breakdown 158.10万播放、Michael Knowles review 35.46万播放、Metatron honest review 28.79万播放。",
-      "channel": "YouTube UGC view-verified exact videos + Search cluster: The Odyssey 2026 Nolan review / backlash / classicist analysis / ending explained",
-      "heat": "The Odyssey 仍是影视争议主线：观众争的不只是电影质量，而是谁有权解释 Homer、经典文本能否现代化，以及 Nolan spectacle 是否压过原著精神。",
-      "signal": "可转译点：经典 IP 的争议传播力来自“大家都觉得自己有资格守护原著”。",
-      "why": "适合小红书：可做“为什么经典改编最容易吵起来：观众不是看电影，是在守护自己的文化版本”。",
-      "discussion": "可见主题集中在 Homer 原著精神、Odysseus 是否被改写、Nolan spectacle、古典学视角、现代化边界、是否把史诗拍成情绪消费。",
+      "metrics": "8/18 yt-dlp 精确复核近 15 天 UGC：dabota 2026-08-06 11.53万播放 / 7818赞 / 1000评论；ItzKeisha 2026-08-07 6.39万播放 / 3380赞 / 544评论；THE K-POP SPY 2026-08-15 5.02万播放 / 2564赞 / 757评论；WYD Reacts 2026-08-03 9.18万播放 / 4032赞 / 155评论。",
+      "channel": "YouTube exact videos + Search cluster: KATSEYE Animal / WILD / Sophia hiatus / Manon / Hootie Frutti / fan reaction",
+      "heat": "KATSEYE 的热度从 MV reaction 走到“团体系统是否能承受成员缺席”。粉丝在讨论 Animal/WILD，也在讨论 Sophia/Manon 叙事、官方解释边界和全球女团作为人格产品的稳定性。",
+      "signal": "可转译点：当偶像团体被包装成完整人格系统，任何缺席都会被粉丝当成系统异常来解读。",
+      "why": "适合小红书：可做“女团最怕的不是争议，是粉丝开始审核系统”。",
+      "discussion": "可见主题集中在 Sophia hiatus、Manon 是否回归、Animal 是否被高估、Hootie Frutti 单曲接受度、粉丝对 HYBE/Geffen 叙事控制的怀疑。",
       "ideas": [
-        "标题：Nolan 改编 The Odyssey，真正吵的是谁有权解释经典",
-        "结构：高播放 backlash -> 细节拆解 -> classicist 视角 -> 原著忠诚度 -> 小红书评论站队",
-        "评论引导：经典改编应该忠于原著，还是忠于当代观众？"
+        "标题：KATSEYE 真正卖的不是歌，是一套需要稳定运行的人格系统",
+        "结构：Animal/WILD -> 成员缺席 -> 粉丝补全剧情 -> 工业化女团 -> 评论站队",
+        "评论引导：你会更信“完整女团系统”，还是更信每个成员的真实状态？"
       ],
       "sources": [
         [
-          "Nerdrotic / 168.32万播放",
-          "https://www.youtube.com/watch?v=8uHoKvKunAg"
+          "dabota / 11.53万播放 / 7818赞 / 1000评论",
+          "https://www.youtube.com/watch?v=LrLp0tYrVj0"
         ],
         [
-          "New Rockstars / 158.10万播放",
-          "https://www.youtube.com/watch?v=VI6zsIz8J0Q"
+          "ItzKeisha / 6.39万播放 / 3380赞 / 544评论",
+          "https://www.youtube.com/watch?v=92QZQj_HGdA"
         ],
         [
-          "Michael Knowles / 35.46万播放",
-          "https://www.youtube.com/watch?v=gGDL_DXj33k"
+          "THE K-POP SPY / 5.02万播放 / 2564赞 / 757评论",
+          "https://www.youtube.com/watch?v=Gpe67eXrPAs"
         ],
         [
-          "Metatron / 28.79万播放",
-          "https://www.youtube.com/watch?v=BrgGI-CE3Io"
+          "WYD Reacts / 9.18万播放 / 4032赞 / 155评论",
+          "https://www.youtube.com/watch?v=tjmNanHPZxk"
+        ]
+      ]
+    },
+    {
+      "title": "Lanterns / House of the Dragon：剧集传播回到“每周结局解释经济”",
+      "tags": [
+        "Pop Culture",
+        "Streaming",
+        "DC",
+        "TV Fandom"
+      ],
+      "priority": "high",
+      "metrics": "8/18 yt-dlp 精确复核：Emergency Awesome Lanterns first episodes 2026-08-14 24.73万播放 / 6825赞 / 706评论；Lanterns Ep.1 breakdown 2026-08-17 15.07万播放 / 5800赞 / 1300评论；House of the Dragon S4 2026-08-11 40.01万播放 / 7745赞 / 1300评论；Heavy Spoilers HOTD S3E8 2026-08-10 34.23万播放 / 1.06万赞 / 1600评论。",
+      "channel": "YouTube exact videos + Search cluster: Lanterns episode 1 / House of the Dragon season 3 ending / season 4 theories",
+      "heat": "流媒体剧热度不是单点预告，而是每周靠 ending explained、WTF ending、theories 和下一季预测延续。观众把剧集当成“集体猜谜游戏”，评论区负责补世界观。",
+      "signal": "可转译点：剧集账号不必只做影评，可以做“追更后的集体解谜”。",
+      "why": "适合小红书：可做“为什么现在追剧像在开会：每集结束都要复盘”。",
+      "discussion": "可见主题集中在 Lanterns 的 Hal Jordan/John Stewart 设定、DCU 信任、HOTD 阵营站队、结局是否吊胃口、下一季是否兑现战争承诺。",
+      "ideas": [
+        "标题：现在追剧像在开会：每集结束都要复盘",
+        "结构：一集结尾 -> 3 个疑问 -> 粉丝理论 -> 下一集期待 -> 评论补线索",
+        "评论引导：你追剧更喜欢被剧透解析，还是自己猜？"
+      ],
+      "sources": [
+        [
+          "Emergency Awesome Lanterns / 24.73万播放 / 6825赞 / 706评论",
+          "https://www.youtube.com/watch?v=zNGmoh77rP8"
+        ],
+        [
+          "Emergency Awesome Lanterns Ep.1 / 15.07万播放 / 5800赞 / 1300评论",
+          "https://www.youtube.com/watch?v=kAOsaEsKsQw"
+        ],
+        [
+          "Emergency Awesome HOTD S4 / 40.01万播放 / 7745赞 / 1300评论",
+          "https://www.youtube.com/watch?v=4LlG8QknaYA"
+        ],
+        [
+          "Heavy Spoilers HOTD S3E8 / 34.23万播放 / 1.06万赞 / 1600评论",
+          "https://www.youtube.com/watch?v=Z2KnI9SGhFU"
+        ]
+      ]
+    },
+    {
+      "title": "2026 Songs of the Summer：流行乐被讨论成“夏日身份标签”",
+      "tags": [
+        "Pop Culture",
+        "Music",
+        "Aesthetic",
+        "Identity"
+      ],
+      "priority": "high",
+      "metrics": "8/18 yt-dlp 精确复核：Mic The Snare 2026-08-14 “Ranking 2026s Songs of The Summer” 15.07万播放 / 7253赞 / 1400评论。Taylor Swift Showgirl / Fate of Ophelia 搜索多为官方 MV、lyric video 和歌词搬运，未进 Social 主榜。",
+      "channel": "YouTube exact video + Search cluster: 2026 songs of summer / Taylor Swift Showgirl / Ophelia / summer pop ranking",
+      "heat": "今天音乐评论最可转译的不是单一歌手，而是“这个夏天到底属于哪种情绪”。评论区会把歌曲排名转成代际品味、粉丝身份、流行乐是否疲劳的争论。",
+      "signal": "可转译点：排行榜内容最适合做“你是哪一种夏日人格”的小红书分型。",
+      "why": "适合小红书：可做“2026 夏日歌单不是歌单，是人格测试”。",
+      "discussion": "可见主题集中在 pop music 是否进入 weird era、谁配叫 summer anthem、Taylor 新 era 是否仍能定义流行、粉丝如何用歌单标记自己。",
+      "ideas": [
+        "标题：2026 夏日歌单不是歌单，是人格测试",
+        "结构：榜单视频 -> 3 类夏日情绪 -> 粉丝身份 -> 小红书投票",
+        "评论引导：今年哪首歌最像你的夏天？"
+      ],
+      "sources": [
+        [
+          "Mic The Snare / 15.07万播放 / 7253赞 / 1400评论",
+          "https://www.youtube.com/watch?v=FR1fC0wgkik"
+        ],
+        [
+          "Taylor Swift official search cluster only",
+          "https://www.youtube.com/results?search_query=Taylor+Swift+The+Fate+of+Ophelia+reaction+explained+lyrics+August+2026"
+        ]
+      ]
+    },
+    {
+      "title": "KPop Demon Hunters 奖季 / SNL 长尾：虚拟 IP 正在被现实舞台和喜剧化二创接管",
+      "tags": [
+        "Pop Culture",
+        "Music IP",
+        "KPop Demon Hunters",
+        "Parody"
+      ],
+      "priority": "medium",
+      "metrics": "8/18 yt-dlp 精确复核关联高互动：Screen Junkies Honest Trailers 2025-08-12 192.40万播放 / 6.47万赞 / 3100评论；SNL sketch 908.08万播放；BRITs Golden performance 231.41万播放。近 15 天精确 UGC 不足，因此主榜标注为延续型 search cluster。",
+      "channel": "Search cluster with high-interaction legacy anchors: KPop Demon Hunters SNL / Honest Trailers / Golden awards performance",
+      "heat": "这条不是今日新增单条爆款，而是 IP 从声乐拆解进入“奖季、SNL、品牌联动、成人 Happy Meal 二创”的长尾文化占位。",
+      "signal": "可转译点：当一个虚拟 IP 被综艺、颁奖礼和品牌二创反复调用，它已经从作品变成公共梗库。",
+      "why": "适合小红书：可做“KPop Demon Hunters 为什么还没过气：它变成了公共梗库”。",
+      "discussion": "可见主题集中在真人/角色双重身份、SNL 是否把粉丝文化喜剧化、奖季现场是否增强 IP 正当性、品牌联名是否透支热度。",
+      "ideas": [
+        "标题：KPop Demon Hunters 为什么还没过气：它变成了公共梗库",
+        "结构：SNL -> Honest Trailers -> 奖季舞台 -> 品牌二创 -> IP 长尾",
+        "评论引导：一个 IP 被玩梗，是续命还是透支？"
+      ],
+      "sources": [
+        [
+          "Screen Junkies / 192.40万播放 / 6.47万赞 / 3100评论",
+          "https://www.youtube.com/watch?v=ywJtKTRhq5A"
+        ],
+        [
+          "SNL / 908.08万播放",
+          "https://www.youtube.com/watch?v=LW9QJIT_T-A"
+        ],
+        [
+          "BRITs / 231.41万播放",
+          "https://www.youtube.com/watch?v=IBV2X2E9tek"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Taylor Swift music-rights / campaign-video dispute",
-      "status": "watchlist / search cluster only",
-      "reason": "8/14 搜索出现新闻短视频和低量 commentary，但 UGC 主样本未过 Social 主榜门槛；可继续观察“艺人音乐授权边界”和 fandom 组织动员。",
-      "url": "https://www.youtube.com/results?search_query=Taylor+Swift+Trump+TikTok+August+music+removed+commentary"
+      "title": "Taylor Swift The Life of a Showgirl / The Fate of Ophelia",
+      "status": "watchlist / official-video cluster only",
+      "reason": "8/18 搜索强，但结果主要是官方 MV、lyric video、歌词搬运；UGC 分析未过主榜门槛，暂不进 Social 主榜。",
+      "url": "https://www.youtube.com/results?search_query=Taylor+Swift+The+Fate+of+Ophelia+reaction+explained+lyrics+August+2026"
     },
     {
-      "title": "KATSEYE WILD first-listen micro reactions",
-      "status": "watchlist / exact-video interaction pending",
-      "reason": "Animal/WILD 搜索里官方大流量明确，UGC reaction 已有多条过播放线，但精确点赞/评论不可稳定读取；优先使用 view-verified 分析视频。",
-      "url": "https://www.youtube.com/results?search_query=KATSEYE+WILD+album+reaction+review+Animal"
+      "title": "KATSEYE Manon / Sophia hiatus micro commentary",
+      "status": "watchlist / exact-video candidates",
+      "reason": "已有 5-11 万播放 UGC 过线，评论也足够；但部分话题涉及成员状态推测，写稿应聚焦粉丝叙事和品牌系统，不做私人原因判断。",
+      "url": "https://www.youtube.com/results?search_query=KATSEYE+Manon+Sophia+hiatus+reaction+commentary+August+2026"
     },
     {
-      "title": "KPop Demon Hunters BAFTA/Oscars instant reactions",
-      "status": "watchlist / search cluster only",
-      "reason": "即时 BAFTA/Oscars reaction 多数播放尚低；主榜只保留已过播放线的 vocal analysis。",
-      "url": "https://www.youtube.com/results?search_query=KPop+Demon+Hunters+Golden+live+performance+reaction"
+      "title": "The Odyssey Nolan trailer/backlash",
+      "status": "watchlist / official trailer dominant",
+      "reason": "8/18 搜索里官方 IMAX trailer 近百万播放，但新近 UGC 不足；只保留为经典改编争议观察，不进今日主榜。",
+      "url": "https://www.youtube.com/results?search_query=The+Odyssey+Nolan+backlash+review+August+2026"
+    },
+    {
+      "title": "KPop Demon Hunters Golden recent reaction",
+      "status": "watchlist / low recent UGC",
+      "reason": "近 15 天搜索结果多为低量或不相关；高互动 vocal analysis 发布时间在 2025 年，不能作为今日近 15 天主榜样本。",
+      "url": "https://www.youtube.com/results?search_query=KPop+Demon+Hunters+Golden+reaction+analysis+after+2026-08-03"
     }
   ],
   "aiSignals": [
     {
-      "title": "ChatGPT Work / Codex full-course cluster: agent is being packaged as a workplace surface",
-      "type": "YouTube view-verified exact videos + product workflow cluster",
-      "metrics": "8/14 yt-dlp 搜索复核：OpenAI Introducing ChatGPT Work 39.39万播放、Riley Brown Codex Full Course 19.09万播放、Rob The AI Guy ChatGPT Work/Plugins update 6.64万播放、Matt Wolfe new ChatGPT playbook 6.29万播放。官方 OpenAI 视频只作产品背景，主叙事以 UGC 教程和工作流转译为准。",
-      "source": "YouTube creators + OpenAI product video background",
-      "heat": "AI 热点从“模型更强”转向“普通人如何把 Codex/agent 放进固定工作台”。",
-      "summary": "传播点是 agent 从聊天框变成可交接、可复用、可验收的工作界面。",
+      "title": "Claude Code skills cleanup: agent SOP 从越多越好转向越少越准",
+      "type": "YouTube exact videos + skills workflow cluster",
+      "metrics": "8/18 yt-dlp 精确复核：Nate Herk 2026-08-12 7.36万播放 / 2056赞 / 154评论；Simon Scrapes 21.41万播放 / 4044赞 / 92评论；AI Master 19.07万播放 / 2401赞 / 88评论；AI Foundations 9.75万播放 / 2627赞 / 103评论。",
+      "source": "YouTube creators",
+      "heat": "AI 讨论从“收集更多 prompt/skill”转成“删掉多余 skill，让 agent 更稳定”。",
+      "summary": "可转译点是 SOP 不是堆材料，而是限制模型乱跑的操作边界。",
+      "idea": "小红书角度：你的 AI 团队不是缺技能，是技能太多没人验收。",
+      "url": "https://www.youtube.com/watch?v=XNQBCRcwXV4"
+    },
+    {
+      "title": "Claude / agent tutorial still sells because users want workplace ownership",
+      "type": "YouTube exact videos + consumer AI workflow cluster",
+      "metrics": "8/18 yt-dlp 精确复核：AI Productivity Coach 16.67万播放 / 3288赞 / 122评论；AI Master 19.07万播放 / 2401赞 / 88评论；AI Foundations 9.75万播放 / 2627赞 / 103评论。",
+      "source": "YouTube creators",
+      "heat": "普通人不是追模型名，而是追“我能不能把一个流程交给 AI 并验收结果”。",
+      "summary": "传播点是把 AI 从聊天助手讲成可交付的工作台。",
       "idea": "小红书角度：AI agent 真正破圈，是从聊天框搬进工作台。",
-      "url": "https://www.youtube.com/watch?v=KXIdYEdOPys"
+      "url": "https://www.youtube.com/watch?v=bcM9dP_uXJU"
     },
     {
-      "title": "Claude Code Skills: SOP is becoming the new prompt format",
-      "type": "YouTube view-verified exact videos + skills/subagents/MCP cluster",
-      "metrics": "8/14 yt-dlp 搜索复核：Simon Scrapes Claude Code Skills 21.35万播放、Sajjaad Khader Claude Code tutorial 17.65万播放、AI Master Claude Code agent 17.55万播放、Traversy Media crash course 15.96万播放、AI Foundations full tutorial 9.32万播放、Skill Leap AI Claude Skills 9.04万播放。",
-      "source": "YouTube creators",
-      "heat": "Claude Code 内容继续从“怎么用工具”升级成“如何把公司 SOP、角色分工和验收标准塞进 agent”。",
-      "summary": "普通用户关心的不是 prompt 技巧，而是谁负责、谁验收、哪里复用。",
-      "idea": "小红书角度：你的 AI 团队不是缺模型，是缺 SOP。",
-      "url": "https://www.youtube.com/watch?v=6-D3fg3JUL4"
-    },
-    {
-      "title": "Claude CoWork / job-search AI stacks: agent demos are moving into everyday career workflows",
-      "type": "YouTube view-verified exact videos + consumer workflow cluster",
-      "metrics": "8/14 yt-dlp 搜索复核：Vaibhav Sisinty Google AI job hunt stack 30.97万播放、Ishan Sharma Claude CoWork 23.14万播放、ManishCareerTalks Claude job search 11.48万播放。",
-      "source": "YouTube creators",
-      "heat": "AI app 讨论不再只围绕开发者，求职、简历、投递、资料整理等普通人流程成为可复制的 agent demo。",
-      "summary": "传播点是把“AI 很强”翻译成“我今天少做哪一步”。",
-      "idea": "小红书角度：最容易爆的 AI 内容，是把一个烦人的生活流程自动化。",
-      "url": "https://www.youtube.com/watch?v=L110osBj5Kk"
+      "title": "GitHub agent-skill repos: 技能开始按行业/交付物打包",
+      "type": "GitHub Search API + repo trend cluster",
+      "metrics": "8/18 GitHub Search API created:>2026-08-04：eternityspring/shuohao-skills 1652 stars / 197 forks；Leutenegger/book-to-skill 1179 stars / 142 forks；thiientv/godmode 90 stars / 83 forks；GaZmagik/iso-24495 79 stars / 3 forks。",
+      "source": "GitHub Search API",
+      "heat": "skill 热度不再只是开发流程，开始进入短剧、读书/PDF、明文写作规范和工程 SOP。",
+      "summary": "传播点是把个人方法论封装成可复用资产。",
+      "idea": "小红书角度：AI 时代最值钱的不是 prompt，是你的可复制工作法。",
+      "url": "https://github.com/search?q=created%3A%3E2026-08-04+claude+code+skill&type=repositories&s=stars&o=desc"
     }
   ],
   "tiktokSignals": [
     {
-      "title": "KATSEYE Animal / WILD / Wild Hearts search cluster",
-      "tags": [
-        "TikTok",
-        "Music",
-        "KATSEYE",
-        "Girl Group"
-      ],
-      "priority": "high",
-      "metrics": "2026-08-14 站内搜索聚类口径 / 非关注搜索方向；YouTube KATSEYE UGC 与官方大流量作外部验证。",
-      "channel": "TikTok Search: KATSEYE Animal WILD Wild Hearts Manon documentary reaction",
-      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
-      "urlLabel": "打开 TikTok 搜索",
-      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Animal 舞台/MV、Wild Hearts 纪录片、Manon 回归叙事、全球女团训练营和成员人格。",
-      "signal": "小红书可拆成“女团人格系统如何让粉丝觉得自己参与了养成”。",
-      "discussion": "可见主题：真实成长 vs 工业设计、成员 pick、舞台成熟感、纪录片是否加深关系。",
-      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套可追剧的人格系统",
-      "angle": "结构：搜索热簇 -> UGC 分析 -> 成员人格 -> 粉丝投射 -> 评论站队。",
-      "url": "https://www.tiktok.com/search?q=KATSEYE%20Animal%20WILD%20Wild%20Hearts%20reaction"
-    },
-    {
-      "title": "KPop Demon Hunters Golden live vocal search cluster",
-      "tags": [
-        "TikTok",
-        "Music",
-        "KPop Demon Hunters",
-        "Vocal"
-      ],
-      "priority": "high",
-      "metrics": "2026-08-14 站内搜索聚类口径；YouTube 高播放声乐拆解作外部验证。",
-      "channel": "TikTok Search: KPop Demon Hunters Golden live performance vocal analysis EJAE",
-      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
-      "urlLabel": "打开 TikTok 搜索",
-      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Golden live、EJAE/Audrey Nuna/Rei Ami、A5 高音、角色声线和真唱验证。",
-      "signal": "小红书可拆成“虚拟 IP 如何被真人舞台二次认证”。",
-      "discussion": "可见主题：现场是否还原、角色幻想是否被增强、声乐技术点、粉丝二创。",
-      "xhsTitle": "Golden 为什么还在火？因为大家开始验收角色背后的真人",
-      "angle": "结构：现场片段 -> 声乐老师拆解 -> 角色/真人双重身份 -> 评论站队。",
-      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Golden%20live%20vocal%20analysis"
-    },
-    {
-      "title": "Spider-Man Brand New Day review / spoiler talk search cluster",
+      "title": "Spider-Man Brand New Day post-credit / Jean Grey search cluster",
       "tags": [
         "TikTok",
         "Marvel",
@@ -261,191 +252,225 @@
         "Film"
       ],
       "priority": "high",
-      "metrics": "2026-08-14 站内搜索聚类口径；YouTube review/breakdown 高播放 UGC 作外部验证。",
-      "channel": "TikTok Search: Spider-Man Brand New Day review spoiler talk plot holes",
+      "metrics": "2026-08-18 站内搜索聚类口径；YouTube 精确高互动 UGC 作外部验证。",
+      "channel": "TikTok Search: Spider-Man Brand New Day post credit Jean Grey X-Men explained",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在上映后验收、剧情漏洞、street-level 是否兑现、Marvel 彩蛋和角色尺度。",
-      "signal": "小红书可拆成“预告给的承诺，上映后有没有兑现”。",
-      "discussion": "可见主题：街区英雄、spoiler、Marvel 疲劳、Peter 人物关系。",
+      "heat": "入口集中在 post-credit、Jean Grey、X-Men、Doomsday 接线和 MCU 疲劳。",
+      "signal": "小红书可拆成“观众到底还信不信 Marvel 彩蛋”。",
+      "discussion": "可见主题：彩蛋服务故事 vs 彩蛋绑架故事、Peter 是否回归普通人、X-Men 是否抢戏。",
       "xhsTitle": "蜘蛛侠这次最难的反派，是观众的不信任",
-      "angle": "结构：预告期待 -> 上映验收 -> 角色尺度 -> IP 信任修复。",
-      "url": "https://www.tiktok.com/search?q=Spider-Man%20Brand%20New%20Day%20review%20spoiler"
+      "angle": "结构：搜索热簇 -> 高互动拆解 -> 彩蛋承诺 -> 评论站队。",
+      "url": "https://www.tiktok.com/search?q=Spider-Man%20Brand%20New%20Day%20post%20credit%20Jean%20Grey%20X-Men"
     },
     {
-      "title": "The Odyssey Nolan backlash / classicist analysis search cluster",
+      "title": "KATSEYE Sophia / Manon hiatus fan reaction search cluster",
       "tags": [
         "TikTok",
-        "Film",
-        "Nolan",
-        "Adaptation"
+        "Music",
+        "KATSEYE",
+        "Fandom"
       ],
-      "priority": "medium",
-      "metrics": "2026-08-14 站内搜索聚类口径 / 非关注搜索方向；YouTube The Odyssey 高播放 UGC 作外部验证。",
-      "channel": "TikTok Search: The Odyssey Nolan review backlash classicist analysis",
+      "priority": "high",
+      "metrics": "2026-08-18 站内搜索聚类口径；YouTube 近 15 天多条 UGC 过播放、点赞、评论门槛作外部验证。",
+      "channel": "TikTok Search: KATSEYE Sophia Manon hiatus Animal WILD fan reaction",
       "sourceType": "站内搜索聚类 / YouTube UGC 验证",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在 Nolan 改编、原著忠诚度、古典学视角、大片 spectacle 和观众站队。",
-      "signal": "小红书可拆成“经典改编为什么总会变成文化所有权争夺”。",
-      "discussion": "可见主题：改编自由、Homer 原著精神、Nolan 风格、现代化边界。",
-      "xhsTitle": "Nolan 改编 The Odyssey，真正吵的是谁有权解释经典",
-      "angle": "结构：争议视频 -> 细节拆解 -> 原著派/电影派 -> 评论站队。",
-      "url": "https://www.tiktok.com/search?q=The%20Odyssey%20Nolan%20review%20backlash"
+      "heat": "入口集中在成员缺席、Animal/WILD、新歌争议、粉丝对官方叙事的信任。",
+      "signal": "小红书可拆成“偶像团体如何管理成员缺席带来的系统不稳定”。",
+      "discussion": "可见主题：是否过度推测成员、粉丝等候、公司解释、成员人格系统。",
+      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套需要稳定运行的人格系统",
+      "angle": "结构：事件 -> 粉丝解读 -> 品牌系统 -> 安全边界。",
+      "url": "https://www.tiktok.com/search?q=KATSEYE%20Sophia%20Manon%20hiatus%20Animal%20WILD%20fan%20reaction"
     },
     {
-      "title": "Taylor Swift music rights / campaign-video takedown search cluster",
+      "title": "Lanterns / House of the Dragon episode breakdown search cluster",
       "tags": [
         "TikTok",
-        "Music Rights",
-        "Fandom",
-        "Platform Culture"
+        "Streaming",
+        "DC",
+        "TV"
+      ],
+      "priority": "high",
+      "metrics": "2026-08-18 站内搜索聚类口径；YouTube 高互动 episode breakdown 作外部验证。",
+      "channel": "TikTok Search: Lanterns episode 1 ending explained House of the Dragon finale theories",
+      "sourceType": "站内搜索聚类 / YouTube UGC 验证",
+      "urlLabel": "打开 TikTok 搜索",
+      "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
+      "heat": "入口集中在每集结尾、WTF ending、角色身份、下一季预测和阵营站队。",
+      "signal": "小红书可拆成“追剧后的复盘仪式感”。",
+      "discussion": "可见主题：DCU 信任、HOTD 阵营、结局吊胃口、理论补世界观。",
+      "xhsTitle": "现在追剧像在开会：每集结束都要复盘",
+      "angle": "结构：结尾疑问 -> 线索卡 -> 粉丝理论 -> 评论补充。",
+      "url": "https://www.tiktok.com/search?q=Lanterns%20episode%201%20ending%20explained%20House%20of%20the%20Dragon%20theories"
+    },
+    {
+      "title": "Taylor Swift Showgirl / Ophelia search cluster",
+      "tags": [
+        "TikTok",
+        "Music",
+        "Taylor Swift",
+        "Lyrics"
       ],
       "priority": "watch",
-      "metrics": "2026-08-14 站内搜索聚类口径；YouTube UGC 主样本未过主榜门槛，因此只作 watch/search cluster。",
-      "channel": "TikTok Search: Taylor Swift music removed campaign video copyright fan reaction",
+      "metrics": "2026-08-18 站内搜索聚类口径；YouTube 搜索以官方 MV/歌词视频为主，UGC 精确视频待补。",
+      "channel": "TikTok Search: Taylor Swift Showgirl Ophelia lyrics reaction",
       "sourceType": "站内搜索聚类 / 主榜待复核",
       "urlLabel": "打开 TikTok 搜索",
       "imageStatus": "搜索聚类没有单一稳定缩略图，图片需人工复核",
-      "heat": "入口集中在艺人音乐授权、粉丝动员、短视频平台版权和公众人物边界。",
-      "signal": "小红书可拆成“艺人的歌被拿去做公共叙事时，粉丝到底在守护什么”。",
-      "discussion": "可见主题：版权边界、粉丝组织、平台音乐库、艺人品牌控制权。",
-      "xhsTitle": "Taylor 的歌被拿去做公共叙事，粉丝为什么会立刻警觉？",
-      "angle": "结构：平台音乐事件 -> 粉丝反应 -> 音乐授权 -> 艺人品牌边界。",
-      "url": "https://www.tiktok.com/search?q=Taylor%20Swift%20music%20removed%20copyright%20fan%20reaction"
+      "heat": "入口集中在 Ophelia 意象、Showgirl era、Sabrina Carpenter 关联和歌词人格。",
+      "signal": "小红书可做歌词意象和时代人格，但不能伪装成 UGC 主榜爆款。",
+      "discussion": "可见主题：文学意象、showgirl 视觉、官方 MV 与粉丝解读。",
+      "xhsTitle": "Taylor 新 era 不是复古，是把自己写成舞台人格",
+      "angle": "结构：官方热度 -> 歌词意象 -> 粉丝解释 -> 待补 UGC。",
+      "url": "https://www.tiktok.com/search?q=Taylor%20Swift%20Showgirl%20Ophelia%20lyrics%20reaction"
     }
   ],
   "githubSkills": [
     {
-      "title": "XYZ-AI-Lab/axrl",
+      "title": "ShawnPana/phone-harness",
       "rank": "01",
-      "heat": "8/14 GitHub Search API created:>2026-07-14：1,045 stars / 23 forks / created_at 2026-07-23 / pushed_at 2026-08-03；agentic RL post-training framework for real-world agent workflows。",
-      "summary": "agent 热度从 prompt/workflow 走向可训练的长任务能力。",
-      "use": "小红书角度：未来 agent 不是只会调用工具，而是会在真实流程里被训练。",
-      "idea": "标题方向：AI agent 的下一步，不是更会聊，是更会练",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：1892 stars / 179 forks / created_at 2026-08-07 / pushed_at 2026-08-18；让 agent 控制手机的 harness。",
+      "summary": "agent 从浏览器/桌面继续外扩到手机真实任务。",
+      "use": "小红书角度：下一个 AI 工作流入口可能不是电脑，而是你的手机。",
+      "idea": "标题方向：AI agent 终于开始碰普通人的手机流程",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/XYZ-AI-Lab/axrl"
+      "url": "https://github.com/ShawnPana/phone-harness"
     },
     {
-      "title": "Pinvou/pinvou-agent",
+      "title": "eternityspring/shuohao-skills",
       "rank": "02",
-      "heat": "8/14 GitHub Search API created:>2026-07-14：735 stars / 103 forks / created_at 2026-07-24 / pushed_at 2026-08-14；open-source desktop AI agent for tools, files, knowledge, workflows, and deliverables。",
-      "summary": "local-first desktop agent 正在成为个人工作台方向。",
-      "use": "小红书角度：普通人真正需要的是一个会处理文件和交付物的桌面同事。",
-      "idea": "标题方向：AI agent 破圈的形态，可能是桌面工作台",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：1652 stars / 197 forks / created_at 2026-08-06 / pushed_at 2026-08-18；AI 短剧制作 agent skills：角色、世界观、美术、剧本、分镜。",
+      "summary": "agent skill 正在进入内容工业流水线。",
+      "use": "小红书角度：短剧团队最先把 AI skill 变成可交付工种。",
+      "idea": "标题方向：AI 短剧团队不是一个工具，是一套工种 skill",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/Pinvou/pinvou-agent"
+      "url": "https://github.com/eternityspring/shuohao-skills"
     },
     {
-      "title": "AMAP-ML/LongHorizon-Harness",
+      "title": "Leutenegger/book-to-skill",
       "rank": "03",
-      "heat": "8/14 GitHub Search API created:>2026-07-14：688 stars / 82 forks / created_at 2026-08-04 / pushed_at 2026-08-12；long-horizon computer-use harness with native Claude Code / Codex / OpenClaw integration。",
-      "summary": "长任务 agent 的关键变成状态保持、审计和可恢复进度。",
-      "use": "小红书角度：真正有用的 agent 要能接着昨天的工作继续做。",
-      "idea": "标题方向：AI 员工最难的不是聪明，是不断片",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：1179 stars / 142 forks / created_at 2026-08-13 / pushed_at 2026-08-14；把技术书 PDF 转成 Claude Code skill。",
+      "summary": "知识资产正在从笔记变成可执行技能包。",
+      "use": "小红书角度：读书笔记的下一步，是把一本书训练成你的 AI 工作法。",
+      "idea": "标题方向：别只让 AI 总结书，让它把书变成技能",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+      "url": "https://github.com/Leutenegger/book-to-skill"
     },
     {
-      "title": "disler/super-simple-software-factory",
+      "title": "lexmount/moli",
       "rank": "04",
-      "heat": "8/14 GitHub Search API：约 393 stars / 56 forks / created_at 2026-08 window；software-factory style agent workflow sample，适合观察“把开发流程产品化”的外溢。",
-      "summary": "solo builder 开始把 agent 工程流包装成软件工厂。",
-      "use": "小红书角度：一个人创业的卖点不是会写代码，是能搭一条出品流水线。",
-      "idea": "标题方向：AI 时代的一人公司，需要一座软件工厂",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：481 stars / 29 forks / created_at 2026-08-10 / pushed_at 2026-08-18；面向 AI agents 的 Rust browser。",
+      "summary": "agent 浏览器成为工具调用和网页任务的新基础设施。",
+      "use": "小红书角度：AI 上网不是打开网页，而是需要一个为 agent 设计的浏览器。",
+      "idea": "标题方向：AI agent 需要自己的浏览器，不只是插件",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/disler/super-simple-software-factory"
+      "url": "https://github.com/lexmount/moli"
     },
     {
-      "title": "ling-kong-ran/pisper",
+      "title": "decionis/agent-safe-pipeline",
       "rank": "05",
-      "heat": "8/14 GitHub Search API created:>2026-07-14：165 stars / 9 forks / created_at 2026-07-19 / pushed_at 2026-08-13；local-first multi-agent workspace for parallel sessions, memory, desktop and terminal。",
-      "summary": "多 agent 工作台开始强调并行会话和本地记忆。",
-      "use": "小红书角度：AI 工作流不是一个助手，而是一排能同时干活的会话。",
-      "idea": "标题方向：AI 多开不是偷懒，是新型工作台",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：516 stars / 58 forks / created_at 2026-08-13 / pushed_at 2026-08-17；approval-first agent execution reference architecture。",
+      "summary": "agent 安全从提示词约束升级为授权流水线。",
+      "use": "小红书角度：让 AI 干活之前，先设计谁能批准它干什么。",
+      "idea": "标题方向：AI 员工不能只会做事，还要会等批准",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/ling-kong-ran/pisper"
+      "url": "https://github.com/decionis/agent-safe-pipeline"
     },
     {
-      "title": "wanmol/goal-flow",
+      "title": "thiientv/godmode",
       "rank": "06",
-      "heat": "8/14 GitHub Search API created:>2026-07-14：131 stars / 2 forks / created_at 2026-08-06 / pushed_at 2026-08-13；Graph-Orchestrated Agent Loop for workflow graphs, Dify DSL and LangGraph。",
-      "summary": "agent workflow 正在从聊天记录变成图结构编排。",
-      "use": "小红书角度：AI 工作流的壁垒不是 prompt，而是可视化流程和可替换节点。",
-      "idea": "标题方向：会画流程图的人，可能更会用 AI agent",
+      "heat": "8/18 GitHub Search API created:>2026-08-04：90 stars / 83 forks / created_at 2026-08-13 / pushed_at 2026-08-18；production-grade Agent Skills for planning, TDD, debugging, review, UI/UX, releases and evals。",
+      "summary": "工程 agent skills 开始打包成完整软件交付操作系统。",
+      "use": "小红书角度：AI 写代码的壁垒不是模型，是从需求到发布的一套规程。",
+      "idea": "标题方向：会用 AI 写代码的人，开始卖自己的软件工厂",
       "urlLabel": "打开 GitHub",
-      "url": "https://github.com/wanmol/goal-flow"
+      "url": "https://github.com/thiientv/godmode"
     }
   ],
   "sparkPool": [
     {
-      "title": "人格系统拆解贴",
-      "hook": "不要只写 KATSEYE 好不好听，写“她们如何让粉丝觉得自己在追一部成长剧”。",
-      "template": "实体热簇 -> 可见争议 -> 人格标签 -> 粉丝投射 -> 评论站队",
-      "bestFor": "音乐号、女团号、IP/品牌号"
+      "title": "IP 信任验收表",
+      "hook": "不要只写蜘蛛侠彩蛋，写“观众为什么不再无条件相信 MCU 的下一步”。",
+      "template": "实体热簇 -> 高互动拆解 -> 承诺/兑现 -> 信任裂缝 -> 评论站队",
+      "bestFor": "影视号、IP号、电影营销号"
     },
     {
-      "title": "真人验收虚拟 IP",
-      "hook": "Golden 的二次传播不是新歌，而是“虚拟角色背后的真人能不能接住幻想”。",
-      "template": "虚拟爆款 -> 真人现场 -> 技术拆解 -> 幻想增强/破坏 -> 评论投票",
-      "bestFor": "音乐号、影视号、二次元号"
+      "title": "女团人格系统拆解",
+      "hook": "KATSEYE 的争议不只是成员动态，而是粉丝开始审核一套全球女团系统是否稳定。",
+      "template": "作品 -> 成员事件 -> 粉丝解释 -> 公司叙事 -> 系统稳定性",
+      "bestFor": "音乐号、女团号、品牌人格号"
     },
     {
-      "title": "AI 工作台人格化",
-      "hook": "把 agent 讲成“会交付的同事”，比讲模型参数更适合小红书。",
-      "template": "烦人流程 -> agent 分工 -> SOP/skill -> 交付物 -> 普通人节省时间",
+      "title": "追剧复盘仪式",
+      "hook": "Lanterns/HOTD 证明 episode breakdown 本身就是内容产品。",
+      "template": "本集结尾 -> 3 个疑问 -> 角色线索 -> 下集预测 -> 评论补世界观",
+      "bestFor": "剧集号、影视解说号、社群运营号"
+    },
+    {
+      "title": "AI skill 资产化",
+      "hook": "把 skill 写成“个人工作法资产”，比讲 prompt 更容易被普通人收藏。",
+      "template": "烦人流程 -> skill 分工 -> 权限/验收 -> 可复制模板 -> 行业机会",
       "bestFor": "AI 工具号、职场号、创业号"
     }
   ],
   "valueFlows": [
     {
-      "from": "The Odyssey backlash",
-      "to": "经典文化所有权",
-      "note": "把电影争议转成“谁有权解释经典”的评论站队。"
-    },
-    {
-      "from": "Spider-Man review 验收",
+      "from": "Spider-Man post-credit debate",
       "to": "IP 信任修复",
-      "note": "把上映后评价转成预告承诺、街区尺度和观众信任。"
+      "note": "把彩蛋讨论转成“观众还愿不愿意为下一部下注”。"
     },
     {
-      "from": "KATSEYE reaction 长尾",
-      "to": "成员认知链",
-      "note": "把女团传播从歌曲热度转成认人、站队和入坑路线。"
+      "from": "KATSEYE hiatus/fan reaction",
+      "to": "人格系统稳定性",
+      "note": "把成员动态转成团体品牌如何管理缺席和解释权。"
     },
     {
-      "from": "Agent Builder / Workspace Agents",
-      "to": "普通人工作台",
-      "note": "把 agent 从聊天框转成可见流程、权限和交接。"
+      "from": "Lanterns/HOTD breakdown",
+      "to": "追剧社群仪式",
+      "note": "把每集结尾转成复盘卡、理论卡和评论补线索。"
+    },
+    {
+      "from": "Songs of Summer ranking",
+      "to": "夏日身份标签",
+      "note": "把歌单排行转成人格测试和粉丝品味站队。"
     },
     {
       "from": "GitHub agent skills",
       "to": "个人方法资产化",
-      "note": "把写作、设计、剪辑、增长、图表流程封装成可复用 skill。"
+      "note": "把读书、短剧、审批、安全、工程 SOP 封装为 skill。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "KATSEYE 人格系统：从女团物料拆“可追剧品牌”",
+      "title": "Spider-Man 信任验收：彩蛋还能不能救 Marvel？",
       "score": "99",
-      "why": "动态实体强、UGC 播放过线、粉丝站队强，且没有医疗/身体叙事风险。",
-      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套可追剧的人格系统",
-      "format": "6 图 carousel：Animal 视觉 -> Wild Hearts -> Manon/成员人格 -> 社会实验争议 -> 粉丝投射 -> 评论问题"
+      "why": "近 15 天多条精确 UGC 同时过播放、点赞、评论门槛，评论站队强，适合影视号主稿。",
+      "xhsTitle": "蜘蛛侠这次最难的反派，是观众的不信任",
+      "format": "6 图 carousel：后信用彩蛋 -> Jean Grey -> X-Men 接线 -> 街区英雄承诺 -> MCU 疲劳 -> 评论投票"
     },
     {
-      "title": "Golden 真唱验收：虚拟 IP 如何靠真人舞台续命",
+      "title": "KATSEYE 人格系统：成员缺席为什么会放大争议",
       "score": "96",
-      "why": "高播放 vocal analysis 多，技术点可视化，适合做“听感解释 + 评论站队”。",
-      "xhsTitle": "Golden 为什么还在火？因为大家开始验收角色背后的真人",
-      "format": "短视频脚本：3 秒开场高音争议 -> 3 个声乐点 -> 角色/真人双身份 -> 评论投票"
+      "why": "近 15 天 K-pop UGC 多条过线，可从粉丝叙事和系统稳定性切入，避开私人健康/原因猜测。",
+      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套需要稳定运行的人格系统",
+      "format": "图文：Animal/WILD -> Sophia/Manon 搜索热簇 -> 粉丝补剧情 -> 公司叙事 -> 评论站队"
     },
     {
-      "title": "AI agent 工作台：把技能/SOP讲给非程序员",
-      "score": "92",
-      "why": "AI 线多条 YouTube 过线，GitHub 新仓库支撑“桌面 agent / long-horizon harness”外溢。",
-      "xhsTitle": "你的 AI 团队不是缺模型，是缺 SOP",
-      "format": "职场向图文：岗位说明书 -> SOP -> 工具权限 -> 验收表 -> 小白可用模板"
+      "title": "追剧复盘经济：Lanterns 与 HOTD 的每集解谜模板",
+      "score": "93",
+      "why": "剧集 breakdown 评论区活跃，且可直接转成小红书追更卡和理论卡。",
+      "xhsTitle": "现在追剧像在开会：每集结束都要复盘",
+      "format": "短视频脚本：本集一个 WTF 点 -> 三条线索 -> 两派理论 -> 下集下注"
+    },
+    {
+      "title": "AI skill 资产化：把工作法做成可复用包",
+      "score": "91",
+      "why": "YouTube AI 视频过线，GitHub 新仓库有短剧、读书、手机、审批和工程 workflow 外溢。",
+      "xhsTitle": "AI 时代最值钱的不是 prompt，是你的可复制工作法",
+      "format": "职场向图文：岗位说明书 -> skill 文件 -> 验收表 -> 行业模板 -> 机会清单"
     }
   ],
   "weeklySop": [
@@ -457,152 +482,158 @@
     {
       "step": "02",
       "title": "过高互动和评论可写性",
-      "detail": "主榜必须有高播放/高互动证据；拿不到精确点赞评论时，只能写 view-verified exact video 或 search cluster，不能伪装热评导出。"
+      "detail": "主榜必须有高播放/高互动证据；今天优先用 yt-dlp 单页精确播放、点赞、评论，拿不到精确互动时只写 search cluster 或 watchlist。"
     },
     {
       "step": "03",
+      "title": "区分官方热度和 UGC 热度",
+      "detail": "官方 MV、官方访谈、新闻短视频只能作背景；Social 主榜必须有 UGC / reaction / commentary / analysis 支撑。"
+    },
+    {
+      "step": "04",
       "title": "只挑能转成小红书站队的问题",
       "detail": "优先保留有身份、信任、品味、控制感或机会差的问题。没有评论引导的问题，即使热也先放 watchlist。"
     },
     {
-      "step": "04",
+      "step": "05",
       "title": "发布后回填 Spark 库",
       "detail": "记录 24/72 小时收藏、评论站队和二次选题，把有效 hook 写回 Spark，把低互动方向标记为待补。"
     }
   ],
   "contentFormats": [
-    "格式：The Odyssey 站队卡：原著派 / 导演派 / 电影工业派 / 经典守护派，每张卡只问一个问题。",
-    "格式：Spider-Man 验收表：预告承诺、街区尺度、剧情漏洞、彩蛋服务、Peter 人物关系。",
-    "格式：KATSEYE 入坑路径：Gabriela 视觉 -> Gameboy performance -> Touch 二次入坑 -> 成员认知。",
-    "格式：Golden live/vocal 复盘：真人声线、belted A5、角色滤镜、跟唱挑战、reaction 长尾。",
-    "格式：AI agent 工作台图：聊天框、Agent Builder、Workspace Agents、Claude Code teams、验收 SOP。"
+    "格式：Spider-Man 信任验收表：彩蛋、角色、街区尺度、MCU 接线、观众信任，每张卡只问一个问题。",
+    "格式：KATSEYE 人格系统图：成员、作品、缺席、公司叙事、粉丝补全、评论站队。",
+    "格式：Lanterns/HOTD 追剧复盘卡：本集 WTF、关键线索、两派理论、下集下注。",
+    "格式：2026 夏日人格歌单：每首歌对应一种夏日身份，而不是简单排行。",
+    "格式：AI skill 工作法资产：一个流程、一份 skill、一张验收表、一个行业模板。"
   ],
   "summarySparks": [
     {
-      "id": "katseye-wild-0814",
+      "id": "spiderman-post-credit-0818",
+      "tags": [
+        "spider-man",
+        "marvel",
+        "x-men"
+      ],
+      "lane": "Pop Culture / Film",
+      "heat": "99",
+      "title": "Spider-Man 后信用彩蛋把 MCU 信任问题推到前台",
+      "spark": "8/18 精确复核：New Rockstars 222.96万播放 / 5.43万赞 / 4100评论；ScreenCrush 126.27万播放 / 2.66万赞 / 2700评论；Emergency Awesome 27.96万播放 / 7351赞 / 1000评论。",
+      "xhsTitle": "蜘蛛侠这次最难的反派，是观众的不信任",
+      "discussion": "可见讨论点：Jean Grey、X-Men 接入、post-credit 是否服务剧情、街区英雄承诺、MCU 疲劳。",
+      "prompt": "引导话题：你想要独立蜘蛛侠故事，还是继续接 MCU 大线？",
+      "tone": "今天最适合影视主稿；精确三项互动都过线。",
+      "related": [
+        "Spider-Man: Brand New Day",
+        "Jean Grey",
+        "MCU X-Men"
+      ]
+    },
+    {
+      "id": "katseye-hiatus-system-0818",
       "tags": [
         "katseye",
-        "wild",
-        "girl-group"
+        "animal",
+        "fandom"
       ],
       "lane": "Pop Culture / Music",
-      "heat": "99",
-      "title": "KATSEYE 把女团讨论推向人格系统和训练营叙事",
-      "spark": "8/14 yt-dlp 搜索复核：NK's Wrld 46.58万播放、Kess and Han Reacts 31.55万播放、Jordan Orme 12.77万播放；官方 Animal MV 与 Wild Hearts 只作背景验证。",
-      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套可追剧的人格系统",
-      "discussion": "可见讨论点：Manon 叙事、global girl group 是否像社会实验、成员人格、训练营真实感、Animal 视觉成熟。",
-      "prompt": "引导话题：你更吃“真实成长型女团”，还是设计得很完整的女团？",
-      "tone": "今天最适合主稿；音乐、女团、人格分析和粉丝站队都能承接小红书讨论。",
+      "heat": "96",
+      "title": "KATSEYE 被粉丝讨论成需要稳定运行的人格系统",
+      "spark": "8/18 精确复核：dabota 11.53万播放 / 7818赞 / 1000评论；ItzKeisha 6.39万播放 / 3380赞 / 544评论；THE K-POP SPY 5.02万播放 / 2564赞 / 757评论。",
+      "xhsTitle": "KATSEYE 真正卖的不是歌，是一套需要稳定运行的人格系统",
+      "discussion": "可见讨论点：Sophia/Manon、Animal 是否被高估、粉丝对官方解释的信任、成员人格稳定性。",
+      "prompt": "引导话题：你更信完整女团系统，还是每个成员的真实状态？",
+      "tone": "可做主稿，但必须避开私人健康和未经证实原因猜测。",
       "related": [
         "KATSEYE",
         "Animal",
         "WILD",
-        "Wild Hearts"
+        "Sophia",
+        "Manon"
       ]
     },
     {
-      "id": "golden-live-vocal-0814",
+      "id": "lanterns-hotd-breakdown-0818",
       "tags": [
-        "golden",
-        "kpop-demon-hunters",
-        "vocal"
+        "lanterns",
+        "hotd",
+        "tv"
       ],
-      "lane": "Pop Culture / Music IP",
-      "heat": "97",
-      "title": "Golden 长尾进入真人现场声乐验收期",
-      "spark": "8/14 yt-dlp 搜索复核：Beth Roars 235.24万播放、The Charismatic Voice 47.05万播放、Songs From A Suitcase 40.26万播放、Tristan Paredes 15.36万播放。",
-      "xhsTitle": "Golden 为什么还在火？因为大家开始验收角色背后的真人",
-      "discussion": "可见讨论点：live vocal 是否还原角色、A5 高音、EJAE/Audrey Nuna/Rei Ami 声线分工、真人是否增强幻想。",
-      "prompt": "引导话题：动画神曲真人现场唱出来，会加分还是破坏幻想？",
-      "tone": "适合音乐/IP账号；技术拆解天然有评论参与感。",
-      "related": [
-        "KPop Demon Hunters",
-        "Golden",
-        "EJAE"
-      ]
-    },
-    {
-      "id": "spiderman-review-0814",
-      "tags": [
-        "spider-man",
-        "marvel",
-        "review"
-      ],
-      "lane": "Pop Culture / Film",
-      "heat": "95",
-      "title": "Spider-Man 继续被观众验收“街区英雄承诺”",
-      "spark": "8/14 复扫仍在窗口内：New Rockstars 318.83万播放、penguinz0 230.37万播放、Critical Drinker 140.14万播放、Jeremy Jahns 59.70万播放。",
-      "xhsTitle": "蜘蛛侠这次最难的反派，是观众的不信任",
-      "discussion": "可见讨论点：street-level 是否兑现、plot holes、Marvel 疲劳、角色关系、彩蛋是否服务故事。",
-      "prompt": "引导话题：你更在意蜘蛛侠像普通人，还是 MCU 彩蛋够多？",
-      "tone": "适合影视/IP账号；注意控制剧透。",
-      "related": [
-        "Spider-Man: Brand New Day",
-        "Marvel",
-        "street-level"
-      ]
-    },
-    {
-      "id": "odyssey-nolan-0814",
-      "tags": [
-        "the-odyssey",
-        "nolan",
-        "adaptation"
-      ],
-      "lane": "Pop Culture / Film",
+      "lane": "Pop Culture / Streaming",
       "heat": "93",
-      "title": "The Odyssey 让经典改编变成文化所有权争议",
-      "spark": "8/14 复扫仍在窗口内：Nerdrotic 168.32万播放、New Rockstars 158.10万播放、Michael Knowles 35.46万播放、Metatron 28.79万播放。",
-      "xhsTitle": "Nolan 改编 The Odyssey，真正吵的是谁有权解释经典",
-      "discussion": "可见讨论点：原著忠诚度、现代化边界、Nolan spectacle、古典学视角、观众是否拥有经典。",
-      "prompt": "引导话题：经典改编应该忠于原著，还是忠于当代观众？",
-      "tone": "适合影视/文化账号；争议强但需要避免简单站队。",
+      "title": "Lanterns 与 HOTD 证明追剧复盘本身就是内容产品",
+      "spark": "8/18 精确复核：Lanterns 24.73万播放 / 6825赞 / 706评论，Ep.1 breakdown 15.07万播放 / 5800赞 / 1300评论，HOTD S3E8 34.23万播放 / 1.06万赞 / 1600评论。",
+      "xhsTitle": "现在追剧像在开会：每集结束都要复盘",
+      "discussion": "可见讨论点：WTF ending、角色身份、DCU 信任、HOTD 阵营、下一季预测。",
+      "prompt": "引导话题：你追剧更喜欢被剧透解析，还是自己猜？",
+      "tone": "适合剧集号做连载模板。",
       "related": [
-        "The Odyssey",
-        "Christopher Nolan",
-        "Homer"
+        "Lanterns",
+        "House of the Dragon",
+        "episode breakdown"
       ]
     },
     {
-      "id": "agent-workbench-0814",
+      "id": "songs-summer-2026-0818",
+      "tags": [
+        "music",
+        "summer",
+        "identity"
+      ],
+      "lane": "Pop Culture / Music",
+      "heat": "90",
+      "title": "2026 夏日歌单被讨论成身份标签",
+      "spark": "8/18 精确复核：Mic The Snare 15.07万播放 / 7253赞 / 1400评论；Taylor Showgirl/Ophelia 目前官方内容强，UGC 主样本待补。",
+      "xhsTitle": "2026 夏日歌单不是歌单，是人格测试",
+      "discussion": "可见讨论点：summer anthem 归属、流行乐 weird era、粉丝品味、Taylor 新 era 是否定义夏天。",
+      "prompt": "引导话题：今年哪首歌最像你的夏天？",
+      "tone": "适合音乐号和生活方式号做互动型榜单。",
+      "related": [
+        "Songs of the Summer",
+        "Taylor Swift",
+        "Showgirl"
+      ]
+    },
+    {
+      "id": "claude-skill-cleanup-0818",
       "tags": [
         "ai-agent",
-        "codex",
-        "chatgpt-work"
+        "claude-code",
+        "skills"
       ],
       "lane": "AI / Workflow",
-      "heat": "92",
-      "title": "AI agent 从聊天框搬进工作台",
-      "spark": "8/14 yt-dlp 搜索复核：OpenAI ChatGPT Work 39.39万播放、Riley Brown Codex Full Course 19.09万播放、Rob The AI Guy 6.64万播放、Matt Wolfe 6.29万播放。",
-      "xhsTitle": "AI agent 真正破圈，是从聊天框搬进工作台",
-      "discussion": "可见讨论点：Codex、插件、工作台、普通人能否复用流程、交付物是否可验收。",
-      "prompt": "引导话题：你更想要一个聊天助手，还是一个能接活的工作台？",
-      "tone": "适合 AI 工具/效率账号；可转成普通人工作流。",
-      "related": [
-        "ChatGPT Work",
-        "Codex",
-        "agent workflow"
-      ]
-    },
-    {
-      "id": "claude-skills-sop-0814",
-      "tags": [
-        "claude-code",
-        "skills",
-        "sop"
-      ],
-      "lane": "AI / Skills",
-      "heat": "90",
-      "title": "Claude Code Skills 把 SOP 变成新的 prompt 格式",
-      "spark": "8/14 yt-dlp 搜索复核：Simon Scrapes 21.35万播放、Sajjaad Khader 17.65万播放、AI Master 17.55万播放、Traversy Media 15.96万播放。",
-      "xhsTitle": "你的 AI 团队不是缺模型，是缺 SOP",
-      "discussion": "可见讨论点：skills vs MCP、subagents、权限、复用、验收标准和团队岗位分工。",
+      "heat": "91",
+      "title": "Claude Code Skills 进入“少而准”的 SOP 清理期",
+      "spark": "8/18 精确复核：Nate Herk 7.36万播放 / 2056赞 / 154评论；AI Master 19.07万播放 / 2401赞 / 88评论；AI Foundations 9.75万播放 / 2627赞 / 103评论。",
+      "xhsTitle": "你的 AI 团队不是缺技能，是技能太多没人验收",
+      "discussion": "可见讨论点：删掉多余 skill、agent 是否更稳定、SOP 边界、验收标准和团队岗位分工。",
       "prompt": "引导话题：你会给 AI 写 prompt，还是给 AI 写岗位说明书？",
-      "tone": "适合 AI/职场账号；把技术词翻译成组织管理语言会更容易传播。",
+      "tone": "适合 AI/职场账号；把技术词翻译成组织管理语言。",
       "related": [
         "Claude Code",
         "Skills",
-        "MCP"
+        "SOP"
+      ]
+    },
+    {
+      "id": "github-agent-skills-0818",
+      "tags": [
+        "github",
+        "agent-skills",
+        "workflow"
+      ],
+      "lane": "GitHub / AI Apps",
+      "heat": "90",
+      "title": "GitHub 新 skill 仓库显示“工作法资产化”正在扩散",
+      "spark": "8/18 GitHub Search API：phone-harness 1892 stars，shuohao-skills 1652 stars，book-to-skill 1179 stars，moli 481 stars，agent-safe-pipeline 516 stars。",
+      "xhsTitle": "AI 时代最值钱的不是 prompt，是你的可复制工作法",
+      "discussion": "可见讨论点：手机控制、短剧流水线、读书转 skill、agent 浏览器、审批安全。",
+      "prompt": "引导话题：你最想把哪一套工作法封装成 AI skill？",
+      "tone": "适合 AI 工具/创业号；直接连接产品机会。",
+      "related": [
+        "phone-harness",
+        "shuohao-skills",
+        "book-to-skill"
       ]
     }
   ],
@@ -626,11 +657,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-08-14-1036",
-    "contentWindow": "内容研究窗口：2026.07.30 - 2026.08.14 / 部署包生成：2026.08.14 10:36 CST",
-    "researchedThrough": "2026-08-14",
-    "packageGeneratedAt": "2026-08-14 10:36 CST",
-    "summary": "8/14 动态发现先从具体实体反推：KATSEYE Animal/WILD 与 Wild Hearts 把全球女团训练营、成员人格和粉丝投射推成今日最强 music/creator branding 热簇；KPop Demon Hunters 的 Golden 现场声乐/奖季长尾继续有高播放 vocal analysis；Spider-Man: Brand New Day 与 The Odyssey 继续占据影视 IP 验收/经典改编争议。AI 线从 ChatGPT Work/Codex、Claude Code Skills、Claude CoWork 反推 agent 工作台、岗位化和 skill/SOP 话题。TikTok 只写站内搜索聚类；YouTube 单页互动仍不稳定，因此本轮使用 yt-dlp 搜索播放元数据，不伪装精确点赞/评论。"
+    "editionId": "2026-08-18-1047",
+    "contentWindow": "内容研究窗口：2026.08.03 - 2026.08.18 / 部署包生成：2026.08.18 10:47 CST",
+    "researchedThrough": "2026-08-18",
+    "packageGeneratedAt": "2026-08-18 10:47 CST",
+    "summary": "8/18 动态发现先从具体实体反推：Spider-Man: Brand New Day post-credit / Jean Grey / X-Men 是今日最强影视 UGC 热簇；KATSEYE Animal/WILD 延伸到 Sophia/Manon hiatus 与女团人格系统稳定性；Lanterns 与 House of the Dragon 支撑每周追剧复盘经济；音乐线以 2026 Songs of the Summer 和 Taylor Showgirl/Ophelia 搜索簇观察；AI 线从 Claude Code skills cleanup 与 GitHub 新 agent-skill 仓库反推“工作法资产化”。TikTok 只写站内搜索聚类；未使用不稳定微博客来源；药物/身体极端化风险全部过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -690,7 +721,7 @@
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-08-14",
+    "researchedThrough": "2026-08-18",
     "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。",
     "sourceExclusions": [
       "No unstable microblog content",
