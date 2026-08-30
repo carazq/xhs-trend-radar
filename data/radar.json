@@ -1,6 +1,37 @@
 {
   "trends": [
     {
+      "title": "KPop Demon Hunters：虚拟女团被当成真实舞台人格来审判",
+      "tags": [
+        "Pop Culture",
+        "Music",
+        "K-pop",
+        "Fandom Debate"
+      ],
+      "priority": "high",
+      "metrics": "8/30 yt-dlp 精确复核：TerryAndKaniyia 2026-08-21 173.83万播放 / 4.53万赞 / 1900评论；CZ Media 2026-08-26 18.05万播放 / 6679赞 / 510评论。",
+      "channel": "YouTube exact videos + Search cluster: KPop Demon Hunters What It Sounds Like / Golden live challenge / HUNTR/X vocal identity / cover reaction",
+      "heat": "近 72 小时搜索从 soundtrack/MV 延展到 cover challenge、角色声线和情绪收尾讨论，两条 UGC exact videos 同时过播放、点赞和评论门槛。",
+      "signal": "可转译点：虚拟女团不只拼设定，观众会用真实艺人的标准审判声线、舞台人格和情绪可信度。",
+      "why": "适合小红书：可做“虚拟女团也开始被当真人审判了”。",
+      "discussion": "可见主题集中在 HUNTR/X 是否像真实团体、Golden 翻唱能否证明歌曲生命力、结尾情绪是否催泪、角色声线和真人唱功如何互相加分。",
+      "ideas": [
+        "标题：虚拟女团也开始被当真人审判了",
+        "结构：角色设定 -> Golden 翻唱 -> 情绪收尾 -> 真人唱功 -> 粉丝为什么共情",
+        "评论引导：你会把虚拟女团当成真实艺人来喜欢吗？"
+      ],
+      "sources": [
+        [
+          "TerryAndKaniyia / 173.83万播放 / 4.53万赞 / 1900评论",
+          "https://www.youtube.com/watch?v=GaRDBsroz1s"
+        ],
+        [
+          "CZ Media / 18.05万播放 / 6679赞 / 510评论",
+          "https://www.youtube.com/watch?v=aN2X9gcOtSw"
+        ]
+      ]
+    },
+    {
       "title": "Lanterns Ep.3 当日解析：DCU 从伏笔讨论升级到角色信任验收",
       "tags": [
         "Pop Culture",
@@ -104,59 +135,38 @@
           "https://www.youtube.com/watch?v=y_ASyZ86-ZA"
         ]
       ]
-    },
-    {
-      "title": "Pop star dress-code debate：女歌手视觉被评论区升级成人格审判",
-      "tags": [
-        "Pop Culture",
-        "Music",
-        "Aesthetic Debate",
-        "Celebrity Branding"
-      ],
-      "priority": "high",
-      "metrics": "8/27-8/28 复核：Marina McBain 2026-08-15 29.37万播放 / 1.65万赞 / 2700评论。",
-      "channel": "YouTube exact video + Search cluster: Sabrina Carpenter / pop star dress code / visual identity / stage image debate",
-      "heat": "单条 commentary 仍在 15 天窗口且互动强，和 Ariana/KATSEYE/Harry 新演出讨论同频。",
-      "signal": "可转译点：流行女歌手造型是作品的一部分，但评论区常把它当能力、认真程度和商业化判断入口。",
-      "why": "适合小红书：可做“为什么女歌手一换穿搭，评论区就开始审判人格”。",
-      "discussion": "可见主题集中在舞台服装、女性艺人的表达边界、粉丝保护欲、商业性感与作品能力之间的双标。",
-      "ideas": [
-        "标题：为什么女歌手一换穿搭，评论区就开始审判人格",
-        "结构：造型争议 -> 能力与性感绑定 -> 粉丝保护欲 -> 商业化焦虑 -> 评论自测",
-        "评论引导：你觉得舞台造型是作品表达，还是营销策略？"
-      ],
-      "sources": [
-        [
-          "Marina McBain / 29.37万播放 / 1.65万赞 / 2700评论",
-          "https://www.youtube.com/watch?v=hk7ysjJw0HM"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
+      "title": "Olivia Rodrigo Daisy Chain Fields festival",
+      "status": "watch",
+      "reason": "8/29 festival 是 24-72 小时强实体，但 8/30 YouTube 复核中 UGC 精确样本 Jackie Vargas 2026-08-25 6675播放 / 152赞 / 12评论，Apple Music interview 为官方内容；不进主榜。",
+      "url": "https://www.youtube.com/results?search_query=Olivia+Rodrigo+Daisy+Chain+Fields+reaction+analysis"
+    },
+    {
+      "title": "Taylor Swift / Travis Kelce wedding commentary long tail",
+      "status": "observe",
+      "reason": "Swiftologist、fantano、Scandalous Media、Spill Sesh 等视频互动过线，但精确上传日期集中在 2026-07 或 2025，超出 Social 近 15 天窗口；只作长尾争议素材。",
+      "url": "https://www.youtube.com/results?search_query=Taylor+Swift+Travis+Kelce+wedding+fan+reaction+analysis"
+    },
+    {
       "title": "Harry Styles MSG residency / Dolly tribute",
       "status": "watch",
-      "reason": "Variety 8/27 报道 MSG 首夜大改 setlist 与 Dolly tribute，是 24 小时强实体；YouTube UGC 搜索暂未找到过门槛精确 reaction，先放演出文化搜索聚类。",
+      "reason": "MSG 驻场和 Dolly tribute 仍是演出文化强实体；8/30 YouTube UGC 搜索暂未找到近 15 天过门槛精确 reaction，先放演出文化搜索聚类。",
       "url": "https://www.youtube.com/results?search_query=Harry+Styles+MSG+residency+Dolly+tribute+reaction+analysis"
     },
     {
-      "title": "Taylor Swift Grammy Museum mashup / Toy Story 5 connective tissue",
-      "status": "watch",
-      "reason": "Variety 8/25 报道 Grammy Museum 视频释放新 mashup，但搜索结果以官方/NPR/旧内容为主，缺少近 15 天高互动 UGC 分析，暂不进主榜。",
-      "url": "https://www.youtube.com/results?search_query=Taylor+Swift+Grammy+Museum+August+All+Too+Well+Toy+Story+5+reaction"
+      "title": "Chappell Roan The Subway reaction long tail",
+      "status": "observe",
+      "reason": "Tim Welch、Chats & Reacts、Two Gay Matts 等 reaction 互动较强，但精确上传日期为 2025 或更早，不能进入今日 Social 主榜。",
+      "url": "https://www.youtube.com/results?search_query=Chappell+Roan+The+Subway+reaction+analysis"
     },
     {
-      "title": "BTS ARIRANG album reaction 长尾",
+      "title": "Lady Gaga Mayhem Ball fan culture",
       "status": "observe",
-      "reason": "多条 YouTube reaction 互动极高，但精确上传日期为 2026-03，已超出 Social 近 15 天窗口；只能作长尾 K-pop 回归/粉丝分歧背景。",
-      "url": "https://www.youtube.com/results?search_query=BTS+ARIRANG+album+reaction+analysis"
-    },
-    {
-      "title": "The Odyssey 影评分裂长尾",
-      "status": "observe",
-      "reason": "The Critical Drinker / penguinz0 等视频互动极高，但精确上传日期为 2026-07，超出近 15 天窗口；保留为高互动长尾，不进今日 Social 主榜。",
-      "url": "https://www.youtube.com/results?search_query=The+Odyssey+2026+film+review+reaction"
+      "reason": "搜索结果以 2025 fan full show、官方/演出记录为主，缺少近 15 天高质量 UGC 分析；保留为舞台视觉和 fan-cam 文化背景。",
+      "url": "https://www.youtube.com/results?search_query=Lady+Gaga+Mayhem+Ball+reaction+analysis+August+2026"
     }
   ],
   "aiSignals": [
@@ -181,36 +191,76 @@
       "url": "https://www.youtube.com/watch?v=XNQBCRcwXV4"
     },
     {
-      "title": "Agent harness / memory / provider switch：AI 工作台开始平台化",
-      "type": "GitHub + YouTube search cluster",
-      "metrics": "GitHub Search API 8/28：affaan-m/ECC 243,770 stars / 36,865 forks / pushed_at 2026-08-28；thedotmack/claude-mem 92,299 stars / 8,114 forks / pushed_at 2026-08-26；farion1231/cc-switch 129,765 stars / 8,902 forks / pushed_at 2026-08-28。",
-      "source": "Search cluster: agent harness / Claude Code memory / Codex provider switch / skills management",
-      "heat": "高。开发者讨论从“用哪个模型”转向“记忆、供应商切换、技能管理、沙箱和验收怎么统一”。",
-      "summary": "适合转译为普通人工作流：你的 AI 不是聊天框，而是一套可迁移、可记忆、可切换的工作台。",
-      "idea": "小红书标题：我现在更关心 AI 工作台，而不是哪个模型最强",
-      "url": "https://github.com/affaan-m/ECC"
+      "title": "AI skill repo 爆发：agent 从聊天框变成岗位技能包",
+      "type": "GitHub search cluster",
+      "metrics": "GitHub Search API 8/30：Leonxlnx/unlazy 2797 stars / 165 forks / created 2026-08-09 / pushed_at 2026-08-29；eternityspring/shuohao-skills 2427 stars / 307 forks / created 2026-08-06 / pushed_at 2026-08-26；Spielewoy/autoprompt-skill 942 stars / 64 forks / created 2026-08-17 / pushed_at 2026-08-30；cbrock84/headcount 468 stars / 70 forks / created 2026-08-28 / pushed_at 2026-08-30。",
+      "source": "Search cluster: agent skill / Claude Code skills / Codex skills / autoprompt / agent organization",
+      "heat": "高。开发者讨论从“哪个模型强”继续转向“怎样把技能、记忆、提示词、自检流程打包成可复用岗位能力”。",
+      "summary": "新机会不是再做一个 AI 清单，而是把某类工作拆成可安装、可审计、可复制的 skill pack。",
+      "idea": "小红书标题：AI 工具箱开始变成岗位说明书了",
+      "url": "https://github.com/Leonxlnx/unlazy"
     }
   ],
   "tiktokSignals": [
     {
-      "title": "Lanterns Ep.3 / Guy Gardner 站内搜索聚类",
+      "title": "KPop Demon Hunters / Golden cover 站内搜索聚类",
       "tags": [
-        "DCU",
-        "Streaming",
-        "Reaction"
+        "K-pop",
+        "Animation",
+        "Music"
       ],
       "priority": "high",
-      "metrics": "Search cluster / 站内搜索聚类：Lanterns episode 3 trailer、Guy Gardner、John Stewart、Hal Jordan、Sinestro、Blackest Night、DCU reaction；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling",
+      "metrics": "Search cluster / 站内搜索聚类：KPop Demon Hunters、What It Sounds Like、Golden cover、HUNTR/X、vocal challenge；未记录精确视频 URL，不放单条视频链接。",
+      "channel": "TikTok search sampling + YouTube exact UGC validation",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合把 YouTube 长解析转成“角色信任验收”短图文。",
-      "signal": "评论钩子从剧情伏笔转向角色关系、慢热节奏和 DCU 还值不值得追。",
-      "discussion": "可见主题：Guy 是否抢戏、John 入局、Hal/Sinestro 关系、Blackest Night 伏笔。",
-      "xhsTitle": "DC 这次真正变聪明，是先让你相信角色",
-      "angle": "5 图：新角色、关系线、伏笔密度、慢热争议、你还追吗",
-      "url": "https://www.tiktok.com/search?q=Lanterns%20episode%203%20Guy%20Gardner%20reaction"
+      "heat": "适合把 YouTube 长 reaction 转成“虚拟女团真人化审判”的短图文。",
+      "signal": "评论钩子从单曲好不好听转向角色声线、真人唱功、粉丝共情和虚拟团体能否拥有真实舞台人格。",
+      "discussion": "可见主题：Golden 翻唱、HUNTR/X 团魂、结尾情绪、角色和歌手之间的互相加分。",
+      "xhsTitle": "虚拟女团也开始被当真人审判了",
+      "angle": "5 图：设定、声线、翻唱、情绪收尾、你会不会真情实感",
+      "url": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Golden%20cover%20reaction"
+    },
+    {
+      "title": "Taylor Swift wedding discourse 站内搜索聚类",
+      "tags": [
+        "Celebrity",
+        "Fandom",
+        "Commentary"
+      ],
+      "priority": "medium",
+      "metrics": "Search cluster / 站内搜索聚类：Taylor Swift Travis Kelce wedding、fan reaction、wedding discourse；未记录精确视频 URL，不放单条视频链接。",
+      "channel": "TikTok search sampling + YouTube long-tail validation",
+      "sourceType": "站内搜索聚类",
+      "urlLabel": "TikTok search",
+      "imageStatus": "search-only",
+      "heat": "YouTube 高互动样本集中在 7 月或 2025，今天只做长尾争议观察。",
+      "signal": "评论钩子是粉丝如何把私人节点读成职业叙事、品牌控制和公众关系测试。",
+      "discussion": "可见主题：粉丝边界、婚礼叙事、事业节奏、公众人物能不能拥有低曝光仪式。",
+      "xhsTitle": "明星婚礼为什么总会变成粉丝的品牌考试",
+      "angle": "4 图：私人节点、粉丝投射、品牌控制、边界感讨论",
+      "url": "https://www.tiktok.com/search?q=Taylor%20Swift%20Travis%20Kelce%20wedding%20fan%20reaction"
+    },
+    {
+      "title": "Olivia Rodrigo Daisy Chain Fields 站内搜索聚类",
+      "tags": [
+        "Music",
+        "Festival",
+        "Gen Z"
+      ],
+      "priority": "medium",
+      "metrics": "Search cluster / 站内搜索聚类：Olivia Rodrigo、Daisy Chain Fields、festival reaction、Apple Music interview；未记录精确视频 URL，不放单条视频链接。",
+      "channel": "TikTok search sampling + YouTube threshold check",
+      "sourceType": "站内搜索聚类",
+      "urlLabel": "TikTok search",
+      "imageStatus": "search-only",
+      "heat": "适合观察 Gen Z 音乐节身份叙事，但 YouTube UGC 精确样本暂未过主榜门槛。",
+      "signal": "评论钩子是 Olivia 如何把 festival moment 变成真实、亲密、同龄人式的现场品牌。",
+      "discussion": "可见主题：音乐节归属感、青春叙事、live authenticity、粉丝为什么吃“同龄人感”。",
+      "xhsTitle": "Olivia 的音乐节时刻，卖的不是舞台是同龄人感",
+      "angle": "4 图：现场、同龄人感、采访、粉丝身份",
+      "url": "https://www.tiktok.com/search?q=Olivia%20Rodrigo%20Daisy%20Chain%20Fields%20festival"
     },
     {
       "title": "Harry Styles MSG residency / Dolly tribute 站内搜索聚类",
@@ -221,7 +271,7 @@
       ],
       "priority": "medium",
       "metrics": "Search cluster / 站内搜索聚类：Harry Styles MSG residency、Dolly tribute、new setlist、Together Together tour；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling + Variety 8/27 stable source",
+      "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
@@ -233,171 +283,151 @@
       "url": "https://www.tiktok.com/search?q=Harry%20Styles%20MSG%20residency%20Dolly%20tribute"
     },
     {
-      "title": "KATSEYE WILD / Wildworld Tour 站内搜索聚类",
+      "title": "Lady Gaga Mayhem Ball 站内搜索聚类",
       "tags": [
         "Music",
-        "Girl Group",
-        "Creator Economy"
-      ],
-      "priority": "high",
-      "metrics": "Search cluster / 站内搜索聚类：KATSEYE WILD EP、Wild Hearts documentary、WILDWORLD TOUR、Manon Sophia hiatus、brand deals；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling",
-      "sourceType": "站内搜索聚类",
-      "urlLabel": "TikTok search",
-      "imageStatus": "search-only",
-      "heat": "适合从海外女团商业化、巡演节奏和粉丝保护欲切入。",
-      "signal": "评论钩子不是八卦成员私生活，而是“全球女团上升期到底能承受多少品牌和叙事压力”。",
-      "discussion": "可见主题：商业合作速度、成员休整、纪录片是否加深信任、WILD EP 能否承接上升期。",
-      "xhsTitle": "KATSEYE 最值得学的，是如何把女团做成全球品牌",
-      "angle": "5 图：EP、纪录片、巡演、品牌合作、粉丝信任",
-      "url": "https://www.tiktok.com/search?q=KATSEYE%20WILD%20EP%20Wildworld%20Tour%20analysis"
-    },
-    {
-      "title": "Hailey Bieber fluro yellow / neon 站内搜索聚类",
-      "tags": [
-        "Fashion",
-        "Aesthetic",
-        "Celebrity Style"
+        "Stage",
+        "Fan Culture"
       ],
       "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：Hailey Bieber fluro yellow、acid yellow、neon brights、noughties accessories；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling + Vogue 8/20 stable source",
+      "metrics": "Search cluster / 站内搜索聚类：Lady Gaga Mayhem Ball、fan cam、stage design、Gaga live reaction；未记录精确视频 URL，不放单条视频链接。",
+      "channel": "TikTok search sampling + YouTube threshold check",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合做颜色趋势和可复制穿搭，不延伸到身体评价。",
-      "signal": "评论钩子是“今年夏末从 butter yellow 变成更刺眼的 acid yellow”。",
-      "discussion": "可见主题：neon 回潮、千禧配饰、Rhode/Hailey 风格带货、黄色到底显高级还是难穿。",
-      "xhsTitle": "夏末黄色变刺眼了：Hailey 把 butter yellow 推到 neon",
-      "angle": "4 图：颜色变化、单品、配饰、普通人怎么小面积用",
-      "url": "https://www.tiktok.com/search?q=Hailey%20Bieber%20fluro%20yellow%20neon%20trend"
+      "heat": "适合做舞台视觉和 fan-cam 文化观察；暂不作为今日主榜单条。",
+      "signal": "评论钩子是大体量巡演如何把视觉、服装、角色切换做成可二创素材。",
+      "discussion": "可见主题：舞台设计、fan-cam 传播、复古 Gaga 人格、现场比录音更能解释 era。",
+      "xhsTitle": "Gaga 的巡演为什么总能被剪成视觉教材",
+      "angle": "4 图：舞台、服装、角色、fan-cam 为什么传播",
+      "url": "https://www.tiktok.com/search?q=Lady%20Gaga%20Mayhem%20Ball%20stage%20reaction"
     }
   ],
   "githubSkills": [
     {
+      "name": "Leonxlnx/unlazy",
+      "repo": "https://github.com/Leonxlnx/unlazy",
+      "stars": "GitHub Search API 8/30：2797 stars / 165 forks / created 2026-08-09 / pushed_at 2026-08-29",
+      "signal": "Anti-laziness skill for AI agents，强调 Depth Tree、检查清单和避免 agent 草率完成。",
+      "summary": "说明 skill repo 正从工具收藏变成“约束 agent 工作方式”的产品。"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "repo": "https://github.com/eternityspring/shuohao-skills",
+      "stars": "GitHub Search API 8/30：2427 stars / 307 forks / created 2026-08-06 / pushed_at 2026-08-26",
+      "signal": "短剧与内容工作流技能集合，面向 Claude Code 和 Codex 的创作流程打包。",
+      "summary": "内容行业开始把垂直方法论做成 agent 可调用技能，而不是只写提示词。"
+    },
+    {
+      "name": "Spielewoy/autoprompt-skill",
+      "repo": "https://github.com/Spielewoy/autoprompt-skill",
+      "stars": "GitHub Search API 8/30：942 stars / 64 forks / created 2026-08-17 / pushed_at 2026-08-30",
+      "signal": "把 prompt 改写和失败率控制做成 Claude Code skill，主张降低 agentic coding 失误。",
+      "summary": "提示词优化正在产品化为工作前置层：先改任务，再让 agent 执行。"
+    },
+    {
+      "name": "cbrock84/headcount",
+      "repo": "https://github.com/cbrock84/headcount",
+      "stars": "GitHub Search API 8/30：468 stars / 70 forks / created 2026-08-28 / pushed_at 2026-08-30",
+      "signal": "Claude Code 的 agent organization 概念，强调 departments、skills、personas。",
+      "summary": "agent 编排正在借用公司组织结构语言，适合转译为“一个人的虚拟团队”。"
+    },
+    {
       "name": "affaan-m/ECC",
       "repo": "https://github.com/affaan-m/ECC",
-      "stars": "GitHub Search API 8/28：243,770 stars / 36,865 forks / pushed_at 2026-08-28",
+      "stars": "GitHub Search API 8/30：244470 stars / 36957 forks / pushed_at 2026-08-29",
       "signal": "Agent harness performance optimization system，topics 覆盖 Claude Code、Codex、OpenCode、MCP、skills、research-first development。",
-      "summary": "说明开发者正在把 agent 性能、记忆、安全和技能管理做成统一控制台。"
+      "summary": "作为生态基线：高星 agent harness 继续显示记忆、安全、技能管理和验证在平台化。"
     },
     {
-      "name": "farion1231/cc-switch",
-      "repo": "https://github.com/farion1231/cc-switch",
-      "stars": "GitHub Search API 8/28：129,765 stars / 8,902 forks / pushed_at 2026-08-28",
-      "signal": "Claude Code / Codex / OpenCode / Hermes 等多代理桌面切换器，topics 包含 skills-management、provider-management、desktop-app。",
-      "summary": "从单工具崇拜转向“供应商可切换 + 技能可管理”的个人 AI 工作台。"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "repo": "https://github.com/thedotmack/claude-mem",
-      "stars": "GitHub Search API 8/28：92,299 stars / 8,114 forks / pushed_at 2026-08-26",
-      "signal": "Persistent context across sessions for agents，topics 覆盖 long-term-memory、claude-skills、Codex、Gemini、OpenCode。",
-      "summary": "说明 agent 讨论正在从“会做事”转到“会记住做过什么”。"
-    },
-    {
-      "name": "hesreallyhim/awesome-claude-code",
-      "repo": "https://github.com/hesreallyhim/awesome-claude-code",
-      "stars": "GitHub Search API 8/28：53,098 stars / 4,632 forks / pushed_at 2026-08-27",
-      "signal": "Claude Code resources / skills / agents / plugins curated list，仍是生态外溢和工具发现入口。",
-      "summary": "适合作为“AI 工具箱正在变成生态目录”的证据，而非固定推荐清单。"
-    },
-    {
-      "name": "simstudioai/sim",
-      "repo": "https://github.com/simstudioai/sim",
-      "stars": "GitHub Search API 8/28：29,479 stars / 3,796 forks / pushed_at 2026-08-28",
-      "signal": "Collaborative workspace to build, deploy and monitor AI agents/workflows，强调 no-code/low-code agent workflow。",
-      "summary": "非程序员能理解的机会点：把流程搭出来、监控起来，而不是只会聊天。"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "repo": "https://github.com/mvanhorn/last30days-skill",
-      "stars": "GitHub Search API 8/28：59,652 stars / 5,217 forks / pushed_at 2026-08-26",
-      "signal": "Trend research skill，覆盖 recency、YouTube、TikTok、Reddit、HN、Polymarket 和 web search。",
-      "summary": "趋势研究本身也在被技能化：先定义来源、窗口和证据边界。"
+      "name": "Graphify-Labs/graphify",
+      "repo": "https://github.com/Graphify-Labs/graphify",
+      "stars": "GitHub Search API 8/30：112451 stars / 10945 forks / pushed_at 2026-08-29",
+      "signal": "Graph native agentic memory，与 multi-agent、knowledge graph、MCP 和 RAG 生态相连。",
+      "summary": "说明 agent 记忆正从聊天历史转向结构化知识图谱和可查询上下文。"
     }
   ],
   "sparkPool": [
     {
-      "title": "角色信任验收",
-      "hook": "不要只写 Lanterns 剧情，写“为什么 DCU 这次先让你相信角色”。",
-      "template": "新角色 -> 关系张力 -> 伏笔密度 -> 慢热争议 -> 你还追吗",
-      "bestFor": "影视号、漫画号、IP叙事号"
+      "title": "虚拟女团真人化审判",
+      "hook": "不要只写 KPop Demon Hunters 好听，写“为什么大家开始用真实艺人的标准审判虚拟团”。",
+      "template": "角色设定 -> Golden 翻唱 -> 情绪收尾 -> 真人唱功 -> 粉丝真情实感",
+      "bestFor": "音乐号、二次元号、流行文化观察号"
     },
     {
-      "title": "全球女团商业化",
-      "hook": "KATSEYE 的小红书角度不是穿搭盘点，而是“上升期女团如何被做成全球品牌”。",
-      "template": "EP -> 纪录片 -> 巡演 -> 品牌合作 -> 粉丝保护欲",
-      "bestFor": "音乐号、品牌号、女团观察号"
+      "title": "明星婚礼品牌考试",
+      "hook": "Taylor 长尾适合写“为什么私人节点会被粉丝读成品牌控制和事业节奏”。",
+      "template": "私人节点 -> 粉丝投射 -> 公众关系 -> 边界感 -> 你希望偶像公开到哪一步",
+      "bestFor": "明星文化号、粉丝观察号、品牌人格号"
     },
     {
-      "title": "演唱会共同见证感",
-      "hook": "Harry MSG 首夜适合写“演出为什么要靠改 setlist 制造稀缺记忆”。",
-      "template": "驻场 -> 首夜变化 -> 致敬桥段 -> 粉丝仪式 -> 你愿意为哪种现场买单",
-      "bestFor": "音乐号、生活方式号、粉丝文化号"
+      "title": "音乐节同龄人感",
+      "hook": "Olivia Daisy Chain Fields 先不要冲主稿，适合存成“现场品牌如何制造同龄人亲密感”。",
+      "template": "现场片段 -> 采访语气 -> 青春叙事 -> 粉丝身份 -> 你为什么觉得她真实",
+      "bestFor": "音乐号、Gen Z 生活方式号"
     },
     {
-      "title": "AI 工作台人格",
-      "hook": "AI 内容不要只写新模型，写“我如何把记忆、技能和切换器变成工作台”。",
-      "template": "工具混乱 -> 记忆层 -> 技能层 -> 供应商切换 -> 验收清单",
+      "title": "AI 岗位技能包",
+      "hook": "AI 内容不要只写工具合集，写“一个岗位的经验如何被打包成 agent skill”。",
+      "template": "岗位任务 -> 技能清单 -> 自检标准 -> 失败边界 -> 普通人怎么复用",
       "bestFor": "AI效率号、职场号、创业号"
     }
   ],
   "valueFlows": [
+    {
+      "from": "KPop Demon Hunters / Golden cover",
+      "to": "虚拟女团真人化审判",
+      "note": "把角色声线、真人唱功和粉丝共情转成虚拟艺人的舞台人格讨论。"
+    },
     {
       "from": "Lanterns Episode 3",
       "to": "角色信任验收",
       "note": "用新角色入局测试 DCU 是否能让观众持续相信类型剧。"
     },
     {
-      "from": "KATSEYE WILD EP / Wildworld Tour",
-      "to": "全球女团商业人格",
-      "note": "把音乐发布、纪录片、巡演和品牌合作合并成上升期压力测试。"
+      "from": "Taylor Swift wedding discourse",
+      "to": "明星私人节点品牌考试",
+      "note": "把婚礼长尾讨论转成粉丝边界、公众关系和品牌控制议题。"
     },
     {
-      "from": "Harry Styles MSG residency",
-      "to": "演出仪式感",
-      "note": "把 setlist 改写和致敬桥段转成“共同见证感”的粉丝文化选题。"
+      "from": "Olivia Rodrigo Daisy Chain Fields",
+      "to": "音乐节同龄人感",
+      "note": "把现场和采访转成真实感、青春叙事和粉丝身份感。"
     },
     {
-      "from": "Ariana Grande Petal",
-      "to": "艺人视觉人格",
-      "note": "把新歌 reaction 转成花朵符号、暗色剧场和粉丝期待差。"
-    },
-    {
-      "from": "GitHub agent harness repos",
-      "to": "个人 AI 工作台",
-      "note": "把 skills、memory、provider switch 翻译成普通人可复制的工作流资产。"
+      "from": "AI skill repos",
+      "to": "岗位能力产品化",
+      "note": "把 unlazy、autoprompt、headcount 等技能仓库转译成可安装工作流资产。"
     }
   ],
   "arbitragePicks": [
     {
+      "title": "KPop Demon Hunters：虚拟女团开始被当真人审判",
+      "score": "99",
+      "why": "8/21 与 8/26 两条 UGC exact videos 同时过播放、点赞、评论门槛，且评论主题能转成角色声线、真人唱功和粉丝共情。",
+      "xhsTitle": "虚拟女团也开始被当真人审判了",
+      "format": "5 图：角色设定 -> Golden 翻唱 -> 情绪收尾 -> 真人唱功 -> 你会真情实感吗"
+    },
+    {
       "title": "Lanterns：DCU 不是铺更大宇宙，而是先让角色可信",
-      "score": "98",
+      "score": "97",
       "why": "8/27 新 UGC 精确过播放、点赞、评论门槛，且 Ep.3 讨论继续滚动。",
       "xhsTitle": "DC 这次真正变聪明，是先让你相信角色",
       "format": "5 图：新角色 -> 关系线 -> 伏笔 -> 慢热争议 -> 站队"
     },
     {
+      "title": "AI skill repo：工具箱开始变成岗位说明书",
+      "score": "94",
+      "why": "8/30 GitHub Search API 显示多个 8 月创建 skill repo 快速积累 star，并保持近 7 天 pushed 活跃。",
+      "xhsTitle": "AI 工具箱开始变成岗位说明书了",
+      "format": "清单图：岗位任务、技能包、自检标准、失败边界、可复制流程"
+    },
+    {
       "title": "KATSEYE 全球女团：WILD 之后的商业化压力测试",
-      "score": "95",
-      "why": "8/17 两条 UGC 达标，8/14 WILD EP 和巡演报道提供新背景。",
+      "score": "93",
+      "why": "8/17 两条 UGC 达标，仍适合和今天的虚拟女团热簇一起写“女团人格如何被粉丝验收”。",
       "xhsTitle": "KATSEYE 最值得学的，是如何把女团做成全球品牌",
       "format": "6 图：EP -> 纪录片 -> 巡演 -> 品牌合作 -> 粉丝信任 -> 讨论"
-    },
-    {
-      "title": "Ariana Petal：花朵符号里的暗色剧场",
-      "score": "94",
-      "why": "8 月多条 reaction/review 达标，适合音乐审美与艺人品牌双重转译。",
-      "xhsTitle": "花朵感不等于甜，Ariana 这次是在做黑色剧场",
-      "format": "5 图：旧人格 -> 花朵符号 -> 声线 -> 粉丝分歧 -> 站队"
-    },
-    {
-      "title": "Agent harness / memory：AI 工具从模型强弱转向工作台",
-      "score": "93",
-      "why": "8/28 GitHub Search API 显示 ECC、cc-switch、claude-mem 等高星活跃，能转普通人工作流。",
-      "xhsTitle": "我现在更关心 AI 工作台，而不是哪个模型最强",
-      "format": "清单图：记忆层、技能层、切换器、验收标准"
     }
   ],
   "weeklySop": [
@@ -428,28 +458,49 @@
     }
   ],
   "contentFormats": [
+    "格式：虚拟女团真人化审判：角色设定、声线、翻唱、情绪收尾、粉丝是否真情实感。",
     "格式：角色信任验收表：新角色、关系张力、伏笔密度、慢热争议、下一集期待。",
-    "格式：全球女团商业化拆解：音乐发布、纪录片、巡演、品牌合作、粉丝保护欲。",
-    "格式：演唱会共同见证感：驻场、首夜改动、致敬桥段、稀缺记忆、愿意为哪种现场买单。",
-    "格式：艺人 rebrand 拆解：旧人格、新符号、声音/制作、粉丝期待差、评论站队。",
-    "格式：AI 工作台清单：记忆、技能、供应商切换、权限、验收，每项必须写具体场景。"
+    "格式：明星私人节点品牌考试：私人事件、粉丝投射、公众关系、边界感、事业节奏。",
+    "格式：音乐节同龄人感：现场片段、采访语气、青春叙事、粉丝身份、为什么觉得真实。",
+    "格式：AI 岗位技能包：岗位任务、技能清单、自检标准、失败边界、普通人怎么复用。"
   ],
   "summarySparks": [
     {
-      "id": "lanterns-ep3-character-trust-0828",
+      "id": "kpop-demon-hunters-virtual-girlgroup-0830",
+      "tags": [
+        "kpop demon hunters",
+        "golden",
+        "virtual idol"
+      ],
+      "lane": "Pop Culture / K-pop",
+      "heat": "99",
+      "title": "KPop Demon Hunters 把虚拟女团推到真实艺人审判场",
+      "spark": "TerryAndKaniyia 2026-08-21 173.83万播放 / 4.53万赞 / 1900评论；CZ Media 2026-08-26 18.05万播放 / 6679赞 / 510评论。",
+      "xhsTitle": "虚拟女团也开始被当真人审判了",
+      "discussion": "评论热点：HUNTR/X 团魂、Golden 翻唱生命力、角色声线、真人唱功、结尾情绪是否催泪。",
+      "prompt": "引导话题：你会把虚拟女团当成真实艺人来喜欢吗？",
+      "tone": "今天最强音乐/二次元交叉主稿；有两条近 15 天高互动 UGC exact videos 支撑。",
+      "related": [
+        "KPop Demon Hunters",
+        "Golden",
+        "HUNTR/X"
+      ]
+    },
+    {
+      "id": "lanterns-ep3-character-trust-0830",
       "tags": [
         "dc",
         "lanterns",
         "superhero"
       ],
       "lane": "Pop Culture / DCU",
-      "heat": "98",
-      "title": "Lanterns Ep.3 把 DCU 讨论推到角色信任验收",
+      "heat": "97",
+      "title": "Lanterns Ep.3 继续把 DCU 讨论推到角色信任验收",
       "spark": "Emergency Awesome 8/27 20.77万播放 / 3477赞 / 370评论；Emergency Awesome 8/24 21.05万播放 / 5389赞 / 635评论；Reel Rejects 10.77万播放 / 5930赞 / 756评论。",
       "xhsTitle": "DC 这次真正变聪明，是先让你相信角色",
       "discussion": "评论热点：Guy Gardner 是否抢戏、John Stewart 入局、Hal/Sinestro 关系、Blackest Night 伏笔。",
       "prompt": "引导话题：你追超级英雄剧，是为角色还是为大宇宙？",
-      "tone": "今天最强影视主稿；8/27 精确 UGC 新鲜度和互动都过线。",
+      "tone": "影视副主稿；8/27 精确 UGC 新鲜度和互动都过线。",
       "related": [
         "Lanterns Episode 3",
         "Guy Gardner",
@@ -457,129 +508,87 @@
       ]
     },
     {
-      "id": "katseye-wild-commercial-pressure-0828",
-      "tags": [
-        "katseye",
-        "girl group",
-        "creator economy"
-      ],
-      "lane": "Music / Creator Economy",
-      "heat": "95",
-      "title": "KATSEYE WILD 把女团商业化变成粉丝压力测试",
-      "spark": "Nicky Reardon 63.95万播放 / 2.31万赞 / 1600评论；Wayde_A 11.70万播放 / 3527赞 / 501评论；Billboard 8/14 报道 WILD EP 与 WILDWORLD TOUR。",
-      "xhsTitle": "KATSEYE 最值得学的，是如何把女团做成全球品牌",
-      "discussion": "评论热点：商业合作速度、成员休整、纪录片叙事、WILD EP 能否承接上升期。",
-      "prompt": "引导话题：新团最怕没热度，还是热度来得太快？",
-      "tone": "适合品牌/女团商业化观察；有 UGC exact video 支撑，避开私人健康和八卦化。",
-      "related": [
-        "KATSEYE",
-        "WILD EP",
-        "WILDWORLD TOUR"
-      ]
-    },
-    {
-      "id": "harry-styles-msg-residency-0828",
-      "tags": [
-        "harry styles",
-        "concert",
-        "fandom"
-      ],
-      "lane": "Music / Live Culture",
-      "heat": "88",
-      "title": "Harry Styles MSG 首夜把演唱会做成共同见证感",
-      "spark": "Variety 8/27 报道 MSG 首夜大改 setlist、首唱新歌并加入 Dolly tribute；YouTube UGC 暂未过主榜门槛，只作 search cluster。",
-      "xhsTitle": "Harry Styles 的 MSG 首夜，真正卖的是共同见证感",
-      "discussion": "评论热点：驻场稀缺感、首夜惊喜、老歌重排、致敬桥段、粉丝现场身份。",
-      "prompt": "引导话题：你会为“只有这场有”的演唱会瞬间买单吗？",
-      "tone": "适合粉丝文化和演出经济观察；明确标注搜索聚类，不伪装单条爆款。",
-      "related": [
-        "Harry Styles",
-        "MSG residency",
-        "Dolly tribute"
-      ]
-    },
-    {
-      "id": "ariana-petal-dark-theater-0828",
-      "tags": [
-        "ariana grande",
-        "music",
-        "artist persona"
-      ],
-      "lane": "Music / Artist Branding",
-      "heat": "94",
-      "title": "Ariana Petal 继续把花朵符号读成暗色剧场",
-      "spark": "Scandalous Media 10.97万播放 / 4551赞 / 982评论；theneedledrop 18.78万播放 / 3890赞 / 968评论；Turning the Tables 6.17万播放 / 3475赞 / 373评论。",
-      "xhsTitle": "花朵感不等于甜，Ariana 这次是在做黑色剧场",
-      "discussion": "评论热点：新 era 是否连贯、视觉符号是否过度、声线/制作是否支撑新人格。",
-      "prompt": "引导话题：你更喜欢安全延续，还是艺人突然换人格？",
-      "tone": "适合音乐审美和艺人品牌观察；避开私人健康与八卦化叙事。",
-      "related": [
-        "Ariana Grande Petal",
-        "dark flower aesthetic",
-        "album review"
-      ]
-    },
-    {
-      "id": "pop-star-dress-code-0828",
-      "tags": [
-        "sabrina carpenter",
-        "aesthetic",
-        "celebrity branding"
-      ],
-      "lane": "Music / Aesthetic Debate",
-      "heat": "93",
-      "title": "Pop star dress-code 争议把造型变成人格审判",
-      "spark": "Marina McBain 2026-08-15 29.37万播放 / 1.65万赞 / 2700评论，评论围绕舞台服装、能力、商业化与双标。",
-      "xhsTitle": "为什么女歌手一换穿搭，评论区就开始审判人格",
-      "discussion": "评论热点：舞台服装、女性艺人的表达边界、粉丝保护欲、商业性感与作品能力之间的双标。",
-      "prompt": "引导话题：你觉得舞台造型是作品表达，还是营销策略？",
-      "tone": "适合文化观察，不做身体评价和低俗化转译。",
-      "related": [
-        "Sabrina Carpenter",
-        "pop star dress code",
-        "visual identity"
-      ]
-    },
-    {
-      "id": "claude-code-1000-hours-0828",
-      "tags": [
-        "ai",
-        "claude code",
-        "workflow"
-      ],
-      "lane": "AI / Workflow",
-      "heat": "94",
-      "title": "Claude Code 长期使用经验把 AI 变成操作系统",
-      "spark": "The Coding Sloth 2026-08-18 19.66万播放 / 7981赞 / 279评论；评论关注 prompt 纪律、项目记忆、上下文整理和什么时候不用 agent。",
-      "xhsTitle": "用 AI 写代码 1000 小时后，我真正学到的是少折腾",
-      "discussion": "评论热点：长期项目记忆、上下文卫生、工具边界、AI 使用习惯。",
-      "prompt": "引导话题：你现在的 AI 工作流，是变稳了还是变乱了？",
-      "tone": "适合 AI 普通人工作流和效率号。",
-      "related": [
-        "Claude Code",
-        "AI coding habits",
-        "workflow"
-      ]
-    },
-    {
-      "id": "agent-workbench-memory-switch-0828",
+      "id": "ai-skill-repo-job-pack-0830",
       "tags": [
         "github",
         "skills",
         "ai agents"
       ],
       "lane": "GitHub Skill / Product Opportunity",
-      "heat": "93",
-      "title": "Agent harness 热度说明 AI 工作台开始平台化",
-      "spark": "GitHub Search API 8/28：ECC 243,770 stars、cc-switch 129,765 stars、claude-mem 92,299 stars、awesome-claude-code 53,098 stars，均为 8 月活跃样本。",
-      "xhsTitle": "我现在更关心 AI 工作台，而不是哪个模型最强",
-      "discussion": "讨论热点：技能包、记忆层、供应商切换、权限管理、非工程岗位经验资产化。",
-      "prompt": "引导话题：你的 AI 工作流最缺记忆、技能，还是切换器？",
+      "heat": "94",
+      "title": "AI skill repo 从工具收藏变成岗位技能包",
+      "spark": "GitHub Search API 8/30：unlazy 2797 stars、shuohao-skills 2427 stars、autoprompt-skill 942 stars、headcount 468 stars，均为 8 月创建或近 7 天 pushed 活跃样本。",
+      "xhsTitle": "AI 工具箱开始变成岗位说明书了",
+      "discussion": "讨论热点：技能包、任务前置改写、agent 自检、岗位流程、一个人的虚拟团队。",
+      "prompt": "引导话题：你的工作最想被 AI 打包成哪种 skill？",
       "tone": "适合 AI 产品人格、创业 idea 和普通人工作流。",
       "related": [
-        "agent harness",
-        "Claude memory",
-        "provider switch"
+        "unlazy",
+        "autoprompt-skill",
+        "headcount"
+      ]
+    },
+    {
+      "id": "taylor-wedding-boundary-0830",
+      "tags": [
+        "taylor swift",
+        "celebrity",
+        "fandom"
+      ],
+      "lane": "Celebrity / Fandom Boundary",
+      "heat": "89",
+      "title": "Taylor wedding 长尾争议适合写明星私人节点品牌考试",
+      "spark": "YouTube 高互动 commentary 样本存在，但上传日期多在 2026-07 或 2025，今天只作为 search cluster / long-tail 素材，不进 Social 主榜。",
+      "xhsTitle": "明星婚礼为什么总会变成粉丝的品牌考试",
+      "discussion": "评论热点：粉丝边界、公众人物私人仪式、事业节奏、亲密关系如何被品牌化。",
+      "prompt": "引导话题：你希望明星把私人生活公开到哪一步？",
+      "tone": "适合观点稿；必须标注长尾，不伪装今日爆款。",
+      "related": [
+        "Taylor Swift",
+        "Travis Kelce",
+        "wedding discourse"
+      ]
+    },
+    {
+      "id": "olivia-daisy-chain-fields-0830",
+      "tags": [
+        "olivia rodrigo",
+        "festival",
+        "gen z"
+      ],
+      "lane": "Music / Festival Identity",
+      "heat": "87",
+      "title": "Olivia Daisy Chain Fields 适合观察音乐节同龄人感",
+      "spark": "8/30 复核中近 15 天 UGC 精确样本未过主榜门槛，Apple Music interview 为官方内容；只放 search cluster / watchlist。",
+      "xhsTitle": "Olivia 的音乐节时刻，卖的不是舞台是同龄人感",
+      "discussion": "评论热点：现场真实感、青春叙事、同龄人语气、粉丝为什么觉得她没有距离。",
+      "prompt": "引导话题：你喜欢歌手的舞台感，还是同龄人感？",
+      "tone": "适合等待二次传播；暂不放主榜。",
+      "related": [
+        "Olivia Rodrigo",
+        "Daisy Chain Fields",
+        "festival"
+      ]
+    },
+    {
+      "id": "katseye-wild-commercial-pressure-0830",
+      "tags": [
+        "katseye",
+        "girl group",
+        "creator economy"
+      ],
+      "lane": "Music / Creator Economy",
+      "heat": "93",
+      "title": "KATSEYE WILD 继续提供女团商业化压力测试样本",
+      "spark": "Nicky Reardon 63.95万播放 / 2.31万赞 / 1600评论；Wayde_A 11.70万播放 / 3527赞 / 501评论；WILD EP 与 WILDWORLD TOUR 提供商业化背景。",
+      "xhsTitle": "KATSEYE 最值得学的，是如何把女团做成全球品牌",
+      "discussion": "评论热点：商业合作速度、成员休整、纪录片叙事、WILD EP 能否承接上升期。",
+      "prompt": "引导话题：新团最怕没热度，还是热度来得太快？",
+      "tone": "适合品牌/女团商业化观察；避开私人健康和八卦化。",
+      "related": [
+        "KATSEYE",
+        "WILD EP",
+        "WILDWORLD TOUR"
       ]
     }
   ],
@@ -603,11 +612,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-08-28-1018",
-    "contentWindow": "内容研究窗口：2026.08.13 - 2026.08.28 / 部署包生成：2026.08.28 10:18 CST",
-    "researchedThrough": "2026-08-28",
-    "packageGeneratedAt": "2026-08-28 10:18 CST",
-    "summary": "8/28 动态发现从具体热簇反推搜索：Lanterns Episode 3 / Guy Gardner、KATSEYE WILD EP / WILDWORLD TOUR、Harry Styles MSG residency / Dolly tribute、Taylor Swift Grammy Museum mashup、Hailey Bieber fluro yellow、Claude Code long-term workflow、agent harness / memory / provider switch GitHub repos。Social 主榜只保留 8/13 后 YouTube UGC exact videos；Harry/Taylor/Hailey 只标注 search cluster，BTS ARIRANG 和 The Odyssey 因精确上传日期超出 15 天窗口降为 watchlist。未使用不稳定微博客内容；医疗化、处方药、减肥药、身体极端化和可模仿风险全部过滤。"
+    "editionId": "2026-08-31-0205",
+    "contentWindow": "内容研究窗口：2026.08.16 - 2026.08.31 / 部署包生成：2026-08-31 02:05 CST",
+    "researchedThrough": "2026-08-31",
+    "packageGeneratedAt": "2026-08-31 02:05 CST",
+    "summary": "8/31 动态发现从具体热簇反推搜索：KPop Demon Hunters / Golden cover / HUNTR/X、Olivia Rodrigo Daisy Chain Fields、Taylor Swift wedding discourse、Harry Styles MSG residency / Dolly tribute、Lady Gaga Mayhem Ball、Chappell Roan The Subway、Claude Code workflow、agent skill / Codex skill / AI workflow repos，并补看 8/31 pop culture 与 skill leaderboard 公开趋势页。Social 主榜新增 KPop Demon Hunters 两条近 15 天 YouTube UGC exact videos；Olivia、Taylor、Harry、Gaga、Chappell 因窗口、官方来源或互动门槛原因只标注 search cluster / watchlist；8/15 dress-code 样本已退出主榜。AI/GitHub 更新为 8/30-8/31 GitHub Search API 与 skill leaderboard 样本，突出 8 月新 skill repo 和工作流产品化。未使用 X/Twitter 内容；医疗化、处方药、减肥药、身体极端化和可模仿风险全部过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -667,8 +676,8 @@
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-08-28",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。",
+    "researchedThrough": "2026-08-31",
+    "dynamicDiscovery": "8/31 先扫描 24-72 小时与近 15/30 天实体热簇，再用 KPop Demon Hunters、Olivia Rodrigo Daisy Chain Fields、Taylor wedding discourse、Harry MSG residency、Lady Gaga Mayhem Ball、agent skill repo 等实体组合二级搜索词；固定主题词只作验证。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
