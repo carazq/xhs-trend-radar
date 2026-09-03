@@ -9,7 +9,7 @@ window.RADAR_DATA = {
         "Commentary"
       ],
       "priority": "high",
-      "metrics": "9/1 yt-dlp 精确复核，仍在 2026.08.18-09.02 窗口：Rick Beato 2026-08-26 132.35万播放 / 61771赞 / 7500评论；After Party with Emily Jashinsky 2026-08-27 43.20万播放 / 9949赞 / 1700评论。",
+      "metrics": "9/1 yt-dlp 精确复核，仍在 2026.08.19-09.03 窗口：Rick Beato 2026-08-26 132.35万播放 / 61771赞 / 7500评论；After Party with Emily Jashinsky 2026-08-27 43.20万播放 / 9949赞 / 1700评论。9/3 继续作为 exact-video 主榜样本保留。",
       "channel": "YouTube exact videos + Search cluster: Dolly Parton tribute / remembrance / Barbara Walters interview / public persona analysis",
       "heat": "Dolly 纪念内容在音乐评论、访谈回看和人格叙事之间同时起量，评论区从歌曲记忆延展到幽默、劳动伦理、慈善和公众信任。",
       "signal": "可转译点：长青明星不是只靠作品，而是长期把“亲切、锋利、体面”稳定输出成可被不同世代信任的人格资产。",
@@ -32,37 +32,6 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "title": "House of the Dragon S3 finale：观众争的不是谁赢，而是谁还有叙事正当性",
-      "tags": [
-        "Pop Culture",
-        "Streaming",
-        "Fantasy",
-        "Fandom Debate"
-      ],
-      "priority": "high",
-      "metrics": "9/1 yt-dlp 精确复核：Think Story 2026-08-10 73.83万播放 / 12576赞 / 1700评论；Emergency Awesome 2026-08-10 69.38万播放 / 14894赞 / 2800评论。",
-      "channel": "YouTube exact videos + Search cluster: House of the Dragon season 3 finale / ending explained / Rhaenyra / Tumbleton",
-      "heat": "S3 finale 高互动解析仍在近 15 天窗口边界内，评论从剧情解释延展到阵营疲劳、角色正当性和下一季是否还能兑现战争承诺。",
-      "signal": "可转译点：权谋剧后期最强讨论不再是站队，而是观众开始审判每个角色的叙事信用。",
-      "why": "适合小红书：可做“为什么大家越来越不想无脑站队”的追剧心理，适合影视号和人设叙事号。",
-      "discussion": "评论热点包括 Rhaenyra 的权力转向、Aegon 线是否还有同情空间、Tumbleton 战役期待、龙战奇观与角色动机是否平衡。",
-      "ideas": [
-        "标题：龙家 S3 结局最狠的地方，是让每个阵营都不再无辜",
-        "结构：结局事件 -> 阵营疲劳 -> 叙事信用 -> 下一季承诺 -> 你还站谁",
-        "评论引导：你还会在权谋剧里坚定站一个阵营吗？"
-      ],
-      "sources": [
-        [
-          "Think Story / 73.83万播放 / 12576赞 / 1700评论",
-          "https://www.youtube.com/watch?v=_MbXeiPNcrA"
-        ],
-        [
-          "Emergency Awesome / 69.38万播放 / 14894赞 / 2800评论",
-          "https://www.youtube.com/watch?v=vTtyyFhtNDg"
-        ]
-      ]
-    },
-    {
       "title": "SILO S3E9：观众追的不是反转，而是规则系统何时崩",
       "tags": [
         "Pop Culture",
@@ -71,7 +40,7 @@ window.RADAR_DATA = {
         "Ending Explained"
       ],
       "priority": "high",
-      "metrics": "9/1 yt-dlp 精确复核：Think Story 2026-08-28 39.11万播放 / 4657赞 / 910评论；BrainPilot 2026-08-28 33.50万播放 / 4036赞 / 1600评论。",
+      "metrics": "9/1 yt-dlp 精确复核，仍在 2026.08.19-09.03 窗口：Think Story 2026-08-28 39.11万播放 / 4657赞 / 910评论；BrainPilot 2026-08-28 33.50万播放 / 4036赞 / 1600评论。",
       "channel": "YouTube exact videos + Search cluster: SILO season 3 episode 9 breakdown / episode 10 theory / ending explained / Apple TV",
       "heat": "S3E9 两条 UGC 解析继续过线；S3E10 搜索已起量但 BrainPilot 8/29 精确视频 15.55万播放 / 1588赞 / 628评论，点赞未过主榜门槛，暂不升级。",
       "signal": "可转译点：高讨论剧集的爆点不是“猜对反转”，而是观众一起做规则系统压力测试。",
@@ -102,7 +71,7 @@ window.RADAR_DATA = {
         "Fandom Debate"
       ],
       "priority": "high",
-      "metrics": "9/1 yt-dlp 精确复核：Emergency Awesome 2026-08-27 72.99万播放 / 7087赞 / 565评论；8/24 与 Reel Rejects 样本继续过线。",
+      "metrics": "9/1 yt-dlp 精确复核，仍在 2026.08.19-09.03 窗口：Emergency Awesome 2026-08-27 72.99万播放 / 7087赞 / 565评论；8/24 与 Reel Rejects 样本继续过线。",
       "channel": "YouTube exact videos + Search cluster: Lanterns episode 3 trailer / Guy Gardner / John Stewart / Blackest Night",
       "heat": "8/27 解析继续上涨，讨论从“有没有彩蛋”滚到 Guy Gardner、John Stewart 和 DCU 慢热叙事是否成立。",
       "signal": "可转译点：IP 修复不是把世界观讲大，而是先让观众相信这个角色下一集还值得看。",
@@ -123,75 +92,44 @@ window.RADAR_DATA = {
           "https://www.youtube.com/watch?v=HKoN0UAfFuk"
         ]
       ]
-    },
-    {
-      "title": "KATSEYE WILD：女团热度变成“到底服务谁”的受众争论",
-      "tags": [
-        "Music",
-        "K-pop",
-        "Girl Group",
-        "Audience Strategy"
-      ],
-      "priority": "medium",
-      "metrics": "9/1 yt-dlp 精确复核：Nicky Reardon 2026-08-17 74.90万播放 / 24392赞 / 1600评论；Wayde_A 8/17 样本上轮已过线。",
-      "channel": "YouTube exact videos + Search cluster: KATSEYE WILD lore / WILD audience problem / documentary reaction",
-      "heat": "WILD 相关 UGC 继续高互动，讨论不只停留在舞台和歌曲，而是扩展到全球女团、粉丝身份、纪录片叙事和受众边界。",
-      "signal": "可转译点：当一个团同时想服务欧美流行、K-pop 训练体系和全球粉丝，它的内容人格必须更清楚。",
-      "why": "适合小红书：音乐号、审美号和品牌号都能写“国际化女团为什么容易被问：你到底给谁看？”",
-      "discussion": "评论热点集中在成员叙事是否清晰、WILD era 的视觉语言、粉丝对真实性的要求、以及市场定位是否比作品本身更容易引战。",
-      "ideas": [
-        "标题：KATSEYE 最大的问题不是红不红，是大家还在问它到底给谁看",
-        "结构：WILD 热度 -> 受众分裂 -> 视觉语言 -> 纪录片人设 -> 全球团品牌课",
-        "评论引导：你觉得全球女团应该先像 K-pop，还是先像欧美流行？"
-      ],
-      "sources": [
-        [
-          "Nicky Reardon / 74.90万播放 / 24392赞 / 1600评论",
-          "https://www.youtube.com/watch?v=F5fKU3OfHbg"
-        ],
-        [
-          "Wayde_A / 13万播放量级 / 上轮已过线",
-          "https://www.youtube.com/watch?v=1NPZz0hsS4g"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Love Island USA S8 reunion / Melanie-Sol-Sincere drama",
+      "title": "Raygun Netflix documentary / Breaking Badly 叙事权二次发酵",
       "status": "search cluster",
-      "reason": "9/2 yt-dlp 搜索聚类：Ooga Booga 132.79万播放、Spill Sesh 13.43万播放、Hot Tea Drop 5.94万播放；单页点赞/评论复核触发 429/bot gate，不能进主榜。",
-      "url": "https://www.youtube.com/results?search_query=Love+Island+USA+S8+reunion+Melanie+Sol+Sincere+analysis+reaction"
+      "reason": "9/3 动态发现来自 Netflix 9月片单与 YouTube 搜索聚类：Lewis Spears 新视频 10.53万播放；旧新闻/喜剧片段混杂且单页点赞/评论触发 bot gate，不能进 Social 主榜。",
+      "url": "https://www.youtube.com/results?search_query=Raygun+Netflix+documentary+Breaking+Badly+reaction+analysis"
     },
     {
-      "title": "Raygun Netflix documentary / public ridicule second life",
+      "title": "Alix Earle / Earle Meets World 首映与 influencer 家庭真人秀",
       "status": "search cluster",
-      "reason": "9/2 yt-dlp 搜索聚类：Lewis Spears 新视频 10.12万播放；旧公开视频和新闻样本混杂，且缺少单页点赞/评论精确复核，暂不进主榜。",
-      "url": "https://www.youtube.com/results?search_query=Raygun+Netflix+documentary+reaction+analysis+2026"
+      "reason": "9/3 People/Netflix 片单显示 Earle Meets World 9/4上线；YouTube 搜索里相关 trailer review 仅个位数播放，DWTS 旧片段与主题不匹配，不能进主榜。",
+      "url": "https://www.youtube.com/results?search_query=Alix+Earle+Earle+Meets+World+premiere+reaction+commentary"
     },
     {
-      "title": "ENHYPEN Bloody Paradise reaction / vampire visual comeback",
-      "status": "watch",
-      "reason": "9/2 yt-dlp 搜索聚类：itsANDYandJAS 5.29万播放、Form of Therapy 3.84万播放；多数 reaction 播放或互动证据不足，先观察粉丝视觉语言。",
-      "url": "https://www.youtube.com/results?search_query=ENHYPEN+Bloody+Paradise+reaction+analysis"
+      "title": "Kelly Clarkson daytime farewell / Kellyoke 时代结束",
+      "status": "search cluster",
+      "reason": "9/3 动态发现来自 Daily Beast/YouTube 搜索：官方与新闻视频播放强，但不是独立 UGC 分析；缺高质量 UGC exact video 与可见评论复核，暂只作观察。",
+      "url": "https://www.youtube.com/results?search_query=Kelly+Clarkson+show+finale+reaction+commentary+2026"
     },
     {
-      "title": "Claude Code new features / Skills full course",
+      "title": "Claude Fable 5.1 / agentic coding cost and safeguards",
       "status": "search cluster",
-      "reason": "9/2 yt-dlp 搜索聚类：Greg Isenberg 5.77万播放、Nick Saraev 15.57万播放、AI Master 31.79万播放；缺单页点赞/评论，不升级 AI 主榜。",
-      "url": "https://www.youtube.com/results?search_query=Claude+Code+skills+workflow+September+2026"
+      "reason": "9/3 The Verge/Axios AI 热簇；yt-dlp 搜索显示 AI Explained 11.48万播放、Every 13.56万播放、Riley Brown 8.90万播放，但单页点赞/评论触发 bot gate，不能升级 AI 主榜。",
+      "url": "https://www.youtube.com/results?search_query=Claude+Fable+5.1+agentic+coding+reaction+analysis"
+    },
+    {
+      "title": "Meta Muse Spark 1.3 / personal agent coding push",
+      "status": "search cluster",
+      "reason": "Axios 9/2 报道 Muse Spark 1.3 面向 coding 与 agentic tasks；暂未找到过门槛 UGC exact video，只保留为 AI 产品人格观察。",
+      "url": "https://www.youtube.com/results?search_query=Meta+Muse+Spark+1.3+personal+agent+coding+reaction"
     },
     {
       "title": "SILO S3E10 finale theory",
       "status": "watch",
       "reason": "BrainPilot 2026-08-29 15.55万播放 / 1588赞 / 628评论，播放和评论过线但点赞低于 2000；暂不进主榜。",
       "url": "https://www.youtube.com/results?search_query=SILO+season+3+episode+10+finale+ending+explained"
-    },
-    {
-      "title": "Taylor Swift Grammy Museum / Toy Story 5",
-      "status": "search cluster",
-      "reason": "官方视频和歌曲热度强，但近期独立 UGC reaction 只找到 1.22万播放样本，未过主榜门槛；只保留粉丝考古和 era 叙事观察。",
-      "url": "https://www.youtube.com/results?search_query=Taylor+Swift+Grammy+Museum+Toy+Story+5+reaction+analysis"
     }
   ],
   "aiSignals": [
@@ -218,33 +156,13 @@ window.RADAR_DATA = {
   ],
   "tiktokSignals": [
     {
-      "title": "Love Island USA S8 reunion 站内搜索聚类",
-      "tags": [
-        "Reality TV",
-        "Fandom",
-        "Drama"
-      ],
-      "priority": "high",
-      "metrics": "Search cluster / 站内搜索聚类：Love Island USA S8 reunion、Melanie、Sol、Sincere、post-villa tea；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling",
-      "sourceType": "站内搜索聚类",
-      "urlLabel": "TikTok search",
-      "imageStatus": "search-only",
-      "heat": "适合把 reality reunion 改写为“公开关系清算现场”的短图文。",
-      "signal": "评论钩子从谁对谁错转向观众为什么爱看关系被重新审判。",
-      "discussion": "可见主题：Melanie 发声、Sol/Sincere 关系线、reunion 是否公平、粉丝二次站队。",
-      "xhsTitle": "Love Island reunion 最抓人的不是恋爱，是所有人被迫重新做人设审计",
-      "angle": "5 图：reunion 事件、关系账本、人设审计、粉丝站队、你会原谅谁",
-      "url": "https://www.tiktok.com/search?q=Love%20Island%20USA%20S8%20reunion%20Melanie%20Sol%20Sincere"
-    },
-    {
       "title": "Raygun Netflix documentary 站内搜索聚类",
       "tags": [
         "Documentary",
         "Meme",
         "Public Image"
       ],
-      "priority": "medium",
+      "priority": "high",
       "metrics": "Search cluster / 站内搜索聚类：Raygun Netflix documentary、Breaking Badly、public ridicule、redemption narrative；未记录精确视频 URL，不放单条视频链接。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
@@ -258,24 +176,44 @@ window.RADAR_DATA = {
       "url": "https://www.tiktok.com/search?q=Raygun%20Netflix%20documentary%20Breaking%20Badly"
     },
     {
-      "title": "ENHYPEN Bloody Paradise 站内搜索聚类",
+      "title": "Alix Earle / Earle Meets World 站内搜索聚类",
       "tags": [
-        "K-pop",
-        "Aesthetic",
-        "Comeback"
+        "Creator Economy",
+        "Reality TV",
+        "Influencer Brand"
       ],
       "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：ENHYPEN Bloody Paradise、vampire concept、dance practice、MV reaction；未记录精确视频 URL，不放单条视频链接。",
+      "metrics": "Search cluster / 站内搜索聚类：Alix Earle、Earle Meets World、family reality show、influencer transparency；未记录精确视频 URL，不放单条视频链接。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合观察暗黑吸血鬼视觉和舞蹈完成度是否外溢到审美号。",
-      "signal": "评论钩子从歌舞评价转向“老概念怎样靠质感翻新”。",
-      "discussion": "可见主题：吸血鬼概念、红黑视觉、编舞是否够狠、成员镜头分配。",
-      "xhsTitle": "ENHYPEN 这次不是换概念，是把吸血鬼审美重新做精了",
-      "angle": "5 图：色彩、服装、动作、叙事、为什么老概念还能新",
-      "url": "https://www.tiktok.com/search?q=ENHYPEN%20Bloody%20Paradise%20reaction%20vampire%20concept"
+      "heat": "适合观察 influencer 把日常生活升级成家庭真人秀时，粉丝如何重新评估“真实感”。",
+      "signal": "评论钩子从“她红不红”转向“创作者把家人也变成内容资产是否会损耗信任”。",
+      "discussion": "可见主题：真人秀是否过度包装、家人入局、恋爱/家庭线、粉丝对透明度的要求。",
+      "xhsTitle": "Alix Earle 新真人秀最值得看的是：网红把生活做成节目后还真实吗？",
+      "angle": "5 图：创作者人设、家庭入镜、真人秀包装、真实感消耗、评论投票",
+      "url": "https://www.tiktok.com/search?q=Alix%20Earle%20Earle%20Meets%20World"
+    },
+    {
+      "title": "Kelly Clarkson farewell / Kellyoke 站内搜索聚类",
+      "tags": [
+        "Music",
+        "Daytime TV",
+        "Public Persona"
+      ],
+      "priority": "medium",
+      "metrics": "Search cluster / 站内搜索聚类：Kelly Clarkson finale、Kellyoke、daytime show ending、fan tribute；未记录精确视频 URL，不放单条视频链接。",
+      "channel": "TikTok search sampling",
+      "sourceType": "站内搜索聚类",
+      "urlLabel": "TikTok search",
+      "imageStatus": "search-only",
+      "heat": "适合把告别稿写成“一个唱将如何把翻唱栏目变成亲密关系”。",
+      "signal": "评论钩子从节目结束转向职业转身、母职叙事、粉丝陪伴和现场演唱信任。",
+      "discussion": "可见主题：Kellyoke、American Idol 起点、daytime TV 亲和力、为什么她的翻唱像陪伴。",
+      "xhsTitle": "Kelly Clarkson 告别日间秀：她最强的不是嗓子，是让观众觉得被陪着",
+      "angle": "6 图：节目结束、Kellyoke、亲和力、职业转身、粉丝关系、你最记得哪首",
+      "url": "https://www.tiktok.com/search?q=Kelly%20Clarkson%20finale%20Kellyoke"
     },
     {
       "title": "SILO S3E9 / S3E10 theory 站内搜索聚类",
@@ -298,84 +236,71 @@ window.RADAR_DATA = {
       "url": "https://www.tiktok.com/search?q=SILO%20season%203%20episode%2010%20ending%20explained"
     },
     {
-      "title": "Claude Code skills cleanup 站内搜索聚类",
+      "title": "Claude Fable 5.1 / AI agent cost 站内搜索聚类",
       "tags": [
         "AI",
         "Workflow",
-        "Skills"
+        "Agentic Coding"
       ],
       "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：Claude Code 1000 hours、Claude Skills cleanup、AI workflow、agent routine；未记录精确视频 URL，不放单条视频链接。",
+      "metrics": "Search cluster / 站内搜索聚类：Claude Fable 5.1、agentic coding cost、safeguards、personal agents；未记录精确视频 URL，不放单条视频链接。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合把 AI 长视频转成“删掉多余模板”的效率图文。",
-      "signal": "评论钩子从追新工具转向如何维护个人 AI 操作系统。",
-      "discussion": "可见主题：上下文污染、技能太多、项目记忆、什么时候不用 agent。",
-      "xhsTitle": "我删掉一半 AI 技能后，工作流反而顺了",
-      "angle": "流程图：保留标准、删除标准、每周复盘",
-      "url": "https://www.tiktok.com/search?q=Claude%20Code%20skills%20cleanup%20AI%20workflow"
+      "heat": "适合把模型更新转成“AI agent 开始比拼便宜、稳和边界”的普通人工作流话题。",
+      "signal": "评论钩子从参数强弱转向成本、隐私、误拦截、什么时候敢把任务交给 agent。",
+      "discussion": "可见主题：agentic task 成本、缓存、企业数据边界、coding assistant 到个人代理。",
+      "xhsTitle": "AI agent 现在卷的不是更会聊，而是谁更便宜、更稳、更守边界",
+      "angle": "流程图：成本、速度、隐私、失败边界、普通人怎么选",
+      "url": "https://www.tiktok.com/search?q=Claude%20Fable%205.1%20agentic%20coding"
     }
   ],
   "githubSkills": [
     {
-      "name": "langgenius/dify",
-      "repo": "https://github.com/langgenius/dify",
-      "stars": "GitHub Search API 9/2：154,136 stars / 24,358 forks / pushed_at 2026-09-02",
-      "signal": "agentic workflows、RAG pipelines、low-code workspace 继续高频推送，说明团队级 AI 应用正从 prompt 工具转向工作流平台。",
-      "summary": "小红书可讲：AI agent 落地不是一个按钮，而是一套可复用流程。"
+      "name": "Nanako0129/sepia",
+      "repo": "https://github.com/Nanako0129/sepia",
+      "stars": "tail.fyi 9/2 trending + GitHub page 9/3：约 1.5k stars / 91 forks；Agent Skills-compatible，支持 Claude Code、Codex、Grok Build、Antigravity。",
+      "signal": "De-AI writing skill 把“去 AI 味”从改词提升到叙事结构、场景规则和专业文体路由，说明 AI 内容生产开始追求可审核的风格系统。",
+      "summary": "小红书可讲：AI 写作真正不像 AI，不是换词，是先改结构。"
     },
     {
-      "name": "farion1231/cc-switch",
-      "repo": "https://github.com/farion1231/cc-switch",
-      "stars": "GitHub Search API 9/2：130,575 stars / 8,968 forks / pushed_at 2026-09-02",
-      "signal": "跨 Claude Code、Codex、OpenCode、Grok Build 的桌面入口继续更新，多模型/多 agent 切换正在产品化。",
-      "summary": "产品机会：谁能管理多个 AI 助手，谁就可能成为创作者工作台。"
+      "name": "cbrock84/headcount",
+      "repo": "https://github.com/cbrock84/headcount",
+      "stars": "tail.fyi 9/2 trending：约 1.0k stars；15+ departments、125+ skills 的 Claude Code agent organization。",
+      "signal": "把 agent skills 组织成公司部门，代表“多技能 agent 团队”正在从玩具脚本转向岗位化协作隐喻。",
+      "summary": "内容机会：普通人不需要一个万能 AI，而需要一个小型 AI 公司。"
     },
     {
-      "name": "ruvnet/ruflo",
-      "repo": "https://github.com/ruvnet/ruflo",
-      "stars": "GitHub Search API 9/2：70,153 stars / 8,374 forks / pushed_at 2026-09-02",
-      "signal": "agent meta-harness、swarm、memory、Codex/Claude Code 集成继续高热，开发者关注点从单 agent 转向编排层。",
-      "summary": "内容机会：AI agent 的下一步，不是更会聊，而是更会排班。"
+      "name": "damejan80/tokentab",
+      "repo": "https://github.com/damejan80/tokentab",
+      "stars": "tail.fyi 9/2 trending：约 1.1k stars；读取 Claude Code、Codex、Gemini CLI session logs 的成本统计 CLI。",
+      "signal": "agent 使用进入成本可视化阶段，开发者开始关心每个项目、每个模型、每天到底花了多少钱。",
+      "summary": "小红书可讲：AI 工具用多了，第一个要补的不是模型，是账本。"
     },
     {
-      "name": "CherryHQ/cherry-studio",
-      "repo": "https://github.com/CherryHQ/cherry-studio",
-      "stars": "GitHub Search API 9/2：51,348 stars / 4,905 forks / pushed_at 2026-09-02",
-      "signal": "AI productivity studio、300+ assistants、agent skills 话题聚合，显示普通用户需要统一入口管理模型和助手。",
-      "summary": "小红书可讲：AI 工具箱的竞争点正在从模型变成桌面入口。"
+      "name": "dmmulroy/anti-slop",
+      "repo": "https://github.com/dmmulroy/anti-slop",
+      "stars": "tail.fyi 9/2 trending：约 4.0k stars；低证据 TypeScript/JavaScript 模式的 Oxlint rules。",
+      "signal": "anti-slop 从审美吐槽变成工程规则，团队正在把“AI 代码味”写进 lint 和 review gate。",
+      "summary": "产品机会：AI 代码质量控制会成为 agent workflow 的刚需配套。"
     },
     {
-      "name": "tinyhumansai/openhuman",
-      "repo": "https://github.com/tinyhumansai/openhuman",
-      "stars": "GitHub Search API 9/2：39,305 stars / 3,861 forks / pushed_at 2026-09-02",
-      "signal": "local-first memory、agent fleets、deep researcher 结合，代表个人 AI 操作系统叙事继续外溢。",
-      "summary": "内容机会：普通人的 AI 管家，关键是记忆和任务边界。"
+      "name": "duty1g/x64dbg-mcp-server",
+      "repo": "https://github.com/duty1g/x64dbg-mcp-server",
+      "stars": "tail.fyi 9/2 trending：约 1.8k stars；x64dbg debugger MCP server。",
+      "signal": "MCP 正从资料/文件工具扩展到专业调试器控制，说明 agent workflow 的边界正在进入高门槛工程工具。",
+      "summary": "小红书可讲：AI agent 真正落地，是能操作专业工具而不只是聊天。"
     },
     {
-      "name": "NVIDIA/skills",
-      "repo": "https://github.com/NVIDIA/skills",
-      "stars": "GitHub Search API 9/2：3,172 stars / 370 forks / pushed_at 2026-09-01",
-      "signal": "Physical AI、robotics、simulation、CUDA、RAG workflows 被包装成可安装 agent skills，说明垂直技能包开始行业化。",
-      "summary": "小红书可讲：AI skill 正从写代码扩展到行业工作流。"
-    },
-    {
-      "name": "foryourhealth111-pixel/Vibe-Skills",
-      "repo": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
-      "stars": "GitHub Search API 9/2：3,121 stars / 259 forks / pushed_at 2026-08-31",
-      "signal": "skill routing、workflow orchestration、SkillsBench 指标叙事，把技能从 prompt 模板推向可评测系统。",
-      "summary": "内容机会：好用的 AI skill，要能路由、能省 token、能验收。"
+      "name": "ccch1mneyyy/dsh-TUI",
+      "repo": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "stars": "tail.fyi 9/2 trending：约 2.8k stars；Claude Code 风 TUI、实时状态、上下文进度、双击 Esc 回滚。",
+      "signal": "agent UI 开始强调状态、回滚、上下文进度和流式可见性，说明用户不只要结果，也要掌控感。",
+      "summary": "内容机会：AI 工作台的下一步，是让用户看得懂它在干什么。"
     }
   ],
   "sparkPool": [
-    {
-      "title": "Reality reunion 人设审计",
-      "hook": "不要只写 Love Island 谁吵赢，写“公开关系为什么会变成观众审判”。",
-      "template": "reunion 事件 -> 关系账本 -> 人设审计 -> 粉丝站队 -> 你会原谅谁",
-      "bestFor": "综艺号、情感号、关系叙事号"
-    },
     {
       "title": "公共人格信任账",
       "hook": "不要只写 Dolly 怀旧，写“为什么她越被考古越可信”。",
@@ -383,16 +308,22 @@ window.RADAR_DATA = {
       "bestFor": "音乐号、明星号、品牌人格号"
     },
     {
-      "title": "失败叙事权",
-      "hook": "Raygun 适合写“一个人被做成梗以后，还能不能讲自己的版本”。",
-      "template": "旧梗 -> 新纪录片 -> 观众怀疑 -> 叙事权 -> 平台消费 -> 你会看吗",
-      "bestFor": "流行文化号、纪录片号、创作者号"
-    },
-    {
       "title": "规则系统压力测试",
       "hook": "不要只写 Silo 剧情，写“为什么观众喜欢看一套规则慢慢撑不住”。",
       "template": "本集谜题 -> 信息差 -> 规则压力 -> 人物选择 -> 你会信谁",
       "bestFor": "影视号、职场叙事号、故事结构号"
+    },
+    {
+      "title": "IP 信任验收",
+      "hook": "Lanterns 适合写“世界观修复要先让观众相信角色”。",
+      "template": "新角色 -> 关系张力 -> 伏笔密度 -> 慢热争议 -> 你为谁继续追",
+      "bestFor": "影视号、超级英雄号、IP 品牌号"
+    },
+    {
+      "title": "失败叙事权",
+      "hook": "Raygun 适合写“一个人被做成梗以后，还能不能讲自己的版本”。",
+      "template": "旧梗 -> 新纪录片 -> 观众怀疑 -> 叙事权 -> 平台消费 -> 你会看吗",
+      "bestFor": "流行文化号、纪录片号、创作者号"
     },
     {
       "title": "AI 工作流减法",
@@ -437,13 +368,6 @@ window.RADAR_DATA = {
       "format": "6 图：经典作品 -> 旧访谈 -> 亲切策略 -> 锋利回应 -> 代际信任 -> 你会考古谁"
     },
     {
-      "title": "龙家：权谋剧后期的站队疲劳",
-      "score": "98",
-      "why": "S3 finale 两条解析视频均强过门槛，评论区围绕阵营正当性和下一季期待。",
-      "xhsTitle": "龙家 S3 结局最狠的地方，是让每个阵营都不再无辜",
-      "format": "5 图：结局事件 -> 阵营疲劳 -> 叙事信用 -> 下一季承诺 -> 评论投票"
-    },
-    {
       "title": "Silo：把科幻悬疑写成职场规则崩塌",
       "score": "97",
       "why": "8/28 两条 ending/breakdown 视频持续过线，评论区有强理论讨论。",
@@ -451,18 +375,25 @@ window.RADAR_DATA = {
       "format": "6 图：谜题 -> 信息差 -> 规则 -> 选择 -> finale 猜测 -> 评论投票"
     },
     {
-      "title": "Love Island：先观察 reunion 人设审计",
-      "score": "90",
-      "why": "搜索聚类播放强，但今天缺点赞/评论单页精确复核；只适合做观察稿或等复核后升级。",
-      "xhsTitle": "Love Island reunion 最抓人的不是恋爱，是所有人被迫重新做人设审计",
-      "format": "待补复核后再做主稿；目前可做低风险趋势观察"
+      "title": "Lanterns：超级英雄 IP 修复先修角色信任",
+      "score": "95",
+      "why": "8/27 exact video 继续过线，讨论从彩蛋密度升级为角色关系和慢热叙事是否值得追。",
+      "xhsTitle": "DC 这次真正变聪明，是先让你相信角色",
+      "format": "5 图：新角色 -> 搭档张力 -> 漫画伏笔 -> 慢热争议 -> 你为谁继续追"
     },
     {
-      "title": "Claude Code：AI 工具从堆功能进入减法时代",
+      "title": "Claude Code：AI 使用经验写成个人操作系统",
+      "score": "93",
+      "why": "The Coding Sloth 8/18 exact video 过 AI 主榜门槛，评论区围绕长期习惯和上下文纪律。",
+      "xhsTitle": "用 AI 写代码 1000 小时后，我真正学到的是少折腾",
+      "format": "流程图：项目记忆、prompt 纪律、少用 agent 的场景、每周复盘"
+    },
+    {
+      "title": "Claude Skills：工具箱减法比新功能更好转译",
       "score": "91",
-      "why": "两个 AI exact videos 均过门槛，评论热点从新功能转到工作流纪律和上下文管理。",
+      "why": "Nate Herk 8/12 exact video 过 AI 主榜门槛，评论区关注技能膨胀和上下文污染。",
       "xhsTitle": "我删掉一半 AI 技能后，工作流反而顺了",
-      "format": "流程图：哪些技能保留、哪些删除、每周怎么复盘"
+      "format": "清单：保留标准、删除标准、提示词瘦身、工作流验收"
     }
   ],
   "weeklySop": [
@@ -501,7 +432,7 @@ window.RADAR_DATA = {
   ],
   "summarySparks": [
     {
-      "id": "dolly-public-persona-0902",
+      "id": "dolly-public-persona-0903",
       "tags": [
         "dolly",
         "music",
@@ -509,7 +440,7 @@ window.RADAR_DATA = {
       ],
       "lane": "Music / Public Persona",
       "heat": "99",
-      "title": "Dolly 纪念潮把怀旧转成公共人格信任题",
+      "title": "Dolly 纪念潮继续是公共人格信任题",
       "spark": "Rick Beato 132.35万播放 / 61771赞 / 7500评论；After Party 43.20万播放 / 9949赞 / 1700评论。",
       "xhsTitle": "Dolly Parton 最厉害的不是怀旧，是她把亲切做成了权力",
       "discussion": "评论热点：经典歌曲、旧访谈反转、幽默回应、普通人为什么信她。",
@@ -522,28 +453,7 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "id": "hotd-s3-finale-legitimacy-0902",
-      "tags": [
-        "hotd",
-        "streaming",
-        "fandom"
-      ],
-      "lane": "Streaming / Fandom Debate",
-      "heat": "98",
-      "title": "龙家 S3 结局继续发酵为阵营疲劳",
-      "spark": "Think Story 73.83万播放 / 12576赞 / 1700评论；Emergency Awesome 69.38万播放 / 14894赞 / 2800评论。",
-      "xhsTitle": "龙家 S3 结局最狠的地方，是让每个阵营都不再无辜",
-      "discussion": "评论热点：Rhaenyra、Aegon、Tumbleton、下一季是否兑现战争承诺。",
-      "prompt": "引导话题：你还会在权谋剧里坚定站一个阵营吗？",
-      "tone": "影视号强稿；从剧情解释转为叙事信用讨论。",
-      "related": [
-        "House of the Dragon",
-        "Rhaenyra",
-        "Tumbleton"
-      ]
-    },
-    {
-      "id": "silo-rules-pressure-0902",
+      "id": "silo-rules-pressure-0903",
       "tags": [
         "silo",
         "sci-fi",
@@ -564,67 +474,88 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "id": "love-island-reunion-watch-0902",
+      "id": "lanterns-trust-0903",
       "tags": [
-        "love-island",
-        "reality",
+        "dcu",
+        "lanterns",
         "fandom"
       ],
-      "lane": "Reality TV / Watchlist",
-      "heat": "90",
-      "title": "Love Island reunion 起量，但仍需互动复核",
-      "spark": "9/2 yt-dlp 搜索聚类：Ooga Booga 132.79万播放、Spill Sesh 13.43万播放、Hot Tea Drop 5.94万播放；缺单页点赞/评论。",
-      "xhsTitle": "Love Island reunion 最抓人的不是恋爱，是所有人被迫重新做人设审计",
-      "discussion": "可见方向：Melanie 发声、Sol/Sincere 关系线、reunion 是否公平、粉丝二次站队。",
-      "prompt": "引导话题：你觉得 reunion 是澄清现场还是二次审判？",
-      "tone": "只作 search cluster/watchlist，不伪装单条爆款。",
+      "lane": "Streaming / Fandom Trust",
+      "heat": "95",
+      "title": "Lanterns 继续从彩蛋转为角色信任验收",
+      "spark": "Emergency Awesome 8/27 72.99万播放 / 7087赞 / 565评论；Reel Rejects 样本上轮已过线。",
+      "xhsTitle": "DC 这次真正变聪明，是先让你相信角色",
+      "discussion": "评论热点：Guy 是否抢戏、John 入局、Hal/Sinestro、Blackest Night 伏笔。",
+      "prompt": "引导话题：你追超级英雄剧，是为角色还是为大宇宙？",
+      "tone": "适合泛娱乐叙事，不要求读者熟悉漫画设定。",
       "related": [
-        "Love Island USA S8",
-        "Melanie",
-        "Sol",
-        "Sincere"
+        "Lanterns",
+        "Guy Gardner",
+        "John Stewart"
       ]
     },
     {
-      "id": "raygun-documentary-watch-0902",
-      "tags": [
-        "raygun",
-        "documentary",
-        "meme"
-      ],
-      "lane": "Documentary / Meme Afterlife",
-      "heat": "88",
-      "title": "Raygun 纪录片把旧梗推回叙事权讨论",
-      "spark": "9/2 yt-dlp 搜索聚类：Lewis Spears 新视频 10.12万播放；旧热视频和新闻样本混杂，暂不进主榜。",
-      "xhsTitle": "Raygun 纪录片最值得聊的，是一个人被做成梗以后还能不能拿回叙事权",
-      "discussion": "可见方向：纪录片是否洗白、观众是否愿意听解释、meme 是否应该有结束时间。",
-      "prompt": "引导话题：一个人被全网嘲笑后，还有机会讲自己的版本吗？",
-      "tone": "适合观察稿；避免人身羞辱和身体动作嘲讽。",
-      "related": [
-        "Raygun",
-        "Netflix documentary",
-        "Breaking Badly"
-      ]
-    },
-    {
-      "id": "ai-skills-routing-0902",
+      "id": "claude-code-1000-hours-0903",
       "tags": [
         "ai",
-        "skills",
+        "claude-code",
         "workflow"
       ],
       "lane": "AI / Workflow",
-      "heat": "92",
-      "title": "AI skill 从模板进入路由和验收阶段",
-      "spark": "GitHub 9/2：NVIDIA/skills 3172 stars、Vibe-Skills 3121 stars，均近期推送；Claude Code 搜索聚类有多条 5万+播放视频待复核。",
-      "xhsTitle": "好用的 AI skill，不是多一个提示词，而是能自己选路、能被验收",
-      "discussion": "热点：skill routing、上下文污染、行业工作流、普通人是否需要自己的 AI 技能包。",
-      "prompt": "引导话题：你更想要通用 AI 助手，还是岗位专用技能包？",
-      "tone": "AI 工具号可写；YouTube 新样本需下轮补 likes/comments。",
+      "heat": "93",
+      "title": "Claude Code 长期使用稿仍是 AI 工作流主线",
+      "spark": "The Coding Sloth 8/18 28.87万播放 / 9564赞 / 306评论。",
+      "xhsTitle": "用 AI 写代码 1000 小时后，我真正学到的是少折腾",
+      "discussion": "评论热点：prompt 纪律、项目记忆、上下文整理、什么时候不用 agent。",
+      "prompt": "引导话题：你现在最想让 AI 记住哪类工作习惯？",
+      "tone": "AI 工具号稳稿；从工具测评转为个人操作系统。",
       "related": [
         "Claude Code",
-        "NVIDIA/skills",
-        "Vibe-Skills"
+        "AI workflow",
+        "context discipline"
+      ]
+    },
+    {
+      "id": "ai-skills-cleanup-0903",
+      "tags": [
+        "ai",
+        "skills",
+        "context"
+      ],
+      "lane": "AI / Skills Cleanup",
+      "heat": "91",
+      "title": "AI skill 减法继续比堆功能更有讨论度",
+      "spark": "Nate Herk 8/12 9.81万播放 / 2479赞 / 180评论。",
+      "xhsTitle": "我删掉一半 AI 技能后，工作流反而顺了",
+      "discussion": "评论热点：技能膨胀、上下文污染、自动化模板、个人 AI 工具箱维护。",
+      "prompt": "引导话题：你更想给 AI 加技能，还是先删掉没用的技能？",
+      "tone": "适合效率号和独立开发者；能转成清单型图文。",
+      "related": [
+        "Claude Skills",
+        "context pollution",
+        "workflow cleanup"
+      ]
+    },
+    {
+      "id": "agent-skills-trending-0903",
+      "tags": [
+        "github",
+        "agent-skills",
+        "workflow"
+      ],
+      "lane": "GitHub Skill / Agent UI",
+      "heat": "88",
+      "title": "Agent skills 今天外溢到写作、组织、成本和反低质代码",
+      "spark": "tail.fyi 9/2 trending：sepia 约1.5k、headcount 约1.0k、tokentab 约1.1k、anti-slop 约4.0k stars。",
+      "xhsTitle": "AI agent 的下一波，不是更聪明，是更像一个可管理的工作台",
+      "discussion": "热点：技能路由、AI 味治理、成本账本、团队化 agent、可回滚 UI。",
+      "prompt": "引导话题：你更需要 AI 帮你写，还是帮你管流程？",
+      "tone": "GitHub Skill feed 支撑；不要伪装成视频爆款。",
+      "related": [
+        "sepia",
+        "headcount",
+        "tokentab",
+        "anti-slop"
       ]
     }
   ],
@@ -648,11 +579,11 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-02-1036",
-    "contentWindow": "内容研究窗口：2026.08.18 - 2026.09.02 / 部署包生成：2026-09-02 10:36 CST",
-    "researchedThrough": "2026-09-02",
-    "packageGeneratedAt": "2026-09-02 10:36 CST",
-    "summary": "9/2 继续动态实体优先：从 Love Island USA S8 reunion/Melanie-Sol-Sincere、Raygun Netflix documentary、ENHYPEN Bloody Paradise、Claude Code/ChatGPT Work/AI skills、agent skill GitHub repos 等真实热簇反推二级搜索。单页 YouTube 精确复核今天触发 429/bot gate，因此新增 YouTube 样本只进入 search cluster/watchlist；Social/AI 主榜仅保留仍在 15/30 天窗口内、上轮已精确复核播放/点赞/评论且过门槛的 UGC exact videos。GitHub repo 信号用 9/2 Search API 更新。医疗化、药物、身体极端化和可模仿风险继续过滤。"
+    "editionId": "2026-09-03-1012",
+    "contentWindow": "内容研究窗口：2026.08.19 - 2026.09.03 / 部署包生成：2026-09-03 10:12 CST",
+    "researchedThrough": "2026-09-03",
+    "packageGeneratedAt": "2026-09-03 10:12 CST",
+    "summary": "9/3 继续动态实体优先：从 Alix Earle / Earle Meets World、Raygun Netflix documentary / Breaking Badly、Kelly Clarkson daytime farewell、Claude Fable 5.1、Meta Muse Spark 1.3、tail.fyi agent skills trending 等真实热簇反推二级搜索。YouTube 单页精确复核继续触发 bot gate，因此新增视频只进入 search cluster/watchlist；Social/AI 主榜仅保留仍在 15/30 天窗口内、上轮已精确复核播放/点赞/评论且过门槛的 exact videos。GitHub Skill feed 改用 tail.fyi 9/2 trending 与 GitHub 页面可见量级，不把固定仓库列表伪装成上涨榜。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
