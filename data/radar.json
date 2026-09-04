@@ -643,10 +643,10 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-04-1050",
-    "contentWindow": "内容研究窗口：2026.08.21 - 2026.09.04 / 部署包生成：2026-09-04 10:50 CST",
+    "editionId": "2026-09-04-1021",
+    "contentWindow": "内容研究窗口：2026.08.21 - 2026.09.04 / 部署包生成：2026-09-04 10:21 CST",
     "researchedThrough": "2026-09-04",
-    "packageGeneratedAt": "2026-09-04 10:50 CST",
+    "packageGeneratedAt": "2026-09-04 10:21 CST",
     "summary": "9/4 继续动态实体优先：从 Raygun Netflix documentary / Breaking Badly、Alix Earle / Earle Meets World、VMAs 2026 nominations、SILO S3E10、Astra / Fable 5.1 model trust、Claude Code 2.0、tail.fyi agent skills trending 等真实热簇反推二级搜索。YouTube 精确搜索显示新增 9/3 视频多数低互动，Raygun 8/13 达标但超出 Social 15 天窗口；因此 Social/AI 主榜仅保留仍在窗口内且过门槛的 exact videos，新增实体进入 search cluster/watchlist。GitHub Skill feed 更新为 9/3 agent workbench 方向，不把固定仓库列表伪装成上涨榜。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
