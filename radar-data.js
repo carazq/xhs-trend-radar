@@ -1,34 +1,69 @@
 window.RADAR_DATA = {
   "trends": [
     {
-      "title": "Credential cosplay 翻车：创作者危机从“人设”升级到“资格证明”",
+      "title": "SILO S3 finale：观众追的不是结局，而是系统失灵后的解释权",
       "tags": [
-        "Creator Economy",
-        "Influencer Trust",
-        "Commentary",
-        "Identity"
+        "Pop Culture",
+        "Streaming",
+        "Prestige Sci-Fi",
+        "Ending Explained"
       ],
       "priority": "high",
-      "metrics": "9/7 新增近 15 天 exact-video 主榜样本：Susannah Friesen 2026-09-02 25.21万播放 / 4409赞 / 582评论。",
-      "channel": "YouTube exact video + Search cluster: fake Duke medical student influencer / credential cosplay / influencer trust crisis / comments analysis",
-      "heat": "这条不是普通网红翻车，而是观众开始把创作者的学历、职业、经历和内容可信度绑定审查。",
-      "signal": "可转译点：当创作者把专业身份当作内容资产，观众要的不是更完美的人设，而是可解释、可核验、可承担后果的信任链。",
-      "why": "适合小红书：能做“为什么现在大家越来越反感身份包装”的创作者经济稿；只谈公开内容与平台信任，不延展个人隐私和诊疗话题。",
-      "discussion": "评论热点集中在身份造假、专业光环、粉丝为什么愿意相信、平台推荐如何放大可信错觉、以及普通观众该如何判断创作者资质。",
+      "metrics": "9/7 新增 exact-video 主榜样本：Pete Peppers 2026-09-04 51.75万播放 / 7912赞 / 1400评论；并保留 8/28 Think Story 39.11万播放 / 4657赞 / 910评论。",
+      "channel": "YouTube exact videos + Search cluster: SILO season 3 finale / ending explained / episode 10 / rule system",
+      "heat": "S3 finale 解析从 9/4 开始继续起量，讨论从剧情谜底转为 Project 是否自洽、谁在维护旧秩序、观众是否还相信下一季会给答案。",
+      "signal": "可转译点：高互动剧集不是靠反转本身，而是让观众共同审计一套规则系统什么时候失灵。",
+      "why": "适合小红书：可以把硬科幻写成普通人能代入的组织信任、信息差和规则崩塌，不依赖完整剧粉基础。",
+      "discussion": "评论热点集中在 finale 是否解释够、Juliette 的信任选择、Silo 之间的信息封锁、Project 失败边界和 S4 teaser 是否在补偿答案。",
       "ideas": [
-        "标题：现在的网红塌房，已经从人设塌到资格证了",
-        "结构：高互动视频 -> 身份光环 -> 内容可信度 -> 观众审查 -> 创作者该怎么自证",
-        "评论引导：你会因为一个博主的学历/职业标签更相信她吗？"
+        "标题：Silo 结局最狠的地方，是它让所有规则都像真的",
+        "结构：finale 谜底 -> 信息差 -> 规则失灵 -> 谁有解释权 -> 下一季期待",
+        "评论引导：一套规则开始失灵时，你会先怀疑人还是怀疑系统？"
       ],
       "sources": [
         [
-          "Susannah Friesen / 25.21万播放 / 4409赞 / 582评论",
-          "https://www.youtube.com/watch?v=mmxnpo6xgqg"
+          "Pete Peppers / 51.75万播放 / 7912赞 / 1400评论",
+          "https://www.youtube.com/watch?v=40bf7uPYwss"
+        ],
+        [
+          "Think Story / 39.11万播放 / 4657赞 / 910评论",
+          "https://www.youtube.com/watch?v=Cd8Dx8nYU7Q"
         ]
       ]
     },
     {
-      "title": "Dolly Parton 纪念潮：观众讨论的不是怀旧，而是“公共人格为什么可信”",
+      "title": "Street Fighter 新预告：怀旧 IP 的争议点是“像不像玩家记忆里的自己”",
+      "tags": [
+        "Film",
+        "Gaming Culture",
+        "Trailer Reaction",
+        "Fandom Debate"
+      ],
+      "priority": "high",
+      "metrics": "9/7 yt-dlp exact-video 复核：Tyrone Magnus 2026-09-01 8.52万播放 / 2510赞 / 165评论；官方 Paramount 预告 1992.77万播放 / 144275赞 / 11000评论仅作热簇背景，不直接进主榜。",
+      "channel": "YouTube exact video + Search cluster: Street Fighter 2026 trailer reaction / game movie / casting / nostalgia",
+      "heat": "官方预告带来大盘热度，UGC reaction 过线说明观众愿意围绕选角、造型、动作质感和游戏改编忠诚度进行二次讨论。",
+      "signal": "可转译点：怀旧 IP 最大的社交货币不是还原剧情，而是让玩家确认“我小时候相信的酷感没有被糟蹋”。",
+      "why": "适合小红书：可跨电影、游戏、童年记忆和审美吐槽，做成“为什么游戏改编总是在考玩家记忆”的低门槛图文。",
+      "discussion": "可见主题包括角色造型是否像游戏、动作是否有重量、好莱坞游戏改编是否终于会尊重玩家、以及官方热度能否转成口碑。",
+      "ideas": [
+        "标题：Street Fighter 预告爆的不是情怀，是玩家在检查童年有没有被尊重",
+        "结构：官方热度 -> reaction 过线 -> 造型/动作争议 -> 怀旧 IP 验收 -> 你最怕毁哪个角色",
+        "评论引导：游戏改编电影最重要的是还原，还是拍得好看？"
+      ],
+      "sources": [
+        [
+          "Tyrone Magnus / 8.52万播放 / 2510赞 / 165评论",
+          "https://www.youtube.com/watch?v=JaE4nZ5QJCE"
+        ],
+        [
+          "Paramount official trailer / 1992.77万播放 / 144275赞 / 11000评论",
+          "https://www.youtube.com/watch?v=U6sbm1OaJb8"
+        ]
+      ]
+    },
+    {
+      "title": "Dolly Parton 纪念潮：长青明星被考古时，观众在检查人格是否稳定",
       "tags": [
         "Music",
         "Legacy Artist",
@@ -36,15 +71,15 @@ window.RADAR_DATA = {
         "Commentary"
       ],
       "priority": "high",
-      "metrics": "9/7 继续复核为近 15 天 exact-video 主榜样本：Rick Beato 2026-08-26 132.35万播放 / 61771赞 / 7500评论；After Party with Emily Jashinsky 2026-08-27 43.20万播放 / 9949赞 / 1700评论。",
+      "metrics": "9/7 仍在近 15 天 exact-video 主榜窗口：Rick Beato 2026-08-26 132.35万播放 / 61771赞 / 7500评论；After Party with Emily Jashinsky 2026-08-27 43.20万播放 / 9949赞 / 1700评论。",
       "channel": "YouTube exact videos + Search cluster: Dolly Parton tribute / remembrance / Barbara Walters interview / public persona analysis",
-      "heat": "Dolly 纪念内容在音乐评论、访谈回看和人格叙事之间继续起量，评论区从歌曲记忆延展到幽默、劳动伦理、慈善和公众信任。",
-      "signal": "可转译点：长青明星不是只靠作品，而是长期把“亲切、锋利、体面”稳定输出成可被不同世代信任的人格资产。",
-      "why": "适合小红书：可以做“为什么有些明星越老越被爱”的人格品牌拆解，避开死亡猎奇和私人健康，只谈公开作品与公共形象。",
-      "discussion": "可见主题集中在 Jolene/9 to 5 的代际记忆、Barbara Walters 旧访谈反转、她如何回应傲慢提问、以及公众为何把她视作少见的可信名人。",
+      "heat": "Dolly 纪念内容继续在音乐评论、旧访谈回看和公众信任之间流动，讨论不是单纯怀旧，而是为什么她经得起反复考古。",
+      "signal": "可转译点：长青明星不是只靠代表作，而是长期把亲切、锋利、体面输出成跨世代都能识别的人格资产。",
+      "why": "适合小红书：可以做“为什么有些明星越老越被爱”的人格品牌拆解，避开私人健康和死亡猎奇，只谈公开作品与公共形象。",
+      "discussion": "评论热点集中在 Jolene/9 to 5 的代际记忆、Barbara Walters 旧访谈反转、幽默回应、劳动伦理、慈善和公众信任。",
       "ideas": [
         "标题：Dolly Parton 最厉害的不是怀旧，是她把亲切做成了权力",
-        "结构：纪念热度 -> 旧访谈回看 -> 人格稳定性 -> 作品记忆 -> 普通人为什么信她",
+        "结构：纪念热度 -> 旧访谈 -> 人格稳定性 -> 作品记忆 -> 普通人为什么信她",
         "评论引导：你见过哪个明星越被考古越加分？"
       ],
       "sources": [
@@ -59,116 +94,81 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "title": "SILO S3E9/S3E10：观众追的不是反转，而是规则系统何时崩",
-      "tags": [
-        "Pop Culture",
-        "Streaming",
-        "Prestige Sci-Fi",
-        "Ending Explained"
-      ],
-      "priority": "high",
-      "metrics": "9/7 继续保留近 15 天 exact-video 样本：Think Story 2026-08-28 39.11万播放 / 4657赞 / 910评论；BrainPilot 2026-08-28 33.50万播放 / 4036赞 / 1600评论。",
-      "channel": "YouTube exact videos + Search cluster: SILO season 3 episode 9 breakdown / episode 10 theory / ending explained / Apple TV",
-      "heat": "S3E9 exact videos 持续过线，S3E10 搜索聚类继续发酵；讨论重心是规则、信息差和 finale 是否能给出可信出口。",
-      "signal": "可转译点：高讨论剧集的爆点不是“猜对反转”，而是观众一起做规则系统压力测试。",
-      "why": "适合小红书：可做“职场/组织规则感”切入，把硬科幻解读成普通人也能代入的秩序崩塌故事。",
-      "discussion": "可见主题集中在 Juliette 是否还能相信任何组织、Silo 之间的信息差、谁在维护旧秩序、以及 finale 是否会给出真正出口。",
-      "ideas": [
-        "标题：Silo 让人上头的不是反转，是它把规则写得像真实职场",
-        "结构：本集谜题 -> 信息差 -> 组织规则 -> 人物选择 -> 你会信谁",
-        "评论引导：如果你在 Silo 里，会先相信规则还是先相信人？"
-      ],
-      "sources": [
-        [
-          "Think Story / 39.11万播放 / 4657赞 / 910评论",
-          "https://www.youtube.com/watch?v=Cd8Dx8nYU7Q"
-        ],
-        [
-          "BrainPilot / 33.50万播放 / 4036赞 / 1600评论",
-          "https://www.youtube.com/watch?v=JToKof6yfIQ"
-        ]
-      ]
-    },
-    {
-      "title": "Lanterns Ep.3：DCU 讨论从彩蛋升级到角色信任验收",
+      "title": "Lanterns Ep.3/Ep.4：DCU 讨论从彩蛋转向角色信任和慢热耐心",
       "tags": [
         "Pop Culture",
         "DCU",
         "Streaming",
         "Fandom Debate"
       ],
-      "priority": "high",
-      "metrics": "9/7 继续保留近 15 天 exact-video 样本：Emergency Awesome 2026-08-27 72.99万播放 / 7087赞 / 565评论；8/24 与 Reel Rejects 样本继续过线。",
-      "channel": "YouTube exact videos + Search cluster: Lanterns episode 3 trailer / Guy Gardner / John Stewart / Blackest Night",
-      "heat": "8/27 解析继续作为主榜样本，讨论从“有没有彩蛋”滚到 Guy Gardner、John Stewart 和 DCU 慢热叙事是否成立。",
-      "signal": "可转译点：IP 修复不是把世界观讲大，而是先让观众相信这个角色下一集还值得看。",
-      "why": "适合小红书：可做“超级英雄剧怎样重新建立信任”的泛娱乐叙事，不需要用户熟悉全部漫画设定。",
-      "discussion": "评论热点包括 Guy 是否抢戏、John 入局后的搭档张力、Hal/Sinestro 关系、Blackest Night 伏笔密度和慢热节奏是否值得继续追。",
+      "priority": "medium",
+      "metrics": "9/7 继续保留近 15 天 exact-video 主榜样本：Emergency Awesome 2026-08-27 72.99万播放 / 7087赞 / 565评论；8/24 与 Reel Rejects 样本上轮已过线。",
+      "channel": "YouTube exact videos + Search cluster: Lanterns episode 3 / episode 4 / Guy Gardner / John Stewart / Blackest Night",
+      "heat": "Ep.3 高互动样本仍在窗口内，讨论焦点是观众是否愿意给 DCU 慢热角色关系更多耐心。",
+      "signal": "可转译点：IP 修复不是先把宇宙讲大，而是先让观众相信这个角色下集还值得看。",
+      "why": "适合小红书：可做“超级英雄剧怎样重新建立信任”的泛娱乐叙事，不要求读者熟悉漫画设定。",
+      "discussion": "评论热点包括 Guy 是否抢戏、John 入局后的搭档张力、Hal/Sinestro 关系、Blackest Night 伏笔密度和慢热节奏争议。",
       "ideas": [
         "标题：DC 这次真正变聪明，是先让你相信角色",
-        "结构：Ep.3 新角色 -> 关系张力 -> 漫画伏笔 -> 慢热争议 -> DCU 信任验收",
+        "结构：Ep.3 高互动 -> 关系张力 -> 漫画伏笔 -> 慢热争议 -> 你为谁继续追",
         "评论引导：你追超级英雄剧，是为角色还是为大宇宙？"
       ],
       "sources": [
         [
           "Emergency Awesome 8/27 / 72.99万播放 / 7087赞 / 565评论",
           "https://www.youtube.com/watch?v=XvRZcoD6_eg"
-        ],
-        [
-          "Reel Rejects / 13.20万播放量级 / 上轮已过线",
-          "https://www.youtube.com/watch?v=HKoN0UAfFuk"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Chicken Shop Date 收官：尴尬访谈经济进入怀旧期",
+      "title": "Creative Arts Emmys / Bad Bunny / Sabrina halfway-to-EGOT",
       "status": "search cluster",
-      "reason": "9/7 动态发现来自 Amelia Dimoldenberg 宣布 Chicken Shop Date 结束的跨媒体热簇；YouTube 搜索精确返回多为官方旧集或多年旧 reaction，近 15 天 UGC 未过主榜门槛。",
-      "url": "https://www.youtube.com/results?search_query=Amelia+Dimoldenberg+Chicken+Shop+Date+ending+commentary+reaction"
+      "reason": "Variety 2026-09-07 报道 Bad Bunny Super Bowl Halftime Show 与 The Traitors 领跑 Creative Arts Emmys，Sabrina Carpenter 因 The Muppet Show 获 Emmy 后出现 halfway-to-EGOT 叙事；yt-dlp 搜索混入旧官方内容，未找到近 15 天过门槛 UGC 单条。",
+      "url": "https://au.variety.com/2026/more/news/creative-arts-emmy-awards-winners-list-night-one-40013/"
     },
     {
-      "title": "Beyonce $948 wooden box / luxury fandom pricing debate",
+      "title": "Practical Magic 2 / Nicole Kidman / Olivia Rodrigo + Stevie Nicks",
       "status": "search cluster",
-      "reason": "9/7 动态发现来自 Beyonce 生日周边高价争议；YouTube 二级搜索未找到近 15 天过门槛 UGC commentary，适合作为粉丝消费边界观察。",
-      "url": "https://www.youtube.com/results?search_query=Beyonce+948+wooden+box+no+vinyl+reaction+commentary"
+      "reason": "9/5-9/7 稳定来源显示 Practical Magic 2 上映前有 Nicole Kidman 惊喜现身、Sandra Bullock 暗示 Olivia Rodrigo 与 Stevie Nicks 音乐参与；YouTube 搜索以官方预告/新闻为主，UGC 互动不足，不能进 Social 主榜。",
+      "url": "https://www.youtube.com/results?search_query=Practical+Magic+2+Nicole+Kidman+Olivia+Rodrigo+Stevie+Nicks+reaction+analysis"
     },
     {
-      "title": "US Open influencer credentials 翻车",
+      "title": "Daisy Chain Fields / Zoomer Lilith Fair",
       "status": "search cluster",
-      "reason": "9/7 动态发现来自 US Open 网红发布证件信息后的平台讨论；YouTube 搜索混入网球官方内容和旧 influencer 视频，未找到近 15 天达标 UGC。",
-      "url": "https://www.youtube.com/results?search_query=US+Open+influencers+posted+credentials+reaction+commentary"
+      "reason": "New Yorker 9/3 把 Olivia Rodrigo 的 Daisy Chain Fields 写成 Zoomer Lilith Fair；yt-dlp 复核显示 8/25 Jackie Vargas 1.03万播放 / 196赞 / 15评论、8/30 Chappell Roan 饭拍 8.66万播放 / 921赞 / 59评论，均不达 Social 主榜。",
+      "url": "https://www.newyorker.com/culture/the-lede/taking-in-the-scene-at-daisy-chain-fields-the-zoomer-lilith-fair"
     },
     {
-      "title": "VMAs 2026 nominations / Madonna-Sabrina-Ariana fandom slate",
-      "status": "search cluster",
-      "reason": "9/7 继续复核：8/18-8/22 相关 UGC 仍以百级播放为主，官方舞台和新闻视频混杂；只保留为颁奖季粉丝站队观察。",
-      "url": "https://www.youtube.com/results?search_query=VMAs+2026+nominations+Madonna+Sabrina+Ariana+reaction+analysis"
+      "title": "ChatGPT / Claude / Grok 9/3 同时宕机",
+      "status": "AI search cluster",
+      "reason": "The Verge 2026-09-04 报道三家 AI 助手同日服务异常；yt-dlp 精确搜索仅找到 Cloud Codes 2026-09-04 4.69万播放 / 511赞 / 65评论，低于 AI 主榜门槛，只能作为模型信任 watch。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
     },
     {
-      "title": "ChatGPT / Grok / Claude 同时宕机后的工具依赖焦虑",
-      "status": "watch",
-      "reason": "The Verge 9/3 报道形成稳定 AI 热簇；YouTube 精确样本 Cloud Codes 2026-09-04 4.69万播放 / 511赞 / 65评论，未过 AI 主榜门槛。",
-      "url": "https://www.youtube.com/results?search_query=ChatGPT+Claude+Grok+outage+September+2026+reaction"
+      "title": "AI agents cheating / safety blackboard",
+      "status": "AI search cluster",
+      "reason": "Business Insider 2026-09-07 和 tail.fyi 9/6 research/discussion 同时出现 agent 规则绕过、blackboard 协作与 incident catalog 方向；YouTube 搜索混入旧内容，不写成 exact-video 爆款。",
+      "url": "https://www.businessinsider.com/ai-agents-rogue-strategies-cheating-lying-german-wiki-openai-anthropic-2026-9"
     },
     {
       "title": "Claude Code 2.0 upgrade / agentic coding cost",
       "status": "watch",
-      "reason": "WorldofAI 2026-08-29 20.21万播放 / 1861赞 / 86评论，播放与评论过线但点赞低于 AI 主榜 2000 门槛；继续只进 watchlist。",
+      "reason": "WorldofAI 2026-08-29 20.21万播放 / 1861赞 / 86评论，播放与评论过线但点赞仍低于 AI 主榜 2000 门槛；只进 watchlist。",
       "url": "https://www.youtube.com/watch?v=GBg_3gEtNYI"
     }
   ],
   "aiSignals": [
     {
-      "title": "Codex vs Claude Code：agent 竞争焦点从模型变成 harness 和验收方式",
+      "title": "AI scam ad 验证型内容：普通人关心的不是模型参数，是谁来替我验货",
       "type": "YouTube AI exact video",
-      "metrics": "9/7 新增近 30 天 AI 主榜样本：Nate Herk 2026-08-14 16.78万播放 / 2766赞 / 332评论。",
-      "source": "Search cluster: Codex vs Claude Code / AI coding agent harness / same app test / agent workflow cost",
-      "heat": "高。评论区关注同一提示是否公平、长任务如何验收、成本是否可控、agent 到底该一次跑到底还是拆成可审查阶段。",
-      "summary": "AI coding 的内容机会不是“谁更聪明”，而是普通人怎样给 agent 设任务边界、预算边界和验收边界。",
-      "idea": "小红书标题：同样让 AI 做一个 App，为什么有人花几小时有人花几天？",
-      "url": "https://www.youtube.com/watch?v=WCrnS09vpfo"
+      "metrics": "9/7 yt-dlp exact-video 复核：Law By Mike 2026-08-23 177.15万播放 / 28490赞 / 2000评论。",
+      "source": "Search cluster: AI scam ads / consumer trust / creator verification / fake product claims",
+      "heat": "高。评论区讨论集中在 AI 广告如何制造信任错觉、平台审核是否失效、普通人如何识别虚假演示。",
+      "summary": "AI 话题最容易出圈的切口不是新模型，而是普通人每天会遇到的 AI 骗局和验证焦虑。",
+      "idea": "小红书标题：我发现 AI 广告最可怕的地方，不是骗人，是它看起来太像真的",
+      "url": "https://www.youtube.com/watch?v=nFNapm2E5xk"
     },
     {
       "title": "1000+ 小时 Claude Code 经验：把 AI 使用写成个人操作系统",
@@ -193,292 +193,285 @@ window.RADAR_DATA = {
   ],
   "tiktokSignals": [
     {
-      "title": "Credential cosplay / fake professional identity 站内搜索聚类",
+      "title": "SILO finale / S4 teaser 站内搜索聚类",
       "tags": [
-        "Creator Economy",
-        "Trust",
-        "Identity"
+        "Streaming",
+        "Sci-Fi",
+        "Ending Explained"
       ],
       "priority": "high",
-      "metrics": "Search cluster / 站内搜索聚类：fake medical student influencer、Duke student scandal、credential cosplay、influencer trust；未记录精确视频 URL，不放单条视频链接。YouTube 9/2 exact video 已过 Social 主榜门槛。",
+      "metrics": "Search cluster / 站内搜索聚类：SILO season 3 finale、ending explained、S4 teaser、Project doomed；未记录精确视频 URL，不放单条视频链接。YouTube 9/4 Pete Peppers exact video 已过 Social 主榜。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合转成“为什么现在的观众开始查博主资质”。",
-      "signal": "评论钩子从道德审判转向内容可信度、专业标签和创作者自证。",
-      "discussion": "可见主题：学历标签、专业身份、粉丝信任、平台审核、内容边界。",
-      "xhsTitle": "现在的网红翻车，已经从人设塌到资格证了",
-      "angle": "6 图：专业标签、信任捷径、翻车证据、观众审查、创作者自证、你会查吗",
-      "url": "https://www.tiktok.com/search?q=fake%20medical%20student%20influencer%20credential%20cosplay"
+      "heat": "适合把 finale 讨论转成“规则系统失灵后谁有解释权”。",
+      "signal": "评论钩子从剧情谜底转向组织信任、信息差、下一季是否还值得等。",
+      "discussion": "可见主题：ending 是否解释够、Project 是否自洽、Juliette 是否还能信任任何人。",
+      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
+      "angle": "6 图：finale 谜底、信息差、规则失灵、解释权、S4 teaser、你会信谁",
+      "url": "https://www.tiktok.com/search?q=SILO%20season%203%20finale%20ending%20explained"
     },
     {
-      "title": "Chicken Shop Date ending 站内搜索聚类",
+      "title": "Street Fighter 2026 trailer 站内搜索聚类",
       "tags": [
-        "Creator Show",
-        "Interview Format",
+        "Film",
+        "Gaming",
         "Nostalgia"
       ],
-      "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：Amelia Dimoldenberg、Chicken Shop Date ending、awkward flirting economy、celebrity interview format；未记录精确视频 URL，不放单条视频链接。",
+      "priority": "high",
+      "metrics": "Search cluster / 站内搜索聚类：Street Fighter 2026 trailer、casting、game movie reaction、Chun-Li/Ryu/Ken；未记录精确视频 URL，不放单条视频链接。YouTube 9/1 UGC reaction 已过 Social 主榜。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合观察短访谈 IP 如何从新鲜感进入时代记忆。",
-      "signal": "评论钩子是“尴尬聊天为什么曾经这么红”，以及明星宣传为什么需要低成本亲密感。",
-      "discussion": "可见主题：最经典嘉宾、尴尬感、flirting format、YouTube 时代访谈审美。",
-      "xhsTitle": "Chicken Shop Date 结束了，尴尬聊天也成了一代人的互联网怀旧",
-      "angle": "5 图：形式、名场面、低成本亲密感、明星宣传、为什么结束",
-      "url": "https://www.tiktok.com/search?q=Chicken%20Shop%20Date%20ending%20Amelia%20Dimoldenberg"
+      "heat": "适合做玩家童年记忆、角色造型和游戏改编验收。",
+      "signal": "评论钩子从好不好看转为“有没有尊重我记忆里的角色”。",
+      "discussion": "可见主题：选角、动作质感、服装造型、游戏改编到底该服务谁。",
+      "xhsTitle": "Street Fighter 预告爆的不是情怀，是玩家在检查童年有没有被尊重",
+      "angle": "5 图：官方热度、UGC reaction、角色验收、改编恐惧、你最怕毁谁",
+      "url": "https://www.tiktok.com/search?q=Street%20Fighter%202026%20trailer%20reaction"
     },
     {
-      "title": "Beyonce luxury fandom pricing 站内搜索聚类",
+      "title": "Creative Arts Emmys / Sabrina EGOT 站内搜索聚类",
       "tags": [
+        "Awards",
         "Music",
-        "Fandom",
-        "Merch"
+        "Fandom"
       ],
       "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：Beyonce wooden box、$948 box、no vinyl、luxury merch、fan pricing debate；未记录精确视频 URL，不放单条视频链接。",
+      "metrics": "Search cluster / 站内搜索聚类：Bad Bunny Super Bowl Emmy、The Muppet Show Emmy、Sabrina halfway EGOT、The Traitors；未记录精确视频 URL，不放单条视频链接。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合做粉丝经济和奢侈化周边边界。",
-      "signal": "评论钩子是“爱偶像是否等于接受任何价格”，以及周边从纪念品变成身份消费。",
-      "discussion": "可见主题：价格、收藏价值、粉丝忠诚、品牌奢侈化、是否值得买。",
-      "xhsTitle": "Beyonce 的高价周边争议，其实是粉丝经济的边界测试",
-      "angle": "6 图：价格、材质、缺失期待、粉丝身份、奢侈化、你会买吗",
-      "url": "https://www.tiktok.com/search?q=Beyonce%20948%20wooden%20box%20no%20vinyl"
+      "heat": "适合把奖项新闻转成明星事业路径和粉丝身份成就叙事。",
+      "signal": "评论钩子从谁赢了转为“流行歌手跨界拿奖到底算不算实力资产”。",
+      "discussion": "可见主题：Bad Bunny 舞台制作、Sabrina 是否进入 EGOT 路线、Muppets 特辑为什么拿奖。",
+      "xhsTitle": "Sabrina 拿 Emmy 后，粉丝开始重新计算她的事业天花板",
+      "angle": "5 图：奖项结果、跨界身份、粉丝成就感、EGOT 想象、你看好谁",
+      "url": "https://www.tiktok.com/search?q=Sabrina%20Carpenter%20Muppet%20Show%20Emmy%20EGOT"
     },
     {
-      "title": "US Open influencer credential fail 站内搜索聚类",
+      "title": "Practical Magic 2 复古女巫美学搜索聚类",
       "tags": [
-        "Sports Culture",
-        "Influencer",
-        "Access"
+        "Film",
+        "Aesthetic",
+        "Y2K Nostalgia"
       ],
       "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：US Open influencers credentials、posted credentials、creator access、event security；未记录精确视频 URL，不放单条视频链接。",
+      "metrics": "Search cluster / 站内搜索聚类：Practical Magic 2、Nicole Kidman、Sandra Bullock、Olivia Rodrigo、Stevie Nicks、witch aesthetic；未记录精确视频 URL，不放单条视频链接。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合写“网红拿到特权后为什么更容易翻车”。",
-      "signal": "评论钩子是创作者是否理解媒体证件、后台访问和公共活动规则。",
-      "discussion": "可见主题：炫耀权限、活动规则、品牌邀请、是否该撤证。",
-      "xhsTitle": "US Open 网红证件翻车：拿到入场券不等于懂规则",
-      "angle": "5 图：特权展示、证件风险、平台嘲讽、品牌责任、创作者守则",
-      "url": "https://www.tiktok.com/search?q=US%20Open%20influencers%20posted%20credentials"
+      "heat": "适合做 Y2K 怀旧、女巫美学和 Gen Z/Gen X 女歌手连接。",
+      "signal": "评论钩子从续集期待转向“为什么女巫美学又适合现在的女性叙事”。",
+      "discussion": "可见主题：Nicole/Sandra 回归、Olivia + Stevie 音乐传闻、女巫衣橱、90s cult film 怀旧。",
+      "xhsTitle": "Practical Magic 2 还没上映，女巫美学已经开始回潮",
+      "angle": "6 图：原作记忆、演员回归、音乐线索、女巫衣橱、Y2K 怀旧、你会穿吗",
+      "url": "https://www.tiktok.com/search?q=Practical%20Magic%202%20witch%20aesthetic"
     },
     {
-      "title": "Venice Film Festival couple style / fashion month front-row 站内搜索聚类",
-      "tags": [
-        "Fashion",
-        "Celebrity Style",
-        "Red Carpet"
-      ],
-      "priority": "medium",
-      "metrics": "Search cluster / 站内搜索聚类：Robert Pattinson Suki Waterhouse Venice、Primetime red carpet、breakout stars fashion month、front row prediction；未记录精确视频 URL，不放单条视频链接。",
-      "channel": "TikTok search sampling",
-      "sourceType": "站内搜索聚类",
-      "urlLabel": "TikTok search",
-      "imageStatus": "search-only",
-      "heat": "适合把红毯写成“情侣风格”和“夏日爆红演员如何被时装月收编”。",
-      "signal": "评论钩子从穿搭好不好看延展到品牌押注、电影节曝光和时装月抢人。",
-      "discussion": "可见主题：情侣对比穿搭、A24 red carpet、front-row potential、明星商业价值。",
-      "xhsTitle": "时装月最会抢的人，不是顶流，是刚刚爆红的夏日脸",
-      "angle": "6 图：红毯、情侣风格、爆红窗口、品牌押注、front row、谁会被抢",
-      "url": "https://www.tiktok.com/search?q=Robert%20Pattinson%20Suki%20Waterhouse%20Venice%20Film%20Festival"
-    },
-    {
-      "title": "AI outage / coding agent dependency 站内搜索聚类",
+      "title": "AI outage / agent trust 站内搜索聚类",
       "tags": [
         "AI",
-        "Workflows",
-        "Trust"
+        "Workflow",
+        "Model Trust"
       ],
-      "priority": "high",
-      "metrics": "Search cluster / 站内搜索聚类：ChatGPT Claude Grok outage、Claude Code down、AI workflow dependency、Codex vs Claude Code；未记录精确视频 URL，不放单条视频链接。AI YouTube exact 主榜使用 8/14、8/18、8/12 达标样本。",
+      "priority": "medium",
+      "metrics": "Search cluster / 站内搜索聚类：ChatGPT outage、Claude outage、Grok outage、AI agent safety、AI scam ads；未记录精确 TikTok 视频 URL，不放单条视频链接。AI 主榜由 Law By Mike exact video 支撑。",
       "channel": "TikTok search sampling",
       "sourceType": "站内搜索聚类",
       "urlLabel": "TikTok search",
       "imageStatus": "search-only",
-      "heat": "适合做普通人 AI 工作流的备用方案和信任边界。",
-      "signal": "评论钩子从模型能力转向服务稳定性、成本、替代流程和本地备份。",
-      "discussion": "可见主题：工具宕机、工作中断、agent 成本、是否应该多工具并行。",
-      "xhsTitle": "三个 AI 工具同时挂掉后，我才意识到工作流不能只靠一个按钮",
-      "angle": "6 图：宕机、影响、备用流程、agent 边界、成本、你的 Plan B",
-      "url": "https://www.tiktok.com/search?q=ChatGPT%20Claude%20Grok%20outage%20AI%20workflow"
+      "heat": "适合把模型事故转成“AI 信任成本”而不是工具新闻。",
+      "signal": "评论钩子从谁家模型更强转向宕机、虚假广告、验证流程和普通人是否敢把任务交给 AI。",
+      "discussion": "可见主题：AI 宕机依赖、虚假广告验货、agent 是否需要权限边界、普通人怎么验证。",
+      "xhsTitle": "AI 现在最贵的不是会员费，是你要花多少精力验证它",
+      "angle": "流程图：宕机、假广告、验证、权限、普通人使用边界",
+      "url": "https://www.tiktok.com/search?q=AI%20outage%20AI%20scam%20ads%20agent%20trust"
     }
   ],
   "githubSkills": [
     {
       "rank": "01",
-      "title": "unlazy：把 agent 偷懒问题产品化成 skill",
-      "name": "Leonxlnx/unlazy",
-      "repo": "https://github.com/Leonxlnx/unlazy",
-      "heat": "GitHub Search API 9/7：3134 stars / 205 forks / pushed_at 2026-09-03；created_at 2026-08-09。",
-      "stars": "3134 stars / 205 forks",
-      "signal": "agent skill 方向从“多给提示词”进入“给模型反偷懒执行框架”，说明用户开始为产出深度付费和设规则。",
-      "summary": "反偷懒不只是态度问题，而是任务拆解和验收机制问题。",
-      "use": "长任务执行、深度研究、代码审查、自动化验收。",
-      "idea": "小红书可讲：为什么你的 AI 总是早早说完成？"
+      "title": "ponytail：agent coding 的减法治理继续放大",
+      "name": "DietrichGebert/ponytail",
+      "repo": "https://github.com/DietrichGebert/ponytail",
+      "heat": "GitHub API 9/7：129,886 stars / 6,960 forks / pushed_at 2026-09-04；Sopenu 9/2 写入 +1,354 today，agents-radar 9/4 继续列为 agent-centric tooling。",
+      "stars": "129,886 stars / 6,960 forks",
+      "signal": "agent 使用者开始奖励“少写、少绕、少过度工程”的约束层，而不是只奖励更大的自动化。",
+      "summary": "AI coding 的新卖点不是更猛，而是少折腾。",
+      "use": "Claude Code/Codex/Cursor 规则、项目指令、过度工程治理。",
+      "idea": "小红书可讲：真正省心的 AI，不是帮你写更多，而是少写错东西。"
     },
     {
       "rank": "02",
-      "title": "sepia：De-AI writing skill 继续上行",
+      "title": "sepia：De-AI writing skill 从去味变成结构修复",
       "name": "Nanako0129/sepia",
       "repo": "https://github.com/Nanako0129/sepia",
-      "heat": "GitHub Search API 9/7：2357 stars / 142 forks / pushed_at 2026-09-05；created_at 2026-08-28。",
-      "stars": "2357 stars / 142 forks",
-      "signal": "De-AI writing skill 把“去 AI 味”从换词提升到叙事结构、场景规则和专业文体路由。",
-      "summary": "AI 写作真正不像 AI，不是换词，是先改结构。",
+      "heat": "tail.fyi 9/6 trending；GitHub API 9/7：2,357 stars / 142 forks / pushed_at 2026-09-05。",
+      "stars": "2,357 stars / 142 forks",
+      "signal": "写作类 skill 的竞争点从替换词汇升级到叙事结构、专业文体和场景规则。",
+      "summary": "去 AI 味的下一步，是先改结构再改句子。",
       "use": "写作、编辑、品牌语气、内容质检。",
-      "idea": "产品机会：可审核的文体系统比单次润色更有复用价值。"
+      "idea": "产品机会：可复用文体系统会比单次润色更值钱。"
     },
     {
       "rank": "03",
-      "title": "scroll-craft：前端视觉 skill 变成可复用生产资产",
-      "name": "nateherkai/scroll-craft",
-      "repo": "https://github.com/nateherkai/scroll-craft",
-      "heat": "GitHub Search API 9/7：2099 stars / 310 forks / pushed_at 2026-09-04；created_at 2026-08-22。",
-      "stars": "2099 stars / 310 forks",
-      "signal": "agent skill 从文本/代码规范扩展到高级视觉实现，说明前端审美正在被封装成可调用能力。",
-      "summary": "好看的网页不再只靠 prompt，而靠可复用的设计执行规则。",
-      "use": "落地页、作品集、活动页、视觉验收。",
-      "idea": "小红书可讲：AI 做网页为什么总像模板？因为缺少视觉技能。"
+      "title": "reverify：反幻觉从提示词走向工具判定",
+      "name": "2akouwu/reverify",
+      "repo": "https://github.com/2akouwu/reverify",
+      "heat": "tail.fyi 9/6 trending；GitHub API 9/7：978 stars / 208 forks / pushed_at 2026-09-07。",
+      "stars": "978 stars / 208 forks",
+      "signal": "agent trust 正在从“相信模型会自检”转向“模型提出、确定性工具裁决、证据跨 reset 保存”。",
+      "summary": "AI 可靠性的产品机会在验证层，不在安慰用户。",
+      "use": "事实核查、逆向/安全分析、MCP 验证链、内容审稿。",
+      "idea": "小红书可讲：别问 AI 准不准，先问它怎么证明。"
     },
     {
       "rank": "04",
-      "title": "stop-that-shit：scope-control 成为 agent 刚需",
-      "name": "lennney/stop-that-shit",
-      "repo": "https://github.com/lennney/stop-that-shit",
-      "heat": "GitHub Search API 9/7：1703 stars / 41 forks / pushed_at 2026-09-07；created_at 2026-08-11。",
-      "stars": "1703 stars / 41 forks",
-      "signal": "开发者开始把 AI coding agent 的范围膨胀、无需求校验和过度工程写成 hook/guard。",
-      "summary": "agent 管理下一步不是更自由，而是更会停。",
-      "use": "代码生成、PR review、自动化守门、团队规范。",
-      "idea": "产品机会：给 AI 工具加刹车，比加功能更容易被团队采纳。"
+      "title": "anti-slop：把 AI 低质输出写进 lint gate",
+      "name": "dmmulroy/anti-slop",
+      "repo": "https://github.com/dmmulroy/anti-slop",
+      "heat": "tail.fyi 9/6 trending；GitHub API 9/7：4,145 stars / 89 forks / pushed_at 2026-08-31。",
+      "stars": "4,145 stars / 89 forks",
+      "signal": "团队正在把 AI 代码味、低证据模式和不可靠抽象写成自动化规则，减少 review 里的口水仗。",
+      "summary": "AI 代码质量控制会成为 agent workflow 的刚需配套。",
+      "use": "代码评审、agent 输出验收、团队 lint gate。",
+      "idea": "小红书可讲：AI 代码不是不能用，而是要先设验收线。"
     },
     {
       "rank": "05",
-      "title": "video-talkcraft：视频解释器 skill 进入 motion production",
-      "name": "Vincentwei1021/video-talkcraft",
-      "repo": "https://github.com/Vincentwei1021/video-talkcraft",
-      "heat": "GitHub Search API 9/7：771 stars / 70 forks / pushed_at 2026-09-07；created_at 2026-08-22。",
-      "stars": "771 stars / 70 forks",
-      "signal": "AI workflow repo 开始把旁白、字级同步、镜头运动和 Remotion 渲染打包成可复用视频生产线。",
-      "summary": "短视频自动化从脚本生成走向镜头级执行。",
-      "use": "解释视频、课程切片、产品 demo、创作者批量生产。",
-      "idea": "小红书可讲：AI 视频真正省时间的是把镜头规则做成模板。"
+      "title": "headcount：多 agent 工作流继续借用公司隐喻",
+      "name": "cbrock84/headcount",
+      "repo": "https://github.com/cbrock84/headcount",
+      "heat": "tail.fyi 9/6 trending：约 1.3k stars；15+ departments、125+ skills 的 Claude Code agent organization。",
+      "stars": "约 1.3k stars",
+      "signal": "把 skills 组织成部门，说明用户需要的不只是能力清单，而是任务分工、边界和协作语言。",
+      "summary": "普通人不需要一个万能 AI，而需要一个小型 AI 公司。",
+      "use": "多角色 agent 编排、岗位化工作流、任务分发。",
+      "idea": "内容机会：用“部门”解释 AI agent，比讲模型参数更好懂。"
     },
     {
       "rank": "06",
-      "title": "ARTEMIS：手机自动化成为 agent 验收场",
-      "name": "google/artemis",
-      "repo": "https://github.com/google/artemis",
-      "heat": "GitHub Search API 9/7：171 stars / 23 forks / pushed_at 2026-09-05；created_at 2026-08-13。",
-      "stars": "171 stars / 23 forks",
-      "signal": "Android workflow 自动化把自然语言任务、日志采集和 coding assistant 集成到端到端手机操作。",
-      "summary": "agent 的下一块战场是手机 App 真实操作，而不是只写代码。",
-      "use": "移动端测试、App 自动化、QA 日志、AI agent benchmark。",
-      "idea": "创业机会：普通人也需要可回放、可验收的手机操作 agent。"
+      "title": "scroll-craft：agent skill 开始商品化前端品味",
+      "name": "nateherkai/scroll-craft",
+      "repo": "https://github.com/nateherkai/scroll-craft",
+      "heat": "tail.fyi 9/6 trending：约 2.0k stars；面向 Codex/Claude Code 的沉浸式滚动网站 skill。",
+      "stars": "约 2.0k stars",
+      "signal": "技能市场不只卖能力，还开始卖审美、交互范式和可交付作品类型。",
+      "summary": "AI 前端 skill 的机会，是把品味封装成可复用流程。",
+      "use": "营销页、作品集、沉浸式网页、设计工程。",
+      "idea": "小红书可讲：以后 AI 模板不卖页面，卖一套品味和验收标准。"
     }
   ],
   "sparkPool": [
     {
-      "title": "资格证式人设崩塌",
-      "hook": "不要只写网红翻车，写“为什么专业标签变成了内容信任捷径”。",
-      "template": "高互动视频 -> 身份光环 -> 内容可信度 -> 观众审查 -> 创作者自证",
-      "bestFor": "创作者经济号、职场号、互联网文化号"
+      "title": "规则系统解释权",
+      "hook": "不要只写 Silo 结局，写“系统失灵后谁有资格解释规则”。",
+      "template": "finale 谜底 -> 信息差 -> 规则失灵 -> 解释权 -> 下一季期待",
+      "bestFor": "影视号、职场叙事号、故事结构号"
     },
     {
-      "title": "agent harness 比模型更重要",
-      "hook": "不要只做 Claude vs Codex 站队，写“同一个任务为什么不同 harness 会跑出不同成本”。",
-      "template": "同题测试 -> 成本差异 -> 提示适配 -> 验收阶段 -> 普通人怎么用",
-      "bestFor": "AI 工具号、创业号、效率号"
+      "title": "童年 IP 验收",
+      "hook": "Street Fighter 适合写“玩家到底在验收电影，还是在验收自己的童年记忆”。",
+      "template": "官方热度 -> reaction 过线 -> 造型/动作争议 -> 怀旧 IP 验收 -> 你最怕毁哪个角色",
+      "bestFor": "电影号、游戏号、怀旧内容号"
     },
     {
       "title": "公共人格信任账",
-      "hook": "不要只写 Dolly 怀旧，写“为什么她越被考古越可信”。",
+      "hook": "Dolly 继续适合写“为什么她越被考古越可信”。",
       "template": "纪念热度 -> 旧访谈 -> 人格稳定性 -> 作品记忆 -> 普通人为什么信她",
       "bestFor": "音乐号、明星号、品牌人格号"
     },
     {
-      "title": "格式怀旧",
-      "hook": "不要只写 Chicken Shop Date 结束，写“尴尬访谈为什么曾经代表互联网亲密感”。",
-      "template": "收官消息 -> 名场面 -> 格式机制 -> 明星宣传 -> 为什么这个时代结束",
-      "bestFor": "娱乐号、内容行业号、视频创作者"
+      "title": "跨界奖项资产",
+      "hook": "Sabrina / Bad Bunny 的 Emmy 新闻适合写流行歌手跨界如何变成粉丝成就感。",
+      "template": "奖项结果 -> 跨界身份 -> 粉丝成就感 -> 权威感 -> 你看好谁",
+      "bestFor": "音乐号、粉丝文化号、娱乐号"
     },
     {
-      "title": "粉丝价格边界",
-      "hook": "不要只骂贵，写“周边什么时候从纪念品变成身份消费”。",
-      "template": "争议商品 -> 期待落差 -> 粉丝身份 -> 奢侈化 -> 评论投票",
-      "bestFor": "音乐号、消费号、品牌号"
+      "title": "女巫美学回潮",
+      "hook": "Practical Magic 2 适合写 90s cult film、女巫衣橱和 Gen Z/Gen X 音乐连接。",
+      "template": "原作记忆 -> 演员回归 -> 音乐线索 -> 女巫衣橱 -> 现在为什么又流行",
+      "bestFor": "影视号、穿搭号、审美趋势号"
+    },
+    {
+      "title": "AI 信任成本",
+      "hook": "把 AI scam ads、AI outage 和 reverify 串成“普通人到底怎么验证 AI”。",
+      "template": "事故/骗局 -> 信任错觉 -> 验证流程 -> 权限边界 -> 普通人使用清单",
+      "bestFor": "AI 工具号、效率号、普通人科技号"
     }
   ],
   "valueFlows": [
     {
-      "from": "Raygun Netflix documentary",
-      "to": "失败叙事权",
-      "note": "把 meme 复燃转成羞耻感、解释权和平台消费边界；8/13 达标视频只作近 30 天背景。"
+      "from": "SILO finale / S4 teaser",
+      "to": "规则系统解释权",
+      "note": "把 ending explained 转译为组织规则、信息差和系统失灵后的解释权。"
     },
     {
-      "from": "Alix Earle / Earle Meets World",
-      "to": "创作者家庭资产化",
-      "note": "把 influencer 真人秀转译为真实感、家人入镜和内容资产边界。"
+      "from": "Street Fighter 2026 trailer",
+      "to": "童年 IP 验收",
+      "note": "把游戏改编热度转成角色造型、玩家记忆和怀旧情绪是否被尊重。"
     },
     {
-      "from": "VMAs 2026 nominations",
-      "to": "粉丝身份投票场",
-      "note": "把颁奖名单转成世代冲突、粉丝动员和奖项权威是否还重要。"
+      "from": "Creative Arts Emmys",
+      "to": "跨界奖项资产",
+      "note": "把 Bad Bunny、Sabrina 和 Muppets 结果转成流行歌手跨界身份与粉丝成就叙事。"
     },
     {
-      "from": "SILO S3E9/S3E10",
-      "to": "规则系统压力测试",
-      "note": "把 ending explained 转译为组织规则、信息差和信任选择。"
+      "from": "Practical Magic 2",
+      "to": "女巫美学回潮",
+      "note": "把上映前新闻转成 90s/Y2K cult film 怀旧、女性友谊和音乐跨世代线索。"
     },
     {
-      "from": "Claude Code / Skills",
-      "to": "普通人 AI 工作流纪律",
-      "note": "把开发者经验转成可复制的任务分配、记忆和减法方法。"
+      "from": "AI scam ads / AI outage",
+      "to": "AI 信任成本",
+      "note": "把普通人可感知的骗局、宕机和 agent safety 转成验证流程内容。"
     },
     {
       "from": "Agent skill GitHub trending",
       "to": "可管理 AI 工作台",
-      "note": "把 skill、成本账本、anti-slop 和 TUI 归纳为“用户需要掌控感”。"
+      "note": "把 ponytail、sepia、reverify、anti-slop、headcount 归纳为减法、验证、分工和验收。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "Credential cosplay：把网红翻车写成信任机制",
-      "score": "98",
-      "why": "9/2 exact video 高播放高赞高评论，评论区可转译为“专业身份如何影响内容信任”。",
-      "xhsTitle": "现在的网红塌房，已经从人设塌到资格证了",
-      "format": "6 图：专业标签 -> 信任捷径 -> 翻车证据 -> 观众审查 -> 创作者自证 -> 你会查吗"
+      "title": "Silo：把科幻结局写成规则系统解释权",
+      "score": "99",
+      "why": "9/4 Pete Peppers exact video 高播放高赞高评论，且评论区有 finale 解释、Project 自洽和下一季期待。",
+      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
+      "format": "6 图：finale 谜底 -> 信息差 -> 规则失灵 -> 解释权 -> 下一季期待 -> 你会信谁"
     },
     {
-      "title": "Codex vs Claude：把 AI 对比写成工作流验收",
-      "score": "97",
-      "why": "8/14 exact video 仍在 AI 30 天窗口，互动过线；9 月 agent harness 讨论继续外溢。",
-      "xhsTitle": "同样让 AI 做一个 App，为什么有人花几小时有人花几天？",
-      "format": "6 图：同题测试 -> 成本 -> 时间 -> harness -> 验收 -> 普通人怎么设边界"
+      "title": "Street Fighter：游戏改编写成童年记忆验收",
+      "score": "96",
+      "why": "官方预告大盘热，9/1 UGC reaction 过 Social 主榜门槛，评论区天然有造型、选角和动作争议。",
+      "xhsTitle": "Street Fighter 预告爆的不是情怀，是玩家在检查童年有没有被尊重",
+      "format": "5 图：官方热度 -> reaction -> 角色验收 -> 改编恐惧 -> 你最怕毁谁"
+    },
+    {
+      "title": "AI scam ads：普通人 AI 验证焦虑",
+      "score": "95",
+      "why": "Law By Mike 8/23 exact video 177.15万播放 / 28490赞 / 2000评论，适合从骗局转成验证方法和平台信任。",
+      "xhsTitle": "AI 现在最贵的不是会员费，是你要花多少精力验证它",
+      "format": "流程图：假广告、信任错觉、验证清单、权限边界、普通人怎么少踩坑"
     },
     {
       "title": "Dolly：把长青明星写成公共人格资产",
-      "score": "96",
-      "why": "两条近 15 天 exact videos 同时高播放高赞高评论，评论区可转译为“明星人格为什么可信”。",
+      "score": "94",
+      "why": "两条近 15 天 exact videos 仍过门槛，评论区可转译为“明星人格为什么可信”。",
       "xhsTitle": "Dolly Parton 最厉害的不是怀旧，是她把亲切做成了权力",
       "format": "6 图：经典作品 -> 旧访谈 -> 亲切策略 -> 锋利回应 -> 代际信任 -> 你会考古谁"
     },
     {
-      "title": "Silo：把科幻悬疑写成职场规则崩塌",
-      "score": "95",
-      "why": "8/28 两条 ending/breakdown 视频持续过线，评论区有强理论讨论。",
-      "xhsTitle": "Silo 让人上头的不是反转，是它把规则写得像真实职场",
-      "format": "6 图：谜题 -> 信息差 -> 规则 -> 选择 -> finale 猜测 -> 评论投票"
+      "title": "Agent skills：把 GitHub 热点写成 AI 工作台治理",
+      "score": "91",
+      "why": "tail.fyi 9/6 与 GitHub API 显示 ponytail、sepia、reverify、anti-slop 同向：减法、验证、去 AI 味和验收线。",
+      "xhsTitle": "AI agent 的下一波，不是更聪明，是更可控",
+      "format": "6 图：少写、去味、验真、反低质、岗位化、普通人怎么借鉴"
     }
   ],
   "weeklySop": [
@@ -509,55 +502,61 @@ window.RADAR_DATA = {
     }
   ],
   "contentFormats": [
-    "格式：失败叙事权：旧梗、新纪录片、观众怀疑、平台消费、当事人能否拿回解释权。",
-    "格式：创作者真实感审计：真人秀上线、家人入镜、包装感、粉丝信任、你还觉得真实吗。",
-    "格式：颁奖季站队表：提名名单、世代冲突、粉丝投票、奖项权威、你投谁。",
-    "格式：规则系统压力测试：本集谜题、信息差、规则压力、人物选择、你会信谁。",
-    "格式：AI 岗位技能包：岗位任务、技能清单、自检标准、失败边界、普通人怎么复用。",
-    "格式：AI 工作台验收线：成本账本、可回滚、反低质规则、上下文进度、结果复盘。"
+    "格式：规则系统解释权：finale 谜底、信息差、规则失灵、谁来解释、下一季期待。",
+    "格式：童年 IP 验收：官方预告、reaction、角色造型、动作质感、玩家记忆投票。",
+    "格式：跨界奖项资产：奖项结果、明星身份扩张、粉丝成就感、权威争议、你看好谁。",
+    "格式：女巫美学回潮：原作记忆、演员回归、音乐线索、衣橱元素、为什么现在又流行。",
+    "格式：AI 信任成本：骗局/宕机、信任错觉、验证流程、权限边界、普通人使用清单。",
+    "格式：Agent 工作台治理：减法规则、反幻觉工具、反低质 lint、岗位化分工、可回滚 UI。"
   ],
   "summarySparks": [
     {
-      "id": "credential-cosplay-0907",
+      "id": "silo-finale-rules-0907",
       "tags": [
-        "creator",
-        "trust",
-        "identity"
+        "silo",
+        "sci-fi",
+        "ending"
       ],
-      "lane": "Creator Economy / Trust",
-      "heat": "98",
-      "title": "Credential cosplay 是今天最强创作者信任题",
-      "spark": "Susannah Friesen 2026-09-02 25.21万播放 / 4409赞 / 582评论。",
-      "xhsTitle": "现在的网红塌房，已经从人设塌到资格证了",
-      "discussion": "评论热点：身份造假、专业标签、粉丝信任、平台放大。",
-      "prompt": "引导话题：你会因为一个博主的学历/职业标签更相信她吗？",
-      "tone": "今天最值得做的 creator economy 稿；只谈公开内容和信任机制。",
-      "related": [
-        "fake professional identity",
-        "influencer trust",
-        "credential cosplay"
-      ]
+      "lane": "Streaming / Sci-Fi",
+      "heat": "99",
+      "title": "Silo finale 升级为规则系统解释权",
+      "spark": "Pete Peppers 9/4 51.75万播放 / 7912赞 / 1400评论；Think Story 8/28 39.11万播放 / 4657赞 / 910评论。",
+      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
+      "discussion": "评论热点：finale 是否解释够、Project 是否自洽、谁有资格解释规则。",
+      "prompt": "引导话题：一套规则失灵时，你先怀疑人还是怀疑系统？",
+      "tone": "今天最稳影视稿；可跨到职场/组织叙事。避免剧透堆砌。关联内容：SILO S3 finale、S4 teaser。"
     },
     {
-      "id": "codex-claude-harness-0907",
+      "id": "street-fighter-nostalgia-0907",
+      "tags": [
+        "street-fighter",
+        "film",
+        "gaming"
+      ],
+      "lane": "Film / Gaming Culture",
+      "heat": "96",
+      "title": "Street Fighter 预告是玩家记忆验收",
+      "spark": "Tyrone Magnus 9/1 8.52万播放 / 2510赞 / 165评论；官方预告仅作大盘背景。",
+      "xhsTitle": "Street Fighter 预告爆的不是情怀，是玩家在检查童年有没有被尊重",
+      "discussion": "评论热点：选角、造型、动作重量、游戏改编该尊重玩家还是吸引新观众。",
+      "prompt": "引导话题：游戏改编电影最重要的是还原，还是拍得好看？",
+      "tone": "适合低门槛站队讨论；不要把官方预告当 UGC 主榜。关联内容：Street Fighter 2026 trailer。"
+    },
+    {
+      "id": "ai-scam-trust-0907",
       "tags": [
         "ai",
-        "coding-agent",
-        "workflow"
+        "trust",
+        "consumer"
       ],
-      "lane": "AI / Agent Workflow",
-      "heat": "97",
-      "title": "Codex vs Claude Code 转向 harness 之争",
-      "spark": "Nate Herk 2026-08-14 16.78万播放 / 2766赞 / 332评论。",
-      "xhsTitle": "同样让 AI 做一个 App，为什么有人花几小时有人花几天？",
-      "discussion": "评论热点：提示公平性、成本、长任务验收、agent 边界。",
-      "prompt": "引导话题：你更需要聪明模型，还是更好用的工作流？",
-      "tone": "AI 线今天可做；适合普通人工作流和创业工具角度。",
-      "related": [
-        "Codex",
-        "Claude Code",
-        "agent harness"
-      ]
+      "lane": "AI / Everyday Trust",
+      "heat": "95",
+      "title": "AI scam ad 比模型发布更适合小红书",
+      "spark": "Law By Mike 8/23 177.15万播放 / 28490赞 / 2000评论；9/3 AI outages 和 agent safety 只作 search cluster。",
+      "xhsTitle": "AI 现在最贵的不是会员费，是你要花多少精力验证它",
+      "discussion": "评论热点：虚假 AI 演示、平台审核、普通人怎么验货、AI 工具依赖。",
+      "prompt": "引导话题：你最近见过最像真的 AI 广告是什么？",
+      "tone": "AI 工具号可发；重点是验证流程，不做恐吓。关联内容：AI scam ads、ChatGPT/Claude/Grok outage。"
     },
     {
       "id": "dolly-public-persona-0907",
@@ -567,102 +566,61 @@ window.RADAR_DATA = {
         "persona"
       ],
       "lane": "Music / Public Persona",
-      "heat": "96",
+      "heat": "94",
       "title": "Dolly 纪念潮仍是公共人格信任题",
-      "spark": "Rick Beato 132.35万播放 / 61771赞 / 7500评论；After Party 43.20万播放 / 9949赞 / 1700评论。",
+      "spark": "Rick Beato 8/26 132.35万播放 / 61771赞 / 7500评论；After Party 8/27 43.20万播放 / 9949赞 / 1700评论。",
       "xhsTitle": "Dolly Parton 最厉害的不是怀旧，是她把亲切做成了权力",
       "discussion": "评论热点：经典歌曲、旧访谈反转、幽默回应、普通人为什么信她。",
       "prompt": "引导话题：你见过哪个明星越被考古越加分？",
-      "tone": "稳定音乐/人格稿；只谈公开作品和公共形象。",
-      "related": [
-        "Dolly Parton",
-        "Jolene",
-        "Barbara Walters interview"
-      ]
+      "tone": "音乐/人格稿仍可用；只谈公开作品和公共形象。关联内容：Dolly Parton、Jolene。"
     },
     {
-      "id": "silo-rules-pressure-0907",
+      "id": "emmys-cross-award-0907",
       "tags": [
-        "silo",
-        "sci-fi",
-        "workplace"
+        "emmys",
+        "sabrina",
+        "bad-bunny"
       ],
-      "lane": "Streaming / Sci-Fi",
-      "heat": "95",
-      "title": "Silo 的讨论点是规则系统何时撑不住",
-      "spark": "Think Story 39.11万播放 / 4657赞 / 910评论；BrainPilot 33.50万播放 / 4036赞 / 1600评论。",
-      "xhsTitle": "Silo 让人上头的不是反转，是它把规则写得像真实职场",
-      "discussion": "评论热点：Juliette、组织信任、Silo 信息差、finale 是否给出口。",
-      "prompt": "引导话题：如果你在 Silo 里，会先相信规则还是先相信人？",
-      "tone": "影视内容可跨到职场叙事；适合图文拆结构。",
-      "related": [
-        "SILO",
-        "Juliette",
-        "Apple TV"
-      ]
+      "lane": "Awards / Music Crossover",
+      "heat": "88",
+      "title": "Creative Arts Emmys 是跨界身份资产",
+      "spark": "Variety 9/7：Bad Bunny Super Bowl special、The Traitors 领跑；Sabrina 因 The Muppet Show Emmy 进入 halfway-to-EGOT 叙事。",
+      "xhsTitle": "Sabrina 拿 Emmy 后，粉丝开始重新计算她的事业天花板",
+      "discussion": "评论热点：流行歌手跨界是否算实力、粉丝如何把奖项变成身份资产。",
+      "prompt": "引导话题：你觉得歌手拿影视/综艺奖，是加分还是分散主业？",
+      "tone": "只作为 search cluster / awards insight；未找到过门槛 UGC 单条。关联内容：Bad Bunny、Sabrina、The Muppet Show。"
     },
     {
-      "id": "chicken-shop-date-ending-0907",
+      "id": "practical-magic-witch-0907",
       "tags": [
-        "creator-show",
-        "interview",
-        "nostalgia"
+        "practical-magic",
+        "aesthetic",
+        "film"
       ],
-      "lane": "Creator Show / Nostalgia",
-      "heat": "89",
-      "title": "Chicken Shop Date 收官是访谈格式怀旧",
-      "spark": "9/7 动态发现为 search cluster；近 15 天 YouTube UGC 未过主榜。",
-      "xhsTitle": "Chicken Shop Date 结束了，尴尬聊天也成了一代人的互联网怀旧",
-      "discussion": "评论热点：最经典嘉宾、尴尬感、flirting format、明星宣传亲密感。",
-      "prompt": "引导话题：你最记得哪一个明星访谈名场面？",
-      "tone": "适合做轻文化观察；必须标注 search cluster。",
-      "related": [
-        "Amelia Dimoldenberg",
-        "Chicken Shop Date",
-        "celebrity interview"
-      ]
+      "lane": "Film / Aesthetic Trend",
+      "heat": "86",
+      "title": "Practical Magic 2 带回女巫美学和 90s cult film 怀旧",
+      "spark": "Variety 8/31-9/5：Sandra Bullock 暗示 Olivia Rodrigo / Stevie Nicks 音乐参与，Nicole Kidman 悉尼惊喜现身。",
+      "xhsTitle": "Practical Magic 2 还没上映，女巫美学已经开始回潮",
+      "discussion": "评论热点：Nicole/Sandra 回归、Olivia + Stevie 跨世代音乐、女巫衣橱、90s 怀旧。",
+      "prompt": "引导话题：你会把女巫美学穿进日常吗？",
+      "tone": "适合审美趋势号；目前是搜索聚类，不写成 UGC 爆款。关联内容：Practical Magic 2。"
     },
     {
-      "id": "beyonce-fandom-pricing-0907",
-      "tags": [
-        "music",
-        "fandom",
-        "merch"
-      ],
-      "lane": "Music / Fandom Economy",
-      "heat": "87",
-      "title": "Beyonce 高价周边是粉丝消费边界测试",
-      "spark": "9/7 动态发现为 search cluster；YouTube 新 UGC 未过主榜。",
-      "xhsTitle": "Beyonce 的高价周边争议，其实是粉丝经济的边界测试",
-      "discussion": "评论热点：价格、收藏价值、粉丝忠诚、品牌奢侈化。",
-      "prompt": "引导话题：你能接受偶像周边贵到什么程度？",
-      "tone": "适合做消费心理和粉丝经济，不做嘲讽式标题。",
-      "related": [
-        "Beyonce",
-        "luxury merch",
-        "fan pricing"
-      ]
-    },
-    {
-      "id": "agent-skill-guardrails-0907",
+      "id": "agent-workbench-governance-0907",
       "tags": [
         "github",
-        "skills",
-        "guardrails"
+        "agent-skills",
+        "workflow"
       ],
-      "lane": "GitHub Skill / Product Opportunity",
-      "heat": "86",
-      "title": "Agent skill 新趋势是反偷懒和加刹车",
-      "spark": "unlazy 3134 stars；stop-that-shit 1703 stars；sepia 2357 stars；均为 9/7 GitHub API 复核。",
-      "xhsTitle": "AI 工具的新刚需：不是更聪明，是更会停、更会自证",
-      "discussion": "评论热点：模型偷懒、范围膨胀、写作 AI 味、团队验收。",
-      "prompt": "引导话题：你最想给 AI 工具加什么限制？",
-      "tone": "适合 AI 产品人格和创业 idea；不要伪装成周涨榜。",
-      "related": [
-        "unlazy",
-        "stop-that-shit",
-        "sepia"
-      ]
+      "lane": "GitHub Skill / Agent Governance",
+      "heat": "91",
+      "title": "Agent skills 热点从能力扩张转向治理",
+      "spark": "tail.fyi 9/6 trending：ponytail、sepia、reverify、anti-slop、headcount、scroll-craft；GitHub API 9/7 复核 ponytail/sepia/reverify/anti-slop。",
+      "xhsTitle": "AI agent 的下一波，不是更聪明，是更可控",
+      "discussion": "热点：少写、去 AI 味、证据验证、反低质代码、岗位化分工。",
+      "prompt": "引导话题：你更需要 AI 帮你做事，还是帮你把流程管住？",
+      "tone": "GitHub Skill feed 支撑；不要伪装成视频爆款。关联内容：ponytail、sepia、reverify、anti-slop。"
     }
   ],
   "contentGuardrails": [
@@ -685,11 +643,11 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-07-1444",
-    "contentWindow": "内容研究窗口：2026.08.23 - 2026.09.07 / 部署包生成：2026-09-07 14:44 CST",
+    "editionId": "2026-09-07-1508",
+    "contentWindow": "内容研究窗口：2026.08.23 - 2026.09.07 / 部署包生成：2026-09-07 15:08 CST",
     "researchedThrough": "2026-09-07",
-    "packageGeneratedAt": "2026-09-07 14:44 CST",
-    "summary": "9/7 继续动态实体优先：先从 Chicken Shop Date 收官、Beyonce 高价周边争议、US Open influencer 证件翻车、Venice Film Festival 红毯与 breakout front-row 预热、ChatGPT/Grok/Claude 同时宕机、Claude Code/Codex agent harness 对比、GitHub agent skills 新仓库上行等真实热簇反推二级搜索。YouTube 精确复核显示多数 9/1-9/6 新文化事件 UGC 未过主榜门槛；Social 主榜新增 credential cosplay / influencer trust 样本，并保留 8/26-8/28 仍在窗口内且过门槛的 exact videos。AI 主榜新增 8/14 Codex vs Claude Code 高互动视频；9/4 AI outage 视频未达门槛，只进观察。GitHub Skill feed 改为 9/7 Search API 结果，不把固定仓库列表伪装成上涨榜。医疗化、药物、身体极端化和可模仿风险继续过滤。"
+    "packageGeneratedAt": "2026-09-07 15:08 CST",
+    "summary": "9/7 继续动态实体优先：从 Creative Arts Emmys、Practical Magic 2、Daisy Chain Fields、Street Fighter 2026 trailer、SILO finale/S4 teaser、ChatGPT/Claude/Grok outage、AI agent safety 与 tail.fyi agent skills trending 等热簇反推二级搜索。Social 主榜只收达标 exact videos：新增 Pete Peppers SILO finale、Tyrone Magnus Street Fighter reaction，并保留仍在窗口内的 Dolly/Lanterns 高互动样本；Emmys、Practical Magic 2、Daisy Chain Fields 只作 search cluster。AI 主榜新增 Law By Mike AI scam ad exact video；9/3 outage 与 agent safety 未找到过门槛视频，只进 watchlist/search cluster。GitHub Skill feed 更新为 9/6-9/7 agent 工作台治理方向，不把固定仓库列表伪装成上涨榜。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -749,8 +707,8 @@ window.RADAR_DATA = {
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-09-04",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/4 新增 Raygun、Alix Earle、VMAs、Astra/Fable、Claude Code 2.0 与 agent workbench 聚类。",
+    "researchedThrough": "2026-09-07",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/7 新增 Creative Arts Emmys、Practical Magic 2、Daisy Chain Fields、Street Fighter 2026 trailer、SILO finale、AI outage / scam / safety 与 agent workbench governance 聚类。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
