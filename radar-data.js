@@ -643,10 +643,10 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-07-1508",
-    "contentWindow": "内容研究窗口：2026.08.23 - 2026.09.07 / 部署包生成：2026-09-07 15:08 CST",
+    "editionId": "2026-09-07-1454",
+    "contentWindow": "内容研究窗口：2026.08.23 - 2026.09.07 / 部署包生成：2026-09-07 14:54 CST",
     "researchedThrough": "2026-09-07",
-    "packageGeneratedAt": "2026-09-07 15:08 CST",
+    "packageGeneratedAt": "2026-09-07 14:54 CST",
     "summary": "9/7 继续动态实体优先：从 Creative Arts Emmys、Practical Magic 2、Daisy Chain Fields、Street Fighter 2026 trailer、SILO finale/S4 teaser、ChatGPT/Claude/Grok outage、AI agent safety 与 tail.fyi agent skills trending 等热簇反推二级搜索。Social 主榜只收达标 exact videos：新增 Pete Peppers SILO finale、Tyrone Magnus Street Fighter reaction，并保留仍在窗口内的 Dolly/Lanterns 高互动样本；Emmys、Practical Magic 2、Daisy Chain Fields 只作 search cluster。AI 主榜新增 Law By Mike AI scam ad exact video；9/3 outage 与 agent safety 未找到过门槛视频，只进 watchlist/search cluster。GitHub Skill feed 更新为 9/6-9/7 agent 工作台治理方向，不把固定仓库列表伪装成上涨榜。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
