@@ -9,7 +9,7 @@
         "Visual Identity"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 9.67万播放 / 2915赞 / 260评论；DELI 2026-09-04 8.10万播放 / 2088赞 / 241评论。",
+      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论；DELI 2026-09-04 8.34万播放 / 2141赞 / 245评论。",
       "channel": "YouTube exact videos + Search cluster: ADÉLA PRIMA album reaction / Nicole Kidman visual identity / debut persona",
       "heat": "上一轮 ADÉLA 主要靠官方 MV 与稳定来源，今天已出现过 Social 主榜门槛的 UGC 专辑 reaction，说明讨论从“官方视觉很强”扩展到“新人 pop star 是否真的站住人格”。",
       "signal": "可转译点：新人出圈不一定先靠履历，而是先借 Nicole Kidman 这类公共电影符号搭出一眼可识别的控制感、戏剧性和自信。",
@@ -22,11 +22,11 @@
       ],
       "sources": [
         [
-          "turning the tables / 9.67万播放 / 2915赞 / 260评论",
+          "turning the tables / 12.17万播放 / 3333赞 / 282评论",
           "https://www.youtube.com/watch?v=T2ad7l568i4"
         ],
         [
-          "DELI / 8.10万播放 / 2088赞 / 241评论",
+          "DELI / 8.34万播放 / 2141赞 / 245评论",
           "https://www.youtube.com/watch?v=qgIScvIJRh0"
         ]
       ]
@@ -40,9 +40,9 @@
         "Fandom Debate"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：The ArchCast 2026-09-09 14.38万播放 / 4937赞 / 1900评论；Brian Tyler Cohen 2026-09-07 94.82万播放 / 35215赞 / 1500评论。",
+      "metrics": "9/14 yt-dlp exact-video 复核：The ArchCast 2026-09-09 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 2026-09-07 97.28万播放 / 35906赞 / 1600评论。",
       "channel": "YouTube exact videos + Search cluster: South Park Emmy 2026 reaction / satire backlash / has become what it hated",
-      "heat": "The ArchCast 9/9 长评从 9/10 的 6.46万播放继续涨到 14.38万播放，说明讨论已从奖项节点转向老牌讽刺 IP 是否仍有反叛锋利度。",
+      "heat": "The ArchCast 9/9 长评从 9/10 的 6.46万播放继续涨到 15.94万播放，说明讨论已从奖项节点转向老牌讽刺 IP 是否仍有反叛锋利度。",
       "signal": "可转译点：亚文化品牌最怕的不是争议，而是粉丝开始怀疑它的反叛姿态是否已经制度化。",
       "why": "适合小红书：可以写“嘴毒内容为什么也会被老粉审判”，落点是创作者人格、冒犯边界、审美疲劳和老 IP 自我更新。",
       "discussion": "评论热点集中在 South Park 是否还敢讽刺所有人、政治笑话是否压过角色/故事、老粉怀旧与新观众接受度、以及奖项是否会改变反叛 IP 的公众位置。",
@@ -53,11 +53,11 @@
       ],
       "sources": [
         [
-          "The ArchCast / 14.38万播放 / 4937赞 / 1900评论",
+          "The ArchCast / 15.94万播放 / 5250赞 / 2000评论",
           "https://www.youtube.com/watch?v=vCPaXUpKCZM"
         ],
         [
-          "Brian Tyler Cohen / 94.82万播放 / 35215赞 / 1500评论",
+          "Brian Tyler Cohen / 97.28万播放 / 35906赞 / 1600评论",
           "https://www.youtube.com/watch?v=DjePJxKJx-4"
         ]
       ]
@@ -181,7 +181,7 @@
         "Product Narrative"
       ],
       "priority": "high",
-      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 392.56万播放 / 44709赞 / 2700评论；AI Explained 2026-09-04 72.38万播放 / 9785赞 / 1200评论；Chase AI 2026-09-05 37.62万播放 / 4343赞 / 465评论；Nate Herk 2026-09-04 34.77万播放 / 5204赞 / 356评论；Matt Wolfe 2026-09-03 46.23万播放 / 6660赞 / 522评论。",
+      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论；Nate Herk 2026-09-04 41.67万播放 / 5744赞 / 380评论；Matt Wolfe 2026-09-03 48.82万播放 / 6858赞 / 531评论。",
       "channel": "YouTube exact videos + Search cluster: GPT-6 Astra / Fable 5.1 / AGI first look / no hype assessment / AI workflow test",
       "heat": "Astra 已从单一发布视频扩散到开发者、测评者和自动化创作者，多条近 30 天 exact videos 远超 AI 主榜门槛。",
       "signal": "可转译点：AI 内容的爆点不再是参数表，而是让普通用户知道这个工具在哪些场景可靠、哪里仍会翻车。",
@@ -192,23 +192,23 @@
       ],
       "sources": [
         [
-          "Fireship / 392.56万播放 / 44709赞 / 2700评论",
+          "Fireship / 402.77万播放 / 45381赞 / 2800评论",
           "https://www.youtube.com/watch?v=FluKUJyeYD8"
         ],
         [
-          "AI Explained / 72.38万播放 / 9785赞 / 1200评论",
+          "AI Explained / 82.82万播放 / 10519赞 / 1300评论",
           "https://www.youtube.com/watch?v=Spuza-KwTJ4"
         ],
         [
-          "Chase AI / 37.62万播放 / 4343赞 / 465评论",
+          "Chase AI / 40.65万播放 / 4449赞 / 477评论",
           "https://www.youtube.com/watch?v=XeMtZeXxHqw"
         ],
         [
-          "Nate Herk / 34.77万播放 / 5204赞 / 356评论",
+          "Nate Herk / 41.67万播放 / 5744赞 / 380评论",
           "https://www.youtube.com/watch?v=dT5-x3u5nCg"
         ],
         [
-          "Matt Wolfe / 46.23万播放 / 6660赞 / 522评论",
+          "Matt Wolfe / 48.82万播放 / 6858赞 / 531评论",
           "https://www.youtube.com/watch?v=GGzT7zVrRTU"
         ]
       ]
@@ -400,7 +400,7 @@
     },
     {
       "title": "South Park：把反叛 IP 写成粉丝审计",
-      "whyNow": "The ArchCast 9/9 长评涨到 14.38万播放 / 4937赞 / 1900评论，老粉审判语境继续发酵。",
+      "whyNow": "The ArchCast 9/9 长评涨到 15.94万播放 / 5250赞 / 2000评论，老粉审判语境继续发酵。",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
       "firstParagraph": "最有意思的不是它又冒犯了谁，而是观众开始反过来审判它：一个靠反叛起家的 IP，被主流认可、被奖项拥抱之后，还能不能继续像以前那样锋利？",
       "cta": "你觉得反叛 IP 被主流接受后，还能继续反叛吗？"
@@ -414,7 +414,7 @@
     },
     {
       "title": "GitHub Skill：把技能市场写成 AI 产品机会",
-      "whyNow": "9/13 GitHub Search API 显示 skill store、office skill、enterprise agent、desktop recurring task 和 loop library 同时活跃。",
+      "whyNow": "9/13 GitHub Search API 显示 skill store、office skill、enterprise agent、desktop recurring task 和 loop library 同时活跃；9/14 匿名 API 已限流，因此不写成已验证周涨幅。",
       "xhsTitle": "AI agent 的下一波机会，是做一个真正能逛的技能市场",
       "firstParagraph": "这一波 GitHub 热点像一个信号：AI agent 的机会不只在生成，而在让用户能找到技能、安装技能、组合技能，再让它定期回来继续做同一件事。",
       "cta": "你最想给 AI 安装哪类技能：办公、设计、编程，还是定时任务？"
@@ -472,7 +472,7 @@
       "lane": "Music / New Pop Persona",
       "heat": "95",
       "title": "ADÉLA 从官方视觉变成 UGC 讨论",
-      "spark": "turning the tables 9/10 PRIMA reaction 9.67万播放 / 2915赞 / 260评论；DELI 9/4 8.10万播放 / 2088赞 / 241评论，今天可进入 Social 主榜。",
+      "spark": "turning the tables 9/10 PRIMA reaction 12.17万播放 / 3333赞 / 282评论；DELI 9/4 8.34万播放 / 2141赞 / 245评论，今天可进入 Social 主榜。",
       "xhsTitle": "ADÉLA 出圈最聪明的地方，是先借一个全网都懂的电影人格",
       "discussion": "讨论热点：Nicole Kidman 电影符号、AMC 梗、首专成熟度、Dream Academy 后再定位、pop girl 是否需要一眼人设。",
       "prompt": "引导话题：新人歌手出圈，先靠好歌，还是先靠清晰到能被截图的人设？",
@@ -488,7 +488,7 @@
       "lane": "TV / Satire Brand",
       "heat": "94",
       "title": "South Park 被老粉审判还反不反叛",
-      "spark": "The ArchCast 9/9 长评涨到 14.38万播放 / 4937赞 / 1900评论；Brian Tyler Cohen 9/7 94.82万播放 / 35215赞 / 1500评论。",
+      "spark": "The ArchCast 9/9 长评涨到 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 9/7 97.28万播放 / 35906赞 / 1600评论。",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
       "discussion": "评论热点：讽刺对象是否变窄、老粉怀旧、奖项是否改变反叛 IP、政治笑话和角色故事的比例。",
       "prompt": "引导话题：一个反叛 IP 被主流接受后，还能继续反叛吗？",
@@ -536,7 +536,7 @@
       "lane": "AI / Model Trust",
       "heat": "96",
       "title": "GPT-6 Astra 热点仍是可信测试",
-      "spark": "Fireship 9/4 392.56万播放 / 44709赞 / 2700评论；AI Explained、Chase AI、Nate Herk、Matt Wolfe 仍过 AI 主榜。",
+      "spark": "Fireship 9/4 402.77万播放 / 45381赞 / 2800评论；AI Explained、Chase AI、Nate Herk、Matt Wolfe 仍过 AI 主榜。",
       "xhsTitle": "GPT-6 Astra 最值得写的不是强，而是它让人开始重新定义信任",
       "discussion": "评论热点：AGI 说法、benchmark 可信度、真实工作流测试、失败边界、普通人是否升级。",
       "prompt": "引导话题：你判断一个 AI 工具好不好，先看测评还是先自己试？",
@@ -556,7 +556,7 @@
       "xhsTitle": "AI agent 的下一波机会，是做一个真正能逛的技能市场",
       "discussion": "讨论点：skill store、office automation、企业知识库、desktop recurring task、Unity 垂直 skill、prompt loop library。",
       "prompt": "引导话题：你最想给 AI 安装哪类技能：办公、设计、编程，还是定时任务？",
-      "tone": "适合 AI 产品/独立开发号；写 9/13 动态样本，不把固定仓库列表说成上涨榜。"
+      "tone": "适合 AI 产品/独立开发号；写 9/13 动态样本与 9/14 活跃确认，不把固定仓库列表说成上涨榜。"
     },
     {
       "id": "witchy-nostalgia-0914",
@@ -595,11 +595,11 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-14-1007",
-    "contentWindow": "内容研究窗口：2026.08.30 - 2026.09.14 / 部署包生成：2026-09-14 10:07 CST",
+    "editionId": "2026-09-14-1009",
+    "contentWindow": "内容研究窗口：2026.08.30 - 2026.09.14 / 部署包生成：2026-09-14 10:09 CST",
     "researchedThrough": "2026-09-14",
-    "packageGeneratedAt": "2026-09-14 10:07 CST",
-    "summary": "9/14 继续动态实体优先：从 ADÉLA / PRIMA、South Park Emmy 后自我讽刺争议、SILO finale 长尾解释权、Practical Magic 2 电视采访/女巫怀旧、Emmys/Bad Bunny/Sabrina 节点、Hugging Face/OpenAI agent incident、Codex/agent skill repo 与 desktop agent 工作流等真实热簇反推二级搜索。Social 主榜新增 ADÉLA 9/10 UGC album reaction 过线证据，并更新 South Park 9/9 视频涨到 14.38万播放 / 4937赞 / 1900评论；SILO 仍保留 9/4-9/5 达标 exact-video 证据。Emmys、Practical Magic 2、Beyoncé collector box、Kimmel YouTube migration、Taylor Showgirl 均因 UGC 或时间窗口不足标注为 watchlist/search cluster。AI 主榜新增 Hugging Face/OpenAI incident 多条 9/4-9/9 高互动解释视频；Codex skills 近期视频赞数不足只进观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/13 GitHub Search API 动态样本，突出 skill store、office skill、enterprise agent、desktop agent、Unity vertical skill 和 loop library。医疗化、药物、身体极端化和可模仿风险继续过滤。"
+    "packageGeneratedAt": "2026-09-14 10:09 CST",
+    "summary": "9/14 继续动态实体优先：从 ADÉLA / PRIMA、South Park Emmy 后自我讽刺争议、SILO finale 长尾解释权、Practical Magic 2 电视采访/女巫怀旧、Emmys/Bad Bunny/Sabrina 节点、Hugging Face/OpenAI agent incident、Codex/agent skill repo 与 desktop agent 工作流等真实热簇反推二级搜索。Social 主榜新增 ADÉLA 9/10 UGC album reaction 过线证据，并更新 South Park 9/9 视频涨到 15.94万播放 / 5250赞 / 2000评论；SILO 仍保留 9/4-9/5 达标 exact-video 证据。Emmys、Practical Magic 2、Beyoncé collector box、Kimmel YouTube migration、Taylor Showgirl 均因 UGC 或时间窗口不足标注为 watchlist/search cluster。AI 主榜新增 Hugging Face/OpenAI incident 多条 9/4-9/9 高互动解释视频；Codex skills 近期视频赞数不足只进观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/13 GitHub Search API 动态样本，并以 9/14 搜索结果确认大仓仍在活跃更新，突出 skill store、office skill、enterprise agent、desktop agent、Unity vertical skill 和 loop library。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",

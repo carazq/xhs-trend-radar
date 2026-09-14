@@ -29,7 +29,7 @@ const sparkState = {
   filter: "all"
 };
 
-const editionDate = "2026-09-14-1007";
+const editionDate = "2026-09-14-1009";
 let editionSeed = 0;
 let dailyLens = null;
 let dailySpotlight = null;
