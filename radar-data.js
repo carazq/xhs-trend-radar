@@ -595,10 +595,10 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-14-0403",
-    "contentWindow": "内容研究窗口：2026.08.30 - 2026.09.14 / 部署包生成：2026-09-14 04:03 CST",
+    "editionId": "2026-09-14-1007",
+    "contentWindow": "内容研究窗口：2026.08.30 - 2026.09.14 / 部署包生成：2026-09-14 10:07 CST",
     "researchedThrough": "2026-09-14",
-    "packageGeneratedAt": "2026-09-14 04:03 CST",
+    "packageGeneratedAt": "2026-09-14 10:07 CST",
     "summary": "9/14 继续动态实体优先：从 ADÉLA / PRIMA、South Park Emmy 后自我讽刺争议、SILO finale 长尾解释权、Practical Magic 2 电视采访/女巫怀旧、Emmys/Bad Bunny/Sabrina 节点、Hugging Face/OpenAI agent incident、Codex/agent skill repo 与 desktop agent 工作流等真实热簇反推二级搜索。Social 主榜新增 ADÉLA 9/10 UGC album reaction 过线证据，并更新 South Park 9/9 视频涨到 14.38万播放 / 4937赞 / 1900评论；SILO 仍保留 9/4-9/5 达标 exact-video 证据。Emmys、Practical Magic 2、Beyoncé collector box、Kimmel YouTube migration、Taylor Showgirl 均因 UGC 或时间窗口不足标注为 watchlist/search cluster。AI 主榜新增 Hugging Face/OpenAI incident 多条 9/4-9/9 高互动解释视频；Codex skills 近期视频赞数不足只进观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/13 GitHub Search API 动态样本，突出 skill store、office skill、enterprise agent、desktop agent、Unity vertical skill 和 loop library。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
