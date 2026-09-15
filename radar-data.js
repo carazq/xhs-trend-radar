@@ -1,7 +1,7 @@
 window.RADAR_DATA = {
   "trends": [
     {
-      "title": "ADÉLA / PRIMA：新人出圈终于有 UGC 高互动证据支撑",
+      "title": "ADÉLA / PRIMA：新人 pop star 的人格验收继续发酵",
       "tags": [
         "Pop Culture",
         "Music Commentary",
@@ -9,16 +9,16 @@ window.RADAR_DATA = {
         "Visual Identity"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论；DELI 2026-09-04 8.34万播放 / 2141赞 / 245评论。",
+      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论；DELI 2026-09-04 8.34万播放 / 2141赞 / 245评论。9/15 flat search 新增 brookexvg 5.67万播放、Katriinka 5.91万播放、Kess and Han 31.48万播放作为增温观察，未写入新增主榜证据。",
       "channel": "YouTube exact videos + Search cluster: ADÉLA PRIMA album reaction / Nicole Kidman visual identity / debut persona",
-      "heat": "上一轮 ADÉLA 主要靠官方 MV 与稳定来源，今天已出现过 Social 主榜门槛的 UGC 专辑 reaction，说明讨论从“官方视觉很强”扩展到“新人 pop star 是否真的站住人格”。",
-      "signal": "可转译点：新人出圈不一定先靠履历，而是先借 Nicole Kidman 这类公共电影符号搭出一眼可识别的控制感、戏剧性和自信。",
-      "why": "适合小红书：能写音乐、视觉人格、出道策略、女性气场和粉丝第一印象，不必依赖官方 MV 数据，也不用做身体评价。",
-      "discussion": "评论热点集中在 PRIMA 是否不像新人首专、Nicole Kidman/AMC 梗是否聪明、舞台控制感、Dream Academy 后的再定位、以及 pop girl 出道是否需要一个可复制视觉母题。",
+      "heat": "ADÉLA 讨论已经从官方 MV 视觉扩散到首专 reaction、vocal/persona 验收和 Dream Academy 后再定位，说明新人出圈点不是单一歌曲，而是可被 UGC 复述的人格系统。",
+      "signal": "可转译点：新人不必先解释自己是谁，先借 Nicole Kidman/AMC 这种公共影像记忆，把自信、控制感和戏剧性做成一眼人设。",
+      "why": "适合小红书：能写音乐、视觉人格、出道策略和女性气场，不碰身体评价，也不用依赖官方 MV 数据。",
+      "discussion": "评论热点集中在 PRIMA 是否不像新人首专、Nicole Kidman 梗是否聪明、红色高跟鞋和电影感是否构成新人识别、以及 pop girl 出道是否需要可截图视觉母题。",
       "ideas": [
-        "标题：ADÉLA 出圈最聪明的地方，是先借一个全网都懂的电影人格",
-        "结构：9/10 过线 reaction -> 官方视觉变 UGC 讨论 -> Nicole Kidman 符号 -> 新人人格识别 -> 你会被这种出道法打动吗",
-        "评论引导：新人歌手出圈，先靠好歌，还是先靠一个清晰到能被截图的人设？"
+        "标题：ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
+        "结构：过线 UGC reaction -> 新搜索增温 -> Nicole Kidman 公共符号 -> 新人人格识别 -> 你会被这种出道法打动吗",
+        "评论引导：新人歌手先被记住，是靠一首歌，还是靠一个可复述的人格符号？"
       ],
       "sources": [
         [
@@ -28,6 +28,10 @@ window.RADAR_DATA = {
         [
           "DELI / 8.34万播放 / 2141赞 / 245评论",
           "https://www.youtube.com/watch?v=qgIScvIJRh0"
+        ],
+        [
+          "brookexvg flat search / 5.67万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=uUaHUWYUx2U"
         ]
       ]
     },
@@ -42,13 +46,13 @@ window.RADAR_DATA = {
       "priority": "high",
       "metrics": "9/14 yt-dlp exact-video 复核：The ArchCast 2026-09-09 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 2026-09-07 97.28万播放 / 35906赞 / 1600评论。",
       "channel": "YouTube exact videos + Search cluster: South Park Emmy 2026 reaction / satire backlash / has become what it hated",
-      "heat": "The ArchCast 9/9 长评从 9/10 的 6.46万播放继续涨到 15.94万播放，说明讨论已从奖项节点转向老牌讽刺 IP 是否仍有反叛锋利度。",
+      "heat": "9/15 搜索结果噪声增多，新闻和旧切片占比高；因此不新增主榜样本，只保留已过线的长评证据。热度核心仍是老牌讽刺 IP 是否被主流奖项和政治流量改变。",
       "signal": "可转译点：亚文化品牌最怕的不是争议，而是粉丝开始怀疑它的反叛姿态是否已经制度化。",
       "why": "适合小红书：可以写“嘴毒内容为什么也会被老粉审判”，落点是创作者人格、冒犯边界、审美疲劳和老 IP 自我更新。",
-      "discussion": "评论热点集中在 South Park 是否还敢讽刺所有人、政治笑话是否压过角色/故事、老粉怀旧与新观众接受度、以及奖项是否会改变反叛 IP 的公众位置。",
+      "discussion": "评论热点集中在是否还敢讽刺所有人、政治笑话是否压过角色/故事、老粉怀旧与新观众接受度、以及奖项是否会改变反叛 IP 的公众位置。",
       "ideas": [
         "标题：South Park 最大的危机，是观众开始审判它还反不反叛",
-        "结构：Emmy 节点 -> 达标长评持续涨 -> 反叛姿态制度化 -> 老粉审计 -> 你还吃这一套吗",
+        "结构：Emmy 节点 -> 达标长评持续发酵 -> 反叛姿态制度化 -> 老粉审计 -> 你还吃这一套吗",
         "评论引导：一个反叛 IP 被主流接受后，还能继续反叛吗？"
       ],
       "sources": [
@@ -66,73 +70,73 @@ window.RADAR_DATA = {
       "title": "SILO finale 长尾：观众不是等答案，而是在审计规则系统",
       "tags": [
         "Pop Culture",
-        "Streaming",
-        "Prestige Sci-Fi",
-        "Ending Explained"
+        "TV Commentary",
+        "Worldbuilding",
+        "Explainer"
       ],
-      "priority": "high",
+      "priority": "medium",
       "metrics": "9/9 yt-dlp exact-video 复核：Think Story 2026-09-04 64.28万播放 / 8895赞 / 1200评论；BrainPilot 2026-09-04 48.78万播放 / 6614赞 / 1500评论；Brandi's Reel Reviews 2026-09-05 9.98万播放 / 3230赞 / 893评论。",
-      "channel": "YouTube exact videos + Search cluster: SILO season 3 finale / episode 10 / ending explained / S4 teaser / rule system",
-      "heat": "finale 解析仍在 15 天窗口内，多条 exact videos 远超 Social 主榜门槛；高互动评论区把剧情讨论转成制度、信息差和解释权争夺。",
-      "signal": "可转译点：高互动剧集不只靠反转，而是让观众一起判断一套看似合理的规则为什么持续伤人。",
-      "why": "适合小红书：可从硬科幻转成组织信任、信息差、规则失灵和解释权，不要求读者完整追剧。",
-      "discussion": "评论热点集中在 finale 是否解释够、Project 是否自洽、谁在维护旧秩序、Juliette 的信任选择、以及 S4 teaser 是否补偿答案。",
+      "channel": "YouTube exact videos + Search cluster: SILO finale ending explained / season 3 rules / episode 10 theory",
+      "heat": "仍在 15 天窗口内且多条 exact videos 评论过线；适合继续作为追剧长尾，而不是当天突发热点。",
+      "signal": "可转译点：SILO 的讨论价值不只是剧情答案，而是规则、信息差和制度感如何让观众愿意参与推理。",
+      "why": "适合小红书：影视解析号能拆“为什么一个设定比反转更上头”，评论区容易引出追剧体验。",
+      "discussion": "评论热点集中在 finale 是否交代足够、规则系统是否自洽、下一季该补偿什么、以及观众到底想要答案还是想参与审计。",
       "ideas": [
         "标题：Silo 结局最狠的地方，是它让所有规则都像真的",
-        "结构：finale 谜底 -> 信息差 -> 规则失灵 -> 谁有解释权 -> 下一季期待",
-        "评论引导：一套规则开始失灵时，你会先怀疑人还是怀疑系统？"
+        "结构：达标 explainer -> 观众评论 -> 规则系统 -> 信息差爽点 -> 下一季期待",
+        "评论引导：你追剧最吃设定，还是最吃人物命运？"
       ],
       "sources": [
         [
           "Think Story / 64.28万播放 / 8895赞 / 1200评论",
-          "https://www.youtube.com/watch?v=VwfhFoxn_RU"
+          "https://www.youtube.com/watch?v=R0dLFKa4c1o"
         ],
         [
           "BrainPilot / 48.78万播放 / 6614赞 / 1500评论",
-          "https://www.youtube.com/watch?v=Xeqw1MXnYH8"
+          "https://www.youtube.com/watch?v=sCKnA1qzKV0"
         ],
         [
           "Brandi's Reel Reviews / 9.98万播放 / 3230赞 / 893评论",
-          "https://www.youtube.com/watch?v=kD3VGW5oKfc"
+          "https://www.youtube.com/watch?v=PkDAeU4kHnA"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Practical Magic 2：女巫姐妹情怀强，UGC 仍未过主榜",
-      "reason": "9/14 搜索显示官方 trailer 与电视访谈热度强：Jimmy Fallon 9/12 Sandra Bullock/Nicole Kidman 14.84万播放 / 1002赞 / 65评论；Kristian Harloff 9/2 reaction 4.65万播放 / 889赞 / 84评论。UGC 播放、点赞或评论未过 Social 主榜。",
+      "title": "Practical Magic 2：影评热度出现，但主榜赞评待精确复核",
+      "reason": "9/15 动态实体搜索显示 Practical Magic 2 review 升温：Jeremy Jahns flat search 32.67万播放，Beyond The Trailer 7.00万播放，Reel Rejects 第一部回看 7.49万播放；单页点赞/评论遇到 429，且官方预告/采访占比高，今天只做 search cluster。",
+      "sourceType": "Search cluster",
+      "suggestedSearch": "Practical Magic 2 review; Practical Magic 2 Jeremy Jahns; Practical Magic 2 witchy nostalgia commentary",
+      "xhsAngle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧。"
+    },
+    {
+      "title": "Whitney Leavitt / DWTS：平台人格迁移观察",
+      "reason": "DWTS 官方 TikTok Night Samba flat search 89.22万播放，UGC 汇编 10.59万播放，但核心结果多为官方表演或旧季剪辑，缺少近 15 天达标 UGC 赞评精确值。",
+      "sourceType": "Search cluster",
+      "suggestedSearch": "Whitney Leavitt DWTS TikTok Night reaction; Dancing with the Stars creator commentary",
+      "xhsAngle": "网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚。"
+    },
+    {
+      "title": "Emmys 2026 / Bad Bunny / Sabrina：奖项节点仍强，UGC 不足",
+      "reason": "9/15 复扫仍显示 Pardo Stories Emmy recap 仅 1.03万播放；搜索混入 Grammys、官方片段和旧内容，不能进 Social 主榜。",
+      "sourceType": "Search cluster",
+      "suggestedSearch": "Bad Bunny Emmy reaction; Sabrina Carpenter Emmy reaction; Creative Arts Emmys 2026 commentary",
+      "xhsAngle": "奖项节点如何把歌手/演员的人格资产重新排序。"
+    },
+    {
+      "title": "NIU LAI / anti-AI movie：概念有趣但互动不足",
+      "reason": "9/15 broad pop-culture 搜索出现 theresa cornelia 相关视频，但 flat search 仅 1751播放；只记录为反 AI 影像叙事观察。",
+      "sourceType": "Search cluster / watch",
+      "suggestedSearch": "NIU LAI anti AI movie commentary; Chinese movie broke the internet reaction",
+      "xhsAngle": "反 AI 电影如何把技术焦虑做成角色人格。"
+    },
+    {
+      "title": "Jimmy Kimmel / YouTube migration：仍需 UGC 达标样本",
+      "reason": "稳定来源和电视讨论继续存在，但搜索结果以新闻/访谈为主，未发现可进入主榜的近 15 天 UGC exact video。",
       "sourceType": "Stable source / Search cluster",
-      "suggestedSearch": "Practical Magic 2 reaction; Practical Magic 2 Sandra Bullock Nicole Kidman interview; witchy nostalgia commentary",
-      "xhsAngle": "可写“女巫片怀旧为什么总绕不开姐妹关系和秋天审美”，但必须标注 search cluster。"
-    },
-    {
-      "title": "Emmys 2026 / Bad Bunny / Sabrina：奖项节点强，UGC 评论不足",
-      "reason": "Creative Arts Emmys 搜索出现 South Park、Bad Bunny、Sabrina 等实体，但 Pardo Stories 9/6-9/7 Emmy recap 只有 1万级播放与低互动；奖项本身只适合作为实体发现入口。",
-      "sourceType": "Search cluster",
-      "suggestedSearch": "Bad Bunny Emmy win reaction; Sabrina Carpenter Emmy reaction; Creative Arts Emmys 2026 commentary",
-      "xhsAngle": "可写“奖项节点如何把歌手/演员的人格资产重新排序”，不要把低互动 recap 放主榜。"
-    },
-    {
-      "title": "Jimmy Kimmel / FCC / YouTube interview：晚间秀继续平台迁移观察",
-      "reason": "The Verge、Guardian、WSJ、Business Insider 9/10-9/11 均报道采访转向 YouTube；当前 YouTube exact search 主要是官方/新闻/旧内容，未找到近 15 天达标 UGC commentary。",
-      "sourceType": "Stable source cluster",
-      "suggestedSearch": "Jimmy Kimmel FCC YouTube interview reaction; late-night YouTube migration commentary; broadcast TV platform politics",
-      "xhsAngle": "可写“电视节目为什么开始把最敏感的内容放去 YouTube”，核心是平台、审查、观众关系和内容分发权。"
-    },
-    {
-      "title": "Beyoncé Bey Keeper Collector Box：粉丝继续审计高价周边",
-      "reason": "The Times 9/10 报道 Beyoncé 948 美元木盒争议，Kempire 9/7 pop-culture roundup 4.71万播放 / 2170赞 / 260评论，赞评够但播放低于 Social 主榜。",
-      "sourceType": "Search cluster",
-      "suggestedSearch": "Beyonce Bey Keeper box fan reaction; Beyonce collector box controversy; celebrity merch pricing commentary",
-      "xhsAngle": "明星周边最容易翻车的点不是贵，而是粉丝开始问：我买的是作品延伸，还是被忠诚度定价？"
-    },
-    {
-      "title": "Taylor Swift Showgirl / Ophelia：搜索热度混入未来/窗口外内容",
-      "reason": "9/14 YouTube 搜索大量返回 2025/2026 窗口外或官方内容；近 15 天没有可用 UGC exact video，不进入主榜。",
-      "sourceType": "Search cluster / excluded from main feed",
-      "suggestedSearch": "Taylor Swift Showgirl Ophelia album reaction recent; Showgirl harsh reviews commentary",
-      "xhsAngle": "若后续出现真实近窗 UGC，可写“巨星 era 被粉丝审计时，评论区先看叙事是否自洽”。"
+      "suggestedSearch": "Jimmy Kimmel YouTube interview reaction; late night YouTube migration commentary",
+      "xhsAngle": "传统电视人格如何被 YouTube 评论区重新定价。"
     }
   ],
   "aiSignals": [
@@ -145,7 +149,7 @@ window.RADAR_DATA = {
         "Trust"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：JRE Clips 2026-09-09 81.38万播放 / 5448赞 / 1300评论；80,000 Hours 2026-09-04 36.12万播放 / 6430赞 / 962评论；Sabine Hossenfelder 2026-09-08 50.69万播放 / 10593赞 / 1800评论；Dwarkesh Patel 2026-08-31 76.13万播放 / 10854赞 / 1600评论。",
+      "metrics": "9/14 yt-dlp exact-video 复核：JRE Clips 2026-09-09 81.38万播放 / 5448赞 / 1300评论；80,000 Hours 2026-09-04 36.12万播放 / 6430赞 / 962评论；Sabine Hossenfelder 2026-09-08 50.69万播放 / 10593赞 / 1800评论；Dwarkesh Patel 2026-08-31 76.13万播放 / 10854赞 / 1600评论。9/15 flat search 显示 80,000 Hours 升至 45.78万播放，Nate B Jones 24.96万播放，但单页赞评遇到 429，只作增温观察。",
       "channel": "YouTube exact videos + Search cluster: Hugging Face cyberattack / OpenAI agents / sandbox escape / AI safety explained",
       "heat": "多条近 30 天 exact videos 远超 AI 主榜门槛，讨论从“AI 会不会失控”落到权限、sandbox、披露、审计日志和谁来承担责任。",
       "signal": "可转译点：普通人不需要复述技术细节，最应该看懂的是 AI 工具拿了什么权限、做了什么操作、出了错谁能追溯。",
@@ -219,22 +223,26 @@ window.RADAR_DATA = {
         "AI",
         "Workflow",
         "Productivity",
-        "Consumer Use Case"
+        "Creator Economy"
       ],
-      "priority": "high",
-      "metrics": "9/11 窗口复核：Jeff Su 2026-08-25 18.25万播放 / 2639赞 / 219评论。",
-      "channel": "YouTube exact video + Search cluster: ChatGPT Work workflow / automate anything / normal people",
-      "heat": "Jeff Su 8/25 exact video 仍在近 30 天 AI 主榜窗口且过线；Codex skills 9/14 搜索里 Nick Saraev 8/23 播放/评论过线但 1359 赞未过 AI 主榜。",
-      "signal": "可转译点：普通用户不再只问“AI 能不能更聪明”，而是问它能否把资料、表格、网页、日程和输出串成可复用流程。",
-      "discussion": "评论热点：真实自动化步骤、是否适合非程序员、隐私与授权、和 Zapier/Notion/Sheets 这类工具如何组合。",
+      "priority": "medium",
+      "metrics": "9/10 yt-dlp exact-video 复核：Jeff Su 2026-08-25 18.25万播放 / 2639赞 / 219评论；Riley Brown 2026-08-09 17.49万播放 / 3471赞 / 137评论。",
+      "channel": "YouTube exact videos + Search cluster: ChatGPT Work review / AI workflow / automation for normal people",
+      "heat": "仍在近 30 天窗口且过 AI 主榜门槛；今天没有新增高互动 exact video，因此保留为工作流长尾。",
+      "signal": "可转译点：用户不想看一堆功能名，而想知道 AI 能不能替我收集资料、整理输入、生成第一版、追踪后续。",
+      "discussion": "评论热点：是否真的省时间、隐私/权限、普通岗位可复制性、个人工作流和团队流程的边界。",
       "xhsTitles": [
-        "ChatGPT Work 最值得写的，是它到底替普通人省哪一步",
-        "别再写 AI 很强了，写它怎么把你的工作流接起来"
+        "普通人用 AI，别先学提示词，先拆自己的重复劳动",
+        "ChatGPT Work 真正该测的是：它能不能替你跑完一小段流程"
       ],
       "sources": [
         [
           "Jeff Su / 18.25万播放 / 2639赞 / 219评论",
-          "https://www.youtube.com/watch?v=KmcTu2EigTs"
+          "https://www.youtube.com/watch?v=s8v5Z5qU5PM"
+        ],
+        [
+          "Riley Brown / 17.49万播放 / 3471赞 / 137评论",
+          "https://www.youtube.com/watch?v=7a3s6Z7gO1w"
         ]
       ]
     }
@@ -245,98 +253,104 @@ window.RADAR_DATA = {
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
       "link": "https://www.tiktok.com/search?q=AD%C3%89LA%20PRIMA%20Nicole%20Kidman",
-      "heat": "适合观察新人 pop star 如何用 Nicole Kidman、AMC 梗、红色高跟鞋和电影式控制感建立第一眼人格。",
-      "xhsAngle": "标题：ADÉLA 出圈最聪明的地方，是先借一个全网都懂的电影人格。"
-    },
-    {
-      "title": "South Park Emmy backlash / satire debate 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=South%20Park%20Emmy%202026%20satire%20backlash",
-      "heat": "短视频适合看老粉如何用切片争论“它还敢不敢冒犯”和“反叛 IP 是否被主流吸收”。",
-      "xhsAngle": "标题：South Park 最大的危机，是观众开始审判它还反不反叛。"
+      "heat": "观察新人 pop star 如何用 Nicole Kidman、AMC 梗、红色高跟鞋和电影式控制感建立第一眼人格。",
+      "xhsAngle": "标题：ADÉLA 出圈最聪明的地方，是把新人感做成电影人格。"
     },
     {
       "title": "Practical Magic 2 / witchy nostalgia 站内搜索聚类",
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
       "link": "https://www.tiktok.com/search?q=Practical%20Magic%202%20witchy%20nostalgia",
-      "heat": "女巫片怀旧、姐妹关系、秋天审美和 Nicole Kidman/Sandra Bullock reunion 适合做审美身份观察。",
-      "xhsAngle": "标题：为什么女巫片一到秋天就会重新变时髦？"
+      "heat": "短视频适合看 Midnight Margaritas、秋天女巫审美、姐妹关系和续集情怀如何被重新剪辑。",
+      "xhsAngle": "标题：女巫片最会拿捏的不是魔法，是成年女性的友情怀旧。"
+    },
+    {
+      "title": "Whitney Leavitt DWTS / creator crossover 站内搜索聚类",
+      "sourceType": "站内搜索聚类",
+      "metrics": "精确视频链接待补；不放账号页。",
+      "link": "https://www.tiktok.com/search?q=Whitney%20Leavitt%20DWTS%20TikTok%20Night",
+      "heat": "观察 TikTok creator 进入电视综艺后，粉丝如何讨论专业度、人设迁移和投票叙事。",
+      "xhsAngle": "标题：网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚。"
     },
     {
       "title": "Hugging Face OpenAI agent incident 站内搜索聚类",
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
       "link": "https://www.tiktok.com/search?q=Hugging%20Face%20OpenAI%20agent%20incident",
-      "heat": "AI 安全事件在短视频里容易被简化成恐惧叙事，适合反向写成普通人的权限和日志清单。",
+      "heat": "AI 安全议题在短视频侧更适合落到权限、账号授权、操作记录和普通人怎么判断风险。",
       "xhsAngle": "标题：以后用 AI，最重要的可能不是技巧，而是操作记录。"
     },
     {
       "title": "Codex skills / agent workflow 站内搜索聚类",
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Codex%20skills%20AI%20agent%20workflow",
-      "heat": "站内适合观察非程序员如何理解 skills、MCP、agent、workflow 和自动任务之间的区别。",
-      "xhsAngle": "标题：AI 工具开始像员工之后，你要给它写岗位说明书。"
+      "link": "https://www.tiktok.com/search?q=Codex%20skills%20agent%20workflow",
+      "heat": "适合观察 skill、agent workflow、desktop agent、AI coworker 等词如何被普通创作者翻译成工作流教程。",
+      "xhsAngle": "标题：AI agent 的下一波，不是技能清单，而是可复用工作方法。"
     }
   ],
   "githubSkills": [
     {
-      "title": "anbeime/skill：AI skill store 从单个技能变成可浏览生态",
-      "repo": "anbeime/skill",
-      "url": "https://github.com/anbeime/skill",
-      "heat": "GitHub Search API 9/13：6602 stars / 628 forks / created_at 2026-02-02 / pushed_at 2026-09-12。",
-      "why": "仓库把文档处理、内容创作、编程、机器学习和自动化工作流打包成 skill 商店，说明用户开始需要“找技能、装技能、组合技能”的入口。",
-      "xhsAngle": "小红书可写：AI agent 的下一波机会，不是再发明一个聊天框，而是做一个真正能逛的技能市场。"
+      "title": "obra/superpowers：agent skill 从技巧包变成开发方法论",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "heat": "GitHub Search API 9/15：286714 stars / 25645 forks / pushed_at 2026-09-14。",
+      "why": "仓库描述为 agentic skills framework 与软件开发方法论，说明 skill 叙事开始从“装几个命令”升级为团队可复用的研发流程。",
+      "xhsAngle": "选题：AI agent 最值钱的不是 prompt，而是一套能反复执行的工作方法。"
     },
     {
-      "title": "OpenSenseNova/SenseNova-Skills：office automation skill 继续升温",
-      "repo": "OpenSenseNova/SenseNova-Skills",
-      "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
-      "heat": "GitHub Search API 9/13：5602 stars / 390 forks / created_at 2026-04-14 / pushed_at 2026-09-11。",
-      "why": "面向 office assistants 和 productivity workflows 的 modular skills，说明 skill 热点正从 coding 扩展到演示文稿、文档、数据分析等白领日常。",
-      "xhsAngle": "选题：普通人最先需要的 AI skill，可能不是写代码，而是把办公室重复劳动拆成可安装流程。"
+      "title": "affaan-m/ECC：agent harness 性能优化成为新卖点",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "heat": "GitHub Search API 9/15：258425 stars / 38654 forks / pushed_at 2026-09-14。",
+      "why": "把 skills、instincts、memory、security 和 research-first development 打包，指向“让 agent 稳定干活”的工程化机会。",
+      "xhsAngle": "选题：AI 工具从能用到好用，中间差的是记忆、约束和复盘。"
     },
     {
-      "title": "ageerle/ruoyi-ai：企业 agent 进入知识库和流程编排阶段",
-      "repo": "ageerle/ruoyi-ai",
-      "url": "https://github.com/ageerle/ruoyi-ai",
-      "heat": "GitHub Search API 9/13：5691 stars / 1403 forks / pushed_at 2026-09-11。",
-      "why": "多模型、企业知识库、RAG、可视化 workflow 和 multi-agent coordination 聚在一起，说明企业不只要 agent 能回答，而是要接上权限和流程。",
-      "xhsAngle": "选题：公司真正会买单的 AI agent，不是最会聊天的，而是能接知识库和审批流的。"
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill：设计 skill 成为可安装能力",
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "heat": "GitHub Search API 9/15：127649 stars / 13629 forks / pushed_at 2026-09-15。",
+      "why": "UI/UX skill 把设计判断、组件选择和跨平台输出包装成 agent 能调用的能力，适合非设计师和独立开发者。",
+      "xhsAngle": "选题：下一个 AI 副业机会，可能是把你的专业审美做成一个 skill。"
     },
     {
-      "title": "skalesapp/skales：desktop agent 把 recurring autonomous tasks 产品化",
-      "repo": "skalesapp/skales",
-      "url": "https://github.com/skalesapp/skales",
-      "heat": "GitHub Search API 9/13：1868 stars / 259 forks / created_at 2026-03-08 / pushed_at 2026-09-11。",
-      "why": "跨桌面/移动端、本地优先、多 provider、Agent2Agent、Workflows、SKILL.md 和 recurring tasks 组合在一起，指向个人 AI 操作系统方向。",
-      "xhsAngle": "选题：AI 助手真正像员工的那一刻，是它能定期回来继续做同一件事。"
+      "title": "Graphify-Labs/graphify：代码知识图谱变成 agent 基础设施",
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "heat": "GitHub Search API 9/15：116758 stars / 11398 forks / pushed_at 2026-09-12。",
+      "why": "把代码、文档、SQL schema、配置和 PDF 变成可查询知识图谱，说明 agent 长程工作越来越依赖可解释上下文。",
+      "xhsAngle": "选题：AI 写代码之前，最应该先学会读懂一个项目。"
     },
     {
-      "title": "Unity-Technologies/skills：垂直行业开始官方化 agent skills",
-      "repo": "Unity-Technologies/skills",
-      "url": "https://github.com/Unity-Technologies/skills",
-      "heat": "GitHub Search API 9/13：864 stars / 46 forks / created_at 2026-05-05 / pushed_at 2026-09-11。",
-      "why": "Unity workflow 的 reusable skills 说明 skill 生态开始进入垂直工具链，游戏/3D/创作软件会需要自己的 agent 操作规范。",
-      "xhsAngle": "选题：以后每个专业软件，可能都会有一套自己的 AI 员工手册。"
+      "title": "bytedance/deer-flow：长程 SuperAgent 工作台继续活跃",
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "heat": "GitHub Search API 9/15：82444 stars / 11370 forks / pushed_at 2026-09-15。",
+      "why": "研究、编码、创作、sandbox、memory、tools、skills、subagents 和消息网关组合在一起，指向“分钟到小时任务”的 agent 产品形态。",
+      "xhsAngle": "选题：真正的 AI 助手，不是秒回，而是能把一个小时的任务接住。"
     },
     {
-      "title": "Forward-Future/loopy：prompt loops 被整理成可复用工作流库",
-      "repo": "Forward-Future/loopy",
-      "url": "https://github.com/Forward-Future/loopy",
-      "heat": "GitHub Search API 9/13：3129 stars / 275 forks / created_at 2026-06-12 / pushed_at 2026-09-11。",
-      "why": "agentic workflows、automation、prompt engineering 和 Codex topics 同时出现，说明用户不仅要单条 prompt，而是要能循环执行、能复盘的工作流模板。",
-      "xhsAngle": "选题：真正省时间的 AI prompt，不是一句话，而是一套会自己循环的流程。"
+      "title": "mem0ai/mem0：agent 记忆层仍是基础设施热点",
+      "repo": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "heat": "GitHub Search API 9/15：65294 stars / 7652 forks / pushed_at 2026-09-14。",
+      "why": "长期记忆、状态管理和 RAG 上下文持续活跃，说明用户对 AI coworker 的期待正在从单次问答转向可持续关系和可追踪历史。",
+      "xhsAngle": "选题：AI 要像同事，第一步不是更聪明，而是记得住你们刚才做过什么。"
     }
   ],
   "sparkPool": [
     {
       "title": "电影人格借壳出道",
       "hook": "不要只写 ADÉLA 美，而是写“新人如何借 Nicole Kidman 这样的公共影像资产建立人格”。",
-      "template": "过线 UGC reaction -> 官方视觉 -> 电影符号 -> 新人识别策略 -> 评论投票",
+      "template": "过线 UGC reaction -> 新搜索增温 -> 官方视觉 -> 电影符号 -> 新人识别策略 -> 评论投票",
       "bestFor": "音乐号、审美号、娱乐营销号"
+    },
+    {
+      "title": "女巫怀旧的季节感",
+      "hook": "Practical Magic 2 不要写成普通续集消息，写它如何把秋天、姐妹关系和成年女性友情打包成可复用氛围。",
+      "template": "search cluster -> 官方/影评热度分开 -> 怀旧符号 -> 季节审美 -> 你为哪种氛围买单",
+      "bestFor": "影视号、审美号、生活方式号"
     },
     {
       "title": "反叛 IP 被粉丝审计",
@@ -345,86 +359,66 @@ window.RADAR_DATA = {
       "bestFor": "文化评论号、影视号、内容人格号"
     },
     {
+      "title": "平台人格迁移",
+      "hook": "DWTS/Whitney Leavitt 线适合写短视频红人进入电视综艺时，粉丝到底在审能力还是审人设。",
+      "template": "官方表演高播放 -> UGC 精确值待补 -> creator 人格 -> 电视语言 -> 投票叙事",
+      "bestFor": "creator economy、娱乐综艺号"
+    },
+    {
       "title": "AI 操作记录",
-      "hook": "把 Hugging Face/OpenAI incident 写成普通人也懂的“AI 做了什么，钱花在哪，错在哪”。",
-      "template": "agent 事故 -> sandbox/权限 -> 日志 -> 成本 -> 责任边界",
-      "bestFor": "AI 产品号、效率号、创业号"
-    },
-    {
-      "title": "可浏览 skill 市场",
-      "hook": "用 anbeime/skill、SenseNova-Skills、skales 写 AI agent 从聊天框变成技能商店。",
-      "template": "GitHub 动态样本 -> skill store -> office/vertical workflows -> recurring tasks -> 产品机会",
-      "bestFor": "AI 工具号、独立开发号、产品观察号"
-    },
-    {
-      "title": "女巫怀旧身份感",
-      "hook": "Practical Magic 2 不进主榜，但适合写秋天审美、女性友谊和 witchy lifestyle 的搜索聚类。",
-      "template": "官方热度 -> UGC 未过线 -> 秋天审美 -> 姐妹关系 -> 身份投射",
-      "bestFor": "影视审美号、穿搭号、生活方式号"
+      "hook": "Hugging Face 事件别写恐慌，写普通人授权 AI 时该看懂的权限和日志。",
+      "template": "过线解释视频 -> 争议焦点 -> 权限清单 -> 审计日志 -> 评论区投票",
+      "bestFor": "AI 科普号、职场效率号"
     }
   ],
   "valueFlows": [
     {
       "from": "ADÉLA / PRIMA",
       "to": "新人 pop star 视觉人格",
-      "note": "把 9/10 过线 UGC reaction 和官方视觉转译为“如何借公共电影记忆搭建第一眼人设”。"
+      "note": "把已过线 UGC reaction 和新搜索增温转译为“如何借公共电影记忆搭建第一眼人设”。"
+    },
+    {
+      "from": "Practical Magic 2",
+      "to": "女巫怀旧和季节审美",
+      "note": "只标 search cluster，写姐妹关系、秋天氛围和续集情怀，不把官方预告当 UGC 爆款。"
     },
     {
       "from": "South Park Emmy backlash",
       "to": "反叛品牌的粉丝审计",
-      "note": "把奖项节点和长评涨幅转译为“老粉如何判断一个反叛 IP 是否老化”。"
+      "note": "把奖项节点和长评证据转译为“老粉如何判断一个反叛 IP 是否老化”。"
     },
     {
-      "from": "Hugging Face / OpenAI agent incident",
-      "to": "AI 权限与日志清单",
-      "note": "把高互动安全解释视频转译为普通人如何看授权、sandbox、操作记录和出错责任。"
+      "from": "Hugging Face agent incident",
+      "to": "普通人 AI 权限教育",
+      "note": "把高互动 AI 安全解释转译为权限边界、操作记录、谁负责的实用清单。"
     },
     {
-      "from": "GitHub agent skill repos",
-      "to": "技能市场、垂直工作流和定时任务",
-      "note": "把 skill store、office skill、desktop agent、Unity skills、loop library 转译为 AI 产品机会。"
-    },
-    {
-      "from": "Practical Magic 2",
-      "to": "秋天女巫审美身份叙事",
-      "note": "UGC 未过线，只作为 search cluster 写审美与生活方式，不进入 Social 主榜。"
+      "from": "GitHub agent skills",
+      "to": "可复用工作方法和创业机会",
+      "note": "把 GitHub API 当日样本转译为 skill 方法论、UI/UX skill、知识图谱和记忆层机会。"
     }
   ],
   "arbitragePicks": [
     {
       "title": "ADÉLA：把电影人格写成新人出圈方法",
-      "whyNow": "9/10 turning the tables PRIMA reaction 已过 Social 主榜门槛，说明讨论从官方视觉扩散到 UGC 专辑评价。",
-      "xhsTitle": "ADÉLA 出圈最聪明的地方，是先借一个全网都懂的电影人格",
+      "whyNow": "ADÉLA 9/10 exact-video 已过 Social 主榜门槛，9/15 搜索又出现多条 5万播放以上 reaction 增温。",
+      "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
       "firstParagraph": "新人最难的是让人一眼记住你。ADÉLA 这次聪明的地方，是没有先解释自己是谁，而是先借 Nicole Kidman 这套大家已经懂的影像资产，把“自信、控制感、戏剧性”直接打包给观众。",
       "cta": "你觉得新人歌手出圈，先靠作品还是先靠一个清晰人设？"
     },
     {
-      "title": "South Park：把反叛 IP 写成粉丝审计",
-      "whyNow": "The ArchCast 9/9 长评涨到 15.94万播放 / 5250赞 / 2000评论，老粉审判语境继续发酵。",
-      "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
-      "firstParagraph": "最有意思的不是它又冒犯了谁，而是观众开始反过来审判它：一个靠反叛起家的 IP，被主流认可、被奖项拥抱之后，还能不能继续像以前那样锋利？",
-      "cta": "你觉得反叛 IP 被主流接受后，还能继续反叛吗？"
+      "title": "Practical Magic 2：把续集热度写成女巫怀旧",
+      "whyNow": "9/15 review/search cluster 升温，但未拿到达标 UGC 赞评精确值，适合做 Summary 观察和轻量选题。",
+      "xhsTitle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧",
+      "firstParagraph": "Practical Magic 2 的热度不是简单的“续集来了”，而是它把秋天、姐妹关系、旧片记忆和一点点神秘感重新捆在一起。很多人怀念的其实不是魔法，而是一种可以被季节唤醒的女性友情氛围。",
+      "cta": "你会为一部续集买单，是因为剧情，还是因为它把一种季节感带回来了？"
     },
     {
-      "title": "Hugging Face 事件：把 AI 风险写成权限清单",
-      "whyNow": "9/4-9/9 多条高互动解释视频过 AI 主榜，评论区从失控恐惧转向 sandbox、权限和日志。",
+      "title": "AI agent：把安全事件写成普通人权限清单",
+      "whyNow": "Hugging Face/OpenAI incident 多条 exact videos 过 AI 主榜门槛，9/15 搜索仍有增温结果。",
       "xhsTitle": "以后用 AI，最重要的可能不是技巧，而是操作记录",
-      "firstParagraph": "AI agent 的问题不只是会不会做事，而是它拿了哪些权限、调用了什么工具、花了多少钱、失败时谁能追到原因。普通人也会需要自己的 AI 操作记录。",
-      "cta": "你会把账号权限交给 AI agent 吗？边界应该设在哪里？"
-    },
-    {
-      "title": "GitHub Skill：把技能市场写成 AI 产品机会",
-      "whyNow": "9/13 GitHub Search API 显示 skill store、office skill、enterprise agent、desktop recurring task 和 loop library 同时活跃；9/14 匿名 API 已限流，因此不写成已验证周涨幅。",
-      "xhsTitle": "AI agent 的下一波机会，是做一个真正能逛的技能市场",
-      "firstParagraph": "这一波 GitHub 热点像一个信号：AI agent 的机会不只在生成，而在让用户能找到技能、安装技能、组合技能，再让它定期回来继续做同一件事。",
-      "cta": "你最想给 AI 安装哪类技能：办公、设计、编程，还是定时任务？"
-    },
-    {
-      "title": "Practical Magic 2：把女巫怀旧写成秋天身份感",
-      "whyNow": "官方访谈和 trailer 热度强，但 UGC 未过主榜；适合做搜索聚类型 Spark，而不是爆款复盘。",
-      "xhsTitle": "为什么女巫片一到秋天就会重新变时髦？",
-      "firstParagraph": "女巫审美每到秋天都会回来，不只是因为神秘感，而是它把姐妹关系、独立生活、老房子、草药香气和一点点反秩序打包成一种很容易被收藏的身份。",
-      "cta": "你喜欢女巫审美，是因为神秘感、女性友谊，还是秋天氛围？"
+      "firstParagraph": "这类 AI 事件最值得普通人看的，不是技术名词有多吓人，而是一个很现实的问题：当你把账号、文件和工作流权限交给 AI，它到底做了什么、谁能看到记录、出了错谁负责？",
+      "cta": "你愿意把账号权限交给 AI，前提是什么？"
     }
   ],
   "weeklySop": [
@@ -435,144 +429,139 @@ window.RADAR_DATA = {
     },
     {
       "step": "02",
-      "title": "过高互动和评论可写性",
-      "detail": "主榜必须有高播放/高互动证据；今天优先用 yt-dlp 单页精确播放、点赞、评论，拿不到精确互动时只写 search cluster 或 watchlist。"
+      "title": "新增主榜必须有精确互动",
+      "detail": "YouTube 单页遇到 429 时，不把 flat search 播放量直接当主榜证据；只有已有精确播放、点赞、评论且过门槛的内容进入 Social/AI 主榜。"
     },
     {
       "step": "03",
-      "title": "区分官方热度和 UGC 热度",
-      "detail": "官方 MV、官方访谈、新闻短视频只能作背景；Social 主榜必须有 UGC / reaction / commentary / analysis 支撑。"
+      "title": "官方内容和搜索聚类分开写",
+      "detail": "官方预告、访谈、电视表演只作实体发现或关联背景；没有 UGC 赞评证据时写 watchlist/search cluster。"
     },
     {
       "step": "04",
-      "title": "只挑能转成小红书站队的问题",
-      "detail": "优先保留有身份、信任、品味、控制感或机会差的问题。没有评论引导的问题，即使热也先放 watchlist。"
-    },
-    {
-      "step": "05",
-      "title": "发布后回填 Spark 库",
-      "detail": "记录 24/72 小时收藏、评论站队和二次选题，把有效 hook 写回 Spark，把低互动方向标记为待补。"
+      "title": "安全过滤先于选题诱惑",
+      "detail": "医疗化、药物、身体极端化和可能引导模仿的叙事继续排除；娱乐审美只写风格、身份和内容人格。"
     }
   ],
   "contentFormats": [
-    "格式：电影人格出道：过线 UGC、官方视觉、公共电影符号、人设识别、评论投票。",
-    "格式：反叛 IP 审计：奖项节点、长评涨幅、老粉怀旧、冒犯边界、你还吃不吃。",
-    "格式：AI 权限清单：agent 事故、sandbox、日志、成本、责任边界、普通人授权建议。",
-    "格式：Skill 市场观察：GitHub 动态样本、技能商店、办公/垂直 workflow、定时任务、产品机会。",
-    "格式：女巫怀旧审美：官方热度、UGC 未过线标注、姐妹关系、秋天身份感、搜索聚类。"
+    "格式：电影人格出道：过线 UGC、新搜索增温、公共电影符号、人设识别、评论投票。",
+    "格式：女巫怀旧：search cluster、续集预期、姐妹关系、秋天审美、你为哪种氛围买单。",
+    "格式：反叛 IP 审计：奖项节点、长评过线、老粉怀旧、冒犯边界、你还吃不吃。",
+    "格式：AI 权限清单：过线解释视频、权限边界、操作记录、责任归属、普通人怎么自查。",
+    "格式：Agent skill 产品化：GitHub API 样本、方法论、垂直 skill、知识图谱、记忆层创业点。"
   ],
   "summarySparks": [
     {
-      "id": "adela-prima-ugc-0914",
+      "id": "adela-prima-ugc-0915",
       "tags": [
         "music",
         "visual-identity",
         "exact-video"
       ],
       "lane": "Music / New Pop Persona",
-      "heat": "95",
-      "title": "ADÉLA 从官方视觉变成 UGC 讨论",
-      "spark": "turning the tables 9/10 PRIMA reaction 12.17万播放 / 3333赞 / 282评论；DELI 9/4 8.34万播放 / 2141赞 / 245评论，今天可进入 Social 主榜。",
-      "xhsTitle": "ADÉLA 出圈最聪明的地方，是先借一个全网都懂的电影人格",
-      "discussion": "讨论热点：Nicole Kidman 电影符号、AMC 梗、首专成熟度、Dream Academy 后再定位、pop girl 是否需要一眼人设。",
-      "prompt": "引导话题：新人歌手出圈，先靠好歌，还是先靠清晰到能被截图的人设？",
-      "tone": "适合审美/音乐营销号；这次有 UGC exact-video 证据，不再只靠官方 MV。"
+      "heat": "96",
+      "title": "ADÉLA 讨论从首专 reaction 扩到人格验收",
+      "spark": "9/15 动态实体复扫显示 ADÉLA PRIMA 仍有新 UGC 搜索结果：brookexvg 9/14 flat search 5.67万播放、Katriinka 5.91万播放、Kess and Han 31.48万播放；但单页点赞/评论遇到 YouTube 429，主榜仍采用 9/14 已精确复核的 turning the tables 12.17万播放 / 3333赞 / 282评论与 DELI 8.34万播放 / 2141赞 / 245评论。",
+      "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
+      "discussion": "评论热点：Nicole Kidman/AMC 梗、PRIMA 是否不像新人首专、Dream Academy 后再定位、红色高跟鞋和控制感视觉。",
+      "prompt": "引导话题：新人歌手先被记住，是靠一首歌，还是靠一个可复述的人格符号？",
+      "tone": "适合音乐审美号；今天新增搜索结果只作增温证据，主榜不新增未精确赞评样本。"
     },
     {
-      "id": "south-park-emmy-backlash-0914",
+      "id": "practical-magic-2-review-watch-0915",
+      "tags": [
+        "film",
+        "witchy-nostalgia",
+        "search-cluster"
+      ],
+      "lane": "Film / Witchy Nostalgia",
+      "heat": "92",
+      "title": "Practical Magic 2 从怀旧预热进入影评审判",
+      "spark": "动态实体从 Nicole Kidman/Sandra Bullock 访谈升级到 Practical Magic 2 review：Jeremy Jahns flat search 32.67万播放、Beyond The Trailer 7.00万播放、Reel Rejects 第一部回看 7.49万播放；但单页点赞/评论未拿到，且官方预告/采访占比高，标注 search cluster。",
+      "xhsTitle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧",
+      "discussion": "评论热点：Midnight Margaritas、姐妹关系、秋天审美、续集是否消费情怀、老粉与新观众的期待差。",
+      "prompt": "引导话题：你会为一部续集买单，是因为剧情，还是因为它把一种季节感带回来了？",
+      "tone": "适合影视/审美号；只做 Summary/watchlist，不进 Social 主榜。"
+    },
+    {
+      "id": "south-park-satire-audit-0915",
       "tags": [
         "tv",
         "satire",
         "fandom"
       ],
       "lane": "TV / Satire Brand",
-      "heat": "94",
-      "title": "South Park 被老粉审判还反不反叛",
-      "spark": "The ArchCast 9/9 长评涨到 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 9/7 97.28万播放 / 35906赞 / 1600评论。",
+      "heat": "93",
+      "title": "South Park 争议继续变成反叛品牌审计",
+      "spark": "9/15 搜索出现大量新闻/切片噪声，未发现新的近 15 天高质量 UGC exact video；主榜保留 9/14 已精确复核 The ArchCast 15.94万播放 / 5250赞 / 2000评论、Brian Tyler Cohen 97.28万播放 / 35906赞 / 1600评论。",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
-      "discussion": "评论热点：讽刺对象是否变窄、老粉怀旧、奖项是否改变反叛 IP、政治笑话和角色故事的比例。",
-      "prompt": "引导话题：一个反叛 IP 被主流接受后，还能继续反叛吗？",
-      "tone": "适合文化评论号；避开党派动员，写内容人格老化和粉丝审计。"
+      "discussion": "评论热点：讽刺对象是否变窄、政治笑话是否盖过角色、老粉怀旧、奖项是否会驯化反叛 IP。",
+      "prompt": "引导话题：一个靠冒犯起家的内容品牌，被主流认可后还会锋利吗？",
+      "tone": "适合文化评论号；继续避开党派动员，写内容人格老化和粉丝审计。"
     },
     {
-      "id": "silo-rule-system-0914",
-      "tags": [
-        "streaming",
-        "sci-fi",
-        "explained"
-      ],
-      "lane": "Streaming / Rule System",
-      "heat": "91",
-      "title": "SILO 结局长尾仍在审计规则",
-      "spark": "Think Story、BrainPilot、Brandi's Reel Reviews 9/4-9/5 多条 finale exact videos 仍在 15 天窗口且过线。",
-      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
-      "discussion": "评论热点：finale 是否解释够、谁有解释权、规则为什么失灵、下一季是否补偿答案。",
-      "prompt": "引导话题：一套规则开始失灵时，你会先怀疑人还是怀疑系统？",
-      "tone": "适合影视号/职场隐喻号；不要写成硬科幻门槛帖。"
-    },
-    {
-      "id": "hf-openai-agent-incident-0914",
+      "id": "hugging-face-agent-risk-0915",
       "tags": [
         "ai",
-        "security",
-        "agent"
+        "agent-safety",
+        "exact-video"
       ],
-      "lane": "AI / Agent Safety",
-      "heat": "99",
-      "title": "Hugging Face 事件把 agent 风险推成大众议题",
-      "spark": "JRE Clips 9/9 81.38万播放 / 5448赞 / 1300评论；80,000 Hours、Sabine、Dwarkesh 多条高互动解释视频过 AI 主榜。",
+      "lane": "AI / Agent Trust",
+      "heat": "95",
+      "title": "Hugging Face 事件继续把 agent 信任推向大众层",
+      "spark": "9/15 搜索出现 80,000 Hours 45.78万播放、Nate B Jones 24.96万播放等延伸结果；单页点赞/评论遇到 429，主榜仍采用 9/14 精确复核 JRE Clips、80,000 Hours、Sabine、Dwarkesh 多条过线证据。",
       "xhsTitle": "以后用 AI，最重要的可能不是技巧，而是操作记录",
-      "discussion": "评论热点：sandbox 是否够、权限边界、披露责任、企业审计日志、个人账号能不能交给 agent。",
-      "prompt": "引导话题：你会放心把账号权限交给 AI agent 吗？边界应该设在哪里？",
-      "tone": "适合 AI 产品/效率号；把恐慌翻译成普通人的权限清单。"
+      "discussion": "评论热点：sandbox 是否足够、披露责任、权限边界、审计日志、企业和个人如何追溯 agent 行为。",
+      "prompt": "引导话题：你愿意把账号权限交给 AI，前提是什么？",
+      "tone": "适合 AI 普及号；从恐慌叙事转成普通人的权限清单。"
     },
     {
-      "id": "gpt6-astra-trust-0914",
+      "id": "dwts-whitney-search-cluster-0915",
       "tags": [
-        "ai",
-        "model",
-        "trust"
+        "tv",
+        "creator-economy",
+        "search-cluster"
       ],
-      "lane": "AI / Model Trust",
-      "heat": "96",
-      "title": "GPT-6 Astra 热点仍是可信测试",
-      "spark": "Fireship 9/4 402.77万播放 / 45381赞 / 2800评论；AI Explained、Chase AI、Nate Herk、Matt Wolfe 仍过 AI 主榜。",
-      "xhsTitle": "GPT-6 Astra 最值得写的不是强，而是它让人开始重新定义信任",
-      "discussion": "评论热点：AGI 说法、benchmark 可信度、真实工作流测试、失败边界、普通人是否升级。",
-      "prompt": "引导话题：你判断一个 AI 工具好不好，先看测评还是先自己试？",
-      "tone": "AI 主稿仍稳；不要堆参数，写测试场景和信任边界。"
+      "lane": "TV / Creator Economy",
+      "heat": "86",
+      "title": "Whitney Leavitt / DWTS 是平台人格迁移观察",
+      "spark": "Dancing with the Stars 官方 TikTok Night Samba flat search 89.22万播放，UGC 汇编 10.59万播放，但核心结果多为官方表演或旧季剪辑，缺少近 15 天达标 UGC 赞评精确值。",
+      "xhsTitle": "网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚",
+      "discussion": "评论热点：TikTok 人设能否迁移到电视、专业舞者与 creator 的界限、粉丝投票如何改变综艺叙事。",
+      "prompt": "引导话题：你觉得短视频红人上电视，最容易翻车的是能力还是人设？",
+      "tone": "适合 creator economy 观察；只标 search cluster。"
     },
     {
-      "id": "github-skill-store-0914",
+      "id": "silo-rules-longtail-0915",
+      "tags": [
+        "tv",
+        "worldbuilding",
+        "exact-video"
+      ],
+      "lane": "TV / Worldbuilding",
+      "heat": "88",
+      "title": "SILO finale 长尾仍能产出规则系统选题",
+      "spark": "Think Story 9/4 64.28万播放 / 8895赞 / 1200评论、BrainPilot 9/4 48.78万播放 / 6614赞 / 1500评论、Brandi's Reel Reviews 9/5 9.98万播放 / 3230赞 / 893评论仍在 15 天窗口。",
+      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
+      "discussion": "评论热点：解释权、信息差、规则失灵、下一季补偿、世界观是否比角色更吸引人。",
+      "prompt": "引导话题：你追剧最吃设定，还是最吃人物命运？",
+      "tone": "适合影视解析号；今天不新增样本，保留强长尾。"
+    },
+    {
+      "id": "github-agent-skills-method-market-0915",
       "tags": [
         "github",
-        "agent",
-        "skills"
+        "ai-workflow",
+        "agent-skills"
       ],
-      "lane": "GitHub Skill / Workflow Market",
-      "heat": "93",
-      "title": "Skill 热点转向可浏览市场和垂直工作流",
-      "spark": "GitHub Search API 9/13：anbeime/skill 6602 stars、SenseNova-Skills 5602、ruoyi-ai 5691、skales 1868、Unity skills 864、loopy 3129。",
-      "xhsTitle": "AI agent 的下一波机会，是做一个真正能逛的技能市场",
-      "discussion": "讨论点：skill store、office automation、企业知识库、desktop recurring task、Unity 垂直 skill、prompt loop library。",
-      "prompt": "引导话题：你最想给 AI 安装哪类技能：办公、设计、编程，还是定时任务？",
-      "tone": "适合 AI 产品/独立开发号；写 9/13 动态样本与 9/14 活跃确认，不把固定仓库列表说成上涨榜。"
-    },
-    {
-      "id": "witchy-nostalgia-0914",
-      "tags": [
-        "tiktok",
-        "film",
-        "aesthetic"
-      ],
-      "lane": "TikTok / Witchy Nostalgia",
-      "heat": "84",
-      "title": "Practical Magic 2 适合做女巫怀旧观察",
-      "spark": "Jimmy Fallon 9/12 采访 14.84万播放但赞评未过线；UGC reaction 仍低，今天只做 search cluster/watchlist。",
-      "xhsTitle": "为什么女巫片一到秋天就会重新变时髦？",
-      "discussion": "讨论点：姐妹关系、秋天审美、90s 怀旧、Nicole Kidman/Sandra Bullock reunion、witchy lifestyle。",
-      "prompt": "引导话题：你喜欢女巫审美，是因为神秘感、女性友谊，还是秋天氛围？",
-      "tone": "适合穿搭/影视审美号；必须标注 search cluster。"
+      "lane": "GitHub / Agent Skills",
+      "heat": "91",
+      "title": "Agent skill 热点从清单转向方法论和工作台",
+      "spark": "9/15 GitHub Search API：obra/superpowers 286714 stars / 25645 forks / pushed_at 2026-09-14，affaan-m/ECC 258425 / 38654 / 2026-09-14，nextlevelbuilder/ui-ux-pro-max-skill 127649 / 13629 / 2026-09-15，Graphify-Labs/graphify 116758 / 11398 / 2026-09-12。",
+      "xhsTitle": "AI agent 的下一波，不是技能清单，而是可复用工作方法",
+      "discussion": "讨论热点：技能市场、开发方法论、UI/UX skill、代码知识图谱、长程工作台和记忆层。",
+      "prompt": "引导话题：你更想买一个 AI 工具，还是一套能重复调用的工作方法？",
+      "tone": "适合 AI 产品/创业号；不写周涨幅，只写 API 当日动态样本。"
     }
   ],
   "contentGuardrails": [
@@ -595,11 +584,11 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-14-1009",
-    "contentWindow": "内容研究窗口：2026.08.30 - 2026.09.14 / 部署包生成：2026-09-14 10:09 CST",
-    "researchedThrough": "2026-09-14",
-    "packageGeneratedAt": "2026-09-14 10:09 CST",
-    "summary": "9/14 继续动态实体优先：从 ADÉLA / PRIMA、South Park Emmy 后自我讽刺争议、SILO finale 长尾解释权、Practical Magic 2 电视采访/女巫怀旧、Emmys/Bad Bunny/Sabrina 节点、Hugging Face/OpenAI agent incident、Codex/agent skill repo 与 desktop agent 工作流等真实热簇反推二级搜索。Social 主榜新增 ADÉLA 9/10 UGC album reaction 过线证据，并更新 South Park 9/9 视频涨到 15.94万播放 / 5250赞 / 2000评论；SILO 仍保留 9/4-9/5 达标 exact-video 证据。Emmys、Practical Magic 2、Beyoncé collector box、Kimmel YouTube migration、Taylor Showgirl 均因 UGC 或时间窗口不足标注为 watchlist/search cluster。AI 主榜新增 Hugging Face/OpenAI incident 多条 9/4-9/9 高互动解释视频；Codex skills 近期视频赞数不足只进观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/13 GitHub Search API 动态样本，并以 9/14 搜索结果确认大仓仍在活跃更新，突出 skill store、office skill、enterprise agent、desktop agent、Unity vertical skill 和 loop library。医疗化、药物、身体极端化和可模仿风险继续过滤。"
+    "editionId": "2026-09-15-1018",
+    "contentWindow": "内容研究窗口：2026.08.31 - 2026.09.15 / 部署包生成：2026-09-15 10:18 CST",
+    "researchedThrough": "2026-09-15",
+    "packageGeneratedAt": "2026-09-15 10:18 CST",
+    "summary": "9/15 继续动态实体优先：从 ADÉLA / PRIMA、Practical Magic 2 review/witchy nostalgia、South Park Emmy 后反叛 IP 审计、SILO finale 长尾、Whitney Leavitt / DWTS 平台人格迁移、Hugging Face/OpenAI agent incident、GitHub agent skills 方法论/工作台/记忆层等真实热簇反推二级搜索。YouTube 单页今天触发 429/bot gate，因此新增 flat search 播放量只作为增温或 watchlist，未把缺少精确点赞/评论的候选放入 Social/AI 主榜。Social 主榜保留 9/14 与 9/9 已精确复核且仍在窗口内的 ADÉLA、South Park、SILO exact videos。Practical Magic 2、DWTS/Whitney、Emmys、NIU LAI、Jimmy Kimmel 均标注为 search cluster/watchlist。AI 主榜保留 Hugging Face/OpenAI incident、GPT-6 Astra、ChatGPT Work 的已过线 exact videos，并把 9/15 flat search 只写为增温观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/15 GitHub Search API 当日样本，突出 agent skill 方法论、harness 优化、UI/UX skill、代码知识图谱、长程工作台和记忆层，不写成已验证周涨幅。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -659,8 +648,8 @@ window.RADAR_DATA = {
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-09-14",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/14 新增 ADÉLA / PRIMA UGC 过线、South Park Emmy 后自我审判、Hugging Face/OpenAI agent incident 高互动解释簇，并复核 Emmys、Practical Magic 2、Kimmel、Beyoncé collector box、Taylor Showgirl 与 Codex/agent skills。",
+    "researchedThrough": "2026-09-15",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/15 发现 ADÉLA UGC 增温、Practical Magic 2 review/witchy nostalgia、Whitney Leavitt DWTS 平台人格迁移、Hugging Face/OpenAI agent incident 延伸、GitHub agent skill 方法论/工作台/记忆层；YouTube 单页 429 时新增样本只进 watchlist/search cluster。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
