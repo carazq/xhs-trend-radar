@@ -104,39 +104,39 @@ window.RADAR_DATA = {
   ],
   "youtubeWatchlist": [
     {
-      "title": "Practical Magic 2：影评热度出现，但主榜赞评待精确复核",
-      "reason": "9/15 动态实体搜索显示 Practical Magic 2 review 升温：Jeremy Jahns flat search 32.67万播放，Beyond The Trailer 7.00万播放，Reel Rejects 第一部回看 7.49万播放；单页点赞/评论遇到 429，且官方预告/采访占比高，今天只做 search cluster。",
+      "title": "Swiftologist / pop girl hierarchy：播放强，赞评待补",
+      "reason": "9/16 flat search：The Pop Girl Hierarchy Nobody Talks About 41.94万播放，You Misunderstood the 7 Levels of Pop Girl 16.69万播放，The 7 Levels of Pop Boy 20.96万播放；单页被 YouTube 登录/bot gate 拦截，未拿到精确赞评。",
       "sourceType": "Search cluster",
-      "suggestedSearch": "Practical Magic 2 review; Practical Magic 2 Jeremy Jahns; Practical Magic 2 witchy nostalgia commentary",
+      "suggestedSearch": "Swiftologist pop girl hierarchy; seven levels of pop girl; pop girl ranking commentary",
+      "xhsAngle": "为什么大家这么爱给 pop girl 排等级？因为排的其实是自己。"
+    },
+    {
+      "title": "Michael (2026)：观众与影评人信任冲突",
+      "reason": "The Critical Drinker 142.08万播放、Double Toasted 10.08万播放、Beyond The Trailer 6.96万播放；精确赞评复核失败，暂不进 Social 主榜。",
+      "sourceType": "Search cluster",
+      "suggestedSearch": "Michael 2026 movie review; Michael movie critics audience reaction; Jaafar Jackson biopic analysis",
+      "xhsAngle": "传记片最难拍的不是还原本人，而是让观众相信你有资格讲他。"
+    },
+    {
+      "title": "Practical Magic 2：女巫怀旧仍可追",
+      "reason": "9/15 已见 Jeremy Jahns flat search 32.67万播放、Beyond The Trailer 7.00万播放；9/16 未拿到新增精确赞评，继续 search cluster。",
+      "sourceType": "Search cluster",
+      "suggestedSearch": "Practical Magic 2 review; Practical Magic 2 witchy nostalgia commentary",
       "xhsAngle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧。"
     },
     {
+      "title": "John Mulaney / Emmys 2026：新闻噪声高，UGC 不足",
+      "reason": "9/16 搜索结果多为 E! News、MEAWW 等新闻/短切片，UGC 单条播放不足或混入旧内容，不进主榜。",
+      "sourceType": "Search cluster / news noise",
+      "suggestedSearch": "John Mulaney DJ Khaled Emmys 2026 reaction commentary",
+      "xhsAngle": "颁奖礼梗如何从现场笑话变成平台二创素材。"
+    },
+    {
       "title": "Whitney Leavitt / DWTS：平台人格迁移观察",
-      "reason": "DWTS 官方 TikTok Night Samba flat search 89.22万播放，UGC 汇编 10.59万播放，但核心结果多为官方表演或旧季剪辑，缺少近 15 天达标 UGC 赞评精确值。",
+      "reason": "官方表演和旧季剪辑占比高，缺少近 15 天达标 UGC 赞评精确值。",
       "sourceType": "Search cluster",
       "suggestedSearch": "Whitney Leavitt DWTS TikTok Night reaction; Dancing with the Stars creator commentary",
       "xhsAngle": "网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚。"
-    },
-    {
-      "title": "Emmys 2026 / Bad Bunny / Sabrina：奖项节点仍强，UGC 不足",
-      "reason": "9/15 复扫仍显示 Pardo Stories Emmy recap 仅 1.03万播放；搜索混入 Grammys、官方片段和旧内容，不能进 Social 主榜。",
-      "sourceType": "Search cluster",
-      "suggestedSearch": "Bad Bunny Emmy reaction; Sabrina Carpenter Emmy reaction; Creative Arts Emmys 2026 commentary",
-      "xhsAngle": "奖项节点如何把歌手/演员的人格资产重新排序。"
-    },
-    {
-      "title": "NIU LAI / anti-AI movie：概念有趣但互动不足",
-      "reason": "9/15 broad pop-culture 搜索出现 theresa cornelia 相关视频，但 flat search 仅 1751播放；只记录为反 AI 影像叙事观察。",
-      "sourceType": "Search cluster / watch",
-      "suggestedSearch": "NIU LAI anti AI movie commentary; Chinese movie broke the internet reaction",
-      "xhsAngle": "反 AI 电影如何把技术焦虑做成角色人格。"
-    },
-    {
-      "title": "Jimmy Kimmel / YouTube migration：仍需 UGC 达标样本",
-      "reason": "稳定来源和电视讨论继续存在，但搜索结果以新闻/访谈为主，未发现可进入主榜的近 15 天 UGC exact video。",
-      "sourceType": "Stable source / Search cluster",
-      "suggestedSearch": "Jimmy Kimmel YouTube interview reaction; late night YouTube migration commentary",
-      "xhsAngle": "传统电视人格如何被 YouTube 评论区重新定价。"
     }
   ],
   "aiSignals": [
@@ -249,28 +249,28 @@ window.RADAR_DATA = {
   ],
   "tiktokSignals": [
     {
+      "title": "Pop girl hierarchy / Swiftologist 站内搜索聚类",
+      "sourceType": "站内搜索聚类",
+      "metrics": "精确视频链接待补；不放账号页。",
+      "link": "https://www.tiktok.com/search?q=pop%20girl%20hierarchy",
+      "heat": "观察粉丝如何用层级、main pop girl、era 和商业成绩来给偶像排序。",
+      "xhsAngle": "标题：为什么大家这么爱给 pop girl 排等级？因为排的其实是自己。"
+    },
+    {
+      "title": "Michael 2026 / Jaafar Jackson 站内搜索聚类",
+      "sourceType": "站内搜索聚类",
+      "metrics": "精确视频链接待补；不放账号页。",
+      "link": "https://www.tiktok.com/search?q=Michael%202026%20Jaafar%20Jackson%20review",
+      "heat": "适合观察传记片观众如何讨论像不像、敢不敢讲复杂、粉丝记忆和影评分歧。",
+      "xhsAngle": "标题：传记片最难拍的不是还原本人，而是让观众相信你有资格讲他。"
+    },
+    {
       "title": "ADÉLA PRIMA / Nicole Kidman 站内搜索聚类",
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
       "link": "https://www.tiktok.com/search?q=AD%C3%89LA%20PRIMA%20Nicole%20Kidman",
       "heat": "观察新人 pop star 如何用 Nicole Kidman、AMC 梗、红色高跟鞋和电影式控制感建立第一眼人格。",
       "xhsAngle": "标题：ADÉLA 出圈最聪明的地方，是把新人感做成电影人格。"
-    },
-    {
-      "title": "Practical Magic 2 / witchy nostalgia 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Practical%20Magic%202%20witchy%20nostalgia",
-      "heat": "短视频适合看 Midnight Margaritas、秋天女巫审美、姐妹关系和续集情怀如何被重新剪辑。",
-      "xhsAngle": "标题：女巫片最会拿捏的不是魔法，是成年女性的友情怀旧。"
-    },
-    {
-      "title": "Whitney Leavitt DWTS / creator crossover 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Whitney%20Leavitt%20DWTS%20TikTok%20Night",
-      "heat": "观察 TikTok creator 进入电视综艺后，粉丝如何讨论专业度、人设迁移和投票叙事。",
-      "xhsAngle": "标题：网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚。"
     },
     {
       "title": "Hugging Face OpenAI agent incident 站内搜索聚类",
@@ -281,111 +281,111 @@ window.RADAR_DATA = {
       "xhsAngle": "标题：以后用 AI，最重要的可能不是技巧，而是操作记录。"
     },
     {
-      "title": "Codex skills / agent workflow 站内搜索聚类",
+      "title": "Codex / NVIDIA skills / agent workflow 站内搜索聚类",
       "sourceType": "站内搜索聚类",
       "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Codex%20skills%20agent%20workflow",
-      "heat": "适合观察 skill、agent workflow、desktop agent、AI coworker 等词如何被普通创作者翻译成工作流教程。",
-      "xhsAngle": "标题：AI agent 的下一波，不是技能清单，而是可复用工作方法。"
+      "link": "https://www.tiktok.com/search?q=agent%20skills%20Codex%20workflow",
+      "heat": "适合观察 skills、workflow、desktop agent、AI coworker 和 guardrail 如何被普通创作者翻译成教程。",
+      "xhsAngle": "标题：AI agent 的下一波，不是技能清单，而是可复用工作台。"
     }
   ],
   "githubSkills": [
     {
-      "title": "obra/superpowers：agent skill 从技巧包变成开发方法论",
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "heat": "GitHub Search API 9/15：286714 stars / 25645 forks / pushed_at 2026-09-14。",
-      "why": "仓库描述为 agentic skills framework 与软件开发方法论，说明 skill 叙事开始从“装几个命令”升级为团队可复用的研发流程。",
-      "xhsAngle": "选题：AI agent 最值钱的不是 prompt，而是一套能反复执行的工作方法。"
+      "title": "langgenius/dify：agentic workflow 继续是工作台基线",
+      "repo": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "heat": "GitHub Search API 9/16：155868 stars / 24618 forks / pushed_at 2026-09-15。",
+      "why": "Dify 把 agentic workflow、RAG、模型和工具支持放在同一个协作工作台里，说明 AI 应用机会正在从单点 bot 转向可运营流程。",
+      "xhsAngle": "选题：AI 应用真正值钱的不是对话框，而是能被团队反复跑的工作流。"
     },
     {
-      "title": "affaan-m/ECC：agent harness 性能优化成为新卖点",
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "heat": "GitHub Search API 9/15：258425 stars / 38654 forks / pushed_at 2026-09-14。",
-      "why": "把 skills、instincts、memory、security 和 research-first development 打包，指向“让 agent 稳定干活”的工程化机会。",
-      "xhsAngle": "选题：AI 工具从能用到好用，中间差的是记忆、约束和复盘。"
+      "title": "ruvnet/ruflo：多 agent harness 继续活跃",
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "heat": "GitHub Search API 9/16：72559 stars / 8589 forks / pushed_at 2026-09-16。",
+      "why": "仓库围绕 multi-agent、swarm、memory、Claude Code / Codex 集成，指向“让多个 agent 协同”的下一层产品问题。",
+      "xhsAngle": "选题：一个 AI 不够用时，难题会变成谁负责、谁记忆、谁验收。"
     },
     {
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill：设计 skill 成为可安装能力",
-      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "heat": "GitHub Search API 9/15：127649 stars / 13629 forks / pushed_at 2026-09-15。",
-      "why": "UI/UX skill 把设计判断、组件选择和跨平台输出包装成 agent 能调用的能力，适合非设计师和独立开发者。",
-      "xhsAngle": "选题：下一个 AI 副业机会，可能是把你的专业审美做成一个 skill。"
+      "title": "anbeime/skill：技能商店化开始面向普通用户",
+      "repo": "anbeime/skill",
+      "url": "https://github.com/anbeime/skill",
+      "heat": "GitHub Search API 9/16：6758 stars / 640 forks / pushed_at 2026-09-15。",
+      "why": "把文档、内容创作、编程、机器学习和自动化工作流打包成可安装 skill，说明 skill marketplace 叙事正在大众化。",
+      "xhsAngle": "选题：未来卖能力，可能不是卖课程，而是卖一个能被 AI 调用的 skill。"
     },
     {
-      "title": "Graphify-Labs/graphify：代码知识图谱变成 agent 基础设施",
-      "repo": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "heat": "GitHub Search API 9/15：116758 stars / 11398 forks / pushed_at 2026-09-12。",
-      "why": "把代码、文档、SQL schema、配置和 PDF 变成可查询知识图谱，说明 agent 长程工作越来越依赖可解释上下文。",
-      "xhsAngle": "选题：AI 写代码之前，最应该先学会读懂一个项目。"
+      "title": "zebbern/claude-code-guide：agent 使用方法也在产品化",
+      "repo": "zebbern/claude-code-guide",
+      "url": "https://github.com/zebbern/claude-code-guide",
+      "heat": "GitHub Search API 9/16：4623 stars / 464 forks / pushed_at 2026-09-16。",
+      "why": "指南类仓库把 commands、workflows、agents、skills 和 tips 打包，说明市场不仅缺工具，也缺可复制的操作手册。",
+      "xhsAngle": "选题：AI 工具太多时，真正稀缺的是一套上手路径。"
     },
     {
-      "title": "bytedance/deer-flow：长程 SuperAgent 工作台继续活跃",
-      "repo": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "heat": "GitHub Search API 9/15：82444 stars / 11370 forks / pushed_at 2026-09-15。",
-      "why": "研究、编码、创作、sandbox、memory、tools、skills、subagents 和消息网关组合在一起，指向“分钟到小时任务”的 agent 产品形态。",
-      "xhsAngle": "选题：真正的 AI 助手，不是秒回，而是能把一个小时的任务接住。"
+      "title": "NVIDIA/skills：垂直硬科技 skill 开始标准化",
+      "repo": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "heat": "GitHub Search API 9/16：3302 stars / 395 forks / pushed_at 2026-09-15。",
+      "why": "面向 Physical AI、robotics、simulation 的 skills 说明 agent skill 不只服务写作/代码，也在进入行业型工作流。",
+      "xhsAngle": "选题：AI skill 的下一站不是更会聊天，而是进入真实行业流程。"
     },
     {
-      "title": "mem0ai/mem0：agent 记忆层仍是基础设施热点",
-      "repo": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
-      "heat": "GitHub Search API 9/15：65294 stars / 7652 forks / pushed_at 2026-09-14。",
-      "why": "长期记忆、状态管理和 RAG 上下文持续活跃，说明用户对 AI coworker 的期待正在从单次问答转向可持续关系和可追踪历史。",
-      "xhsAngle": "选题：AI 要像同事，第一步不是更聪明，而是记得住你们刚才做过什么。"
+      "title": "rpamis/comet：eval harness 成为 skill 质量门槛",
+      "repo": "rpamis/comet",
+      "url": "https://github.com/rpamis/comet",
+      "heat": "GitHub Search API 9/16：3058 stars / 294 forks / pushed_at 2026-09-16。",
+      "why": "Comet 聚焦把想法变成 evaluated workflows，说明用户开始关心 skill 是否可验收，而不只是能否运行。",
+      "xhsAngle": "选题：AI 工作流从炫技到可用，中间差一个验收标准。"
     }
   ],
   "sparkPool": [
     {
+      "title": "粉丝层级语言",
+      "hook": "Swiftologist 线不要写成普通榜单，而是写粉丝为什么需要用等级、era 和主咖叙事解释偶像。",
+      "template": "search cluster -> 层级词汇 -> 粉丝投射 -> 商业成绩 vs 人格符号 -> 评论投票",
+      "bestFor": "音乐号、粉丝文化号、娱乐营销号"
+    },
+    {
+      "title": "传记片信任资格",
+      "hook": "Michael 线适合写“谁有资格讲一个复杂偶像”，而不是只写好看/难看。",
+      "template": "search cluster -> 观众与影评分歧 -> 表演像不像 -> 复杂性是否被讲清 -> 你怎么判断",
+      "bestFor": "影视号、流行文化评论号"
+    },
+    {
       "title": "电影人格借壳出道",
       "hook": "不要只写 ADÉLA 美，而是写“新人如何借 Nicole Kidman 这样的公共影像资产建立人格”。",
-      "template": "过线 UGC reaction -> 新搜索增温 -> 官方视觉 -> 电影符号 -> 新人识别策略 -> 评论投票",
+      "template": "过线 UGC reaction -> 官方视觉 -> 电影符号 -> 新人识别策略 -> 评论投票",
       "bestFor": "音乐号、审美号、娱乐营销号"
-    },
-    {
-      "title": "女巫怀旧的季节感",
-      "hook": "Practical Magic 2 不要写成普通续集消息，写它如何把秋天、姐妹关系和成年女性友情打包成可复用氛围。",
-      "template": "search cluster -> 官方/影评热度分开 -> 怀旧符号 -> 季节审美 -> 你为哪种氛围买单",
-      "bestFor": "影视号、审美号、生活方式号"
-    },
-    {
-      "title": "反叛 IP 被粉丝审计",
-      "hook": "South Park 线适合写老粉如何检查一个反叛品牌是否变成自己讨厌的东西。",
-      "template": "奖项节点 -> 长评过线 -> 反叛姿态制度化 -> 老粉审计 -> 你还吃不吃",
-      "bestFor": "文化评论号、影视号、内容人格号"
-    },
-    {
-      "title": "平台人格迁移",
-      "hook": "DWTS/Whitney Leavitt 线适合写短视频红人进入电视综艺时，粉丝到底在审能力还是审人设。",
-      "template": "官方表演高播放 -> UGC 精确值待补 -> creator 人格 -> 电视语言 -> 投票叙事",
-      "bestFor": "creator economy、娱乐综艺号"
     },
     {
       "title": "AI 操作记录",
       "hook": "Hugging Face 事件别写恐慌，写普通人授权 AI 时该看懂的权限和日志。",
       "template": "过线解释视频 -> 争议焦点 -> 权限清单 -> 审计日志 -> 评论区投票",
       "bestFor": "AI 科普号、职场效率号"
+    },
+    {
+      "title": "Skill 工作台产品化",
+      "hook": "9/16 GitHub 样本可以写从 skill 清单到可复用工作台、指南和验收标准。",
+      "template": "API 样本 -> 工作台 -> 技能商店 -> 行业 skills -> eval harness",
+      "bestFor": "AI 产品号、创业号、效率号"
     }
   ],
   "valueFlows": [
     {
+      "from": "Swiftologist pop girl hierarchy",
+      "to": "粉丝身份排序与 main character 投射",
+      "note": "把 search cluster 转译为“为什么粉丝需要给偶像排等级”的身份叙事，不伪装精确赞评。"
+    },
+    {
+      "from": "Michael (2026) review cluster",
+      "to": "传记片的叙事资格和信任冲突",
+      "note": "把影评/反应播放热度转译为像不像、敢不敢讲复杂、粉丝记忆与影评分歧。"
+    },
+    {
       "from": "ADÉLA / PRIMA",
       "to": "新人 pop star 视觉人格",
-      "note": "把已过线 UGC reaction 和新搜索增温转译为“如何借公共电影记忆搭建第一眼人设”。"
-    },
-    {
-      "from": "Practical Magic 2",
-      "to": "女巫怀旧和季节审美",
-      "note": "只标 search cluster，写姐妹关系、秋天氛围和续集情怀，不把官方预告当 UGC 爆款。"
-    },
-    {
-      "from": "South Park Emmy backlash",
-      "to": "反叛品牌的粉丝审计",
-      "note": "把奖项节点和长评证据转译为“老粉如何判断一个反叛 IP 是否老化”。"
+      "note": "继续用已过线 UGC reaction 转译为“如何借公共电影记忆搭建第一眼人设”。"
     },
     {
       "from": "Hugging Face agent incident",
@@ -394,28 +394,28 @@ window.RADAR_DATA = {
     },
     {
       "from": "GitHub agent skills",
-      "to": "可复用工作方法和创业机会",
-      "note": "把 GitHub API 当日样本转译为 skill 方法论、UI/UX skill、知识图谱和记忆层机会。"
+      "to": "可复用工作台、skill 商店和验收标准",
+      "note": "把 9/16 GitHub API 当日样本转译为 workflow、guide、industry skill、eval harness 机会。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "ADÉLA：把电影人格写成新人出圈方法",
-      "whyNow": "ADÉLA 9/10 exact-video 已过 Social 主榜门槛，9/15 搜索又出现多条 5万播放以上 reaction 增温。",
-      "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
-      "firstParagraph": "新人最难的是让人一眼记住你。ADÉLA 这次聪明的地方，是没有先解释自己是谁，而是先借 Nicole Kidman 这套大家已经懂的影像资产，把“自信、控制感、戏剧性”直接打包给观众。",
-      "cta": "你觉得新人歌手出圈，先靠作品还是先靠一个清晰人设？"
+      "title": "Pop girl hierarchy：把粉丝榜单写成身份排序",
+      "whyNow": "Swiftologist 相关 flat search 多条 10万-40万播放，但赞评待补，适合做 search cluster 洞察。",
+      "xhsTitle": "为什么大家这么爱给 pop girl 排等级？因为排的其实是自己",
+      "firstParagraph": "表面上大家在争谁是一线、谁是 main pop girl，实际上是在争一套审美秩序：作品、销量、话题度、人格符号，到底哪个更能代表“值得喜欢”。",
+      "cta": "你心里的 main pop girl 标准是什么？"
     },
     {
-      "title": "Practical Magic 2：把续集热度写成女巫怀旧",
-      "whyNow": "9/15 review/search cluster 升温，但未拿到达标 UGC 赞评精确值，适合做 Summary 观察和轻量选题。",
-      "xhsTitle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧",
-      "firstParagraph": "Practical Magic 2 的热度不是简单的“续集来了”，而是它把秋天、姐妹关系、旧片记忆和一点点神秘感重新捆在一起。很多人怀念的其实不是魔法，而是一种可以被季节唤醒的女性友情氛围。",
-      "cta": "你会为一部续集买单，是因为剧情，还是因为它把一种季节感带回来了？"
+      "title": "Michael：把传记片写成信任资格",
+      "whyNow": "Michael (2026) 影评/反应搜索簇出现百万播放样本，但 YouTube 单页赞评未通过复核，只做观察选题。",
+      "xhsTitle": "传记片最难拍的不是还原本人，而是让观众相信你有资格讲他",
+      "firstParagraph": "传记片的难点从来不只是演员像不像，而是观众愿不愿意相信这部电影有资格讲一个复杂的人。Michael 这轮讨论最有意思的，正是粉丝记忆和影评判断出现了错位。",
+      "cta": "你看传记片，更在意还原度，还是复杂性？"
     },
     {
       "title": "AI agent：把安全事件写成普通人权限清单",
-      "whyNow": "Hugging Face/OpenAI incident 多条 exact videos 过 AI 主榜门槛，9/15 搜索仍有增温结果。",
+      "whyNow": "Hugging Face/OpenAI incident 多条 exact videos 过 AI 主榜门槛，9/16 搜索仍有延伸噪声但无新增达标单条。",
       "xhsTitle": "以后用 AI，最重要的可能不是技巧，而是操作记录",
       "firstParagraph": "这类 AI 事件最值得普通人看的，不是技术名词有多吓人，而是一个很现实的问题：当你把账号、文件和工作流权限交给 AI，它到底做了什么、谁能看到记录、出了错谁负责？",
       "cta": "你愿意把账号权限交给 AI，前提是什么？"
@@ -430,12 +430,12 @@ window.RADAR_DATA = {
     {
       "step": "02",
       "title": "新增主榜必须有精确互动",
-      "detail": "YouTube 单页遇到 429 时，不把 flat search 播放量直接当主榜证据；只有已有精确播放、点赞、评论且过门槛的内容进入 Social/AI 主榜。"
+      "detail": "YouTube 单页遇到登录/bot gate 时，不把 flat search 播放量直接当主榜证据；只有已有精确播放、点赞、评论且过门槛的内容进入 Social/AI 主榜。"
     },
     {
       "step": "03",
-      "title": "官方内容和搜索聚类分开写",
-      "detail": "官方预告、访谈、电视表演只作实体发现或关联背景；没有 UGC 赞评证据时写 watchlist/search cluster。"
+      "title": "搜索聚类要清楚标注",
+      "detail": "Swiftologist、Michael、Practical Magic 2、Emmys 等今天都只能写 search cluster/watchlist，不伪装成单条高赞视频。"
     },
     {
       "step": "04",
@@ -444,63 +444,79 @@ window.RADAR_DATA = {
     }
   ],
   "contentFormats": [
-    "格式：电影人格出道：过线 UGC、新搜索增温、公共电影符号、人设识别、评论投票。",
-    "格式：女巫怀旧：search cluster、续集预期、姐妹关系、秋天审美、你为哪种氛围买单。",
-    "格式：反叛 IP 审计：奖项节点、长评过线、老粉怀旧、冒犯边界、你还吃不吃。",
+    "格式：粉丝层级语言：search cluster、层级词汇、粉丝投射、商业成绩 vs 人格符号、评论投票。",
+    "格式：传记片信任资格：播放热簇、观众与影评分歧、表演还原、复杂叙事、你怎么判断。",
+    "格式：电影人格出道：过线 UGC、公共电影符号、人设识别、评论投票。",
     "格式：AI 权限清单：过线解释视频、权限边界、操作记录、责任归属、普通人怎么自查。",
-    "格式：Agent skill 产品化：GitHub API 样本、方法论、垂直 skill、知识图谱、记忆层创业点。"
+    "格式：Skill 工作台产品化：GitHub API 样本、工作台、技能商店、垂直行业 skill、eval harness。"
   ],
   "summarySparks": [
     {
-      "id": "adela-prima-ugc-0915",
+      "id": "swiftologist-pop-girl-hierarchy-0916",
+      "tags": [
+        "music",
+        "creator-commentary",
+        "search-cluster"
+      ],
+      "lane": "Music / Fandom Taxonomy",
+      "heat": "94",
+      "title": "Pop girl hierarchy 变成粉丝身份排序游戏",
+      "spark": "9/16 动态搜索发现 Swiftologist 的 pop girl hierarchy 簇持续高播放：The Pop Girl Hierarchy Nobody Talks About 41.94万播放、You Misunderstood the 7 Levels of Pop Girl 16.69万播放、The 7 Levels of Pop Boy 20.96万播放；YouTube 单页仍触发登录/bot gate，未拿到精确赞评，因此标注 search cluster，不进 Social 主榜。",
+      "xhsTitle": "为什么大家这么爱给 pop girl 排等级？因为排的其实是自己",
+      "discussion": "评论热点：main pop girl 的标准、商业成绩和人格魅力谁更重要、粉丝为什么用层级解释偶像、男歌手是否也能套同一套等级。",
+      "prompt": "引导话题：你心里的 main pop girl 标准，是作品、销量、话题度，还是人格符号？",
+      "tone": "适合音乐/粉丝文化号；只写身份排序和 fandom 语言，不写成已精确复核爆款。"
+    },
+    {
+      "id": "michael-2026-audience-review-cluster-0916",
+      "tags": [
+        "film",
+        "biopic",
+        "search-cluster"
+      ],
+      "lane": "Film / Biopic Reception",
+      "heat": "92",
+      "title": "Michael 电影讨论转向观众与影评人的信任冲突",
+      "spark": "9/16 二级搜索显示 Michael (2026) 影评/反应簇升温：The Critical Drinker 142.08万播放、Double Toasted 10.08万播放、Beyond The Trailer 6.96万播放、Michael Trapson trailer breakdown 9.79万播放；单页赞评复核被 YouTube 登录 gate 拦截，降级为 search cluster/watchlist。",
+      "xhsTitle": "传记片最难拍的不是还原本人，而是让观众相信你有资格讲他",
+      "discussion": "评论热点：Jaafar Jackson 表演、粉丝记忆与影评分歧、传记片是否会美化复杂人物、舞台还原和叙事完整度谁更重要。",
+      "prompt": "引导话题：你看传记片，更在意像不像本人，还是故事敢不敢讲复杂？",
+      "tone": "适合影视评论号；没有精确赞评前不进 Social 主榜。"
+    },
+    {
+      "id": "adela-prima-ugc-0916",
       "tags": [
         "music",
         "visual-identity",
         "exact-video"
       ],
       "lane": "Music / New Pop Persona",
-      "heat": "96",
-      "title": "ADÉLA 讨论从首专 reaction 扩到人格验收",
-      "spark": "9/15 动态实体复扫显示 ADÉLA PRIMA 仍有新 UGC 搜索结果：brookexvg 9/14 flat search 5.67万播放、Katriinka 5.91万播放、Kess and Han 31.48万播放；但单页点赞/评论遇到 YouTube 429，主榜仍采用 9/14 已精确复核的 turning the tables 12.17万播放 / 3333赞 / 282评论与 DELI 8.34万播放 / 2141赞 / 245评论。",
+      "heat": "94",
+      "title": "ADÉLA 仍是新人 pop star 人格验收样本",
+      "spark": "ADÉLA / PRIMA 仍在近 15 天窗口内，主榜继续使用已精确复核的 turning the tables 12.17万播放 / 3333赞 / 282评论与 DELI 8.34万播放 / 2141赞 / 245评论；今天未拿到新的单页赞评，因此只做长尾保留。",
       "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
-      "discussion": "评论热点：Nicole Kidman/AMC 梗、PRIMA 是否不像新人首专、Dream Academy 后再定位、红色高跟鞋和控制感视觉。",
+      "discussion": "评论热点：Nicole Kidman/AMC 梗、PRIMA 首专成熟度、Dream Academy 后再定位、红色高跟鞋和控制感视觉。",
       "prompt": "引导话题：新人歌手先被记住，是靠一首歌，还是靠一个可复述的人格符号？",
-      "tone": "适合音乐审美号；今天新增搜索结果只作增温证据，主榜不新增未精确赞评样本。"
+      "tone": "适合音乐审美号；继续用过线 exact video，不新增未复核样本。"
     },
     {
-      "id": "practical-magic-2-review-watch-0915",
-      "tags": [
-        "film",
-        "witchy-nostalgia",
-        "search-cluster"
-      ],
-      "lane": "Film / Witchy Nostalgia",
-      "heat": "92",
-      "title": "Practical Magic 2 从怀旧预热进入影评审判",
-      "spark": "动态实体从 Nicole Kidman/Sandra Bullock 访谈升级到 Practical Magic 2 review：Jeremy Jahns flat search 32.67万播放、Beyond The Trailer 7.00万播放、Reel Rejects 第一部回看 7.49万播放；但单页点赞/评论未拿到，且官方预告/采访占比高，标注 search cluster。",
-      "xhsTitle": "女巫片最会拿捏的不是魔法，是成年女性的友情怀旧",
-      "discussion": "评论热点：Midnight Margaritas、姐妹关系、秋天审美、续集是否消费情怀、老粉与新观众的期待差。",
-      "prompt": "引导话题：你会为一部续集买单，是因为剧情，还是因为它把一种季节感带回来了？",
-      "tone": "适合影视/审美号；只做 Summary/watchlist，不进 Social 主榜。"
-    },
-    {
-      "id": "south-park-satire-audit-0915",
+      "id": "south-park-satire-audit-0916",
       "tags": [
         "tv",
         "satire",
         "fandom"
       ],
       "lane": "TV / Satire Brand",
-      "heat": "93",
-      "title": "South Park 争议继续变成反叛品牌审计",
-      "spark": "9/15 搜索出现大量新闻/切片噪声，未发现新的近 15 天高质量 UGC exact video；主榜保留 9/14 已精确复核 The ArchCast 15.94万播放 / 5250赞 / 2000评论、Brian Tyler Cohen 97.28万播放 / 35906赞 / 1600评论。",
+      "heat": "91",
+      "title": "South Park 继续作为反叛品牌审计长尾",
+      "spark": "South Park 主榜证据仍为 The ArchCast 15.94万播放 / 5250赞 / 2000评论、Brian Tyler Cohen 97.28万播放 / 35906赞 / 1600评论。9/16 未发现新的可精确复核 UGC 主榜样本。",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
       "discussion": "评论热点：讽刺对象是否变窄、政治笑话是否盖过角色、老粉怀旧、奖项是否会驯化反叛 IP。",
       "prompt": "引导话题：一个靠冒犯起家的内容品牌，被主流认可后还会锋利吗？",
       "tone": "适合文化评论号；继续避开党派动员，写内容人格老化和粉丝审计。"
     },
     {
-      "id": "hugging-face-agent-risk-0915",
+      "id": "hugging-face-agent-risk-0916",
       "tags": [
         "ai",
         "agent-safety",
@@ -508,60 +524,44 @@ window.RADAR_DATA = {
       ],
       "lane": "AI / Agent Trust",
       "heat": "95",
-      "title": "Hugging Face 事件继续把 agent 信任推向大众层",
-      "spark": "9/15 搜索出现 80,000 Hours 45.78万播放、Nate B Jones 24.96万播放等延伸结果；单页点赞/评论遇到 429，主榜仍采用 9/14 精确复核 JRE Clips、80,000 Hours、Sabine、Dwarkesh 多条过线证据。",
+      "title": "Agent 信任议题继续从恐慌转向权限审计",
+      "spark": "Hugging Face / OpenAI incident 主榜仍由 9/14 精确复核的 JRE Clips、80,000 Hours、Sabine、Dwarkesh 多条过线 exact videos 支撑。9/16 新搜索里低互动 AI 新闻噪声多，不新增主榜样本。",
       "xhsTitle": "以后用 AI，最重要的可能不是技巧，而是操作记录",
       "discussion": "评论热点：sandbox 是否足够、披露责任、权限边界、审计日志、企业和个人如何追溯 agent 行为。",
       "prompt": "引导话题：你愿意把账号权限交给 AI，前提是什么？",
       "tone": "适合 AI 普及号；从恐慌叙事转成普通人的权限清单。"
     },
     {
-      "id": "dwts-whitney-search-cluster-0915",
-      "tags": [
-        "tv",
-        "creator-economy",
-        "search-cluster"
-      ],
-      "lane": "TV / Creator Economy",
-      "heat": "86",
-      "title": "Whitney Leavitt / DWTS 是平台人格迁移观察",
-      "spark": "Dancing with the Stars 官方 TikTok Night Samba flat search 89.22万播放，UGC 汇编 10.59万播放，但核心结果多为官方表演或旧季剪辑，缺少近 15 天达标 UGC 赞评精确值。",
-      "xhsTitle": "网红上综艺最难的不是跳舞，是把平台人格换一种语言讲清楚",
-      "discussion": "评论热点：TikTok 人设能否迁移到电视、专业舞者与 creator 的界限、粉丝投票如何改变综艺叙事。",
-      "prompt": "引导话题：你觉得短视频红人上电视，最容易翻车的是能力还是人设？",
-      "tone": "适合 creator economy 观察；只标 search cluster。"
-    },
-    {
-      "id": "silo-rules-longtail-0915",
-      "tags": [
-        "tv",
-        "worldbuilding",
-        "exact-video"
-      ],
-      "lane": "TV / Worldbuilding",
-      "heat": "88",
-      "title": "SILO finale 长尾仍能产出规则系统选题",
-      "spark": "Think Story 9/4 64.28万播放 / 8895赞 / 1200评论、BrainPilot 9/4 48.78万播放 / 6614赞 / 1500评论、Brandi's Reel Reviews 9/5 9.98万播放 / 3230赞 / 893评论仍在 15 天窗口。",
-      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
-      "discussion": "评论热点：解释权、信息差、规则失灵、下一季补偿、世界观是否比角色更吸引人。",
-      "prompt": "引导话题：你追剧最吃设定，还是最吃人物命运？",
-      "tone": "适合影视解析号；今天不新增样本，保留强长尾。"
-    },
-    {
-      "id": "github-agent-skills-method-market-0915",
+      "id": "github-agent-skills-workbench-0916",
       "tags": [
         "github",
         "ai-workflow",
         "agent-skills"
       ],
       "lane": "GitHub / Agent Skills",
-      "heat": "91",
-      "title": "Agent skill 热点从清单转向方法论和工作台",
-      "spark": "9/15 GitHub Search API：obra/superpowers 286714 stars / 25645 forks / pushed_at 2026-09-14，affaan-m/ECC 258425 / 38654 / 2026-09-14，nextlevelbuilder/ui-ux-pro-max-skill 127649 / 13629 / 2026-09-15，Graphify-Labs/graphify 116758 / 11398 / 2026-09-12。",
-      "xhsTitle": "AI agent 的下一波，不是技能清单，而是可复用工作方法",
-      "discussion": "讨论热点：技能市场、开发方法论、UI/UX skill、代码知识图谱、长程工作台和记忆层。",
+      "heat": "93",
+      "title": "Agent skill 热点转向工作台、技能商店和 guardrail",
+      "spark": "9/16 GitHub Search API 当日样本：langgenius/dify 155868 stars / 24618 forks / pushed_at 2026-09-15，ruvnet/ruflo 72559 / 8589 / 2026-09-16，anbeime/skill 6758 / 640 / 2026-09-15，zebbern/claude-code-guide 4623 / 464 / 2026-09-16，NVIDIA/skills 3302 / 395 / 2026-09-15，rpamis/comet 3058 / 294 / 2026-09-16。",
+      "xhsTitle": "AI agent 的下一波，不是技能清单，而是可复用工作台",
+      "discussion": "讨论热点：agentic workflow、技能商店、Claude/Codex 指南、物理 AI skills、eval harness、hook/guardrail。",
       "prompt": "引导话题：你更想买一个 AI 工具，还是一套能重复调用的工作方法？",
       "tone": "适合 AI 产品/创业号；不写周涨幅，只写 API 当日动态样本。"
+    },
+    {
+      "id": "silo-rules-longtail-0916",
+      "tags": [
+        "tv",
+        "worldbuilding",
+        "exact-video"
+      ],
+      "lane": "TV / Worldbuilding",
+      "heat": "86",
+      "title": "SILO finale 进入窗口尾部，仍可写规则系统",
+      "spark": "Think Story 9/4 64.28万播放 / 8895赞 / 1200评论、BrainPilot 9/4 48.78万播放 / 6614赞 / 1500评论、Brandi's Reel Reviews 9/5 9.98万播放 / 3230赞 / 893评论仍在 15 天窗口，但已进入长尾。",
+      "xhsTitle": "Silo 结局最狠的地方，是它让所有规则都像真的",
+      "discussion": "评论热点：解释权、信息差、规则失灵、下一季补偿、世界观是否比角色更吸引人。",
+      "prompt": "引导话题：你追剧最吃设定，还是最吃人物命运？",
+      "tone": "适合影视解析号；长尾保留，明天需重新判断窗口。"
     }
   ],
   "contentGuardrails": [
@@ -584,11 +584,11 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-15-1018",
-    "contentWindow": "内容研究窗口：2026.08.31 - 2026.09.15 / 部署包生成：2026-09-15 10:18 CST",
-    "researchedThrough": "2026-09-15",
-    "packageGeneratedAt": "2026-09-15 10:18 CST",
-    "summary": "9/15 继续动态实体优先：从 ADÉLA / PRIMA、Practical Magic 2 review/witchy nostalgia、South Park Emmy 后反叛 IP 审计、SILO finale 长尾、Whitney Leavitt / DWTS 平台人格迁移、Hugging Face/OpenAI agent incident、GitHub agent skills 方法论/工作台/记忆层等真实热簇反推二级搜索。YouTube 单页今天触发 429/bot gate，因此新增 flat search 播放量只作为增温或 watchlist，未把缺少精确点赞/评论的候选放入 Social/AI 主榜。Social 主榜保留 9/14 与 9/9 已精确复核且仍在窗口内的 ADÉLA、South Park、SILO exact videos。Practical Magic 2、DWTS/Whitney、Emmys、NIU LAI、Jimmy Kimmel 均标注为 search cluster/watchlist。AI 主榜保留 Hugging Face/OpenAI incident、GPT-6 Astra、ChatGPT Work 的已过线 exact videos，并把 9/15 flat search 只写为增温观察。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/15 GitHub Search API 当日样本，突出 agent skill 方法论、harness 优化、UI/UX skill、代码知识图谱、长程工作台和记忆层，不写成已验证周涨幅。医疗化、药物、身体极端化和可模仿风险继续过滤。"
+    "editionId": "2026-09-16-1028",
+    "contentWindow": "内容研究窗口：2026.09.01 - 2026.09.16 / 部署包生成：2026-09-16 10:28 CST",
+    "researchedThrough": "2026-09-16",
+    "packageGeneratedAt": "2026-09-16 10:28 CST",
+    "summary": "9/16 继续动态实体优先：从 Swiftologist pop girl hierarchy、Michael (2026) 影评/观众分歧、ADÉLA / PRIMA、South Park 反叛品牌审计、Hugging Face/OpenAI agent incident、GitHub agent skills 工作台/技能商店/eval harness 等真实热簇反推二级搜索。YouTube 单页今天继续触发登录/bot gate，因此新增 Swiftologist、Michael、Practical Magic 2、Emmys/Mulaney 等只标 search cluster/watchlist，不把 flat search 播放量伪装成精确爆款。Social 主榜只保留已有精确播放、点赞、评论且仍在窗口内的 ADÉLA、South Park、SILO exact videos。AI 主榜保留 Hugging Face/OpenAI incident、GPT-6 Astra、ChatGPT Work 的已过线 exact videos。TikTok 只写站内搜索聚类，不放不匹配账号页。GitHub Skill feed 使用 9/16 GitHub Search API 当日样本，突出 agentic workflow、multi-agent harness、skill 商店、Claude/Codex 使用指南、NVIDIA 行业 skills 和 eval harness，不写成已验证周涨幅。医疗化、药物、身体极端化和可模仿风险继续过滤。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -648,8 +648,8 @@ window.RADAR_DATA = {
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-09-15",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/15 发现 ADÉLA UGC 增温、Practical Magic 2 review/witchy nostalgia、Whitney Leavitt DWTS 平台人格迁移、Hugging Face/OpenAI agent incident 延伸、GitHub agent skill 方法论/工作台/记忆层；YouTube 单页 429 时新增样本只进 watchlist/search cluster。",
+    "researchedThrough": "2026-09-16",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/16 发现 Swiftologist pop girl hierarchy、Michael (2026) audience-vs-critics reception、ADÉLA 长尾、Hugging Face/OpenAI agent incident 延伸、GitHub agent skills 工作台/技能商店/eval harness；YouTube 单页登录 gate 时新增样本只进 watchlist/search cluster。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
