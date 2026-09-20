@@ -1,7 +1,7 @@
 {
   "trends": [
     {
-      "title": "ADÉLA / PRIMA：新人 pop star 的人格验收继续发酵",
+      "title": "ADÉLA / PRIMA：新人 pop star 的人格验收仍是可写主线",
       "tags": [
         "Pop Culture",
         "Music Commentary",
@@ -9,10 +9,10 @@
         "Visual Identity"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论；DELI 2026-09-04 8.34万播放 / 2141赞 / 245评论。9/15 flat search 新增 brookexvg 5.67万播放、Katriinka 5.91万播放、Kess and Han 31.48万播放作为增温观察，未写入新增主榜证据。",
-      "channel": "YouTube exact videos + Search cluster: ADÉLA PRIMA album reaction / Nicole Kidman visual identity / debut persona",
-      "heat": "ADÉLA 讨论已经从官方 MV 视觉扩散到首专 reaction、vocal/persona 验收和 Dream Academy 后再定位，说明新人出圈点不是单一歌曲，而是可被 UGC 复述的人格系统。",
-      "signal": "可转译点：新人不必先解释自己是谁，先借 Nicole Kidman/AMC 这种公共影像记忆，把自信、控制感和戏剧性做成一眼人设。",
+      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论。9/20 flat search 继续出现 RAYE、BTS、Olivia 等新专反应簇，但单页精确赞评触发 bot gate，未新增主榜证据。",
+      "channel": "YouTube exact video + Search cluster: ADÉLA PRIMA album reaction / debut persona / pop girl validation",
+      "heat": "ADÉLA 仍在 9/5-9/20 Social 窗口内，且有已复核过线 UGC reaction；今天的新增音乐热簇更多是 RAYE/BTS/Olivia，但缺精确赞评，所以 ADÉLA 继续作为新人视觉人格样本。",
+      "signal": "可转译点：新人歌手最先被讨论的往往不是完整作品，而是能不能被观众用一个视觉母题和一句人格描述讲清楚。",
       "why": "适合小红书：能写音乐、视觉人格、出道策略和女性气场，不碰身体评价，也不用依赖官方 MV 数据。",
       "discussion": "评论热点集中在 PRIMA 是否不像新人首专、Nicole Kidman 梗是否聪明、红色高跟鞋和电影感是否构成新人识别、以及 pop girl 出道是否需要可截图视觉母题。",
       "ideas": [
@@ -26,12 +26,12 @@
           "https://www.youtube.com/watch?v=T2ad7l568i4"
         ],
         [
-          "DELI / 8.34万播放 / 2141赞 / 245评论",
-          "https://www.youtube.com/watch?v=qgIScvIJRh0"
+          "RAYE HTHAZE flat search / 27.99万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=xLnUUaTOIhQ"
         ],
         [
-          "brookexvg flat search / 5.67万播放 / 赞评待精确复核",
-          "https://www.youtube.com/watch?v=uUaHUWYUx2U"
+          "Olivia Rodrigo McCall Mirabella flat search / 17.69万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=V8zM-xN-QD4"
         ]
       ]
     },
@@ -46,7 +46,7 @@
       "priority": "high",
       "metrics": "9/14 yt-dlp exact-video 复核：The ArchCast 2026-09-09 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 2026-09-07 97.28万播放 / 35906赞 / 1600评论。",
       "channel": "YouTube exact videos + Search cluster: South Park Emmy 2026 reaction / satire backlash / has become what it hated",
-      "heat": "9/15 搜索结果噪声增多，新闻和旧切片占比高；因此不新增主榜样本，只保留已过线的长评证据。热度核心仍是老牌讽刺 IP 是否被主流奖项和政治流量改变。",
+      "heat": "仍在 9/5-9/20 Social 窗口内，且两条 exact videos 赞评远超门槛；今天没有更干净的新 UGC 能替代它。",
       "signal": "可转译点：亚文化品牌最怕的不是争议，而是粉丝开始怀疑它的反叛姿态是否已经制度化。",
       "why": "适合小红书：可以写“嘴毒内容为什么也会被老粉审判”，落点是创作者人格、冒犯边界、审美疲劳和老 IP 自我更新。",
       "discussion": "评论热点集中在是否还敢讽刺所有人、政治笑话是否压过角色/故事、老粉怀旧与新观众接受度、以及奖项是否会改变反叛 IP 的公众位置。",
@@ -65,134 +65,63 @@
           "https://www.youtube.com/watch?v=DjePJxKJx-4"
         ]
       ]
-    },
-    {
-      "title": "SILO finale 长尾：观众不是等答案，而是在审计规则系统",
-      "tags": [
-        "Pop Culture",
-        "TV Commentary",
-        "Worldbuilding",
-        "Explainer"
-      ],
-      "priority": "medium",
-      "metrics": "9/9 yt-dlp exact-video 复核：Think Story 2026-09-04 64.28万播放 / 8895赞 / 1200评论；BrainPilot 2026-09-04 48.78万播放 / 6614赞 / 1500评论；Brandi's Reel Reviews 2026-09-05 9.98万播放 / 3230赞 / 893评论。",
-      "channel": "YouTube exact videos + Search cluster: SILO finale ending explained / season 3 rules / episode 10 theory",
-      "heat": "仍在 15 天窗口内且多条 exact videos 评论过线；适合继续作为追剧长尾，而不是当天突发热点。",
-      "signal": "可转译点：SILO 的讨论价值不只是剧情答案，而是规则、信息差和制度感如何让观众愿意参与推理。",
-      "why": "适合小红书：影视解析号能拆“为什么一个设定比反转更上头”，评论区容易引出追剧体验。",
-      "discussion": "评论热点集中在 finale 是否交代足够、规则系统是否自洽、下一季该补偿什么、以及观众到底想要答案还是想参与审计。",
-      "ideas": [
-        "标题：Silo 结局最狠的地方，是它让所有规则都像真的",
-        "结构：达标 explainer -> 观众评论 -> 规则系统 -> 信息差爽点 -> 下一季期待",
-        "评论引导：你追剧最吃设定，还是最吃人物命运？"
-      ],
-      "sources": [
-        [
-          "Think Story / 64.28万播放 / 8895赞 / 1200评论",
-          "https://www.youtube.com/watch?v=R0dLFKa4c1o"
-        ],
-        [
-          "BrainPilot / 48.78万播放 / 6614赞 / 1500评论",
-          "https://www.youtube.com/watch?v=sCKnA1qzKV0"
-        ],
-        [
-          "Brandi's Reel Reviews / 9.98万播放 / 3230赞 / 893评论",
-          "https://www.youtube.com/watch?v=PkDAeU4kHnA"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Charli XCX / Music, Fashion, Film：互动过线但窗口外",
-      "reason": "9/18 exact-video 复核：theneedledrop 2026-07-29 36.95万播放 / 10461赞 / 1100评论；Swiftologist 2026-07-24 9.33万播放 / 3885赞 / 437评论。上传日期超出近 15 天 Social 主榜窗口。",
-      "sourceType": "Exact videos / window-out",
-      "suggestedSearch": "Charli XCX Music Fashion Film post Brat persona analysis",
-      "xhsAngle": "Charli 最聪明的地方，是没有复制 Brat，而是把自己拆开重组。"
+      "title": "RAYE / This Music May Contain Hope：高播放 search cluster，待补赞评",
+      "reason": "9/20 flat search：HTHAZE 27.99万播放，Zach Campbell 3.92万播放。单页 exact 赞评触发 bot gate，不能进入 Social 主榜。",
+      "sourceType": "Search cluster / exact metrics pending",
+      "suggestedSearch": "RAYE This Music May Contain Hope album reaction review HTHAZE Zach Campbell",
+      "xhsAngle": "RAYE 新专最适合写的不是神专，而是“电影感 pop”为什么让听众自动脑补人生转场。"
     },
     {
-      "title": "AI coding security：旧强样本可做背景，不进 AI 主榜",
-      "reason": "Fireship 2026-04-01 325.38万播放 / 99707赞 / 4800评论；Chris Raroque 2026-03-16 21.15万播放 / 9235赞 / 413评论。超过 AI 近 30 天窗口。",
-      "sourceType": "Exact videos / window-out",
-      "suggestedSearch": "AI coding security Claude Code source leak vibe coding security",
-      "xhsAngle": "AI 编程最该补的一课，不是提问技巧，而是权限和账单边界。"
+      "title": "BTS / ARIRANG：粉丝分歧强，但需精确赞评",
+      "reason": "9/20 flat search：theneedledrop 32.69万播放，Phil Reacts 5.54万播放，The Kpop Newz 1.12万播放。缺少单页精确赞评，不进主榜。",
+      "sourceType": "Search cluster / exact metrics pending",
+      "suggestedSearch": "BTS ARIRANG album review fan reaction controversy 2026",
+      "xhsAngle": "超级团回归最难的不是数据，而是让粉丝相信“集体叙事”没有变成安全牌。"
     },
     {
-      "title": "Romeo + Juliet / Baz Luhrmann：复古美学信号待补 UGC",
-      "reason": "9/18 flat search 以 TODAY 采访、Movieclips 旧片段、资料类内容为主，缺少近 15 天达标 UGC analysis/reaction。",
-      "sourceType": "Search cluster / official-and-archive noise",
-      "suggestedSearch": "Romeo + Juliet Baz Luhrmann 30th anniversary aesthetic analysis reaction",
-      "xhsAngle": "复古电影美学回潮，最难复制的是当年的危险感。"
+      "title": "Olivia Rodrigo 新专：高播放 reaction，待补精确互动",
+      "reason": "9/20 flat search：McCall Mirabella 17.69万播放。标题和评论方向适合观察恋爱叙事，但单页赞评未拿到。",
+      "sourceType": "Search cluster / exact metrics pending",
+      "suggestedSearch": "Olivia Rodrigo You Seem Pretty Sad For A Girl So In Love album reaction",
+      "xhsAngle": "Olivia 的新叙事如果成立，关键不是更悲伤，而是把恋爱里的不安写得更具体。"
     },
     {
-      "title": "Taylor Swift / Toy Story 5：官方内容强，UGC 不足",
-      "reason": "9/18 搜索主要返回 DisneyMusicVEVO visualizer 和 Taylor 官方旧视频；缺少近 15 天高互动 UGC analysis/commentary。",
-      "sourceType": "Search cluster / official-noise",
-      "suggestedSearch": "Taylor Swift Toy Story 5 song reaction analysis fan commentary",
-      "xhsAngle": "大 IP 歌曲最难的，是让粉丝相信它不是一次授权合作。"
+      "title": "SILO finale：9/4 exact videos 已滑出 Social 15 天窗口",
+      "reason": "Think Story、BrainPilot、Brandi 9/4-9/5 样本此前过线；按 9/20 窗口只保留 9/5 后内容，核心 9/4 样本降为长尾参考。",
+      "sourceType": "Exact videos / window edge",
+      "suggestedSearch": "SILO finale season 3 rules ending explained September 2026",
+      "xhsAngle": "Silo 仍可写“规则系统为什么让人追剧”，但今天不再当主榜新增热点。"
     },
     {
-      "title": "Scream 7：概念预告噪声仍高",
-      "reason": "延续 9/17 观察：概念预告和粉丝剪辑播放高，但不是可用 UGC 分析；真实 commentary 暂未过门槛。",
-      "sourceType": "Search cluster / concept-trailer noise",
-      "suggestedSearch": "Scream 7 fan reaction Melissa Barrera Matthew Lillard analysis",
-      "xhsAngle": "系列电影回归，最难的是让老粉相信它还懂自己。"
+      "title": "Nintendo / State of Play：游戏发布会 reaction 高噪声",
+      "reason": "9/20 flat search 返回 DreamcastGuy 5.24万播放、Nintendo/Ocarina 官方 949万播放等；官方和低互动 reaction 混杂，暂不进主榜。",
+      "sourceType": "Search cluster / official-and-gaming noise",
+      "suggestedSearch": "Nintendo Direct 9.9.2026 reaction Ocarina of Time Zelda 40th anniversary",
+      "xhsAngle": "怀旧 IP 不是复刻回忆，而是让老玩家接受自己也变成了被营销的人。"
     }
   ],
   "aiSignals": [
     {
-      "title": "Hugging Face / OpenAI agent incident：AI 风险内容从传闻变成高互动解释簇",
+      "title": "GPT-6 Astra 工作流实测：AI 内容从“模型强不强”转向“能不能交付”",
       "tags": [
         "AI",
-        "Agent Safety",
-        "Security",
-        "Trust"
-      ],
-      "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：JRE Clips 2026-09-09 81.38万播放 / 5448赞 / 1300评论；80,000 Hours 2026-09-04 36.12万播放 / 6430赞 / 962评论；Sabine Hossenfelder 2026-09-08 50.69万播放 / 10593赞 / 1800评论；Dwarkesh Patel 2026-08-31 76.13万播放 / 10854赞 / 1600评论。9/15 flat search 显示 80,000 Hours 升至 45.78万播放，Nate B Jones 24.96万播放，但单页赞评遇到 429，只作增温观察。",
-      "channel": "YouTube exact videos + Search cluster: Hugging Face cyberattack / OpenAI agents / sandbox escape / AI safety explained",
-      "heat": "多条近 30 天 exact videos 远超 AI 主榜门槛，讨论从“AI 会不会失控”落到权限、sandbox、披露、审计日志和谁来承担责任。",
-      "signal": "可转译点：普通人不需要复述技术细节，最应该看懂的是 AI 工具拿了什么权限、做了什么操作、出了错谁能追溯。",
-      "discussion": "评论热点：是否被夸大、OpenAI/Hugging Face 责任边界、agent 是否能被完全约束、sandbox 为什么不够、企业和个人是否都需要操作记录。",
-      "xhsTitles": [
-        "以后用 AI，最重要的可能不是技巧，而是操作记录",
-        "AI agent 真正吓人的地方，是你不知道它刚才做了什么"
-      ],
-      "sources": [
-        [
-          "JRE Clips / 81.38万播放 / 5448赞 / 1300评论",
-          "https://www.youtube.com/watch?v=hkbv4ILw_II"
-        ],
-        [
-          "80,000 Hours / 36.12万播放 / 6430赞 / 962评论",
-          "https://www.youtube.com/watch?v=xOi5nDH0lu0"
-        ],
-        [
-          "Sabine Hossenfelder / 50.69万播放 / 10593赞 / 1800评论",
-          "https://www.youtube.com/watch?v=19KSjYpfVTA"
-        ],
-        [
-          "Dwarkesh Patel / 76.13万播放 / 10854赞 / 1600评论",
-          "https://www.youtube.com/watch?v=u15N3l4RT80"
-        ]
-      ]
-    },
-    {
-      "title": "GPT-6 Astra：模型热度继续围绕可信测试，而不是参数崇拜",
-      "tags": [
-        "AI",
+        "Workflow",
         "Model Trust",
-        "Product Narrative"
+        "Agentic Work"
       ],
       "priority": "high",
-      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论；Nate Herk 2026-09-04 41.67万播放 / 5744赞 / 380评论；Matt Wolfe 2026-09-03 48.82万播放 / 6858赞 / 531评论。",
-      "channel": "YouTube exact videos + Search cluster: GPT-6 Astra / Fable 5.1 / AGI first look / no hype assessment / AI workflow test",
-      "heat": "Astra 已从单一发布视频扩散到开发者、测评者和自动化创作者，多条近 30 天 exact videos 远超 AI 主榜门槛。",
-      "signal": "可转译点：AI 内容的爆点不再是参数表，而是让普通用户知道这个工具在哪些场景可靠、哪里仍会翻车。",
-      "discussion": "评论热点：AGI 说法是否过度、benchmark 是否可信、真实工作流测试比演示更有价值、Fable 5.1 对比是否公平、普通用户何时升级。",
+      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论；Nate Herk 2026-09-04 41.67万播放 / 5744赞 / 380评论；Matt Wolfe 2026-09-03 48.82万播放 / 6858赞 / 531评论。9/20 flat search 新增 Riley Brown 72.03万播放、Nate Herk 43.30万播放、Paul J Lipsky 20.62万播放，赞评待精确复核。",
+      "channel": "YouTube exact videos + Search cluster: GPT-6 Astra workflow / ChatGPT Work / AI agent use cases",
+      "heat": "Astra 仍在 AI 30 天窗口内；今天搜索显示内容重心从 first look 扩散到 100 小时实测、股票 agent、ChatGPT Work 和努力等级选择。",
+      "signal": "可转译点：普通人不需要追参数表，而要看一个 AI 工作流能不能解释目标、保留过程、允许检查、失败后继续跑。",
+      "discussion": "评论热点：AGI 说法是否过度、真实工作流测试比演示更有价值、自动交易/自动设计是否可信、普通用户该不该升级。",
       "xhsTitles": [
-        "GPT-6 Astra 最值得写的不是强，而是它让人开始重新定义信任",
-        "AI 发布会看不懂？先问它在哪些场景会翻车"
+        "AI 发布会看不懂？先问它能不能把一件事做完",
+        "GPT-6 Astra 最值得写的不是强，而是它让人重新定义交付"
       ],
       "sources": [
         [
@@ -204,36 +133,28 @@
           "https://www.youtube.com/watch?v=Spuza-KwTJ4"
         ],
         [
-          "Chase AI / 40.65万播放 / 4449赞 / 477评论",
-          "https://www.youtube.com/watch?v=XeMtZeXxHqw"
-        ],
-        [
-          "Nate Herk / 41.67万播放 / 5744赞 / 380评论",
-          "https://www.youtube.com/watch?v=dT5-x3u5nCg"
-        ],
-        [
-          "Matt Wolfe / 48.82万播放 / 6858赞 / 531评论",
-          "https://www.youtube.com/watch?v=GGzT7zVrRTU"
+          "Riley Brown flat search / 72.03万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=Ju41cQSe7hY"
         ]
       ]
     },
     {
-      "title": "ChatGPT Work：普通人工作流内容仍过线，爆点是“能替我跑哪一步”",
+      "title": "ChatGPT Work / Claude 对比：工具选择开始变成工作流人格选择",
       "tags": [
         "AI",
-        "Workflow",
         "Productivity",
-        "Creator Economy"
+        "Tool Choice",
+        "Work OS"
       ],
-      "priority": "medium",
-      "metrics": "9/10 yt-dlp exact-video 复核：Jeff Su 2026-08-25 18.25万播放 / 2639赞 / 219评论；Riley Brown 2026-08-09 17.49万播放 / 3471赞 / 137评论。",
-      "channel": "YouTube exact videos + Search cluster: ChatGPT Work review / AI workflow / automation for normal people",
-      "heat": "仍在近 30 天窗口且过 AI 主榜门槛；今天没有新增高互动 exact video，因此保留为工作流长尾。",
-      "signal": "可转译点：用户不想看一堆功能名，而想知道 AI 能不能替我收集资料、整理输入、生成第一版、追踪后续。",
-      "discussion": "评论热点：是否真的省时间、隐私/权限、普通岗位可复制性、个人工作流和团队流程的边界。",
+      "priority": "high",
+      "metrics": "9/10 yt-dlp exact-video 复核：Jeff Su 2026-08-25 18.25万播放 / 2639赞 / 219评论；Riley Brown 2026-08-09 17.49万播放 / 3471赞 / 137评论。9/20 flat search 新增 Jeff Su 25.97万播放、The AI Advantage 13.69万播放、AI Productivity Coach 22.10万播放，赞评待精确复核。",
+      "channel": "YouTube exact videos + Search cluster: ChatGPT Work tutorial / ChatGPT vs Claude 2026 / Claude agentic AI",
+      "heat": "仍在 AI 30 天窗口内。今天的 search cluster 说明用户关注点已经从“哪个模型最聪明”转到“哪个工具更适合我的工作习惯”。",
+      "signal": "可转译点：AI 工具的人格差异，可以拆成资料输入、任务拆分、过程可见、复盘方式和团队协作五个维度。",
+      "discussion": "评论热点：ChatGPT/Claude 哪个适合长期项目、ChatGPT Work 是否值得学、教程是否比 prompt list 更有用、企业工具是否让普通人更焦虑。",
       "xhsTitles": [
-        "普通人用 AI，别先学提示词，先拆自己的重复劳动",
-        "ChatGPT Work 真正该测的是：它能不能替你跑完一小段流程"
+        "选 AI 工具别先问哪个最强，先问它像不像你的工作方式",
+        "ChatGPT 和 Claude 的差别，越来越像两种工作人格"
       ],
       "sources": [
         [
@@ -241,329 +162,343 @@
           "https://www.youtube.com/watch?v=s8v5Z5qU5PM"
         ],
         [
-          "Riley Brown / 17.49万播放 / 3471赞 / 137评论",
-          "https://www.youtube.com/watch?v=7a3s6Z7gO1w"
+          "Jeff Su flat search / 25.97万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=KmcTu2EigTs"
+        ],
+        [
+          "The AI Advantage flat search / 13.69万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=y1I5VAGF3Qs"
+        ]
+      ]
+    },
+    {
+      "title": "Agentic coding 回到成本和审计：Jev / Claude Code / review workflow 升温",
+      "tags": [
+        "AI",
+        "Coding Agents",
+        "Review Workflow",
+        "Developer Tools"
+      ],
+      "priority": "medium",
+      "metrics": "9/14 yt-dlp exact-video 复核：JRE Clips 2026-09-09 81.38万播放 / 5448赞 / 1300评论；80,000 Hours 2026-09-04 36.12万播放 / 6430赞 / 962评论。9/20 flat search 新增 Ray Amjad Jev + Claude Code 7.09万播放，但赞评待精确复核。",
+      "channel": "YouTube exact videos + GitHub Search API: Jev Claude Code / staged review workflow / agent skill audit",
+      "heat": "AI 风险与 agentic coding 继续连在一起：一边是高互动安全解释簇，一边是 GitHub 新仓把 review、skill audit、typed workflow graph 做成产品。",
+      "signal": "可转译点：AI 写代码下一阶段不再只是更快生成，而是更便宜、更可审计、更容易被人接管。",
+      "discussion": "评论热点：agentic coding 是否烧钱、代码审查能否流程化、AI skill 是否需要证据链、开发者是不是更需要本地 dashboard。",
+      "xhsTitles": [
+        "AI 写代码下一课：别只看生成速度，要看谁能审它",
+        "未来的 AI 编程工具，可能先卖“可复盘”"
+      ],
+      "sources": [
+        [
+          "JRE Clips / 81.38万播放 / 5448赞 / 1300评论",
+          "https://www.youtube.com/watch?v=hkbv4ILw_II"
+        ],
+        [
+          "80,000 Hours / 36.12万播放 / 6430赞 / 962评论",
+          "https://www.youtube.com/watch?v=xOi5nDH0lu0"
+        ],
+        [
+          "Ray Amjad flat search / 7.09万播放 / 赞评待精确复核",
+          "https://www.youtube.com/watch?v=ScvXFi4MUSc"
         ]
       ]
     }
   ],
   "tiktokSignals": [
     {
-      "title": "Charli XCX post-Brat / Music Fashion Film 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；YouTube exact videos 已确认窗口外，不进主榜。",
-      "link": "https://www.tiktok.com/search?q=Charli%20XCX%20Music%20Fashion%20Film%20post%20Brat",
-      "heat": "观察短视频侧如何讨论 Brat 之后的自我拆解、SS26 视觉和音乐/时尚/电影概念策展。",
-      "xhsAngle": "标题：Charli 最聪明的地方，是没有复制 Brat，而是把自己拆开重组。"
+      "title": "RAYE This Music May Contain Hope 站内搜索聚类",
+      "tags": [
+        "TikTok",
+        "Search Cluster",
+        "Music Reaction"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频待补",
+      "metrics": "精确视频链接待补；YouTube flat search 显示高播放 reaction，但赞评未精确复核。",
+      "link": "https://www.tiktok.com/search?q=RAYE%20This%20Music%20May%20Contain%20Hope",
+      "imageStatus": "TikTok thumbnail pending",
+      "heat": "观察用户是否把 RAYE 新专解释成电影感、疗愈叙事或女性创作人格。",
+      "xhsAngle": "标题：RAYE 新专最上头的地方，是把人生低谷拍成电影感。"
     },
     {
-      "title": "AI coding security / vibe coding security 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=AI%20coding%20security%20vibe%20coding%20Claude%20Code",
-      "heat": "观察普通用户如何理解权限、预算上限、前端敏感调用和 AI 编程安全。",
-      "xhsAngle": "标题：AI 编程最该补的一课，不是提问技巧，而是权限和账单边界。"
+      "title": "BTS ARIRANG fan reaction 站内搜索聚类",
+      "tags": [
+        "TikTok",
+        "Search Cluster",
+        "K-pop Fandom"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频待补",
+      "metrics": "精确视频链接待补；YouTube search cluster 有高播放和分歧标题，TikTok 只放搜索页。",
+      "link": "https://www.tiktok.com/search?q=BTS%20ARIRANG%20album%20reaction",
+      "imageStatus": "TikTok thumbnail pending",
+      "heat": "观察 ARMY 如何讨论集体回归、标题文化符号和粉丝期待差。",
+      "xhsAngle": "标题：BTS 回归真正被审判的，是团体叙事还成不成立。"
     },
     {
-      "title": "Claude skills / LinkedIn agent skill 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Claude%20skills%20LinkedIn%20agent%20skill%20workflow",
-      "heat": "观察 skill 是否从程序员工具扩散到内容运营、编剧、论文阅读等职业工作流。",
-      "xhsAngle": "标题：AI skill 下一波机会，不是万能助手，而是职业工作流包。"
+      "title": "Olivia Rodrigo new album 站内搜索聚类",
+      "tags": [
+        "TikTok",
+        "Search Cluster",
+        "Pop Girl Narrative"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频待补",
+      "metrics": "精确视频链接待补；YouTube flat search 有 McCall Mirabella 17.69万播放。",
+      "link": "https://www.tiktok.com/search?q=Olivia%20Rodrigo%20new%20album%20reaction%202026",
+      "imageStatus": "TikTok thumbnail pending",
+      "heat": "观察恋爱叙事、sad girl persona 和粉丝逐句解读是否扩散。",
+      "xhsAngle": "标题：Olivia 新叙事最狠的，是把恋爱写成不安的细节。"
     },
     {
-      "title": "Romeo + Juliet Baz Luhrmann aesthetic 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Romeo%20Juliet%20Baz%20Luhrmann%20aesthetic",
-      "heat": "观察 90s 电影美学、剪辑节奏和青春危险感是否有短视频复燃。",
-      "xhsAngle": "标题：复古电影美学回潮，最难复制的是当年的危险感。"
+      "title": "GPT-6 Astra workflow 站内搜索聚类",
+      "tags": [
+        "TikTok",
+        "Search Cluster",
+        "AI Workflow"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频待补",
+      "metrics": "精确视频链接待补；YouTube exact videos 已过 AI 门槛，9/20 flat search 显示工作流实测继续扩散。",
+      "link": "https://www.tiktok.com/search?q=GPT-6%20Astra%20workflow%20ChatGPT%20Work",
+      "imageStatus": "TikTok thumbnail pending",
+      "heat": "观察普通用户把 Astra 当模型升级、工作流工具还是赚钱自动化。",
+      "xhsAngle": "标题：AI 工具别再只问强不强，先问它能不能交付。"
     },
     {
-      "title": "Taylor Swift Toy Story 5 song 站内搜索聚类",
-      "sourceType": "站内搜索聚类",
-      "metrics": "精确视频链接待补；不放账号页。",
-      "link": "https://www.tiktok.com/search?q=Taylor%20Swift%20Toy%20Story%205%20song%20reaction",
-      "heat": "观察粉丝如何处理 Taylor 与大 IP 视觉/歌曲授权合作，YouTube 侧暂缺 UGC 主榜证据。",
-      "xhsAngle": "标题：大 IP 歌曲最难的，是让粉丝相信它不是一次授权合作。"
+      "title": "Jev Claude Code agentic coding 站内搜索聚类",
+      "tags": [
+        "TikTok",
+        "Search Cluster",
+        "Agentic Coding"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频待补",
+      "metrics": "精确视频链接待补；Ray Amjad flat search 7.09万播放，GitHub 同步出现 jev-review 与 skill-audit 新仓。",
+      "link": "https://www.tiktok.com/search?q=Jev%20Claude%20Code%20agentic%20coding",
+      "imageStatus": "TikTok thumbnail pending",
+      "heat": "观察开发者是否从“自动写代码”转向成本、审计、review dashboard。",
+      "xhsAngle": "标题：AI 写代码下一课，是谁来审它。"
     }
   ],
   "githubSkills": [
     {
-      "title": "affaan-m/ECC：agent harness 从 prompt 管理转向性能/记忆/安全系统",
-      "repo": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "heat": "GitHub Search API 9/18：261211 stars / 39104 forks / pushed_at 2026-09-17。",
-      "why": "描述同时覆盖 skills、instincts、memory、security 和 research-first development，说明 agent 工作台正在从“会调用工具”走向可管理系统。",
-      "xhsAngle": "选题：AI agent 真正厉害的不是会写，而是有记忆、有边界、有复盘。"
+      "name": "shadcn-ui/lint",
+      "url": "https://github.com/shadcn-ui/lint",
+      "urlLabel": "GitHub: shadcn-ui/lint",
+      "heat": "GitHub Search API 9/20：2176 stars / 38 forks / created_at 2026-09-02 / pushed_at 2026-09-17。",
+      "why": "把设计系统规则写成 agent 可检查的 linter，说明前端 AI 化后，真正稀缺的是“机器能验证的审美边界”。",
+      "xhsAngle": "选题：AI 做 UI 最大的问题不是不会画，而是不知道什么叫越界。"
     },
     {
-      "title": "langgenius/dify：agentic workflow 生产化继续活跃",
-      "repo": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "heat": "GitHub Search API 9/18：156198 stars / 24668 forks / pushed_at 2026-09-18。",
-      "why": "Dify 继续把 RAG、工具、模型和 workflow 放在协作工作台里，是 AI 应用从原型走向生产的基线样本。",
-      "xhsAngle": "选题：AI 应用真正值钱的不是对话框，而是能被团队反复跑的工作流。"
+      "name": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "urlLabel": "GitHub: Albert-Weasker/niubigeo",
+      "heat": "GitHub Search API 9/20：2525 stars / 99 forks / created_at 2026-09-03 / pushed_at 2026-09-16。",
+      "why": "把品牌在 AI 搜索/回答里的可见度做成报告产品，指向 GEO 从 SEO 旁支变成品牌运营新工种。",
+      "xhsAngle": "选题：以后品牌焦虑的不是百度搜不到，而是 AI 根本不提你。"
     },
     {
-      "title": "langflow-ai/langflow：可视化 agent workflow 保持高活跃",
-      "repo": "langflow-ai/langflow",
-      "url": "https://github.com/langflow-ai/langflow",
-      "heat": "GitHub Search API 9/18：154951 stars / 10109 forks / pushed_at 2026-09-18。",
-      "why": "可视化 workflow 说明团队需要能看懂、能改、能部署的 agent 编排，而不是只靠提示词。",
-      "xhsAngle": "选题：AI 工作流越复杂，越需要一张普通人看得懂的流程图。"
+      "name": "unstablebuild/rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "urlLabel": "GitHub: unstablebuild/rune",
+      "heat": "GitHub Search API 9/20：1002 stars / 76 forks / created_at 2026-09-10 / pushed_at 2026-09-19。",
+      "why": "开发环境、TUI、workspace manager 和 coding agents 被打在一起，说明 agent 工具开始争夺开发者桌面入口。",
+      "xhsAngle": "选题：AI 编程工具下一战，不是插件，而是谁占领你的工作台。"
     },
     {
-      "title": "Graphify-Labs/graphify：代码库知识图谱成为 agent skill 卖点",
-      "repo": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "heat": "GitHub Search API 9/18：119093 stars / 11515 forks / pushed_at 2026-09-16。",
-      "why": "Graphify 强调把代码、文档、SQL、PDF 变成可查询知识图谱，且每条边可解释，契合 agent 读大型项目时的可审计需求。",
-      "xhsAngle": "选题：AI 读代码最大的难题，不是速度，而是它凭什么这么判断。"
+      "name": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "urlLabel": "GitHub: agentverse-os/AgentVerse-OS",
+      "heat": "GitHub Search API 9/20：936 stars / 24 forks / created_at 2026-09-12 / pushed_at 2026-09-12。",
+      "why": "把个人云 OS、隔离工作区、Claude Code、Codex、自托管 app store 放在单服务器里，产品叙事是“给人和 agent 共用的个人云”。",
+      "xhsAngle": "选题：未来个人电脑可能不是一台电脑，而是你和 AI 共用的一朵私有云。"
     },
     {
-      "title": "jtydhr88/screenwriting-skills：垂直创作 skill 快速冒头",
-      "repo": "jtydhr88/screenwriting-skills",
-      "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "heat": "GitHub Search API 9/18：1228 stars / 136 forks / created_at 2026-09-06 / pushed_at 2026-09-16。",
-      "why": "把 screenwriting、television writing、dramaturgy 包装成 agent skills，说明 skill 市场开始从通用生产力转向职业创作流程。",
-      "xhsAngle": "选题：未来 AI 工具可能不是一个 app，而是一套职业技能包。"
+      "name": "devagrawal09/jev-review",
+      "url": "https://github.com/devagrawal09/jev-review",
+      "urlLabel": "GitHub: devagrawal09/jev-review",
+      "heat": "GitHub Search API 9/20：353 stars / 21 forks / created_at 2026-09-16 / pushed_at 2026-09-17。",
+      "why": "把 staged code-review workflow 和 local dashboard 做成 Jev 样板，说明 agentic coding 的卖点正在回到 review 证据链。",
+      "xhsAngle": "选题：AI 写代码不可怕，可怕的是你不知道它改了哪里。"
     },
     {
-      "title": "Jakeschincariol/linkedin-agent-skill：内容运营 skill 商品化",
-      "repo": "Jakeschincariol/linkedin-agent-skill",
-      "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
-      "heat": "GitHub Search API 9/18：292 stars / 43 forks / created_at 2026-09-07 / pushed_at 2026-09-17。",
-      "why": "LinkedIn hooks、comments、replies、profile score、weekly plan 和 humanizer 被打成 skill 套件，指向个人品牌运营的流程化。",
-      "xhsAngle": "选题：AI 内容运营最诱人的卖点，是把每日社交动作变成流程。"
+      "name": "Agenta-AI/awesome-ai-agent-platforms",
+      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "urlLabel": "GitHub: Agenta-AI/awesome-ai-agent-platforms",
+      "heat": "GitHub Search API 9/20：236 stars / 10 forks / created_at 2026-09-02 / pushed_at 2026-09-03。",
+      "why": "agent coworkers、builders、browser agents、coding agents 被系统化整理，适合作为 agent 平台版图观察池，不写成上涨榜。",
+      "xhsAngle": "选题：AI agent 赛道太乱？先按工作流入口重新分类。"
     }
   ],
   "sparkPool": [
     {
-      "title": "窗口外强样本",
-      "hook": "Charli 和 AI coding security 都有精确高互动，但不符合当天窗口；写作时把它们当背景案例，而不是今日爆款。",
-      "template": "exact video -> 上传日期 -> 为什么窗口外 -> 仍可借鉴的内容结构 -> 今日可写角度",
-      "bestFor": "音乐号、AI 科普号、选题复盘号"
+      "hook": "音乐新专热簇今天只做 watchlist，不抢主榜",
+      "template": "flat search 高播放 -> 单页复核受阻 -> 标明 search cluster -> 等精确赞评 -> 再决定是否升级主榜",
+      "bestFor": "音乐号、流行文化号、选题复盘号"
     },
     {
-      "title": "职业 skill 包",
-      "hook": "screenwriting、LinkedIn、paper reading 等新仓说明 skill 正在从通用助手变成职业工作流包。",
-      "template": "GitHub 样本 -> 职业任务 -> 可复用流程 -> 普通人为什么买单 -> 产品机会",
-      "bestFor": "AI 产品号、创业号、知识工作者"
+      "hook": "AI 内容从发布会转向交付测试",
+      "template": "模型发布 -> 真实工作流 -> 过程可见 -> 失败复盘 -> 普通用户该怎么选",
+      "bestFor": "AI 产品号、效率号、知识工作者"
     },
     {
-      "title": "Agent 可审计流程",
-      "hook": "大型 agent workflow 仓库继续活跃，适合写失败重试、权限、记忆、交接和知识图谱，而不是单纯模型强弱。",
-      "template": "API 样本 -> workflow engine -> 权限/审计 -> 团队协作 -> 产品判断",
-      "bestFor": "AI 产品号、效率号、企业工具号"
+      "hook": "agentic coding 的下一波关键词是审计",
+      "template": "自动写代码 -> 成本上升 -> review dashboard -> 证据链 -> 开发者信任",
+      "bestFor": "开发者号、AI 创业号、工具号"
     },
     {
-      "title": "复古美学待补",
-      "hook": "Romeo + Juliet 和 Taylor/Toy Story 5 都有实体信号，但 UGC 不足，适合放进观察而不是主榜。",
-      "template": "搜索噪声 -> 官方/旧内容占比 -> UGC 缺口 -> 审美观察 -> 待补关键词",
-      "bestFor": "影视审美号、音乐号"
+      "hook": "GitHub 新仓不要写涨幅，写产品方向",
+      "template": "API 样本 -> stars/forks/created_at -> 解决的职业任务 -> 小红书可理解标题",
+      "bestFor": "AI 产品号、创业号、信息差号"
     },
     {
-      "title": "新人视觉人格尾部",
-      "hook": "ADÉLA 仍在窗口尾部，适合继续写新人如何借公共影像记忆建立人格识别。",
-      "template": "过线 reaction -> visual motif -> 公共符号 -> 新人人格 -> 评论投票",
-      "bestFor": "音乐审美号、娱乐营销号"
+      "hook": "反叛 IP 的老粉审计适合做方法论",
+      "template": "争议节点 -> 老粉评论 -> 反叛姿态制度化 -> 品牌人格更新 -> 互动提问",
+      "bestFor": "影视号、品牌号、创作者人格号"
     }
   ],
   "valueFlows": [
     {
-      "from": "Charli XCX window-out exact videos",
-      "to": "爆红后如何管理旧标签",
-      "note": "可用作背景案例；不要写成 9/18 Social 主榜爆款。"
+      "from": "RAYE new album search cluster",
+      "to": "电影感 pop 叙事",
+      "note": "先观察精确赞评，适合转译为“音乐如何让人脑补人生转场”。"
     },
     {
-      "from": "AI coding security old strong samples",
-      "to": "普通人 AI 编程安全素养",
-      "note": "把过期强互动转译为权限、账单、前端敏感调用和 RLS 的基础课。"
+      "from": "BTS ARIRANG fan split",
+      "to": "团体回归叙事审计",
+      "note": "粉丝分歧比单纯好评更适合小红书讨论，但必须补精确证据。"
     },
     {
-      "from": "new vertical skill repos",
-      "to": "职业工作流商品化",
-      "note": "screenwriting、LinkedIn、paper reading 指向下一波 AI skill 的垂直化。"
+      "from": "GPT-6 Astra workflow videos",
+      "to": "普通人 AI 交付能力判断",
+      "note": "从参数崇拜转向能否完成任务、保留过程和复盘。"
     },
     {
-      "from": "large agent workbench repos",
-      "to": "可审计 workflow 和团队交接",
-      "note": "写记忆、权限、知识图谱、provider switch 和失败重试，不写模型崇拜。"
+      "from": "shadcn-ui/lint",
+      "to": "agent 可验证设计系统",
+      "note": "设计系统规则正在变成 AI 时代的质量边界。"
     },
     {
-      "from": "Romeo + Juliet / Taylor official-noise clusters",
-      "to": "复古美学与大 IP 合作观察",
-      "note": "先放 watchlist，等近 15 天高互动 UGC 证据再升级。"
+      "from": "Jev review / skill audit repos",
+      "to": "agentic coding 证据链",
+      "note": "开发者工具机会在 review、audit、本地 dashboard。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "AI skill：把工具热写成职业工作流包",
-      "whyNow": "9/18 GitHub 新近创建样本里，screenwriting-skills、linkedin-agent-skill、papergraph-mcp 都在把具体职业任务包装成 agent skill。",
-      "xhsTitle": "AI skill 下一波机会，不是万能助手，而是职业工作流包",
-      "firstParagraph": "AI 工具真正变得好卖，往往不是因为它号称什么都能做，而是因为它把一类人每天重复做的事，变成一套能复用、能交接、能被检查的流程。",
-      "cta": "你最想把哪种工作流做成 AI skill？"
+      "title": "AI 交付测试：把模型热写成普通人判断框架",
+      "whyNow": "9/20 search cluster 显示 GPT-6 Astra 内容从 first look 扩散到 100 小时实测、ChatGPT Work、自动交易和努力等级选择。",
+      "xhsTitle": "AI 发布会看不懂？先问它能不能把一件事做完",
+      "firstParagraph": "判断一个 AI 工具有没有用，不必先看参数表。更现实的问题是：它能不能把目标拆清楚、把过程留下来、出错后让你接得住。",
+      "cta": "你现在最想让 AI 完整交付哪一类任务？"
     },
     {
-      "title": "AI 编程安全：把旧强样本写成基础课",
-      "whyNow": "Fireship 和 Chris Raroque 旧视频互动极高但窗口外，适合用来解释为什么 AI coding 热潮需要补权限、预算和数据边界。",
-      "xhsTitle": "AI 编程最该补的一课，不是提问技巧，而是权限和账单边界",
-      "firstParagraph": "很多人学 AI 编程时只关心写得快不快，但真正容易出事的地方，常常是权限、账单、数据库规则和前端暴露的敏感调用。",
-      "cta": "你用 AI 写代码时，最担心哪一种风险？"
+      "title": "音乐新专人格审计：先写 RAYE/BTS/Olivia 的讨论结构",
+      "whyNow": "9/20 flat search 出现多个高播放音乐 reaction，但 exact 赞评未拿到；适合做 watchlist 选题预案，不写成今日爆款。",
+      "xhsTitle": "新专出圈前，先看评论区在审判什么人格",
+      "firstParagraph": "新专 reaction 的价值，不只是听感好坏，而是观众到底在审判什么：创作者人格、粉丝承诺、故事可信度，还是一次视觉转向。",
+      "cta": "你更看重专辑的音乐性，还是艺人的人格叙事？"
     },
     {
-      "title": "Charli：把窗口外热度写成 post-era 策略",
-      "whyNow": "Charli exact videos 互动过线但上传日期在 7 月，不能进今日主榜；仍适合做 post-Brat 人格管理的背景案例。",
-      "xhsTitle": "Charli 最聪明的地方，是没有复制 Brat，而是把自己拆开重组",
-      "firstParagraph": "爆红之后最难的不是再红一次，而是不被上一次的成功困住。Charli 这条线真正值得写的，是她如何处理自己亲手制造的时代标签。",
-      "cta": "你更喜欢艺人延续旧标签，还是主动拆掉自己？"
+      "title": "AI 编程审计：把代码工具热写成信任问题",
+      "whyNow": "Jev + Claude Code 视频升温，GitHub 同步出现 jev-review、skill-audit、graph-engineering 等审计型新仓。",
+      "xhsTitle": "AI 写代码下一课，是谁来审它",
+      "firstParagraph": "当 AI 已经能改一大片代码时，真正值钱的工具就不是“更会写”，而是让你看懂它为什么这么改、哪里需要人接手。",
+      "cta": "你愿意让 AI 自动写代码到哪一步？"
     }
   ],
   "weeklySop": [
     {
-      "step": "01",
-      "title": "先找实体，不先找主题词",
-      "detail": "每天先列最近 24-72 小时和近 15/30 天的人、作品、争议、梗和视觉风格，再用实体反推 analysis / reaction / review / explained。固定词只用于补漏。"
+      "title": "动态发现先行",
+      "detail": "9/20 先扫音乐新专、K-pop 回归分歧、游戏发布会、AI 工作流、GitHub agent 新仓，再反推二级搜索词。"
     },
     {
-      "step": "02",
-      "title": "主榜严格看窗口和精确互动",
-      "detail": "9/18 Charli、Fireship、Chris Raroque 都有精确高互动，但上传日期超出窗口，因此只进入 Summary/watchlist，不进入 Social/AI 主榜。"
+      "title": "主榜只收 exact 证据",
+      "detail": "RAYE、BTS、Olivia、Jev 等只有 flat search 播放或赞评待补，全部标为 search cluster/watchlist，不进入主榜。"
     },
     {
-      "step": "03",
-      "title": "搜索聚类要标注噪声类型",
-      "detail": "Taylor/Toy Story 5、Romeo + Juliet、Scream 7 今天以官方内容、旧片段或概念预告为主，必须写明 official/archive/concept-trailer noise。"
+      "title": "窗口滚动降级",
+      "detail": "SILO 9/4 样本已滑出 9/5-9/20 Social 15 天窗口，从主榜降为长尾/watchlist。"
     },
     {
-      "step": "04",
-      "title": "GitHub 只写 API 样本，不伪装涨幅",
-      "detail": "9/18 GitHub feed 写当天 stars、forks、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
+      "title": "GitHub 只写 API 样本",
+      "detail": "9/20 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
     }
   ],
   "contentFormats": [
-    "格式：窗口外强样本复盘：精确互动、上传日期、为什么不进主榜、仍可借鉴的内容结构。",
-    "格式：职业 skill 包：GitHub 新仓、职业任务、可复用流程、普通人为什么买单、产品机会。",
-    "格式：agent 可审计流程：API 样本、workflow engine、权限/审计、团队交接、失败重试。",
-    "格式：官方噪声识别：热实体、官方/旧内容占比、缺少 UGC、待补二级搜索词。",
-    "格式：新人视觉人格尾部：过线 reaction、公共符号、视觉母题、新人人格识别、评论投票。"
+    "格式：search cluster 预警：今天看到什么、为什么不能进主榜、还差什么证据、如果升级该怎么写。",
+    "格式：AI 交付测试：模型名、真实任务、过程可见性、失败处理、普通人选择建议。",
+    "格式：音乐人格审计：新专 reaction、评论分歧、艺人人格、视觉母题、互动提问。",
+    "格式：GitHub 产品信号：新仓、stars/forks、解决的工作流、不是涨幅榜、产品机会。",
+    "格式：老 IP 反叛审计：争议节点、老粉评论、品牌姿态、更新困境、小红书问题。"
   ],
   "summarySparks": [
     {
-      "id": "charli-mff-window-out-exact-0918",
-      "tags": [
-        "music",
-        "visual-identity",
-        "window-out",
-        "exact-video"
-      ],
-      "lane": "Music / Post-Brat Persona",
-      "heat": "94",
-      "title": "Charli XCX 的 post-Brat 自我拆解仍有讨论价值，但不能进主榜",
-      "spark": "9/18 单页精确复核补齐 Charli XCX / Music, Fashion, Film 互动：theneedledrop 2026-07-29 36.95万播放 / 10461赞 / 1100评论，Swiftologist 2026-07-24 9.33万播放 / 3885赞 / 437评论。互动过线但上传日期超出 15 天 Social 主榜窗口，因此只作 Summary/watchlist 参考。",
-      "xhsTitle": "Charli 最聪明的地方，是没有复制 Brat，而是把自己拆开重组",
-      "discussion": "评论热点：Brat 之后是否该延续旧标签、Music/Fashion/Film 是否像概念策展、歌手爆红后如何不被自己的时代符号困住。",
-      "prompt": "引导话题：一个歌手爆红之后，应该继续服务旧标签，还是主动拆掉它？",
-      "tone": "适合音乐审美号；必须标注窗口外 exact videos，不进入 Social 主榜。"
+      "kind": "Search Cluster",
+      "lane": "Music / Album Reaction",
+      "title": "RAYE 新专 reaction 高播放，但今天只做待补",
+      "spark": "9/20 YouTube flat search：HTHAZE 的 RAYE This Music May Contain Hope reaction 27.99万播放，Zach Campbell 3.92万播放。单页精确赞评触发 bot gate，因此不进入 Social 主榜。",
+      "xhsTitle": "RAYE 新专最上头的地方，是把人生低谷拍成电影感",
+      "discussion": "评论可能围绕电影感 pop、hope 叙事、女性创作人格和现场感展开；需要补精确评论证据。",
+      "prompt": "引导话题：你听专辑时更在意旋律，还是它有没有让你脑补画面？",
+      "tone": "适合音乐审美号；必须标为 search cluster，不能写成爆款。"
     },
     {
-      "id": "agent-security-old-strong-samples-0918",
-      "tags": [
-        "ai",
-        "security",
-        "window-out",
-        "exact-video"
-      ],
-      "lane": "AI / Security Literacy",
-      "heat": "93",
-      "title": "AI 编程安全讨论有强样本，但今天只能当背景",
-      "spark": "9/18 动态搜索发现 Claude Code/source leak、vibe coding security 旧强样本：Fireship 2026-04-01 325.38万播放 / 99707赞 / 4800评论，Chris Raroque 2026-03-16 21.15万播放 / 9235赞 / 413评论。互动远超门槛，但超过 AI 近 30 天窗口，不进入 AI 主榜。",
-      "xhsTitle": "AI 编程最该补的一课，不是提问技巧，而是权限和账单边界",
-      "discussion": "评论热点：AI coding 是否容易泄露代码、前端敏感调用、预算上限、RLS、agent 工具权限和开发者是否过度信任自动生成。",
-      "prompt": "引导话题：你用 AI 写代码时，最担心隐私、账单，还是线上安全？",
-      "tone": "适合 AI 产品/开发者科普号；今天写作时必须说清这是窗口外背景样本。"
+      "kind": "Search Cluster",
+      "lane": "K-pop / Fandom Debate",
+      "title": "BTS ARIRANG 分歧值得盯，但不能跳过证据门槛",
+      "spark": "9/20 flat search：theneedledrop 32.69万播放、Phil Reacts 5.54万播放、The Kpop Newz 1.12万播放；单页 exact metrics 未拿到。",
+      "xhsTitle": "BTS 回归真正被审判的，是团体叙事还成不成立",
+      "discussion": "潜在讨论点：集体回归期待、文化符号使用、粉丝护航与批评边界。",
+      "prompt": "引导话题：超级团回归，你最怕它安全，还是最怕它太冒险？",
+      "tone": "适合 K-pop/粉丝文化号；先做观察，不进主榜。"
     },
     {
-      "id": "github-new-skills-screenwriting-linkedin-0918",
-      "tags": [
-        "github",
-        "agent-skills",
-        "creator-workflow"
-      ],
-      "lane": "GitHub / Vertical Skills",
-      "heat": "92",
-      "title": "新 skill 仓库开始从通用 agent 转向垂直职业工作流",
-      "spark": "9/18 GitHub Search API 新近创建样本：jtydhr88/screenwriting-skills 1228 stars / 136 forks / created_at 2026-09-06 / pushed_at 2026-09-16；Jakeschincariol/linkedin-agent-skill 292 stars / 43 forks / created_at 2026-09-07 / pushed_at 2026-09-17；lotchuazzz-crypto/papergraph-mcp 203 stars / pushed_at 2026-09-17。",
-      "xhsTitle": "AI skill 下一波机会，不是万能助手，而是职业工作流包",
-      "discussion": "讨论热点：编剧、LinkedIn 运营、论文阅读等垂直任务开始被打包成可复用 agent skills，普通人更容易理解“买的是流程，不是模型”。",
-      "prompt": "引导话题：你最想把哪种职业工作流做成 AI skill？",
-      "tone": "适合 AI 创业/产品号；不写成已验证周涨幅，只写 9/18 API 动态样本。"
+      "kind": "AI",
+      "lane": "Workflow / Model Trust",
+      "title": "GPT-6 Astra 热度从 first look 转向交付测试",
+      "spark": "9/20 flat search 新增 Riley Brown 72.03万播放、Nate Herk 43.30万播放、Paul J Lipsky 20.62万播放；此前 exact videos 已过 AI 门槛。",
+      "xhsTitle": "AI 发布会看不懂？先问它能不能把一件事做完",
+      "discussion": "评论热点会集中在 AGI 说法、自动交易/自动设计是否可信、真实任务是否比 benchmark 更有参考价值。",
+      "prompt": "引导话题：你会用 AI 做完整项目，还是只拿它做第一稿？",
+      "tone": "适合 AI 产品/效率号；可写主线，但新增样本标注 flat search。"
     },
     {
-      "id": "github-agent-workbench-large-active-0918",
-      "tags": [
-        "github",
-        "agent-workflow",
-        "workbench"
-      ],
-      "lane": "GitHub / Agent Workbench",
-      "heat": "95",
-      "title": "大型 agent 工作台继续把焦点推向可审计流程",
-      "spark": "9/18 GitHub Search API 活跃样本：langgenius/dify 156198 stars / 24668 forks / pushed_at 2026-09-18，langflow-ai/langflow 154951 / 10109 / 2026-09-18，affaan-m/ECC 261211 / 39104 / 2026-09-17，farion1231/cc-switch 133416 / 9201 / 2026-09-17，Graphify-Labs/graphify 119093 / 11515 / 2026-09-16。",
-      "xhsTitle": "AI agent 真正进公司后，最重要的是失败了还能接着跑",
-      "discussion": "讨论热点：workflow engine、provider switch、知识图谱、skills、Codex/Claude Code/Cursor 接入、权限审计和团队协作。",
-      "prompt": "引导话题：你希望 AI agent 先解决记忆、协作、权限，还是生成速度？",
-      "tone": "适合 AI 产品/创业号；强调当天 API 样本，不伪装上涨榜。"
+      "kind": "AI",
+      "lane": "Tool Choice / Work OS",
+      "title": "ChatGPT Work 与 Claude 对比开始像“工作人格”选择",
+      "spark": "9/20 flat search：Jeff Su ChatGPT Work 25.97万播放，The AI Advantage ChatGPT vs Claude 13.69万播放，AI Productivity Coach Claude tutorial 22.10万播放。",
+      "xhsTitle": "选 AI 工具别先问哪个最强，先问它像不像你的工作方式",
+      "discussion": "评论热点：长期项目、教程价值、企业工具门槛、普通用户到底该学哪个。",
+      "prompt": "引导话题：你更喜欢会主动规划的 AI，还是听话执行的 AI？",
+      "tone": "适合效率/职场号；注意新增样本赞评待补。"
     },
     {
-      "id": "adela-prima-window-tail-0918",
-      "tags": [
-        "music",
-        "visual-identity",
-        "exact-video"
-      ],
-      "lane": "Music / New Pop Persona",
-      "heat": "89",
-      "title": "ADÉLA / PRIMA 仍在窗口尾部，可继续写新人视觉人格",
-      "spark": "主榜继续使用已精确复核过门槛的 ADÉLA UGC：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论；DELI 2026-09-04 8.34万播放 / 2141赞 / 245评论。9/18 未找到新的近 15 天达标 exact video。",
-      "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
-      "discussion": "评论热点：Nicole Kidman/AMC 梗、PRIMA 首专成熟度、Dream Academy 后再定位、红色高跟鞋和电影式控制感。",
-      "prompt": "引导话题：新人歌手先被记住，是靠一首歌，还是靠一个可复述的人格符号？",
-      "tone": "适合音乐审美号；继续用过线 exact videos。"
+      "kind": "GitHub Skill",
+      "lane": "Design Systems / Agent Verification",
+      "title": "shadcn-ui/lint 把设计系统变成 agent 可检查规则",
+      "spark": "9/20 GitHub Search API：shadcn-ui/lint 2176 stars / 38 forks / created_at 2026-09-02 / pushed_at 2026-09-17。",
+      "xhsTitle": "AI 做 UI 最大的问题不是不会画，而是不知道什么叫越界",
+      "discussion": "讨论点：设计系统规则、AI 生成 UI 的质量边界、团队如何把审美变成可验证约束。",
+      "prompt": "引导话题：你觉得 AI 做设计最缺审美，还是最缺规则？",
+      "tone": "适合设计系统/AI 产品号；写 API 样本，不伪装涨幅。"
     },
     {
-      "id": "south-park-satire-window-tail-0918",
-      "tags": [
-        "tv",
-        "satire",
-        "exact-video"
-      ],
-      "lane": "TV / Satire Brand",
-      "heat": "87",
-      "title": "South Park 仍是反叛 IP 被老粉审计的样本",
-      "spark": "South Park 主榜证据仍为 The ArchCast 2026-09-09 15.94万播放 / 5250赞 / 2000评论、Brian Tyler Cohen 2026-09-07 97.28万播放 / 35906赞 / 1600评论。9/18 新搜索噪声多，未新增可精确复核主榜样本。",
+      "kind": "GitHub Skill",
+      "lane": "Developer Workbench",
+      "title": "rune / AgentVerse-OS 指向开发者 agent 工作台入口战",
+      "spark": "9/20 GitHub Search API：unstablebuild/rune 1002 stars / 76 forks / pushed_at 2026-09-19；agentverse-os/AgentVerse-OS 936 stars / 24 forks。",
+      "xhsTitle": "AI 编程工具下一战，不是插件，而是谁占领你的工作台",
+      "discussion": "讨论点：本地/私有云工作区、coding agents、隔离环境、开发者是否愿意换入口。",
+      "prompt": "引导话题：你希望 AI agent 住在编辑器里，还是有自己的工作台？",
+      "tone": "适合 AI 创业/开发者工具号。"
+    },
+    {
+      "kind": "Pop Culture",
+      "lane": "Satire / Fandom Audit",
+      "title": "South Park 仍是今天最稳的 Social exact 主榜样本",
+      "spark": "9/14 exact-video 复核：The ArchCast 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 97.28万播放 / 35906赞 / 1600评论。9/20 仍在 15 天窗口内。",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
-      "discussion": "评论热点：讽刺对象是否变窄、政治笑话是否盖过角色、老粉怀旧、奖项是否会驯化反叛 IP。",
-      "prompt": "引导话题：一个靠冒犯起家的内容品牌，被主流认可后还会锋利吗？",
-      "tone": "适合文化评论号；写内容人格老化和粉丝审计。"
-    },
-    {
-      "id": "romeo-juliet-search-noise-0918",
-      "tags": [
-        "film",
-        "watchlist",
-        "search-cluster"
-      ],
-      "lane": "Film / Nostalgia Search Noise",
-      "heat": "80",
-      "title": "Romeo + Juliet 复古美学有信号，但 UGC 证据不足",
-      "spark": "9/18 搜索 Romeo + Juliet / Baz Luhrmann / anniversary concert 结果以 TODAY 采访 2.72万播放、Movieclips 旧片段和官方/资料类内容为主；缺少近 15 天达标 UGC analysis/reaction，因此只进 watchlist。",
-      "xhsTitle": "复古电影美学回潮，最难复制的是当年的危险感",
-      "discussion": "评论热点可观察 Baz Luhrmann 最大化视觉、90s 青春感、Leonardo/Claire Danes 记忆和当代审美如何重新消费旧电影。",
-      "prompt": "引导话题：你怀念的是这部电影，还是那个年代的影像气味？",
-      "tone": "适合影视审美号观察；今天证据不足，不进主榜。"
+      "discussion": "评论热点：老粉怀旧、政治笑话压过角色、反叛姿态是否制度化。",
+      "prompt": "引导话题：反叛 IP 被主流接受后，还能继续反叛吗？",
+      "tone": "适合影视/品牌人格号；是今天可见主榜核心。"
     }
   ],
   "contentGuardrails": [
@@ -586,11 +521,12 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-18-1010",
-    "contentWindow": "内容研究窗口：2026.09.03 - 2026.09.18 / 部署包生成：2026-09-18 10:10 CST",
-    "researchedThrough": "2026-09-18",
-    "packageGeneratedAt": "2026-09-18 10:10 CST",
-    "summary": "9/18 继续动态实体优先：复核 Charli XCX / Music, Fashion, Film 与 AI coding security 时补到精确高互动，但上传日期分别在 7 月、3-4 月，超出 Social 15 天和 AI 30 天窗口，因此只进 Summary/watchlist，不进主榜。Taylor/Toy Story 5、Romeo + Juliet、Scream 7 搜索以官方内容、旧片段、概念预告和低互动噪声为主，继续待补 UGC。Social 主榜保留仍在窗口内且此前已精确复核过门槛的 ADÉLA、South Park、SILO；AI 主榜保留 Hugging Face/OpenAI incident、GPT-6 Astra、ChatGPT Work。GitHub Skill feed 使用 9/18 GitHub Search API 样本，新增垂直职业 skill 包与大型 agent workbench 两条方向；不写成已验证周涨幅。TikTok 只写站内搜索聚类，不放不匹配账号页。安全过滤继续排除药物、医疗化、身体极端化和可模仿风险。"
+    "editionId": "2026-09-20-1015",
+    "contentWindow": "内容研究窗口：2026.09.05 - 2026.09.20 / 部署包生成：2026-09-20 10:15 CST",
+    "researchedThrough": "2026-09-20",
+    "packageGeneratedAt": "2026-09-20 10:15 CST",
+    "summary": "9/20 继续动态实体优先：新发现 RAYE 新专 reaction、BTS ARIRANG 粉丝分歧、Olivia Rodrigo 新专、Nintendo/State of Play、GPT-6 Astra 工作流实测、ChatGPT Work/Claude 对比、Jev/agentic coding 审计和 GitHub agent workbench 新仓。YouTube 单页 exact 赞评复核触发 bot gate，因此新增音乐/AI 视频只写 search cluster/watchlist；Social 主榜只保留仍在 9/5-9/20 窗口且此前精确复核过门槛的 ADÉLA 与 South Park，SILO 因 9/4 核心样本滑出窗口降级。AI 主榜保留 GPT-6 Astra、ChatGPT Work、agent safety/coding audit 等已有 exact 证据，并标注 9/20 flat search 增温。GitHub Skill feed 使用 9/20 GitHub Search API 样本：shadcn-ui/lint、niubigeo、rune、AgentVerse-OS、jev-review、awesome-ai-agent-platforms；不写成已验证周涨幅。TikTok 只写站内搜索聚类，不放不匹配账号页。安全过滤继续排除药物、医疗化、身体极端化和可模仿风险。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/20 发现 RAYE / This Music May Contain Hope、BTS / ARIRANG、Olivia Rodrigo 新专、Nintendo/State of Play、GPT-6 Astra workflow、ChatGPT Work vs Claude、Jev + Claude Code、shadcn-ui/lint、niubigeo、rune、AgentVerse-OS。精确视频若赞评缺失或上传日期超出窗口，只进 Summary/watchlist；官方/低互动/旧片段噪声不进主榜。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -650,12 +586,21 @@
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-09-18",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/18 发现 Charli XCX / Music, Fashion, Film、AI coding security / Claude Code source leak / vibe coding security、vertical agent skills、agent workbench、Taylor/Toy Story 5、Romeo + Juliet、Scream 7。精确视频若上传日期超出窗口，只进 Summary/watchlist；官方/旧片段/概念预告噪声不进主榜。",
+    "researchedThrough": "2026-09-20",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/20 发现 RAYE / This Music May Contain Hope、BTS / ARIRANG、Olivia Rodrigo 新专、Nintendo/State of Play、GPT-6 Astra workflow、ChatGPT Work vs Claude、Jev + Claude Code、shadcn-ui/lint、niubigeo、rune、AgentVerse-OS。精确视频若赞评缺失或上传日期超出窗口，只进 Summary/watchlist；官方/低互动/旧片段噪声不进主榜。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
-    ]
+    ],
+    "contentWindow": "内容研究窗口：2026.09.05 - 2026.09.20 / 部署包生成：2026-09-20 10:15 CST",
+    "fallbackKeywords": [
+      "pop culture commentary",
+      "celebrity aesthetic analysis",
+      "music video visual identity",
+      "AI workflow",
+      "open-source AI apps"
+    ],
+    "qualityNote": "9/20 新增候选若只有 flat search 播放、无 exact 赞评或评论证据，一律标为 search cluster/watchlist；主榜只保留已复核过门槛且仍在窗口内的 exact videos。"
   }
 }
