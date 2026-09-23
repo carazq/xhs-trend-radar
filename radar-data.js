@@ -9,9 +9,9 @@ window.RADAR_DATA = {
         "Visual Identity"
       ],
       "priority": "high",
-      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论。9/22 动态发现 RAYE、Practical Magic 2、Emmys/DWTS 等 search cluster，但未拿到新的达标 exact 赞评证据。",
+      "metrics": "9/14 yt-dlp exact-video 复核：turning the tables 2026-09-10 12.17万播放 / 3333赞 / 282评论。9/23 动态发现 RAYE、Lizzie Borden、Practical Magic 2 等 search cluster，但未拿到新的达标 exact 赞评证据。",
       "channel": "YouTube exact video + Search cluster: ADÉLA PRIMA album reaction / debut persona / pop girl validation",
-      "heat": "ADÉLA 仍在 9/7-9/22 Social 窗口内，且有已复核过线 UGC reaction。今天 RAYE album reaction 播放已明显升温，但单页赞评被 bot gate 拦截，所以不能替代主榜 exact 证据。",
+      "heat": "ADÉLA 仍在 9/08-9/23 Social 窗口内，且有已复核过线 UGC reaction。今天 RAYE/Lizzie Borden/Practical Magic 2 都有讨论热簇，但 exact 赞评被 bot gate 或来源类型限制拦住，所以不能替代主榜 exact 证据。",
       "signal": "可转译点：新人歌手最先被讨论的往往不是完整作品，而是能不能被观众用一个视觉母题和一句人格描述讲清楚。",
       "why": "适合小红书：能写音乐、视觉人格、出道策略和女性气场，不碰身体评价，也不用依赖官方 MV 数据。",
       "discussion": "评论热点集中在 PRIMA 是否不像新人首专、Nicole Kidman 梗是否聪明、红色高跟鞋和电影感是否构成新人识别、以及 pop girl 出道是否需要可截图视觉母题。",
@@ -46,7 +46,7 @@ window.RADAR_DATA = {
       "priority": "high",
       "metrics": "9/14 yt-dlp exact-video 复核：The ArchCast 2026-09-09 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 2026-09-07 97.28万播放 / 35906赞 / 1600评论。",
       "channel": "YouTube exact videos + Search cluster: South Park Emmy 2026 reaction / satire backlash / has become what it hated",
-      "heat": "仍在 9/7-9/22 Social 窗口内，且两条 exact videos 赞评远超门槛；今天新搜索更多落在 Practical Magic 2、RAYE、Emmys/DWTS 和 AI skills，因此 South Park 继续作为最稳的 pop-culture exact evidence。",
+      "heat": "The ArchCast 9/09 样本仍在 9/08-9/23 Social 窗口内且赞评远超门槛；Brian Tyler Cohen 9/07 已贴近窗口边缘，今天仅作关联证据，不新增窗口外主榜样本。",
       "signal": "可转译点：亚文化品牌最怕的不是争议，而是粉丝开始怀疑它的反叛姿态是否已经制度化。",
       "why": "适合小红书：可以写“嘴毒内容为什么也会被老粉审判”，落点是创作者人格、冒犯边界、审美疲劳和老 IP 自我更新。",
       "discussion": "评论热点集中在是否还敢讽刺所有人、政治笑话是否压过角色/故事、老粉怀旧与新观众接受度、以及奖项是否会改变反叛 IP 的公众位置。",
@@ -73,59 +73,59 @@ window.RADAR_DATA = {
   ],
   "youtubeWatchlist": [
     {
-      "title": "RAYE / This Music May Contain Hope：高播放 reaction 升温，待补赞评",
-      "reason": "9/22 flat search：HTHAZE 28.21万播放、theneedledrop 18.08万播放、turning the tables 8.97万播放、Suly Solano 8.12万播放、The Bascome Twins 7.23万播放。单页 exact 赞评触发 YouTube bot gate，不能进入 Social 主榜。",
+      "title": "RAYE / This Music May Contain Hope：高播放 reaction 长尾，发布时间需继续复核",
+      "reason": "9/23 搜索聚类仍显示 HTHAZE、theneedledrop、turning the tables 等 reaction 有明显播放量，但 web 可见结果提示部分视频发布时间可能早于 Social 近 15 天窗口；单页 exact 赞评触发 YouTube bot gate，不能进入 Social 主榜。",
       "sourceType": "Search cluster / exact metrics pending",
       "suggestedSearch": "RAYE This Music May Contain Hope album reaction review HTHAZE theneedledrop turning the tables",
-      "xhsAngle": "RAYE 新专适合写“电影感 pop”如何让听众自动脑补人生转场，但发布前必须补赞评和热评。"
+      "xhsAngle": "RAYE 适合写“电影感 pop”如何让听众把生活脑补成转场，但发布前必须补上传日期、赞评和热评。"
     },
     {
-      "title": "Practical Magic 2：官方访谈高播放，UGC review 仍未过主榜",
-      "reason": "9/22 flat search：Tonight Show 77.78万播放、TODAY 72.56万播放、Entertainment Tonight 49.05万播放，但这些是官方/媒体访谈，不直接进主榜；UGC review 多在 5万播放上下或更低。Variety 报道其美国开画 3000 万美元但表现分歧，适合作为背景。",
-      "sourceType": "Stable media + official/interview-heavy search cluster",
-      "suggestedSearch": "Practical Magic 2 review reaction Nicole Kidman Sandra Bullock witchy nostalgia",
-      "xhsAngle": "怀旧续集最能写的不是情怀回归，而是“成年女性友谊 + 魔法美学”为什么重新适配短视频。"
+      "title": "Monster: The Lizzie Borden Story：Netflix 犯罪剧热簇，待补 UGC exact",
+      "reason": "9/23 动态发现围绕 Netflix Monster: The Lizzie Borden Story 的 review / explained / audience reaction 搜索簇升温，但搜索结果混有官方预告、新闻和低证据评论内容；未拿到达标 UGC exact 赞评。",
+      "sourceType": "Search cluster / UGC exact pending",
+      "suggestedSearch": "Monster The Lizzie Borden Story Netflix review reaction explained audience response",
+      "xhsAngle": "可转译为“真实罪案 IP 为什么又变成女性叙事审判”，但必须避免猎奇和未证实细节。"
     },
     {
-      "title": "Emmys / DWTS / Julia Stiles：热视频偏新闻切片，UGC 不足",
-      "reason": "9/22 pop-culture search 返回 E! News 的 John Mulaney Emmys、DWTS/Julia Stiles 等新闻短切片，播放过线但属于官方新闻内容，缺少高质量 UGC analysis。",
-      "sourceType": "News/official short clips / UGC evidence pending",
-      "suggestedSearch": "John Mulaney Emmys 2026 monologue reaction Julia Stiles DWTS commentary",
-      "xhsAngle": "若后续出现 UGC 分析，可写“颁奖礼/舞台综艺的片段化传播怎样反向塑造艺人人格”。"
+      "title": "Practical Magic 2：witchy nostalgia 仍偏官方/访谈",
+      "reason": "9/23 继续看到 Practical Magic 2、Nicole Kidman、Sandra Bullock、witchy nostalgia 搜索簇，但核心来源仍多为官方物料、采访和新闻解释；缺近 15 天达标 UGC exact 赞评。",
+      "sourceType": "Search cluster / official-heavy",
+      "suggestedSearch": "Practical Magic 2 trailer reaction witchy nostalgia Nicole Kidman Sandra Bullock commentary",
+      "xhsAngle": "可写成年女性姐妹同盟和秋季 witchy aesthetic，但主榜发布前需补 UGC 分析证据。"
     },
     {
-      "title": "BTS / ARIRANG：粉丝分歧强，但需精确赞评",
-      "reason": "9/20 flat search：theneedledrop 32.69万播放，Phil Reacts 5.54万播放，The Kpop Newz 1.12万播放。9/22 未补到单页精确赞评，不进主榜。",
-      "sourceType": "Search cluster / exact metrics pending",
-      "suggestedSearch": "BTS ARIRANG album review fan reaction controversy 2026",
-      "xhsAngle": "超级团回归最难的不是数据，而是让粉丝相信“集体叙事”没有变成安全牌。"
+      "title": "TikTok film nostalgia / Some people call me：平台格式强，精确链接待补",
+      "reason": "9/23 动态发现 TikTok 的 film nostalgia、Some people call me、identity quote 格式适合小红书转译；当前只作为站内搜索聚类，未拿到匹配精确视频 URL。",
+      "sourceType": "TikTok search cluster / exact URL pending",
+      "suggestedSearch": "TikTok film nostalgia Some people call me trend identity quote aesthetic",
+      "xhsAngle": "适合写“用一句台词给自己贴身份标签”的图文模板。"
     },
     {
-      "title": "Olivia Rodrigo 新专：高播放 reaction，待补精确互动",
-      "reason": "9/20 flat search：McCall Mirabella 17.69万播放。标题和评论方向适合观察恋爱叙事，但单页赞评未拿到。",
-      "sourceType": "Search cluster / exact metrics pending",
-      "suggestedSearch": "Olivia Rodrigo You Seem Pretty Sad For A Girl So In Love album reaction",
-      "xhsAngle": "Olivia 的新叙事如果成立，关键不是更悲伤，而是把恋爱里的不安写得更具体。"
+      "title": "Claude/Codex skills 教程：播放热但 exact 赞评仍缺",
+      "reason": "9/23 继续发现 Claude skills、AI agent skills、Codex skill workflow 教程簇；9/22 已记录 Greg Isenberg、AI Master、Nick Saraev flat search 播放较高，但单页 exact 赞评继续被 bot gate 拦截。",
+      "sourceType": "AI search cluster / exact metrics pending",
+      "suggestedSearch": "Claude skills AI agent skills Codex skill workflow tutorial 2026",
+      "xhsAngle": "适合写“AI 学到最后拼的是自己的可复用 skill 库”。"
     }
   ],
   "aiSignals": [
     {
-      "title": "AI skills / Claude Code 教程热：从模型能力转向可复用工作流",
+      "title": "AI skills / Claude Code / Codex 教程热：工作流从提示词转向资产化",
       "tags": [
         "AI",
         "Agent Skills",
-        "Workflow",
-        "Creator Economy"
+        "Claude Code",
+        "Workflow Productization"
       ],
       "priority": "high",
-      "metrics": "9/22 flat search：Greg Isenberg `How AI agents & Claude skills work` 83.72万播放、AI Master Claude agent tutorial 45.94万播放、Nick Saraev `CLAUDE SKILLS FULL COURSE` 16.35万播放；单页 exact 赞评被 bot gate 拦截，作为 AI search cluster，不新增 exact 主榜视频。",
-      "channel": "YouTube search cluster + GitHub Search API: Claude skills / AI agent skills / workflow productization",
-      "heat": "技能化已经从开发者小圈层扩散到 YouTube 教程和 GitHub 新仓：观众关心的不只是模型回答，而是能否把一套职业流程封装、复用、交给 agent 执行。",
-      "signal": "可转译点：AI 内容可以从“工具清单”升级为“我的工作流能不能被打包成 skill”。",
-      "discussion": "评论热点预计集中在 skills 是否只是 prompt 包、普通人该不该学习 Claude Code、教程是否能带来可售卖工作流、以及 agent 出错时如何审计。",
+      "metrics": "9/23 search cluster：Claude skills、AI agent skills、Codex skill workflow 继续升温；9/22 flat search 已记录 Greg Isenberg 83.72万播放、AI Master 45.94万播放、Nick Saraev 16.35万播放。单页 exact 赞评被 bot gate 拦截，作为 AI search cluster，不新增 exact 主榜视频。",
+      "channel": "YouTube search cluster + GitHub skill/API samples: Claude skills / Codex skill / AI agent workflow",
+      "heat": "AI 内容叙事继续从“哪个模型更强”转向“谁能把经验固化成可复用技能、审核链和内容流水线”。",
+      "signal": "可转译点：普通人真正可卖的不是提示词合集，而是一套能重复跑、能留证据、能迁移到不同工具的 skill。",
+      "discussion": "评论热点可预期集中在 skills 和 agents 的区别、普通用户是否需要 skill 库、教程是否只是包装旧 prompt、以及团队如何审计 agent 输出。",
       "xhsTitles": [
         "AI 学到最后，拼的可能不是提示词，是你有没有自己的 skill",
-        "Claude skills 火起来后，普通人的工作流也能被打包出售吗"
+        "为什么现在大家开始把工作流做成 AI 技能包？"
       ],
       "sources": [
         [
@@ -137,8 +137,8 @@ window.RADAR_DATA = {
           "https://www.youtube.com/watch?v=bcM9dP_uXJU"
         ],
         [
-          "Nick Saraev flat search / 16.35万播放 / 赞评未能精确复核",
-          "https://www.youtube.com/watch?v=sduaTkhIm_w"
+          "GitHub search: Vincentwei1021/anything2explainer",
+          "https://github.com/Vincentwei1021/anything2explainer"
         ]
       ]
     },
@@ -211,114 +211,114 @@ window.RADAR_DATA = {
   ],
   "tiktokSignals": [
     {
-      "title": "RAYE This Music May Contain Hope 站内搜索聚类",
+      "title": "TikTok film nostalgia：用电影感给生活套滤镜",
       "tags": [
         "TikTok",
-        "Search Cluster",
-        "Music Commentary"
+        "Film Nostalgia",
+        "Aesthetic Template"
       ],
       "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "YouTube search cluster 已升温；TikTok 应用内可继续查 RAYE album reaction、cinema pop、This Music May Contain Hope lyrics。",
-      "xhsAngle": "适合写“电影感 pop 如何让普通人把生活剪成预告片”。",
+      "heat": "9/23 动态发现 film nostalgia、movie scene identity、cinematic life edit 相关搜索簇仍适合转小红书模板；未拿到匹配精确视频 URL，不放账号页。",
+      "xhsAngle": "标题：为什么普通生活一套电影字幕，就像突然有了人生预告片？",
+      "source": "https://www.tiktok.com/search?q=film%20nostalgia%20aesthetic"
+    },
+    {
+      "title": "Some people call me：一句话身份标签格式",
+      "tags": [
+        "TikTok",
+        "Identity Meme",
+        "Comment Prompt"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频链接待补",
+      "heat": "9/23 观察到 Some people call me / identity quote 适合作为评论互动格式；当前只记录搜索页，不伪装成单条热视频。",
+      "xhsAngle": "标题：最近最适合小红书评论区的句式：有人叫我____，但我其实____",
+      "source": "https://www.tiktok.com/search?q=some%20people%20call%20me%20trend"
+    },
+    {
+      "title": "RAYE cinematic pop：新专反应带出人生转场感",
+      "tags": [
+        "TikTok",
+        "Music Reaction",
+        "Cinematic Pop"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频链接待补",
+      "heat": "RAYE 新专反应在 YouTube 和 TikTok 搜索侧都有信号，但 TikTok 暂未拿到精确视频 URL。",
+      "xhsAngle": "标题：RAYE 火的不是复古，是把歌写成成年人的电影转场",
       "source": "https://www.tiktok.com/search?q=RAYE%20This%20Music%20May%20Contain%20Hope"
     },
     {
-      "title": "Practical Magic 2 witchy nostalgia 站内搜索聚类",
+      "title": "Lizzie Borden / Monster：真实罪案 IP 的女性叙事争议",
       "tags": [
         "TikTok",
-        "Search Cluster",
-        "Film Aesthetic"
+        "Netflix",
+        "True Crime Commentary"
       ],
       "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "媒体和官方访谈高播放，UGC review 仍不足；TikTok 继续看 witchy nostalgia、Owens women、Nicole/Sandra reunion。",
-      "xhsAngle": "适合写秋季女巫氛围、成年女性友谊和怀旧续集的情绪消费。",
-      "source": "https://www.tiktok.com/search?q=Practical%20Magic%202%20witchy%20nostalgia"
+      "heat": "9/23 动态发现 Netflix Monster / Lizzie Borden 搜索簇；因可能涉及猎奇和事实争议，只保留为观察，发布需严格避开模仿和未证实细节。",
+      "xhsAngle": "标题：为什么真实罪案剧一火，评论区总会变成道德审判现场？",
+      "source": "https://www.tiktok.com/search?q=Monster%20The%20Lizzie%20Borden%20Story"
     },
     {
-      "title": "Claude skills / AI agent skills 站内搜索聚类",
+      "title": "Claude skills / Codex skill：AI 工作流开始像插件一样被收藏",
       "tags": [
         "TikTok",
-        "Search Cluster",
-        "AI Workflow"
+        "AI Workflow",
+        "Agent Skills"
       ],
       "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "YouTube 和 GitHub 同时升温，TikTok 可观察短教程是否开始从 prompt list 转向 skill workflow。",
-      "xhsAngle": "适合写“普通人如何把自己的工作方法打包成 AI skill”。",
+      "heat": "9/23 AI 侧搜索聚类显示 skills、agent workflow、Codex/Claude Code 教程仍在升温；TikTok 端只记录搜索聚类。",
+      "xhsAngle": "标题：会用 AI 的人，已经开始整理自己的技能仓库了",
       "source": "https://www.tiktok.com/search?q=Claude%20skills%20AI%20agent%20workflow"
-    },
-    {
-      "title": "Emmys / DWTS / Julia Stiles 站内搜索聚类",
-      "tags": [
-        "TikTok",
-        "Search Cluster",
-        "Celebrity / TV"
-      ],
-      "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "YouTube 搜索偏新闻短切片；TikTok 若出现高赞二创，可观察颁奖礼和舞台综艺如何被片段化传播。",
-      "xhsAngle": "适合写“舞台片段如何反向塑造艺人人格”。",
-      "source": "https://www.tiktok.com/search?q=Julia%20Stiles%20DWTS%20Emmys%202026"
-    },
-    {
-      "title": "BTS ARIRANG fan reaction 站内搜索聚类",
-      "tags": [
-        "TikTok",
-        "Search Cluster",
-        "Fandom"
-      ],
-      "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "YouTube 有 fan split search cluster，但缺 exact 赞评；TikTok 继续看粉丝分歧是否变成可见高赞评论。",
-      "xhsAngle": "适合写超级团回归里的集体叙事验收。",
-      "source": "https://www.tiktok.com/search?q=BTS%20ARIRANG%20fan%20reaction"
     }
   ],
   "githubSkills": [
     {
-      "name": "yang0/handraw-style",
-      "url": "https://github.com/yang0/handraw-style",
-      "urlLabel": "GitHub: yang0/handraw-style",
-      "heat": "GitHub Search API 9/22：2826 stars / 369 forks / created_at 2026-09-05 / pushed_at 2026-09-21。",
-      "why": "把手绘风格画廊和双语提示词做成 Skill，说明视觉风格包正在从 prompt collection 变成可复用创作资产。",
-      "xhsAngle": "选题：AI 视觉工具最容易卖的，可能不是模型，而是一套可复用的审美编号。"
-    },
-    {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "urlLabel": "GitHub: Rion-Wu-tech/wechat-intelligence-hub",
-      "heat": "GitHub Search API 9/22：2481 stars / 2717 forks / created_at 2026-09-04 / pushed_at 2026-09-21。",
+      "heat": "GitHub Search API 9/23：2499 stars / 2719 forks / created_at 2026-09-04 / pushed_at 2026-09-21。",
       "why": "Local-first 微信智能系统，包含只读 CLI、Codex skills、聊天历史检索、日报、follow-up 和机会追踪，贴合私域知识库产品化。",
       "xhsAngle": "选题：AI 私域助理的机会，不是替你聊天，而是把聊天记录变成可行动情报。"
-    },
-    {
-      "name": "mcncarl/jianying-headless",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "urlLabel": "GitHub: mcncarl/jianying-headless",
-      "heat": "GitHub Search API 9/22：2379 stars / 1790 forks / created_at 2026-09-15 / pushed_at 2026-09-20。",
-      "why": "把剪映草稿、隔离编辑、导出流程包装成 Agent Skill，说明短视频生产正在从“提示词生成”转向“直接接管创作软件”。",
-      "xhsAngle": "选题：AI 短视频工具下一步，不是生成素材，而是直接接管剪辑工程。"
     },
     {
       "name": "Vincentwei1021/anything2explainer",
       "url": "https://github.com/Vincentwei1021/anything2explainer",
       "urlLabel": "GitHub: Vincentwei1021/anything2explainer",
-      "heat": "GitHub Search API 9/22：9 月新建 skill 搜索结果前列；具体 stars/forks 来自 API 样本，需下轮补精确行。",
-      "why": "从命名和榜位看是把任意素材转解释内容的 workflow，适合观察“解释型内容工厂”如何 skill 化。",
+      "heat": "GitHub Search API 9/23：1993 stars / 283 forks / created_at 2026-09-08 / pushed_at 2026-09-18。",
+      "why": "把任意主题转成带旁白、字幕、章节进度条的 motion-graphics explainer video，说明解释型内容正在被做成可复用 skill。",
       "xhsAngle": "选题：知识博主的 AI 工作流，可能会从写稿变成自动解释任意素材。"
+    },
+    {
+      "name": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "urlLabel": "GitHub: jtydhr88/screenwriting-skills",
+      "heat": "GitHub Search API 9/23：1347 stars / 152 forks / created_at 2026-09-06 / pushed_at 2026-09-22。",
+      "why": "把编剧、剧集写作和 dramaturgy 做成专业 agent skills，显示垂直创作行业开始把隐性方法论结构化。",
+      "xhsAngle": "选题：AI 写作工具下半场，不是替你写，而是把专业编剧流程做成技能。"
     },
     {
       "name": "Jakeschincariol/linkedin-agent-skill",
       "url": "https://github.com/Jakeschincariol/linkedin-agent-skill",
       "urlLabel": "GitHub: Jakeschincariol/linkedin-agent-skill",
-      "heat": "GitHub Search API 9/22：555 stars / 79 forks / created_at 2026-09-07 / pushed_at 2026-09-17。",
+      "heat": "GitHub Search API 9/23：595 stars / 86 forks / created_at 2026-09-07 / pushed_at 2026-09-17。",
       "why": "把 LinkedIn 发帖、评论、回复、资料评分、周计划和 humanizer 做成 11 个 Claude skills，说明个人品牌运营正在被拆成 agent SOP。",
       "xhsAngle": "选题：AI 个人品牌工具不该只写文案，而该帮你经营一个账号系统。"
     },
     {
-      "name": "devagrawal09/jev-review",
-      "url": "https://github.com/devagrawal09/jev-review",
-      "urlLabel": "GitHub: devagrawal09/jev-review",
-      "heat": "GitHub Search API 9/22：485 stars / 31 forks / created_at 2026-09-16 / pushed_at 2026-09-17。",
-      "why": "定位为 staged code-review workflow 和本地 dashboard，呼应 agentic coding 的审计、证据链和分阶段验收。",
-      "xhsAngle": "选题：AI 写代码之后，真正刚需可能是一个会留证据的 review 仪表盘。"
+      "name": "Oldcircle/geo-sleuth",
+      "url": "https://github.com/Oldcircle/geo-sleuth",
+      "urlLabel": "GitHub: Oldcircle/geo-sleuth",
+      "heat": "GitHub Search API 9/23：272 stars / 29 forks / created_at 2026-09-18 / pushed_at 2026-09-21。",
+      "why": "把照片定位、OSM 几何、海拔天际线、卫星图和街景证据链做成 agent skill，突出“显示推理过程”的信任价值。",
+      "xhsAngle": "选题：AI 识图真正有价值的地方，是把证据链摊开给你看。"
+    },
+    {
+      "name": "op7418/guizang-product-video-skill",
+      "url": "https://github.com/op7418/guizang-product-video-skill",
+      "urlLabel": "GitHub: op7418/guizang-product-video-skill",
+      "heat": "GitHub Search API 9/23：220 stars / 18 forks / created_at 2026-09-18 / pushed_at 2026-09-22。",
+      "why": "用真实产品组件和设计语言制作软件更新宣传片，包含分镜、配乐、音效与渲染，贴近 release note video 自动化。",
+      "xhsAngle": "选题：产品更新以后，AI 可以直接帮你做一条发布视频吗？"
     }
   ],
   "sparkPool": [
@@ -401,19 +401,19 @@ window.RADAR_DATA = {
   "weeklySop": [
     {
       "title": "动态发现先行",
-      "detail": "9/21 先扫影视怀旧、音乐新专、AI agent 管理、MCP 智能家居、GitHub 内容生产 skill，再反推二级搜索词。"
+      "detail": "9/23 先扫音乐新专反应、Netflix 犯罪剧、witchy nostalgia、TikTok 平台格式和 AI skill repo，再反推二级搜索词。"
     },
     {
       "title": "主榜只收 exact 证据",
-      "detail": "Practical Magic 2 有播放和评论信号但点赞未过线；Claude/MCP 新线缺 30 天达标 exact 视频，全部标为 search cluster/watchlist。"
+      "detail": "RAYE、Lizzie Borden、Practical Magic 2 与 Claude skills 今天都缺新的 exact 赞评证据，因此只进入 Summary/search cluster/watchlist。"
     },
     {
       "title": "窗口滚动保守",
-      "detail": "Social 主榜继续只保留 9/6-9/21 窗口内且此前已精确复核过门槛的 ADÉLA 与 South Park。"
+      "detail": "Social 主榜继续只保留 9/08-9/23 窗口内且此前已精确复核过门槛的 ADÉLA 与 South Park。"
     },
     {
       "title": "GitHub 只写 API 样本",
-      "detail": "9/21 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
+      "detail": "9/23 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
     }
   ],
   "contentFormats": [
@@ -425,84 +425,95 @@ window.RADAR_DATA = {
   ],
   "summarySparks": [
     {
-      "kind": "Search Cluster",
-      "lane": "Music / Cinema Pop",
-      "title": "RAYE 新专 reaction 升温，但今天只做观察",
-      "spark": "9/22 flat search：HTHAZE 28.21万播放、theneedledrop 18.08万播放、turning the tables 8.97万播放。单页 exact 赞评被 bot gate 拦截，不能进入 Social 主榜。",
-      "xhsTitle": "RAYE 新专最会的，是让你把生活脑补成电影预告片",
-      "discussion": "评论热点可观察：cinema pop、hope 叙事、长专辑是否像电影、听众是否被情绪转场打动。",
-      "prompt": "引导话题：你听一张专辑时，会自动脑补自己的电影片段吗？",
-      "tone": "适合音乐/审美号；明确写成 search cluster。"
+      "title": "ADÉLA 仍是最稳新人 pop persona exact 样本",
+      "xhsTitle": "ADÉLA 出圈最聪明的地方，是把新人感做成电影人格",
+      "commentHook": "新人歌手先被记住，是靠一首歌，还是靠一个可复述的人格符号？",
+      "heatScore": 91,
+      "whyNow": "9/10 exact UGC reaction 仍在 9/08-9/23 窗口内，赞评过线；今天新增 RAYE/Lizzie Borden 只能作观察。",
+      "xhsFit": "高，能写音乐人格、视觉母题和出道策略，不碰身体评价。",
+      "related": [
+        "ADÉLA PRIMA",
+        "RAYE search cluster",
+        "new pop persona"
+      ]
     },
     {
-      "kind": "Search Cluster",
-      "lane": "Film / Witchy Nostalgia",
-      "title": "Practical Magic 2 热度偏官方访谈，UGC 仍不足",
-      "spark": "9/22 flat search：Tonight Show 77.78万播放、TODAY 72.56万播放、ET 49.05万播放；UGC review 没有新的达标 exact 证据。Variety 报道美国开画 3000 万美元但表现分歧。",
-      "xhsTitle": "Practical Magic 2 火的不是魔法，是成年女性还愿意相信姐妹同盟",
-      "discussion": "讨论点：Nicole/Sandra reunion、女巫美学、90s nostalgia、秋季内容氛围和续集是否只剩情怀。",
-      "prompt": "引导话题：你会为一部续集买票，是为了剧情，还是为了回到一种氛围？",
-      "tone": "适合影视/审美号；不写成爆款。"
-    },
-    {
-      "kind": "AI",
-      "lane": "Agent Skills",
-      "title": "Claude skills 教程升温：工作流开始商品化",
-      "spark": "9/22 flat search：Greg Isenberg 83.72万播放、AI Master 45.94万播放、Nick Saraev Claude Skills 16.35万播放；赞评待复核。GitHub 同步出现多个新 skill 仓库。",
-      "xhsTitle": "AI 学到最后，拼的可能不是提示词，是你有没有自己的 skill",
-      "discussion": "讨论点：skills 是否只是 prompt 包、普通人能不能卖自己的工作流、agent 出错如何审计。",
-      "prompt": "引导话题：你的工作里哪一步最值得被打包成 skill？",
-      "tone": "适合 AI 产品/职场效率号。"
-    },
-    {
-      "kind": "GitHub Skill",
-      "lane": "Visual Skill",
-      "title": "handraw-style 把审美编号做成可复用资产",
-      "spark": "GitHub Search API 9/22：yang0/handraw-style 2826 stars / 369 forks / created_at 2026-09-05 / pushed_at 2026-09-21。",
-      "xhsTitle": "AI 视觉工具最容易卖的，可能不是模型，而是一套审美编号",
-      "discussion": "讨论点：手绘风格、双语提示词、编号画廊、审美资产如何复用。",
-      "prompt": "引导话题：你会为一套稳定好看的 AI 风格编号付费吗？",
-      "tone": "适合设计/AI 视觉/素材号。"
-    },
-    {
-      "kind": "GitHub Skill",
-      "lane": "Private Domain Intelligence",
-      "title": "wechat-intelligence-hub 指向私域知识库新机会",
-      "spark": "GitHub Search API 9/22：Rion-Wu-tech/wechat-intelligence-hub 2481 stars / 2717 forks / created_at 2026-09-04 / pushed_at 2026-09-21。",
-      "xhsTitle": "AI 私域助理的机会，不是替你聊天，是把聊天记录变成情报",
-      "discussion": "讨论点：只读 CLI、聊天历史检索、日报、follow-up、机会追踪、隐私和本地优先。",
-      "prompt": "引导话题：你的聊天记录里，最想让 AI 帮你找出什么机会？",
-      "tone": "适合 AI 创业/私域运营/知识管理号。"
-    },
-    {
-      "kind": "GitHub Skill",
-      "lane": "Video Workflow",
-      "title": "jianying-headless 继续证明短视频工作流可 skill 化",
-      "spark": "GitHub Search API 9/22：mcncarl/jianying-headless 2379 stars / 1790 forks / created_at 2026-09-15 / pushed_at 2026-09-20。",
-      "xhsTitle": "AI 短视频工具下一步，不是生成素材，而是直接接管剪辑工程",
-      "discussion": "讨论点：剪映工程、批量生产、导出取证、内容团队是否会把 SOP 写成 skill。",
-      "prompt": "引导话题：你做视频最想自动化哪一环？",
-      "tone": "适合 AI 创业/短视频运营号。"
-    },
-    {
-      "kind": "Pop Culture",
-      "lane": "Satire / Fandom Audit",
-      "title": "South Park 仍是今天最稳的 Social exact 主榜样本",
-      "spark": "The ArchCast 15.94万播放 / 5250赞 / 2000评论；Brian Tyler Cohen 97.28万播放 / 35906赞 / 1600评论。9/22 仍在 15 天窗口内。",
+      "title": "South Park 反叛 IP 审判仍有可摘录度",
       "xhsTitle": "South Park 最大的危机，是观众开始审判它还反不反叛",
-      "discussion": "评论热点：老粉怀旧、政治笑话压过角色、反叛姿态制度化。",
-      "prompt": "引导话题：反叛 IP 被主流接受后，还能继续反叛吗？",
-      "tone": "适合影视/品牌人格号；是今天可见主榜核心。"
+      "commentHook": "一个反叛 IP 被主流接受后，还能继续反叛吗？",
+      "heatScore": 88,
+      "whyNow": "The ArchCast 9/09 exact 样本仍在窗口内且赞评过线，适合继续作为 Social 主榜证据。",
+      "xhsFit": "高，适合创作者人格、冒犯边界和老 IP 自我更新。",
+      "related": [
+        "South Park Emmy",
+        "satire backlash",
+        "fan audit"
+      ]
     },
     {
-      "kind": "AI",
-      "lane": "Workflow / Model Trust",
-      "title": "GPT-6 Astra 热度继续转向交付测试",
-      "spark": "此前 exact videos 已过 AI 门槛；9/22 结合 Claude skills / GitHub skill 新仓，主线从模型 first look 扩大到 workflow 是否可复用、可审计、可交付。",
-      "xhsTitle": "AI 发布会看不懂？先问它能不能把一件事做完",
-      "discussion": "评论热点会集中在真实任务、过程可见、失败复盘、普通用户升级价值。",
-      "prompt": "引导话题：你会用 AI 做完整项目，还是只拿它做第一稿？",
-      "tone": "适合 AI 产品/效率号。"
+      "title": "RAYE 新专可写电影感人生转场，但不能进主榜",
+      "xhsTitle": "RAYE 新专最会的，是让你把生活脑补成电影预告片",
+      "commentHook": "你喜欢歌手给你讲故事，还是给你一种能代入的生活氛围？",
+      "heatScore": 77,
+      "whyNow": "9/23 搜索聚类仍有 reaction 长尾，但 exact 赞评与发布时间复核不足，只能作为 watchlist。",
+      "xhsFit": "中高，标题感强，但需要补足近期 UGC exact 证据。",
+      "related": [
+        "RAYE",
+        "This Music May Contain Hope",
+        "cinematic pop"
+      ]
+    },
+    {
+      "title": "Lizzie Borden 热簇提醒：真实罪案 IP 要谨慎写",
+      "xhsTitle": "为什么真实罪案剧一火，评论区总会变成道德审判现场？",
+      "commentHook": "你看真实罪案改编时，更在意戏剧性还是事实边界？",
+      "heatScore": 72,
+      "whyNow": "Netflix Monster / Lizzie Borden 9/23 成为可观察搜索簇，但 UGC exact 和安全边界仍需补。",
+      "xhsFit": "中，能写叙事伦理和女性视角，需避开猎奇、模仿和未证实细节。",
+      "related": [
+        "Monster The Lizzie Borden Story",
+        "Netflix",
+        "true crime commentary"
+      ]
+    },
+    {
+      "title": "Claude/Codex skills 继续把 AI 学习变成资产管理",
+      "xhsTitle": "AI 学到最后，拼的可能不是提示词，是你有没有自己的 skill",
+      "commentHook": "你会把自己的工作流整理成 skill，还是继续靠临时提示词？",
+      "heatScore": 86,
+      "whyNow": "YouTube search cluster 与 GitHub 9 月新建 skill repo 同时升温，说明 skill 化从教程变成产品方向。",
+      "xhsFit": "高，适合普通人工作流、信息信任、创业 idea 和个人效率。",
+      "related": [
+        "Claude skills",
+        "Codex skill",
+        "anything2explainer"
+      ]
+    },
+    {
+      "title": "anything2explainer 证明解释型内容也能 workflow 化",
+      "xhsTitle": "知识博主的 AI 工作流，可能会从写稿变成自动解释任意素材",
+      "commentHook": "你更想让 AI 帮你写文案，还是直接帮你做成一条视频？",
+      "heatScore": 82,
+      "whyNow": "GitHub Search API 9/23 显示 9/08 新建后已到 1993 stars / 283 forks。",
+      "xhsFit": "高，能转成内容创业、教育视频和知识博主工具选题。",
+      "related": [
+        "anything2explainer",
+        "explainer video",
+        "Remotion"
+      ]
+    },
+    {
+      "title": "film nostalgia / identity quote 是小红书可改写格式",
+      "xhsTitle": "最近最适合小红书评论区的句式：有人叫我____，但我其实____",
+      "commentHook": "如果用一句电影感台词介绍自己，你会怎么填？",
+      "heatScore": 74,
+      "whyNow": "9/23 TikTok 只拿到 search cluster，但格式明确，适合先做低风险互动模板观察。",
+      "xhsFit": "中高，适合图文模板和评论互动；发布前需补精确热视频链接。",
+      "related": [
+        "TikTok film nostalgia",
+        "Some people call me",
+        "identity meme"
+      ]
     }
   ],
   "contentGuardrails": [
@@ -525,12 +536,12 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-22-0903",
-    "contentWindow": "内容研究窗口：2026.09.07 - 2026.09.22 / 部署包生成：2026-09-22 09:03 CST",
-    "researchedThrough": "2026-09-22",
-    "packageGeneratedAt": "2026-09-22 09:03 CST",
-    "summary": "9/22 继续动态实体优先：新增 RAYE / This Music May Contain Hope、Practical Magic 2 official/interview-heavy cluster、Claude skills / AI agent skills 教程、handraw-style、wechat-intelligence-hub、jianying-headless、linkedin-agent-skill、jev-review。YouTube 单页 exact 复核继续被 bot gate 拦截，因此 RAYE/Claude skills 只进入 Summary/watchlist/search cluster，不新增 Social/AI exact 主榜视频。Social 主榜继续保留仍在 9/7-9/22 窗口且已过线的 ADÉLA 与 South Park；AI 主榜保留 GPT-6 Astra、agent safety/coding audit 过线 exact 证据，并用 skill 教程和 GitHub 新仓标注方向增温。TikTok 只写站内搜索聚类，不放不匹配账号页。安全过滤继续排除药物、医疗化、身体极端化和可模仿风险。",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/22 发现 RAYE、Practical Magic 2、Emmys/DWTS、Claude skills、AI agent skills、handraw-style、wechat-intelligence-hub、jianying-headless、linkedin-agent-skill、jev-review。精确视频若赞评缺失、互动未过线、官方/新闻切片为主或上传日期超出窗口，只进 Summary/watchlist；官方访谈、低互动视频和旧教程噪声不进主榜。"
+    "editionId": "2026-09-23-1008",
+    "contentWindow": "内容研究窗口：2026.09.08 - 2026.09.23 / 部署包生成：2026-09-23 10:08 CST",
+    "researchedThrough": "2026-09-23",
+    "packageGeneratedAt": "2026-09-23 10:08 CST",
+    "summary": "9/23 继续动态实体优先：新增 RAYE 新专反应长尾、Netflix Monster: The Lizzie Borden Story、Practical Magic 2 官方/访谈簇、TikTok film nostalgia / Some people call me 搜索聚类，以及 Claude/Codex skill 工作流和 9 月新建 GitHub skill repo。YouTube exact 页继续触发 bot gate，因此今天不新增 Social/AI exact 主榜视频；主榜继续保留仍在 9/08-9/23 窗口内且此前已精确复核过门槛的 ADÉLA 与 South Park，AI 保留 GPT-6 Astra 和 agentic coding 审计 exact 证据。TikTok 只写 search cluster，不放不匹配账号页。安全过滤继续排除药物、医疗化、身体极端化和可模仿风险。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/23 发现 RAYE 新专反应长尾、Monster: The Lizzie Borden Story、Practical Magic 2 官方/访谈热簇、TikTok film nostalgia / Some people call me 格式、Claude skills / Codex skill 教程、anything2explainer、wechat-intelligence-hub、screenwriting-skills、skillbox、geo-sleuth、guizang-product-video-skill。YouTube 单页 exact 复核继续被 bot gate 拦截；新候选若缺精确赞评、偏官方/新闻或发布时间超窗，只进 Summary/watchlist/search cluster。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -590,14 +601,14 @@ window.RADAR_DATA = {
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-09-21",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/20 发现 RAYE / This Music May Contain Hope、BTS / ARIRANG、Olivia Rodrigo 新专、Nintendo/State of Play、GPT-6 Astra workflow、ChatGPT Work vs Claude、Jev + Claude Code、shadcn-ui/lint、niubigeo、rune、AgentVerse-OS。精确视频若赞评缺失或上传日期超出窗口，只进 Summary/watchlist；官方/低互动/旧片段噪声不进主榜。",
+    "researchedThrough": "2026-09-23",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/23 发现 RAYE 新专反应长尾、Monster: The Lizzie Borden Story、Practical Magic 2 官方/访谈热簇、TikTok film nostalgia / Some people call me 格式、Claude skills / Codex skill 教程、anything2explainer、wechat-intelligence-hub、screenwriting-skills、skillbox、geo-sleuth、guizang-product-video-skill。YouTube 单页 exact 复核继续被 bot gate 拦截；新候选若缺精确赞评、偏官方/新闻或发布时间超窗，只进 Summary/watchlist/search cluster。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
     ],
-    "contentWindow": "内容研究窗口：2026.09.06 - 2026.09.21 / 部署包生成：2026-09-21 09:02 CST",
+    "contentWindow": "内容研究窗口：2026.09.08 - 2026.09.23 / 部署包生成：2026-09-23 10:08 CST",
     "fallbackKeywords": [
       "pop culture commentary",
       "celebrity aesthetic analysis",
@@ -605,6 +616,6 @@ window.RADAR_DATA = {
       "AI workflow",
       "open-source AI apps"
     ],
-    "qualityNote": "9/20 新增候选若只有 flat search 播放、无 exact 赞评或评论证据，一律标为 search cluster/watchlist；主榜只保留已复核过门槛且仍在窗口内的 exact videos。"
+    "qualityNote": "9/23 新增候选若只有 flat/search 播放、无 exact 赞评或评论证据，一律标为 search cluster/watchlist；主榜只保留已复核过门槛且仍在窗口内的 exact videos。"
   }
 };
