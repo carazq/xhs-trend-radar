@@ -474,10 +474,10 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-28-0938",
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 09:38 CST",
+    "editionId": "2026-09-28-0011",
+    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 00:11 CST",
     "researchedThrough": "2026-09-28",
-    "packageGeneratedAt": "2026-09-28 09:38 CST",
+    "packageGeneratedAt": "2026-09-28 00:11 CST",
     "summary": "9/28 继续动态实体优先：先从巡演争议、秋季单品复古、TikTok 旧歌怀旧、K-pop 纪录片、TikTok-to-chart 歌手和 agent skills 新仓样本发现实体，再反推二级搜索。Social 主榜新增 Macklemore / Ed Sheeran tour controversy 的过线 UGC commentary exact 证据；ADÉLA 与 South Park 已超出 9/13-9/28 Social 窗口，退为关联历史证据。LISA、J.Crew barn jacket、Mac Miller Cinderella、Alyssa Grace 和 Claude skills 新视频均因官方源、搜索聚类或互动不足不进主榜。AI 主榜保留近 30 天过线 Astra exact videos，并把新增 GitHub skill 样本写成可信安装/垂直 workflow 机会。",
     "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 发现 Macklemore / Ed Sheeran tour controversy、J.Crew Barn Jacket 40 周年 portrait campaign、Mac Miller Cinderella / The One That Got Away TikTok nostalgia、Alyssa Grace Bloodstream、LISA Always Lalisa、Claude skills 教程低互动样本、screenwriting/reelbench/consulting-pptx/zh-tech-writing/Table-skills 等新 skill 样本。YouTube exact 复核显示 Macklemore/Ed Sheeran 争议有过线 UGC 长评；其余音乐、时尚与 K-pop 候选缺过线 UGC exact 或偏官方/媒体源，只进入 Summary/watchlist/search cluster。"
   },
@@ -546,7 +546,7 @@
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
     ],
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 09:38 CST",
+    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 00:11 CST",
     "fallbackKeywords": [
       "pop culture commentary",
       "celebrity aesthetic analysis",
