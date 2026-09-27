@@ -1,127 +1,122 @@
 {
   "trends": [
     {
-      "title": "Monster: The Lizzie Borden Story：真实罪案改编进入“考据型追剧”",
+      "title": "Macklemore / Ed Sheeran：巡演争议变成艺人立场与商业风险审计",
       "tags": [
         "Pop Culture",
-        "Netflix",
-        "TV Commentary",
-        "Fandom Debate"
+        "Music Commentary",
+        "Tour Controversy",
+        "Fan Debate"
       ],
       "priority": "high",
-      "metrics": "9/28 yt-dlp exact-video 复核：Heavy Spoilers 2026-09-17 33.30万播放 / 3526赞 / 567评论；Marshall Stannus 2026-09-18 20.73万播放 / 2269赞 / 474评论；BrainPilot 2026-09-19 17.78万播放 / 2120赞 / 795评论。",
-      "channel": "YouTube exact videos + Search cluster: Monster Lizzie Borden Netflix review explained real-life vs series",
-      "heat": "连续多条 UGC explained/review 在 9/13-9/28 窗口内过 Social 主榜门槛，讨论不是单纯剧情复述，而是 Netflix 改编、真实案件考据和观众信任感。",
-      "signal": "可转译点：观众越来越爱用“我查过资料”参与影视讨论，追剧内容可以从剧情讲解升级为改编审计。",
-      "why": "适合小红书：可以写影视改编、观众考据、真实故事的叙事边界和女性角色公众想象，不进入猎奇模仿或医疗化叙事。",
-      "discussion": "评论热点集中在 Netflix 改编取舍、哪些细节被遗漏、真实案件与戏剧节奏的冲突、以及观众为什么更相信长视频考据而不是官方物料。",
+      "metrics": "9/28 yt-dlp exact-video 复核：Philip DeFranco 2026-09-14 106.99万播放 / 25924赞 / 5100评论；Piers Morgan Uncensored 2026-09-16 98.10万播放 / 9309赞 / 4100评论；Asmongold Clips 2026-09-20 223.39万播放 / 135364赞 / 10000评论。",
+      "channel": "YouTube exact videos + Search cluster: Macklemore Ed Sheeran controversy / tour backlash / artist speech / promoter decision",
+      "heat": "Variety、AP、BBC 与音乐媒体在 9/14-9/23 持续报道，YouTube UGC 长评和反应视频赞评远超 Social 主榜门槛；争议从单次舞台发言扩散到巡演赞助、场地方、粉丝退款和艺人是否应保持 apolitical 的讨论。",
+      "signal": "可转译点：当艺人的个人立场进入大型巡演系统，粉丝讨论的核心会从“说了什么”转向“谁在决定舞台边界”。",
+      "why": "适合小红书：可写明星公关、粉丝消费伦理、巡演商业结构和创作者边界；需要避免煽动性立场判断，重点放在文化工业如何管理风险。",
+      "discussion": "评论热点集中在 Ed 是否真的有决定权、promoter/venue 是否比艺人更有权力、粉丝买票是消费音乐还是消费价值观、以及支持艺人是否要承担商业代价。",
       "ideas": [
-        "标题：Netflix 新爆款最会抓人的，不是血腥，是让观众一起查资料",
-        "结构：三条过线 UGC -> 真实案件考据 -> 改编争议 -> 观众信任 -> 你追剧会不会先看 explained？",
-        "评论引导：真实事件改编，应该优先尊重史实，还是优先服务戏剧？"
+        "标题：Ed Sheeran 这场巡演争议，真正暴露的是谁在决定舞台边界",
+        "结构：过线 UGC 长评 -> 稳定媒体时间线 -> 艺人/场馆/promoter 三方权力 -> 粉丝消费伦理 -> 你会因为立场退票吗",
+        "评论引导：当演唱会变成价值观现场，你希望艺人发声，还是只完成表演？"
       ],
       "sources": [
         [
-          "Heavy Spoilers / 33.30万播放 / 3526赞 / 567评论",
-          "https://www.youtube.com/watch?v=Ab0jzXzgzZs"
+          "Philip DeFranco / 106.99万播放 / 25924赞 / 5100评论",
+          "https://www.youtube.com/watch?v=ZPxJY-lH1dA"
         ],
         [
-          "Marshall Stannus / 20.73万播放 / 2269赞 / 474评论",
-          "https://www.youtube.com/watch?v=psOZrKdy_hE"
+          "Piers Morgan Uncensored / 98.10万播放 / 9309赞 / 4100评论",
+          "https://www.youtube.com/watch?v=hmNtantlnDc"
         ],
         [
-          "BrainPilot / 17.78万播放 / 2120赞 / 795评论",
-          "https://www.youtube.com/watch?v=Ms0_tEb8L74"
-        ]
-      ]
-    },
-    {
-      "title": "Practical Magic 2：女巫怀旧从“续集期待”变成“审美验收”",
-      "tags": [
-        "Pop Culture",
-        "Film Commentary",
-        "Witchy Nostalgia",
-        "Aesthetic Debate"
-      ],
-      "priority": "high",
-      "metrics": "9/28 yt-dlp exact-video 复核：ModernGurlz 2026-09-17 17.98万播放 / 3389赞 / 554评论。",
-      "channel": "YouTube exact video + Search cluster: Practical Magic 2 review reaction witchy nostalgia aesthetic",
-      "heat": "ModernGurlz 9/17 达标样本说明讨论已从“有没有续集”进入“魔法感还在不在、90s 女巫审美能不能被复刻”。",
-      "signal": "可转译点：怀旧续集真正被审判的不是剧情，而是它能否复活一种生活方式想象。",
-      "why": "适合小红书：能转成秋季女巫感穿搭、家居氛围、女性友谊和老电影审美回潮；主证据来自过线 UGC 审美分析。",
-      "discussion": "评论热点集中在 Sandra/Nicole 记忆滤镜、续集是否破坏原片质感、witchy cozy 美学是否被商业化、以及老片粉丝是否愿意接受新视觉。",
-      "ideas": [
-        "标题：Practical Magic 2 被骂的点，其实是女巫审美太难复刻",
-        "结构：达标 ModernGurlz -> 90s witchy nostalgia -> 续集审美验收 -> 小红书秋季氛围模板",
-        "评论引导：你想看的女巫感，是魔法剧情，还是一种生活方式？"
-      ],
-      "sources": [
+          "Variety / Macklemore dropped from Ed Sheeran tour",
+          "https://au.variety.com/2026/music/news/macklemore-dropped-ed-sheeran-tour-free-palestine-speech-40271/"
+        ],
         [
-          "ModernGurlz / 17.98万播放 / 3389赞 / 554评论",
-          "https://www.youtube.com/watch?v=kI54KQtv8QA"
+          "AP / artists, promoters and venues power on troubled tours",
+          "https://apnews.com/article/f71c8057452f110cf8fa43d61b9293ce"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "2026 VMAs：奖项/粉丝争议有热簇，UGC exact 仍未过线",
-      "reason": "9/28 搜索 `2026 VMAs reaction commentary Madonna Ariana Sabrina Taylor analysis` 返回结果主要为低互动或旧视频：9/20 The Mind Signals HQ 35播放，8/22 DJ Kitti Rose 550播放。奖项话题只进 search cluster。",
-      "sourceType": "Search cluster / exact-video below threshold",
-      "suggestedSearch": "2026 VMAs reaction commentary fan reaction awards discourse",
-      "xhsAngle": "标题：奖项热度不等于内容热度，真正可写的是粉丝怎么争解释权。"
+      "title": "J.Crew barn jacket：明星群像把普通外套做成秋季身份制服",
+      "reason": "Hollywood Reporter 9/22 报道 J.Crew 为 Barn Jacket 40 周年拍摄 160 人 portrait campaign，PR Newswire 同步品牌稿。当前是稳定媒体+品牌视觉热簇；YouTube 搜索没有找到近 15 天过线 UGC analysis exact。",
+      "sourceType": "Fashion-media search cluster / UGC exact pending",
+      "suggestedSearch": "J.Crew Barn Jacket 40 anniversary celebrity campaign analysis heritage prep fall uniform",
+      "xhsAngle": "标题：为什么今年秋天的高级感，突然变成一件不显眼的 barn jacket？"
     },
     {
-      "title": "TikTok nostalgia songs：旧歌叙事等待精确视频 URL",
-      "reason": "延续 9/24 平台榜单线索，The One That Got Away、Cinderella 等旧歌适合做情绪模板，但当前没有精确热视频 URL 和可见热评。",
-      "sourceType": "Platform/search cluster / precise TikTok URL pending",
-      "suggestedSearch": "The One That Got Away TikTok trend Cinderella Mac Miller nostalgia edit",
-      "xhsAngle": "标题：今年夏天最火的不是新歌，是大家开始用旧歌给遗憾配字幕。"
+      "title": "TikTok nostalgia songs：旧歌复兴继续变成遗憾模板",
+      "reason": "Billboard Canada 9 月写到 Mac Miller Cinderella 登顶 TikTok Canada 夏日榜，The One That Got Away 等旧歌也在平台榜单里被重新使用。YouTube 搜索主要返回旧官方/歌词/现场内容，缺少近 15 天过线 UGC analysis。",
+      "sourceType": "Platform/newsroom + chart-media search cluster",
+      "suggestedSearch": "Mac Miller Cinderella TikTok trend The One That Got Away nostalgia edit analysis",
+      "xhsAngle": "标题：今年最火的不是新歌，是大家开始用旧歌给遗憾配字幕。"
     },
     {
-      "title": "Agent skill 安全视频：YouTube 新样本互动不足",
-      "reason": "9/28 YouTube 搜索 agent skill security audit 返回的新视频多为几十到一千播放，不进 AI 主榜；相关趋势改由 GitHub API 样本支撑。",
-      "sourceType": "YouTube search cluster / GitHub evidence",
-      "suggestedSearch": "AI agent skills security audit prompt injection skill validation",
-      "xhsAngle": "标题：AI skill 爆火后，真正稀缺的是安装前的体检报告。"
+      "title": "LISA / Always Lalisa：粉丝成长叙事热，但 UGC 评论不足",
+      "reason": "9/28 YouTube 搜索显示 LISA 纪录片相关 reaction 多为几千到两万播放；9/09 SaWaDiKa reaction 为 7.69万播放 / 2377赞 / 60评论，评论未过 Social 主榜门槛。官方预告和粉丝剪辑可作热簇，不进主榜。",
+      "sourceType": "K-pop documentary search cluster / UGC exact below comments threshold",
+      "suggestedSearch": "LISA Always Lalisa documentary trailer reaction fan memory solo era branding",
+      "xhsAngle": "标题：LISA 纪录片最会抓人的，是让粉丝觉得“我也在场”。"
+    },
+    {
+      "title": "Alyssa Grace / Bloodstream：TikTok 歌手从打工叙事到 Hot 100",
+      "reason": "Billboard Canada Chartbreaker 9/16 写到 Alyssa Grace 从 Cheesecake Factory 服务员到 Hot 100 的 TikTok-to-artist 路径。当前更适合作为 creator economy search cluster；YouTube reaction 互动不足。",
+      "sourceType": "Chart-media evidence / TikTok-to-chart search cluster",
+      "suggestedSearch": "Alyssa Grace Bloodstream TikTok Hot 100 reaction songwriting analysis",
+      "xhsAngle": "标题：一首歌从 TikTok 到 Hot 100，靠的是一句人人能代入的歌词。"
+    },
+    {
+      "title": "Claude skills 日用教程：新视频出现，但互动远低于 AI 主榜",
+      "reason": "9/28 yt-dlp 搜索：Dubibubi 2026-09-26 Claude skills 视频 1.75万播放 / 276赞 / 24评论；播放、点赞、评论均低于 AI YouTube 主榜门槛，只作观察。",
+      "sourceType": "AI YouTube watchlist / exact below threshold",
+      "suggestedSearch": "Claude Skills daily workflow tutorial agent skills install trust",
+      "xhsAngle": "标题：Claude skills 真正开始日常化了，但还没到大众爆款教程阶段。"
     }
   ],
   "aiSignals": [
     {
-      "title": "Agent skill 安装前体检：从“收藏技能”转向“验技能”",
+      "title": "Agent skill 爆火后，垂直 workflow 和可信安装成了新机会",
       "tags": [
         "AI",
         "Agent Skills",
         "GitHub Trend",
-        "Trust Layer"
+        "Workflow Trust"
       ],
       "priority": "high",
-      "metrics": "9/28 GitHub API：cloudflare/security-audit-skill 22235 stars / 1290 forks；anthropics/financial-services 37804 stars / 5457 forks；新建 skill 样本包括 yang0/handraw-style 3310 stars、mcncarl/jianying-headless 2812 stars、undefined-ui/second-brain-os 718 stars。",
-      "channel": "GitHub samples + search cluster: agent skill auditability / vertical skills / workflow trust",
-      "heat": "YouTube AI skill 安全搜索未出现近 30 天过线精确视频，不能进 AI 视频主榜；但 GitHub skill repo 继续显示垂直化、审计化和内容工作流化。",
-      "signal": "可转译点：下一波 AI 工具内容不是“装 100 个 skill”，而是教普通人判断一个 skill 是否可信、可复用、可退出。",
-      "discussion": "评论热点可围绕 star 是否可信、陌生 skill 是否能装进工作流、团队如何验收 agent 输出、以及个人如何把收藏变成可审计资产。",
+      "metrics": "9/28 GitHub Search API 动态样本：jtydhr88/screenwriting-skills 1427 stars / 158 forks / created_at 2026-09-06 / pushed_at 2026-09-22；eternityspring/reelbench-skills 843 / 103 / 2026-09-11 / 2026-09-21；carnot-tech/consulting-pptx-skill 816 / pushed_at 2026-09-27；leter/zh-tech-writing 291 / 13 / created_at 2026-09-24；duoduoler-ops/Table-skills 290 / 15 / pushed_at 2026-09-27。未写成已验证周涨幅。",
+      "channel": "GitHub samples + Search cluster: agent skills / vertical workflow / trust layer / install decision",
+      "heat": "新增样本从通用 coding skills 转向编剧、AI 视频、咨询 PPT、中文技术写作和项目交接，说明 skill 生态正在从“收藏提示词”变成“可安装的职业流程”。",
+      "signal": "可转译点：小红书 AI 工具内容不必继续卷模型新闻，可以写“一个岗位的一套做事方法如何被打包成 skill”。",
+      "discussion": "评论热点可引导到：你会为哪种重复工作装 skill、陌生 skill 是否可信、团队如何判断输出是否可复核、以及垂直 skill 是否会成为新型知识产品。",
       "xhsTitles": [
-        "别再乱装 AI skill 了，先用这 5 个问题做体检",
-        "AI 工作流真正值钱的，不是技能多，是技能可信"
+        "AI skill 的下一波机会，不是更聪明，而是更像一个岗位 SOP",
+        "别再乱装 AI skill 了，先看它有没有可信安装理由"
       ],
       "sources": [
         [
-          "cloudflare/security-audit-skill / GitHub API 9/28",
-          "https://github.com/cloudflare/security-audit-skill"
+          "GitHub: screenwriting-skills",
+          "https://github.com/jtydhr88/screenwriting-skills"
         ],
         [
-          "anthropics/financial-services / GitHub API 9/28",
-          "https://github.com/anthropics/financial-services"
+          "GitHub: reelbench-skills",
+          "https://github.com/eternityspring/reelbench-skills"
         ],
         [
-          "undefined-ui/second-brain-os / GitHub API 9/28",
-          "https://github.com/undefined-ui/second-brain-os"
+          "GitHub: consulting-pptx-skill",
+          "https://github.com/carnot-tech/consulting-pptx-skill"
+        ],
+        [
+          "GitHub: zh-tech-writing",
+          "https://github.com/leter/zh-tech-writing"
         ]
       ]
     },
     {
-      "title": "GPT-6 Astra 工作流实测仍是 AI 主榜硬证据",
+      "title": "GPT-6 Astra 工作流实测：AI 内容从“模型强不强”转向“能不能交付”",
       "tags": [
         "AI",
         "Workflow",
@@ -129,11 +124,11 @@
         "Agentic Work"
       ],
       "priority": "high",
-      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论。",
-      "channel": "YouTube exact videos + Search cluster: GPT-6 Astra workflow / AI agent use cases",
-      "heat": "Astra 仍在 AI 近 30 天窗口内，今天新增 skill repo 线索把同一主线推进到“能不能交付、能不能验收”。",
+      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论；Nate Herk 2026-09-04 41.67万播放 / 5744赞 / 380评论；Matt Wolfe 2026-09-03 48.82万播放 / 6858赞 / 531评论。",
+      "channel": "YouTube exact videos + Search cluster: GPT-6 Astra workflow / ChatGPT Work / AI agent use cases",
+      "heat": "Astra 仍在 AI 30 天窗口内；9/28 新搜 Claude skills 与 agent workflow 视频多为低互动，因此不新增 AI YouTube 主榜 exact。",
       "signal": "可转译点：普通人不需要追参数表，而要看一个 AI 工作流能不能解释目标、保留过程、允许检查、失败后继续跑。",
-      "discussion": "评论热点集中在发布会演示是否可信、真实工作流测试比参数更有价值、普通用户该不该升级、以及 AI 输出如何被验收。",
+      "discussion": "评论热点：AGI 说法是否过度、真实工作流测试比演示更有价值、自动交易/自动设计是否可信、普通用户该不该升级。",
       "xhsTitles": [
         "AI 发布会看不懂？先问它能不能把一件事做完",
         "GPT-6 Astra 最值得写的不是强，而是它让人重新定义交付"
@@ -146,323 +141,316 @@
         [
           "AI Explained / 82.82万播放 / 10519赞 / 1300评论",
           "https://www.youtube.com/watch?v=Spuza-KwTJ4"
-        ],
-        [
-          "Chase AI / 40.65万播放 / 4449赞 / 477评论",
-          "https://www.youtube.com/watch?v=b3Yb_ZMOCFM"
-        ]
-      ]
-    },
-    {
-      "title": "Agentic coding 审计：AI 像同事以后，更需要检查记录",
-      "tags": [
-        "AI",
-        "Safety",
-        "Agent Behavior",
-        "Trust"
-      ],
-      "priority": "medium",
-      "metrics": "9/14 yt-dlp exact-video 复核：JRE Clips 2026-09-09 81.38万播放 / 5448赞 / 1300评论；80,000 Hours 2026-09-04 36.12万播放 / 6430赞 / 962评论。",
-      "channel": "YouTube exact videos + GitHub security skill sample",
-      "heat": "AI 安全讨论继续从宏大风险落到工程审计：怎么让 agent 的发现可复核、怎么避免自信输出、怎么把检查链写进 skill。",
-      "signal": "可转译点：把 AI 安全翻译成普通人的一句话，就是“我的 AI 帮手有没有留下可检查的证据”。",
-      "discussion": "评论热点集中在 agent 是否会钻规则、开发者是否需要审计链、以及安全 skill 会不会成为团队标配。",
-      "xhsTitles": [
-        "以后用 AI 写代码，最值钱的可能是它留下的检查记录",
-        "AI 工具越像同事，越需要一份审计清单"
-      ],
-      "sources": [
-        [
-          "JRE Clips / 81.38万播放 / 5448赞 / 1300评论",
-          "https://www.youtube.com/watch?v=4H15x9Fk7JQ"
-        ],
-        [
-          "80,000 Hours / 36.12万播放 / 6430赞 / 962评论",
-          "https://www.youtube.com/watch?v=U0CLtn9ZeKE"
-        ],
-        [
-          "Cloudflare security-audit-skill",
-          "https://github.com/cloudflare/security-audit-skill"
         ]
       ]
     }
   ],
   "tiktokSignals": [
     {
-      "title": "Lizzie Borden Netflix：考据型追剧搜索聚类",
+      "title": "Macklemore / Ed Sheeran tour controversy：粉丝消费伦理与艺人立场",
       "tags": [
         "TikTok",
-        "Netflix",
-        "True Story Adaptation"
+        "Music Controversy",
+        "Fan Debate"
       ],
-      "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "YouTube UGC 过线后，TikTok 适合作为搜索聚类观察：真实案件、Netflix 改编、ending explained、what they got wrong 等二级词明确。",
-      "xhsAngle": "标题：为什么现在追剧，大家都想先看“真实故事版答案”？",
-      "source": "https://www.tiktok.com/search?q=Monster%20Lizzie%20Borden%20Netflix%20explained"
+      "sourceType": "站内搜索聚类 / YouTube exact UGC 支撑 / 精确 TikTok 视频链接待补",
+      "heat": "站内搜索可见争议持续被剪成巡演时间线、艺人立场和退票讨论；有 YouTube 过线 UGC 支撑趋势方向，但没有匹配 TikTok 精确视频 URL 时只放搜索页。",
+      "xhsAngle": "标题：当演唱会变成价值观现场，你是在买歌，还是在买艺人的选择？",
+      "source": "https://www.tiktok.com/search?q=Macklemore%20Ed%20Sheeran%20tour%20controversy"
     },
     {
-      "title": "Practical Magic 2 witchy nostalgia：秋季女巫感回潮",
+      "title": "Barn jacket / heritage prep：普通外套变成秋季身份标签",
       "tags": [
         "TikTok",
-        "Witchy Nostalgia",
-        "Aesthetic"
+        "Fashion",
+        "Heritage Prep"
       ],
-      "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "ModernGurlz 过线样本可支撑 YouTube 主榜；TikTok 侧仅保留 witchy nostalgia / practical magic aesthetic 搜索聚类，不伪装精确视频。",
-      "xhsAngle": "标题：今年秋天的女巫感，不是暗黑，是 cozy 但有边界。",
-      "source": "https://www.tiktok.com/search?q=Practical%20Magic%202%20witchy%20aesthetic"
+      "sourceType": "站内搜索聚类 / fashion-media evidence / 精确视频链接待补",
+      "heat": "J.Crew 40 周年明星 portrait campaign 把 barn jacket、heritage prep、fall uniform 重新推到视觉前台；当前作为审美趋势 search cluster。",
+      "xhsAngle": "标题：今年秋天的“会生活感”，可能是一件不显眼的 barn jacket。",
+      "source": "https://www.tiktok.com/search?q=barn%20jacket%20fall%20outfit%20jcrew"
     },
     {
-      "title": "2026 VMAs：奖项结果有搜索热度，但 UGC 精确互动不足",
-      "tags": [
-        "TikTok",
-        "Awards",
-        "Music Fandom"
-      ],
-      "sourceType": "站内搜索聚类 / YouTube exact 未过线",
-      "heat": "9/28 YouTube 搜索返回 VMAs reaction 主要是低互动或旧视频，因此只作奖项/粉丝争议观察，不进入 Social 主榜。",
-      "xhsAngle": "标题：奖项热度不等于内容热度，VMAs 真正可写的是粉丝怎么争解释权。",
-      "source": "https://www.tiktok.com/search?q=2026%20VMAs%20reaction%20Madonna%20Taylor%20Ariana"
-    },
-    {
-      "title": "2010s nostalgia songs：旧歌继续给新情绪配字幕",
+      "title": "TikTok 2010s nostalgia songs：旧歌给遗憾配字幕",
       "tags": [
         "TikTok",
         "Music Nostalgia",
         "Identity Edit"
       ],
-      "sourceType": "站内搜索聚类 / 平台榜单线索 / 精确视频链接待补",
-      "heat": "延续 9/24 发现的 TikTok nostalgia songs 线：旧歌被用于关系回忆、影视剪辑和自我叙事；本轮不新增精确视频链接。",
+      "sourceType": "站内搜索聚类 / 平台榜单证据 / 精确视频链接待补",
+      "heat": "Billboard Canada 写到 Mac Miller Cinderella 登顶 TikTok Canada 夏日榜，The One That Got Away 等旧歌适合关系回忆、影视剪辑和自我叙事；当前只记录搜索页。",
       "xhsAngle": "标题：为什么大家又开始用十年前的歌，讲今年的遗憾？",
-      "source": "https://www.tiktok.com/search?q=the%20one%20that%20got%20away%20cinderella%20nostalgia"
+      "source": "https://www.tiktok.com/search?q=Mac%20Miller%20Cinderella%20nostalgia%20trend"
+    },
+    {
+      "title": "Alyssa Grace Bloodstream：打工人到歌手的代入型叙事",
+      "tags": [
+        "TikTok",
+        "Singer-songwriter",
+        "Confessional Pop"
+      ],
+      "sourceType": "站内搜索聚类 / chart-media evidence / 精确视频链接待补",
+      "heat": "Billboard Canada 把 Bloodstream 的传播写成 TikTok 评论区故事外溢；适合观察“歌词一句话如何触发用户把自己的家庭/关系故事写出来”。",
+      "xhsAngle": "标题：一首歌出圈，有时靠的不是副歌，而是评论区每个人都在认领一句歌词。",
+      "source": "https://www.tiktok.com/search?q=Alyssa%20Grace%20Bloodstream"
+    },
+    {
+      "title": "LISA Always Lalisa：粉丝成长线剪辑",
+      "tags": [
+        "TikTok",
+        "K-pop",
+        "Fan Memory"
+      ],
+      "sourceType": "站内搜索聚类 / 精确视频链接待补",
+      "heat": "Always Lalisa 纪录片预告带出 rookie-to-rockstar 成长线，适合粉丝共创剪辑和评论区记忆接龙；未拿到匹配精确视频 URL，不放账号页。",
+      "xhsAngle": "标题：粉丝最吃 LISA 纪录片哪一点？是看她把成长变成共同记忆。",
+      "source": "https://www.tiktok.com/search?q=Always%20Lalisa%20documentary%20reaction"
     }
   ],
   "githubSkills": [
     {
-      "name": "yang0/handraw-style",
-      "url": "https://github.com/yang0/handraw-style",
-      "urlLabel": "GitHub: yang0/handraw-style",
-      "heat": "GitHub API 9/28：3310 stars / 425 forks / created_at 2026-09-05 / pushed_at 2026-09-27。",
-      "why": "手绘风格提示词与画廊被包装成 skill，说明 agent skill 正从代码效率扩展到可复用视觉风格和内容生产资产。",
-      "xhsAngle": "选题：AI 视觉工作流的下一个机会，是把审美做成可安装 skill。"
+      "name": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "urlLabel": "GitHub: jtydhr88/screenwriting-skills",
+      "heat": "GitHub API 9/28：1427 stars / 158 forks / created_at 2026-09-06 / pushed_at 2026-09-22。",
+      "why": "把编剧、电视剧写作和 dramaturgy 打包成 professional agent skills，说明创意职业流程也开始被 skill 化。",
+      "xhsAngle": "选题：AI skill 不只会写代码，下一步是把专业创作方法打包成可调用流程。"
     },
     {
-      "name": "mcncarl/jianying-headless",
-      "url": "https://github.com/mcncarl/jianying-headless",
-      "urlLabel": "GitHub: mcncarl/jianying-headless",
-      "heat": "GitHub API 9/28：2812 stars / 1931 forks / created_at 2026-09-15 / pushed_at 2026-09-27。",
-      "why": "把剪映草稿、隔离编辑和导出做成 Agent Skill，直接连接短视频生产链路，和小红书内容效率高度相关。",
-      "xhsAngle": "选题：当剪辑也被做成 agent skill，内容团队会先省掉哪一步？"
+      "name": "eternityspring/reelbench-skills",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "urlLabel": "GitHub: eternityspring/reelbench-skills",
+      "heat": "GitHub API 9/28：843 stars / 103 forks / created_at 2026-09-11 / pushed_at 2026-09-21。",
+      "why": "围绕 AI video、shot analysis、ffmpeg 和 video-analysis 的 skill 样本，适合观察视频创作工作流如何被拆成模块。",
+      "xhsAngle": "选题：AI 视频爆火后，真正缺的是能稳定拆镜头、修素材、复盘风格的 workflow。"
     },
     {
-      "name": "undefined-ui/second-brain-os",
-      "url": "https://github.com/undefined-ui/second-brain-os",
-      "urlLabel": "GitHub: undefined-ui/second-brain-os",
-      "heat": "GitHub API 9/28：718 stars / 112 forks / created_at 2026-09-07 / pushed_at 2026-09-27。",
-      "why": "把 Obsidian、知识库和 agent skills 组合成自整理第二大脑，说明个人知识管理又回到“自动维护”叙事。",
-      "xhsAngle": "选题：第二大脑不缺笔记模板，缺的是会自己整理的 AI 管家。"
+      "name": "carnot-tech/consulting-pptx-skill",
+      "url": "https://github.com/carnot-tech/consulting-pptx-skill",
+      "urlLabel": "GitHub: carnot-tech/consulting-pptx-skill",
+      "heat": "GitHub API 9/28：816 stars / created_at 2026-09-02 / pushed_at 2026-09-27。",
+      "why": "把咨询 PPT 的版式规范、slide catalog 和机械检查做成 skill，说明高频白领交付物会成为 AI skill 商品化重点。",
+      "xhsAngle": "选题：为什么 AI 做 PPT 老翻车？因为缺的不是模板，是一套能检查的交付规范。"
     },
     {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "urlLabel": "GitHub: cloudflare/security-audit-skill",
-      "heat": "GitHub API 9/28：22235 stars / 1290 forks / created_at 2026-06-18 / pushed_at 2026-09-14。",
-      "why": "多阶段安全审计和机器可读 findings 继续验证 skill 信任层方向，适合写企业部署前的体检清单。",
-      "xhsAngle": "选题：AI 写代码越普及，越需要一套能留下证据的审计 skill。"
+      "name": "leter/zh-tech-writing",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "urlLabel": "GitHub: leter/zh-tech-writing",
+      "heat": "GitHub API 9/28：291 stars / 13 forks / created_at 2026-09-24 / pushed_at 2026-09-24。",
+      "why": "中文技术文档写作 skill 直接切中“没有 AI 腔”的内容质量需求，适合中文团队知识库和工程文档场景。",
+      "xhsAngle": "选题：AI 写中文文档最大的问题不是错，而是太像 AI；这个方向会变成刚需。"
     },
     {
-      "name": "alexgreensh/anidoodle",
-      "url": "https://github.com/alexgreensh/anidoodle",
-      "urlLabel": "GitHub: alexgreensh/anidoodle",
-      "heat": "GitHub API 9/28：530 stars / 40 forks / created_at 2026-09-22 / pushed_at 2026-09-25。",
-      "why": "把动画、贴纸、互动网页和 scored films 写成 deterministic creative skill，显示创意工具也在追求可复现。",
-      "xhsAngle": "选题：AI 生成内容下一步不是更随机，而是每次都能复现同一种审美。"
+      "name": "duoduoler-ops/Table-skills",
+      "url": "https://github.com/duoduoler-ops/Table-skills",
+      "urlLabel": "GitHub: duoduoler-ops/Table-skills",
+      "heat": "GitHub API 9/28：290 stars / 15 forks / created_at 2026-09-05 / pushed_at 2026-09-27。",
+      "why": "项目交接与网页替身类 skills 指向长任务接续、交接清晰和多端协作，是个人/小团队 workflow 产品机会。",
+      "xhsAngle": "选题：真正能省时间的 AI，不是替你开头，而是帮你把长任务接下去。"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "urlLabel": "GitHub: Shubhamsaboo/awesome-llm-apps",
+      "heat": "继续作为 AI app 样本库基线；仅用于观察应用形态，不写成突然上涨榜。",
+      "why": "用来对照哪些 AI app/agent/RAG 形态被反复复刻，避免把固定仓库列表伪装成趋势。",
+      "xhsAngle": "选题：看 AI 创业 idea，不要只看模型，要看哪些应用被反复复刻。"
     }
   ],
   "sparkPool": [
     {
-      "title": "考据型追剧：把 explained 视频变成小红书图文",
-      "format": "三段式图文：过线视频证据 -> 改编取舍 -> 观众为什么想查资料",
-      "hook": "现在的爆剧讨论，不是我看懂了，而是我查到了。"
+      "title": "巡演争议：谁在决定舞台边界",
+      "format": "时间线图文：媒体事实 -> 过线 UGC 评论 -> 艺人/场馆/promoter 三方权力 -> 粉丝投票",
+      "hook": "不要只写谁对谁错，写大型演唱会为什么不是艺人一个人说了算。"
     },
     {
-      "title": "Witchy cozy 秋季模板",
-      "format": "审美拆解：老片记忆 -> 续集争议 -> 穿搭/家居/香氛氛围词",
-      "hook": "女巫感不是黑色滤镜，是一套有边界的生活方式。"
+      "title": "Barn jacket：普通外套如何被品牌拍成生活方式",
+      "format": "穿搭拆解：单品历史 -> 明星群像 -> 普通人可复刻场景",
+      "hook": "不要写贵，写“像一个周末有安排的人”。"
     },
     {
-      "title": "AI skill 体检清单",
-      "format": "工具清单：来源、更新、权限、可回退、输出证据五问",
-      "hook": "装 skill 前先问五个问题，别把工作流交给黑箱。"
+      "title": "旧歌复兴：每代人都需要自己的遗憾 BGM",
+      "format": "歌单+评论区互动：3 首旧歌 -> 3 种遗憾场景 -> 让用户填空",
+      "hook": "旧歌不是怀旧，是帮你把没说出口的话补上字幕。"
     },
     {
-      "title": "剪映 headless 的内容团队想象",
-      "format": "创业/效率帖：选题脚本 -> 草稿生成 -> 审核导出 -> 人保留审美权",
-      "hook": "真正省时间的 AI，不是替你创作，而是替你整理重复动作。"
+      "title": "Alyssa Grace：TikTok 歌手的打工人叙事",
+      "format": "人物小传：服务员身份 -> 评论区共情 -> chart moment",
+      "hook": "平台让她出圈，真正留住人的却是一句能代入的歌词。"
+    },
+    {
+      "title": "AI skill 岗位化：把专业流程做成可安装 SOP",
+      "format": "工具趋势：5 个 GitHub skill 样本 -> 对应岗位 -> 可复用交付物 -> 安装前检查",
+      "hook": "AI skill 的价值不是炫技，是把一个人会做事的方法拆给机器调用。"
     }
   ],
   "valueFlows": [
     {
-      "lane": "影视改编信任",
-      "insight": "Lizzie Borden 说明观众愿意把追剧变成考据；内容机会是把“改编哪里不一样”讲成可讨论的信任问题。",
-      "xhsMove": "做一张“真实事件改编追剧检查表”，用评论区收集大家最在意的改编边界。"
+      "from": "Tour Controversy",
+      "to": "Fan Consumption Ethics",
+      "example": "Macklemore / Ed Sheeran",
+      "xhsUse": "从争议新闻转成演唱会、粉丝付费和艺人边界讨论。"
     },
     {
-      "lane": "审美复古",
-      "insight": "Practical Magic 2 把 witchy nostalgia 推回秋季生活方式；用户想要的不是复刻电影，而是复刻一种氛围。",
-      "xhsMove": "拆成穿搭、家居、歌单、周末仪式四格模板。"
+      "from": "Heritage Fashion Campaign",
+      "to": "Ordinary Identity Uniform",
+      "example": "J.Crew barn jacket",
+      "xhsUse": "从品牌大片转成普通人秋季身份感。"
     },
     {
-      "lane": "AI 工作流信任",
-      "insight": "Skill 仓库继续变火，内容竞争点从“有什么”转向“敢不敢装、怎么验”。",
-      "xhsMove": "用 5 问体检法做系列：来源、权限、更新、输出证据、失败回退。"
+      "from": "Old Song Revival",
+      "to": "Comment-section Confession",
+      "example": "The One That Got Away / Cinderella",
+      "xhsUse": "用旧歌触发用户讲自己的关系故事。"
+    },
+    {
+      "from": "TikTok-to-Chart Artist",
+      "to": "Creator Economy Case",
+      "example": "Alyssa Grace Bloodstream",
+      "xhsUse": "写素人创作者如何把真实处境变成可传播作品。"
+    },
+    {
+      "from": "Vertical Skill Repo",
+      "to": "Workflow Product Opportunity",
+      "example": "consulting-pptx-skill / zh-tech-writing",
+      "xhsUse": "从 repo 热度转成岗位 SOP、知识产品和工具信任选题。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "Lizzie Borden 的考据型追剧写法",
-      "why": "YouTube 有多条过线 UGC，国内可转成影视改编信任和“观众为什么爱查资料”的讨论。",
-      "xhsTitle": "Netflix 新爆款最会抓人的，不是血腥，是让观众一起查资料",
-      "commentsPrompt": "你看真实事件改编时，会先查原型吗？"
+      "title": "巡演争议的粉丝消费伦理",
+      "why": "已有过线 UGC exact 和稳定媒体事实，适合做高互动讨论型内容；要避免煽动性政治表述，把重点放在文化工业和粉丝选择。",
+      "xhsTitle": "当演唱会变成价值观现场，你还会只为歌买票吗？",
+      "commentsPrompt": "你会因为艺人的公开选择退票，还是把作品和立场分开？"
     },
     {
-      "title": "Practical Magic 2 的女巫审美翻译",
-      "why": "达标 UGC 指向 witchy nostalgia 审美验收，小红书适合落到秋季氛围和生活方式。",
-      "xhsTitle": "今年秋天的女巫感，不是暗黑，是 cozy 但有边界",
-      "commentsPrompt": "你最喜欢哪种影视里的秋季氛围？"
+      "title": "Barn jacket 的生活方式翻译",
+      "why": "品牌媒体热簇清晰，国内可转成秋季穿搭和“普通但有故事”的身份感。",
+      "xhsTitle": "今年秋天想穿得像有故事的人，可以先从 barn jacket 开始",
+      "commentsPrompt": "你心里最有秋天感的一件外套是什么？"
     },
     {
-      "title": "AI skill 安装前体检",
-      "why": "GitHub skill 热度继续，但 YouTube 新视频不足；反而适合做清单型、可信度型内容。",
-      "xhsTitle": "别再乱装 AI skill 了，先用这 5 个问题做体检",
-      "commentsPrompt": "你最想让 AI skill 帮你做哪类重复工作？"
+      "title": "AI skill 职业 SOP 化",
+      "why": "GitHub 新样本覆盖编剧、AI 视频、PPT、中文文档和交接，适合做创业号和效率号的趋势判断。",
+      "xhsTitle": "AI skill 的下一波机会，是把一个岗位的做事方法打包",
+      "commentsPrompt": "你最想把哪类工作流程做成自己的 AI skill？"
     }
   ],
   "weeklySop": [
     {
       "title": "动态发现先行",
-      "detail": "9/23 先扫音乐新专反应、Netflix 犯罪剧、witchy nostalgia、TikTok 平台格式和 AI skill repo，再反推二级搜索词。"
+      "detail": "9/28 先扫巡演争议、J.Crew barn jacket、TikTok 旧歌怀旧、Alyssa Grace、LISA 纪录片和 GitHub skill 新样本，再反推二级搜索词。"
     },
     {
       "title": "主榜只收 exact 证据",
-      "detail": "RAYE、Lizzie Borden、Practical Magic 2 与 Claude skills 今天都缺新的 exact 赞评证据，因此只进入 Summary/search cluster/watchlist。"
+      "detail": "Macklemore / Ed Sheeran 争议有多条近 15 天过线 UGC exact，因此进入 Social 主榜；J.Crew、LISA、Alyssa Grace 和旧歌复兴缺过线 UGC exact，只进 Summary/watchlist。"
     },
     {
       "title": "窗口滚动保守",
-      "detail": "Social 主榜继续只保留 9/08-9/23 窗口内且此前已精确复核过门槛的 ADÉLA 与 South Park。"
+      "detail": "Social 窗口推进到 2026.09.13 - 2026.09.28；ADÉLA 和 South Park 已超窗，不继续占主榜。"
     },
     {
       "title": "GitHub 只写 API 样本",
-      "detail": "9/23 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
+      "detail": "9/28 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
     }
   ],
   "contentFormats": [
-    {
-      "title": "爆剧考据卡",
-      "steps": [
-        "一句话讲热簇",
-        "列 3 个过线 UGC 证据",
-        "拆改编争议",
-        "用一个问题拉评论"
-      ]
-    },
-    {
-      "title": "审美验收帖",
-      "steps": [
-        "先说原始审美记忆",
-        "再说新作被审判的点",
-        "给小红书可复刻的场景",
-        "避免身体评价"
-      ]
-    },
-    {
-      "title": "AI skill 体检帖",
-      "steps": [
-        "仓库数据",
-        "适合谁",
-        "安装前风险",
-        "替代方案",
-        "评论区征集真实使用场景"
-      ]
-    }
+    "格式：巡演争议时间线：事实源、过线 UGC、三方权力结构、粉丝消费伦理、评论投票。",
+    "格式：search cluster 预警：今天看到什么、为什么不能进主榜、还差什么证据、如果升级该怎么写。",
+    "格式：AI skill 商品化：GitHub 新仓、对应岗位、复用价值、安装风险、输出证据。",
+    "格式：音乐人格审计：新歌传播、评论分歧、艺人人格、视觉母题、互动提问。",
+    "格式：GitHub 产品信号：新仓、stars/forks、解决的工作流、不是涨幅榜、产品机会。"
   ],
   "summarySparks": [
     {
-      "title": "Lizzie Borden 成为今天最强 exact Social 样本",
-      "xhsTitle": "Netflix 新爆款最会抓人的，不是血腥，是让观众一起查资料",
-      "commentHook": "真实事件改编，应该优先尊重史实，还是优先服务戏剧？",
-      "heatScore": 93,
-      "whyNow": "9/17-9/19 多条 UGC explained/review 过 5万播放、2000赞、100评论门槛，且评论主题集中在改编审计。",
-      "xhsFit": "高，能写影视改编、观众考据和内容信任，不走猎奇路线。",
+      "title": "巡演争议真正的主角是舞台边界",
+      "xhsTitle": "Ed Sheeran 这场巡演争议，真正暴露的是谁在决定舞台边界",
+      "commentHook": "当演唱会变成价值观现场，你希望艺人发声，还是只完成表演？",
+      "heatScore": 94,
+      "whyNow": "9/14-9/20 多条 YouTube UGC commentary exact 过线，稳定媒体持续报道，粉丝争议从艺人发言扩散到 promoter/venue 权力。",
+      "xhsFit": "高，但要克制立场煽动，重点写音乐工业、粉丝消费伦理和明星公关。",
       "related": [
-        "Monster: The Lizzie Borden Story",
-        "Netflix explained",
-        "real-life vs series"
+        "Macklemore",
+        "Ed Sheeran Loop Tour",
+        "artist speech"
       ]
     },
     {
-      "title": "Practical Magic 2 从续集期待变成审美验收",
-      "xhsTitle": "Practical Magic 2 被骂的点，其实是女巫审美太难复刻",
-      "commentHook": "你想看的女巫感，是魔法剧情，还是一种生活方式？",
-      "heatScore": 88,
-      "whyNow": "ModernGurlz 9/17 exact 样本过线，讨论点集中在 witchy cozy 美学与怀旧续集能否复刻。",
-      "xhsFit": "高，适合秋季氛围、穿搭、家居和女性友谊叙事。",
-      "related": [
-        "Practical Magic 2",
-        "witchy nostalgia",
-        "ModernGurlz"
-      ]
-    },
-    {
-      "title": "Agent skill 从热榜收藏进入安装前体检",
-      "xhsTitle": "别再乱装 AI skill 了，先用这 5 个问题做体检",
-      "commentHook": "你装 AI skill 最担心的是没用，还是不可信？",
-      "heatScore": 87,
-      "whyNow": "9/28 GitHub API 显示安全审计、金融、剪辑、手绘、第二大脑等 skill 样本继续高活跃，但 YouTube 新视频未过线。",
-      "xhsFit": "高，适合工具号、创业号和个人效率号，能给出清单化价值。",
-      "related": [
-        "cloudflare/security-audit-skill",
-        "jianying-headless",
-        "second-brain-os"
-      ]
-    },
-    {
-      "title": "VMAs 有话题但暂不够主榜",
-      "xhsTitle": "奖项热度不等于内容热度，VMAs 真正可写的是粉丝怎么争解释权",
-      "commentHook": "你会因为奖项结果改变对一首歌或一个艺人的评价吗？",
-      "heatScore": 76,
-      "whyNow": "9/28 搜索显示奖项讨论有热簇，但 YouTube exact 返回低互动或旧视频，标注为 search cluster。",
-      "xhsFit": "中高，适合粉丝文化和奖项话语权，不适合冒充爆款视频。",
-      "related": [
-        "2026 VMAs",
-        "fan reaction",
-        "award discourse"
-      ]
-    },
-    {
-      "title": "剪辑 skill 连接小红书内容效率",
-      "xhsTitle": "当剪辑也被做成 agent skill，内容团队会先省掉哪一步？",
-      "commentHook": "你最想让 AI 接管剪辑里的哪件小事？",
+      "title": "Barn jacket 从单品变成普通人身份制服",
+      "xhsTitle": "为什么今年秋天的高级感，突然变成一件不显眼的 barn jacket？",
+      "commentHook": "你会被这种“看起来很会生活”的穿搭说服吗？",
       "heatScore": 82,
-      "whyNow": "mcncarl/jianying-headless 9/28 API 显示 2812 stars / 1931 forks，且 9/27 刚更新。",
-      "xhsFit": "高，天然贴近短视频生产、工作流和内容团队降本。",
+      "whyNow": "J.Crew 40 周年明星 portrait campaign 和媒体报道给 heritage prep 新视觉抓手，但暂缺过线 UGC exact。",
+      "xhsFit": "中高，适合秋季穿搭、品牌叙事和普通人身份感。",
       "related": [
-        "jianying-headless",
-        "agent skill",
-        "short video workflow"
+        "J.Crew",
+        "barn jacket",
+        "heritage prep"
       ]
     },
     {
-      "title": "2010s 旧歌仍是情绪内容底盘",
-      "xhsTitle": "为什么大家又开始用十年前的歌，讲今年的遗憾？",
-      "commentHook": "哪首旧歌最像你今年的 BGM？",
-      "heatScore": 79,
-      "whyNow": "延续 TikTok nostalgia songs 平台线索，本轮仍作为搜索聚类观察，等待精确视频 URL 升级。",
-      "xhsFit": "高，适合歌单、关系叙事和评论区共创。",
+      "title": "TikTok 旧歌复兴是在卖遗憾模板",
+      "xhsTitle": "今年最火的不是新歌，是大家开始用旧歌给遗憾配字幕",
+      "commentHook": "哪首旧歌一响，你会立刻想起一个人？",
+      "heatScore": 84,
+      "whyNow": "Billboard Canada 和 TikTok 夏日榜指向 Mac Miller Cinderella 与 2010s nostalgia songs，适合做关系叙事和歌单互动。",
+      "xhsFit": "高，适合评论区互动、歌单、关系叙事和影视剪辑模板。",
       "related": [
+        "Mac Miller Cinderella",
         "The One That Got Away",
-        "Cinderella",
-        "nostalgia edit"
+        "nostalgia songs"
+      ]
+    },
+    {
+      "title": "LISA 纪录片把粉丝记忆做成官方叙事",
+      "xhsTitle": "LISA 纪录片最聪明的地方，是让粉丝一起回忆她怎么长大",
+      "commentHook": "偶像纪录片最打动你的是幕后细节，还是你陪她走过的时间？",
+      "heatScore": 79,
+      "whyNow": "官方预告和粉丝讨论升温；YouTube UGC reaction 评论不足，所以只作为 Summary/search cluster。",
+      "xhsFit": "高，适合写粉丝经济、成长叙事和 solo era 品牌化。",
+      "related": [
+        "Always Lalisa",
+        "K-pop documentary",
+        "fan memory"
+      ]
+    },
+    {
+      "title": "Alyssa Grace 把 TikTok 歌手叙事推向打工人共情",
+      "xhsTitle": "一首歌从 TikTok 到 Hot 100，靠的可能是一句人人能代入的歌词",
+      "commentHook": "你更容易被歌手的作品打动，还是被她的现实处境打动？",
+      "heatScore": 78,
+      "whyNow": "Billboard Canada Chartbreaker 给出 Cheesecake Factory 到 Hot 100 的清晰叙事，但 YouTube reaction 互动不足。",
+      "xhsFit": "中高，适合写素人歌手、平台反馈和歌词共情。",
+      "related": [
+        "Alyssa Grace",
+        "Bloodstream",
+        "TikTok-to-chart"
+      ]
+    },
+    {
+      "title": "AI skill 从工程方法扩散到职业 SOP",
+      "xhsTitle": "AI skill 的下一波机会，不是更聪明，而是更像一个岗位 SOP",
+      "commentHook": "你最想把哪一类重复工作打包成 AI skill？",
+      "heatScore": 90,
+      "whyNow": "9/28 GitHub Search API 出现编剧、AI 视频、咨询 PPT、中文技术写作和项目交接等垂直 skill 样本。",
+      "xhsFit": "高，适合 AI 工具创业、个人工作流和团队知识产品。",
+      "related": [
+        "screenwriting-skills",
+        "reelbench-skills",
+        "consulting-pptx-skill"
+      ]
+    },
+    {
+      "title": "AI 教程没爆，可信安装反而更值得写",
+      "xhsTitle": "普通人装 AI skill 前，最该看的不是教程，是风险和复用价值",
+      "commentHook": "你会安装陌生人写的 AI skill 吗？你最担心什么？",
+      "heatScore": 86,
+      "whyNow": "9/28 Claude skills 新视频互动不足，说明大众爆点暂不在教程本身；GitHub skill 生态更适合写 trust layer。",
+      "xhsFit": "高，适合工具号、效率号和创业 idea。",
+      "related": [
+        "Claude skills",
+        "workflow trust",
+        "install decision"
       ]
     }
   ],
@@ -486,12 +474,12 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-28-0005",
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 00:05 CST",
+    "editionId": "2026-09-28-0938",
+    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 09:38 CST",
     "researchedThrough": "2026-09-28",
-    "packageGeneratedAt": "2026-09-28 00:05 CST",
-    "summary": "9/28 继续动态实体优先：从 Netflix Monster: The Lizzie Borden Story、Practical Magic 2、2026 VMAs、TikTok 旧歌怀旧、agent skill 安装前体检和新建创意/剪辑/第二大脑 skill 仓库反推二级搜索。Social 主榜新增 Lizzie Borden 与 Practical Magic 2 过线 UGC exact 证据；VMAs、TikTok nostalgia、AI skill 安全视频因缺精确高互动样本，标注为 search cluster/watchlist。AI 主榜保留仍在近 30 天窗口内的 GPT-6 Astra 与 agentic coding 审计证据，并用 GitHub API 更新 skill feed。",
-    "dynamicDiscovery": "先扫描 24-72 小时和近 15/30 天热簇，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 动态实体包括 Monster: The Lizzie Borden Story、Practical Magic 2、2026 VMAs、2010s nostalgia songs、cloudflare/security-audit-skill、anthropics/financial-services、yang0/handraw-style、mcncarl/jianying-headless、undefined-ui/second-brain-os、alexgreensh/anidoodle。缺少精确视频和可见热评的内容只进 Summary/watchlist/search cluster。"
+    "packageGeneratedAt": "2026-09-28 09:38 CST",
+    "summary": "9/28 继续动态实体优先：先从巡演争议、秋季单品复古、TikTok 旧歌怀旧、K-pop 纪录片、TikTok-to-chart 歌手和 agent skills 新仓样本发现实体，再反推二级搜索。Social 主榜新增 Macklemore / Ed Sheeran tour controversy 的过线 UGC commentary exact 证据；ADÉLA 与 South Park 已超出 9/13-9/28 Social 窗口，退为关联历史证据。LISA、J.Crew barn jacket、Mac Miller Cinderella、Alyssa Grace 和 Claude skills 新视频均因官方源、搜索聚类或互动不足不进主榜。AI 主榜保留近 30 天过线 Astra exact videos，并把新增 GitHub skill 样本写成可信安装/垂直 workflow 机会。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 发现 Macklemore / Ed Sheeran tour controversy、J.Crew Barn Jacket 40 周年 portrait campaign、Mac Miller Cinderella / The One That Got Away TikTok nostalgia、Alyssa Grace Bloodstream、LISA Always Lalisa、Claude skills 教程低互动样本、screenwriting/reelbench/consulting-pptx/zh-tech-writing/Table-skills 等新 skill 样本。YouTube exact 复核显示 Macklemore/Ed Sheeran 争议有过线 UGC 长评；其余音乐、时尚与 K-pop 候选缺过线 UGC exact 或偏官方/媒体源，只进入 Summary/watchlist/search cluster。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -552,13 +540,13 @@
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
     "researchedThrough": "2026-09-28",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 发现 Miley Bass Persuades、TikTok 旧歌复兴、Effect House Lyrics challenge、CozyAesthetic / Fashion Week creator clusters、LISA Always Lalisa、Alyssa Grace Bloodstream、Cloudflare/Addy/Anthropic skill 信任体检、9 月新建 screenwriting/reelbench/consulting-pptx/中文技术写作 skill。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 发现 Macklemore / Ed Sheeran tour controversy、J.Crew Barn Jacket 40 周年 portrait campaign、Mac Miller Cinderella / The One That Got Away TikTok nostalgia、Alyssa Grace Bloodstream、LISA Always Lalisa、Claude skills 教程低互动样本、screenwriting/reelbench/consulting-pptx/zh-tech-writing/Table-skills 等新 skill 样本。YouTube exact 复核显示 Macklemore/Ed Sheeran 争议有过线 UGC 长评；其余音乐、时尚与 K-pop 候选缺过线 UGC exact 或偏官方/媒体源，只进入 Summary/watchlist/search cluster。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
     ],
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 00:05 CST",
+    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 09:38 CST",
     "fallbackKeywords": [
       "pop culture commentary",
       "celebrity aesthetic analysis",
@@ -566,8 +554,8 @@
       "AI workflow",
       "open-source AI apps"
     ],
-    "qualityNote": "9/28 新增候选若只有 flat/search 播放、无 exact 赞评或评论证据，一律标为 search cluster/watchlist；主榜只保留已复核过门槛且仍在窗口内的 exact videos。",
-    "notes": "9/28 新发现 Miley/TikTok nostalgia/Effect House/CozyAesthetic/LISA/agent skill health 均按证据类型分级；没有 YouTube/TikTok 精确过线互动的内容只写 search cluster/watchlist，不进入 Social/TikTok/AI 主榜。",
+    "qualityNote": "9/28 新增候选若只有 flat/search 播放、无 exact 赞评或评论证据，一律标为 search cluster/watchlist；主榜只收近 15 天已复核过门槛的 Social exact videos 或近 30 天 AI exact videos。",
+    "notes": "9/28 Macklemore/Ed Sheeran 争议按过线 UGC exact 升级为 Social 主榜；LISA/J.Crew/TikTok nostalgia/Alyssa Grace/Claude skills 均按证据类型分级，没有 YouTube/TikTok 精确过线互动的内容只写 search cluster/watchlist，不进入 Social/TikTok/AI exact 主榜。",
     "blockedSources": [
       "X/Twitter 内容、链接、截图和嵌入",
       "官方 MV / 官方预告 / 官方采访不能直接作为 Social 主榜 UGC 证据",
