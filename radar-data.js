@@ -42,6 +42,13 @@ window.RADAR_DATA = {
   ],
   "youtubeWatchlist": [
     {
+      "title": "VMAs 2026 Madonna / Sabrina / Charli：官方现场强，但当天 UGC 仍低互动",
+      "reason": "9/28 yt-dlp exact 搜索：Madam Roast Beef reaction 2026-09-28 211播放 / 52赞 / 9评论；搜索结果主要混入 Madonna 官方 MV、Sabrina 官方现场和旧 VMAs/Grammy 内容。没有近 15 天过线 UGC commentary exact，因此只作 watchlist/search cluster。",
+      "sourceType": "Awards-performance search cluster / exact UGC below threshold",
+      "suggestedSearch": "Madonna Sabrina Carpenter Charli XCX VMAs 2026 reaction commentary performance analysis",
+      "xhsAngle": "标题：VMAs 这种大场面，为什么先爆的是官方舞台，不是观众解读？"
+    },
+    {
       "title": "J.Crew barn jacket：明星群像把普通外套做成秋季身份制服",
       "reason": "Hollywood Reporter 9/22 报道 J.Crew 为 Barn Jacket 40 周年拍摄 160 人 portrait campaign，PR Newswire 同步品牌稿。当前是稳定媒体+品牌视觉热簇；YouTube 搜索没有找到近 15 天过线 UGC analysis exact。",
       "sourceType": "Fashion-media search cluster / UGC exact pending",
@@ -79,7 +86,7 @@ window.RADAR_DATA = {
   ],
   "aiSignals": [
     {
-      "title": "Agent skill 爆火后，垂直 workflow 和可信安装成了新机会",
+      "title": "Agent skill 从职业 SOP 扩展到上线、视频和跨代理记忆",
       "tags": [
         "AI",
         "Agent Skills",
@@ -87,10 +94,10 @@ window.RADAR_DATA = {
         "Workflow Trust"
       ],
       "priority": "high",
-      "metrics": "9/28 GitHub Search API 动态样本：jtydhr88/screenwriting-skills 1427 stars / 158 forks / created_at 2026-09-06 / pushed_at 2026-09-22；eternityspring/reelbench-skills 843 / 103 / 2026-09-11 / 2026-09-21；carnot-tech/consulting-pptx-skill 816 / pushed_at 2026-09-27；leter/zh-tech-writing 291 / 13 / created_at 2026-09-24；duoduoler-ops/Table-skills 290 / 15 / pushed_at 2026-09-27。未写成已验证周涨幅。",
+      "metrics": "9/28 16:38 GitHub Search API 动态样本：mikehasa/golive-skill 1025 stars / 75 forks / created_at 2026-09-23 / pushed_at 2026-09-27；kerpopule/hermes-jev-skills 879 / 84 / 2026-09-18 / 2026-09-28；feitangyuan/onetake 609 / 42 / 2026-09-26；alexgreensh/anidoodle 604 / 51 / 2026-09-22 / 2026-09-28；sno-ai/sno-station 269 / 222 / 2026-09-19；zhuyansen/awesome-claude-video-skills 101 / 11 / 2026-09-27。未写成已验证周涨幅。",
       "channel": "GitHub samples + Search cluster: agent skills / vertical workflow / trust layer / install decision",
-      "heat": "新增样本从通用 coding skills 转向编剧、AI 视频、咨询 PPT、中文技术写作和项目交接，说明 skill 生态正在从“收藏提示词”变成“可安装的职业流程”。",
-      "signal": "可转译点：小红书 AI 工具内容不必继续卷模型新闻，可以写“一个岗位的一套做事方法如何被打包成 skill”。",
+      "heat": "下午样本从编剧/咨询 PPT 继续扩展到产品上线、连续镜头视频、创意编码、跨代理记忆和视频 skill 安全分级，说明 skill 生态正在从“岗位 SOP”进入“交付链路”。",
+      "signal": "可转译点：小红书 AI 工具内容可以写“我该装哪个 skill”，更可以写“这个 skill 是否能帮我从想法走到可验证结果”。",
       "discussion": "评论热点可引导到：你会为哪种重复工作装 skill、陌生 skill 是否可信、团队如何判断输出是否可复核、以及垂直 skill 是否会成为新型知识产品。",
       "xhsTitles": [
         "AI skill 的下一波机会，不是更聪明，而是更像一个岗位 SOP",
@@ -98,20 +105,20 @@ window.RADAR_DATA = {
       ],
       "sources": [
         [
-          "GitHub: screenwriting-skills",
-          "https://github.com/jtydhr88/screenwriting-skills"
+          "GitHub: golive-skill",
+          "https://github.com/mikehasa/golive-skill"
         ],
         [
-          "GitHub: reelbench-skills",
-          "https://github.com/eternityspring/reelbench-skills"
+          "GitHub: hermes-jev-skills",
+          "https://github.com/kerpopule/hermes-jev-skills"
         ],
         [
-          "GitHub: consulting-pptx-skill",
-          "https://github.com/carnot-tech/consulting-pptx-skill"
+          "GitHub: onetake",
+          "https://github.com/feitangyuan/onetake"
         ],
         [
-          "GitHub: zh-tech-writing",
-          "https://github.com/leter/zh-tech-writing"
+          "GitHub: anidoodle",
+          "https://github.com/alexgreensh/anidoodle"
         ]
       ]
     },
@@ -146,6 +153,18 @@ window.RADAR_DATA = {
     }
   ],
   "tiktokSignals": [
+    {
+      "title": "VMAs 2026 Madonna / Sabrina / Charli：舞台高能，UGC 解读待补",
+      "tags": [
+        "TikTok",
+        "Awards Show",
+        "Performance Aesthetic"
+      ],
+      "sourceType": "站内搜索聚类 / YouTube exact UGC 低于门槛 / 精确视频链接待补",
+      "heat": "适合先看搜索聚类里的舞台切片、造型二创和粉丝站位；目前没有可放主榜的精确高互动 UGC 链接。",
+      "xhsAngle": "标题：为什么奖项舞台越大，越需要一个普通观众能复述的视觉钩子？",
+      "source": "https://www.tiktok.com/search?q=VMAs%202026%20Madonna%20Sabrina%20Charli"
+    },
     {
       "title": "Macklemore / Ed Sheeran tour controversy：粉丝消费伦理与艺人立场",
       "tags": [
@@ -209,52 +228,52 @@ window.RADAR_DATA = {
   ],
   "githubSkills": [
     {
-      "name": "jtydhr88/screenwriting-skills",
-      "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "urlLabel": "GitHub: jtydhr88/screenwriting-skills",
-      "heat": "GitHub API 9/28：1427 stars / 158 forks / created_at 2026-09-06 / pushed_at 2026-09-22。",
-      "why": "把编剧、电视剧写作和 dramaturgy 打包成 professional agent skills，说明创意职业流程也开始被 skill 化。",
-      "xhsAngle": "选题：AI skill 不只会写代码，下一步是把专业创作方法打包成可调用流程。"
+      "name": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "urlLabel": "GitHub: mikehasa/golive-skill",
+      "heat": "GitHub API 9/28 16:38：1025 stars / 75 forks / created_at 2026-09-23 / pushed_at 2026-09-27。",
+      "why": "把 agent-built product 的 hosting、database、domain、email、payments 打包成可审批的上线 skill，说明 skill 正从内容生成走向交付闭环。",
+      "xhsAngle": "选题：AI skill 的下一站，是帮普通人把产品真正上线。"
     },
     {
-      "name": "eternityspring/reelbench-skills",
-      "url": "https://github.com/eternityspring/reelbench-skills",
-      "urlLabel": "GitHub: eternityspring/reelbench-skills",
-      "heat": "GitHub API 9/28：843 stars / 103 forks / created_at 2026-09-11 / pushed_at 2026-09-21。",
-      "why": "围绕 AI video、shot analysis、ffmpeg 和 video-analysis 的 skill 样本，适合观察视频创作工作流如何被拆成模块。",
-      "xhsAngle": "选题：AI 视频爆火后，真正缺的是能稳定拆镜头、修素材、复盘风格的 workflow。"
+      "name": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "urlLabel": "GitHub: kerpopule/hermes-jev-skills",
+      "heat": "GitHub API 9/28 16:38：879 stars / 84 forks / created_at 2026-09-18 / pushed_at 2026-09-28。",
+      "why": "把模型路由、记忆、压缩、skill 选择和浏览器/电脑使用写成 Hermes/Claude/Codex 通用层，指向跨代理工作台机会。",
+      "xhsAngle": "选题：以后不是选一个 AI，而是让多个 AI 共用记忆和工作规则。"
     },
     {
-      "name": "carnot-tech/consulting-pptx-skill",
-      "url": "https://github.com/carnot-tech/consulting-pptx-skill",
-      "urlLabel": "GitHub: carnot-tech/consulting-pptx-skill",
-      "heat": "GitHub API 9/28：816 stars / created_at 2026-09-02 / pushed_at 2026-09-27。",
-      "why": "把咨询 PPT 的版式规范、slide catalog 和机械检查做成 skill，说明高频白领交付物会成为 AI skill 商品化重点。",
-      "xhsAngle": "选题：为什么 AI 做 PPT 老翻车？因为缺的不是模板，是一套能检查的交付规范。"
+      "name": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "urlLabel": "GitHub: feitangyuan/onetake",
+      "heat": "GitHub API 9/28 16:38：609 stars / 42 forks / created_at 2026-09-26 / pushed_at 2026-09-26。",
+      "why": "把产品发布片和功能 demo 做成 one continuous camera 的 Claude Agent Skill，说明视频 skill 开始追求可复核的视觉连续性。",
+      "xhsAngle": "选题：AI 做视频不只要炫，还要让每一帧能接上上一帧。"
     },
     {
-      "name": "leter/zh-tech-writing",
-      "url": "https://github.com/leter/zh-tech-writing",
-      "urlLabel": "GitHub: leter/zh-tech-writing",
-      "heat": "GitHub API 9/28：291 stars / 13 forks / created_at 2026-09-24 / pushed_at 2026-09-24。",
-      "why": "中文技术文档写作 skill 直接切中“没有 AI 腔”的内容质量需求，适合中文团队知识库和工程文档场景。",
-      "xhsAngle": "选题：AI 写中文文档最大的问题不是错，而是太像 AI；这个方向会变成刚需。"
+      "name": "alexgreensh/anidoodle",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "urlLabel": "GitHub: alexgreensh/anidoodle",
+      "heat": "GitHub API 9/28 16:38：604 stars / 51 forks / created_at 2026-09-22 / pushed_at 2026-09-28。",
+      "why": "把插画、循环动画、互动 web art、贴纸和 scored films 写成代码化创意 skill，适合观察设计师如何把风格资产产品化。",
+      "xhsAngle": "选题：AI 设计 skill 最值钱的不是出图，是把风格变成可复用资产。"
     },
     {
-      "name": "duoduoler-ops/Table-skills",
-      "url": "https://github.com/duoduoler-ops/Table-skills",
-      "urlLabel": "GitHub: duoduoler-ops/Table-skills",
-      "heat": "GitHub API 9/28：290 stars / 15 forks / created_at 2026-09-05 / pushed_at 2026-09-27。",
-      "why": "项目交接与网页替身类 skills 指向长任务接续、交接清晰和多端协作，是个人/小团队 workflow 产品机会。",
-      "xhsAngle": "选题：真正能省时间的 AI，不是替你开头，而是帮你把长任务接下去。"
+      "name": "sno-ai/sno-station",
+      "url": "https://github.com/sno-ai/sno-station",
+      "urlLabel": "GitHub: sno-ai/sno-station",
+      "heat": "GitHub API 9/28 16:38：269 stars / 222 forks / created_at 2026-09-19 / pushed_at 2026-09-26。",
+      "why": "本地优先的 Claude Code + Codex 协作站，主打共享加密记忆、agent-to-agent messaging 和 squad skills。",
+      "xhsAngle": "选题：AI 工作台的核心可能不是聊天窗口，而是团队记忆。"
     },
     {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "urlLabel": "GitHub: Shubhamsaboo/awesome-llm-apps",
-      "heat": "继续作为 AI app 样本库基线；仅用于观察应用形态，不写成突然上涨榜。",
-      "why": "用来对照哪些 AI app/agent/RAG 形态被反复复刻，避免把固定仓库列表伪装成趋势。",
-      "xhsAngle": "选题：看 AI 创业 idea，不要只看模型，要看哪些应用被反复复刻。"
+      "name": "zhuyansen/awesome-claude-video-skills",
+      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+      "urlLabel": "GitHub: zhuyansen/awesome-claude-video-skills",
+      "heat": "GitHub API 9/28 16:38：101 stars / 11 forks / created_at 2026-09-27 / pushed_at 2026-09-27。",
+      "why": "整理 Claude Code/Codex 视频制作 skill，并加入 security-graded 分类，说明视频 skill 正在从样例清单走向安全分级。",
+      "xhsAngle": "选题：装 AI 视频 skill 前，先看它有没有安全分级。"
     }
   ],
   "sparkPool": [
@@ -363,19 +382,6 @@ window.RADAR_DATA = {
   ],
   "summarySparks": [
     {
-      "title": "巡演争议真正的主角是舞台边界",
-      "xhsTitle": "Ed Sheeran 这场巡演争议，真正暴露的是谁在决定舞台边界",
-      "commentHook": "当演唱会变成价值观现场，你希望艺人发声，还是只完成表演？",
-      "heatScore": 94,
-      "whyNow": "9/14-9/20 多条 YouTube UGC commentary exact 过线，稳定媒体持续报道，粉丝争议从艺人发言扩散到 promoter/venue 权力。",
-      "xhsFit": "高，但要克制立场煽动，重点写音乐工业、粉丝消费伦理和明星公关。",
-      "related": [
-        "Macklemore",
-        "Ed Sheeran Loop Tour",
-        "artist speech"
-      ]
-    },
-    {
       "title": "Barn jacket 从单品变成普通人身份制服",
       "xhsTitle": "为什么今年秋天的高级感，突然变成一件不显眼的 barn jacket？",
       "commentHook": "你会被这种“看起来很会生活”的穿搭说服吗？",
@@ -452,6 +458,19 @@ window.RADAR_DATA = {
         "workflow trust",
         "install decision"
       ]
+    },
+    {
+      "title": "AI skill 从岗位 SOP 走向交付链路",
+      "xhsTitle": "AI skill 的下一波机会，是把想法一路推到上线",
+      "commentHook": "你更想要会写内容的 AI，还是能帮你把东西发布出去的 AI？",
+      "heatScore": 92,
+      "whyNow": "9/28 下午 GitHub API 出现 golive-skill、onetake、anidoodle、hermes-jev-skills 等新高星样本，方向从写作/文档扩展到上线、视频和跨代理记忆。",
+      "xhsFit": "高，适合 AI 工具、创业 idea、个人工作流和产品化知识内容。",
+      "related": [
+        "golive-skill",
+        "onetake",
+        "hermes-jev-skills"
+      ]
     }
   ],
   "contentGuardrails": [
@@ -474,12 +493,12 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-28-0011",
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 00:11 CST",
+    "editionId": "2026-09-28-1638",
+    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 16:38 CST",
     "researchedThrough": "2026-09-28",
-    "packageGeneratedAt": "2026-09-28 00:11 CST",
-    "summary": "9/28 继续动态实体优先：先从巡演争议、秋季单品复古、TikTok 旧歌怀旧、K-pop 纪录片、TikTok-to-chart 歌手和 agent skills 新仓样本发现实体，再反推二级搜索。Social 主榜新增 Macklemore / Ed Sheeran tour controversy 的过线 UGC commentary exact 证据；ADÉLA 与 South Park 已超出 9/13-9/28 Social 窗口，退为关联历史证据。LISA、J.Crew barn jacket、Mac Miller Cinderella、Alyssa Grace 和 Claude skills 新视频均因官方源、搜索聚类或互动不足不进主榜。AI 主榜保留近 30 天过线 Astra exact videos，并把新增 GitHub skill 样本写成可信安装/垂直 workflow 机会。",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 发现 Macklemore / Ed Sheeran tour controversy、J.Crew Barn Jacket 40 周年 portrait campaign、Mac Miller Cinderella / The One That Got Away TikTok nostalgia、Alyssa Grace Bloodstream、LISA Always Lalisa、Claude skills 教程低互动样本、screenwriting/reelbench/consulting-pptx/zh-tech-writing/Table-skills 等新 skill 样本。YouTube exact 复核显示 Macklemore/Ed Sheeran 争议有过线 UGC 长评；其余音乐、时尚与 K-pop 候选缺过线 UGC exact 或偏官方/媒体源，只进入 Summary/watchlist/search cluster。"
+    "packageGeneratedAt": "2026-09-28 16:38 CST",
+    "summary": "9/28 同日二次巡检继续动态实体优先：复核 VMAs 2026 Madonna/Sabrina/Charli 搜索簇、Macklemore/Ed Sheeran 后续新闻视频、Claude/agent skill GitHub 新仓样本。VMAs 当天 reaction 仅 211 播放 / 52 赞 / 9 评论，官方 MV/现场不进主榜；Macklemore 后续 NBC/AP 新闻视频播放和点赞不足，不替代已过线 UGC 主榜。GitHub skill feed 更新为 9/28 下午可见的 agent skill 新仓样本，重点转向上线部署、连续镜头视频、创意编码、跨代理记忆和视频 skill 安全分级。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 16:38 二次巡检新增发现：VMAs 2026 Madonna/Sabrina/Charli 现场讨论仍处低互动 UGC 阶段；Macklemore/Ed Sheeran 后续主要是新闻低赞样本；GitHub Search API 显示 mikehasa/golive-skill、kerpopule/hermes-jev-skills、feitangyuan/onetake、alexgreensh/anidoodle、sno-ai/sno-station、zhuyansen/awesome-claude-video-skills 等新 skill/agent workflow 仓库快速获得 stars。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
