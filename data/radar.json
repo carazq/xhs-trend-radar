@@ -9,9 +9,9 @@
         "Fan Debate"
       ],
       "priority": "high",
-      "metrics": "9/28 yt-dlp exact-video 复核：Philip DeFranco 2026-09-14 106.99万播放 / 25924赞 / 5100评论；Piers Morgan Uncensored 2026-09-16 98.10万播放 / 9309赞 / 4100评论；Asmongold Clips 2026-09-20 223.39万播放 / 135364赞 / 10000评论。",
+      "metrics": "9/29 复核沿用仍在近 15 天窗口内的 exact-video 证据：Philip DeFranco 2026-09-14 106.99万播放 / 25924赞 / 5100评论；Piers Morgan Uncensored 2026-09-16 98.10万播放 / 9309赞 / 4100评论；Asmongold Clips 2026-09-20 223.39万播放 / 135364赞 / 10000评论。",
       "channel": "YouTube exact videos + Search cluster: Macklemore Ed Sheeran controversy / tour backlash / artist speech / promoter decision",
-      "heat": "Variety、AP、BBC 与音乐媒体在 9/14-9/23 持续报道，YouTube UGC 长评和反应视频赞评远超 Social 主榜门槛；争议从单次舞台发言扩散到巡演赞助、场地方、粉丝退款和艺人是否应保持 apolitical 的讨论。",
+      "heat": "Macklemore / Ed Sheeran 争议仍是今天唯一有多条近 15 天过线 UGC 长评证据的 Social 主榜热簇；9/29 新发现的 Taylor、DWTS、J.Lo 与 Practical Magic 候选均因官方/媒体源或 UGC 赞评不足未进入主榜。",
       "signal": "可转译点：当艺人的个人立场进入大型巡演系统，粉丝讨论的核心会从“说了什么”转向“谁在决定舞台边界”。",
       "why": "适合小红书：可写明星公关、粉丝消费伦理、巡演商业结构和创作者边界；需要避免煽动性立场判断，重点放在文化工业如何管理风险。",
       "discussion": "评论热点集中在 Ed 是否真的有决定权、promoter/venue 是否比艺人更有权力、粉丝买票是消费音乐还是消费价值观、以及支持艺人是否要承担商业代价。",
@@ -30,8 +30,8 @@
           "https://www.youtube.com/watch?v=hmNtantlnDc"
         ],
         [
-          "Variety / Macklemore dropped from Ed Sheeran tour",
-          "https://au.variety.com/2026/music/news/macklemore-dropped-ed-sheeran-tour-free-palestine-speech-40271/"
+          "Asmongold Clips / 223.39万播放 / 135364赞 / 10000评论",
+          "https://www.youtube.com/results?search_query=Asmongold+Macklemore+Ed+Sheeran+tour"
         ],
         [
           "AP / artists, promoters and venues power on troubled tours",
@@ -42,434 +42,467 @@
   ],
   "youtubeWatchlist": [
     {
-      "title": "VMAs 2026 Madonna / Sabrina / Charli：官方现场强，但当天 UGC 仍低互动",
-      "reason": "9/28 yt-dlp exact 搜索：Madam Roast Beef reaction 2026-09-28 211播放 / 52赞 / 9评论；搜索结果主要混入 Madonna 官方 MV、Sabrina 官方现场和旧 VMAs/Grammy 内容。没有近 15 天过线 UGC commentary exact，因此只作 watchlist/search cluster。",
-      "sourceType": "Awards-performance search cluster / exact UGC below threshold",
-      "suggestedSearch": "Madonna Sabrina Carpenter Charli XCX VMAs 2026 reaction commentary performance analysis",
-      "xhsAngle": "标题：VMAs 这种大场面，为什么先爆的是官方舞台，不是观众解读？"
+      "title": "Taylor Swift Patient Zero：彩蛋热强，但 UGC 赞数卡在主榜线下",
+      "reason": "9/29 yt-dlp exact：2026-09-25 reaction 7.85万播放 / 1179赞 / 166评论；2026-09-28 Easter eggs 25.04万播放 / 773赞 / 138评论；2026-09-24首播/媒体样本 67.37万播放 / 3078赞 / 191评论但偏官方/媒体源。作为 MV 彩蛋与 cameo search cluster，不进 Social 主榜。",
+      "sourceType": "Music-video search cluster / UGC exact below likes threshold",
+      "suggestedSearch": "Taylor Swift Patient Zero music video reaction analysis easter eggs cameo explained",
+      "xhsAngle": "标题：Taylor 的 MV 彩蛋为什么总能把粉丝变成侦探？"
     },
     {
-      "title": "J.Crew barn jacket：明星群像把普通外套做成秋季身份制服",
-      "reason": "Hollywood Reporter 9/22 报道 J.Crew 为 Barn Jacket 40 周年拍摄 160 人 portrait campaign，PR Newswire 同步品牌稿。当前是稳定媒体+品牌视觉热簇；YouTube 搜索没有找到近 15 天过线 UGC analysis exact。",
-      "sourceType": "Fashion-media search cluster / UGC exact pending",
-      "suggestedSearch": "J.Crew Barn Jacket 40 anniversary celebrity campaign analysis heritage prep fall uniform",
-      "xhsAngle": "标题：为什么今年秋天的高级感，突然变成一件不显眼的 barn jacket？"
+      "title": "DWTS Viral Hits Night：官方舞台爆，但 UGC 解读待补",
+      "reason": "9/29 yt-dlp exact：Guillermo Rodriguez 2026-09-23 官方片段 85.90万播放 / 10121赞 / 878评论；Ezra Frech 官方片段 62.36万播放 / 6351赞 / 307评论。互动高但为节目官方源，缺过线 UGC commentary exact。",
+      "sourceType": "TV-performance search cluster / official exact only",
+      "suggestedSearch": "Dancing with the Stars Viral Hits Night reaction commentary TikTok dance identity",
+      "xhsAngle": "标题：为什么综艺开始把 TikTok 热歌夜做成身份秀？"
     },
     {
-      "title": "TikTok nostalgia songs：旧歌复兴继续变成遗憾模板",
-      "reason": "Billboard Canada 9 月写到 Mac Miller Cinderella 登顶 TikTok Canada 夏日榜，The One That Got Away 等旧歌也在平台榜单里被重新使用。YouTube 搜索主要返回旧官方/歌词/现场内容，缺少近 15 天过线 UGC analysis。",
-      "sourceType": "Platform/newsroom + chart-media search cluster",
-      "suggestedSearch": "Mac Miller Cinderella TikTok trend The One That Got Away nostalgia edit analysis",
-      "xhsAngle": "标题：今年最火的不是新歌，是大家开始用旧歌给遗憾配字幕。"
+      "title": "J.Lo / Prada peekaboo bra：红毯穿搭热，但 YouTube 搜索噪声高",
+      "reason": "9/29 yt-dlp 搜索 JLo Prada peekaboo bra Milan Fashion Week 返回旧 Madonna 内容和无关土剧新闻，未找到近 15 天过线 UGC analysis exact。仅作 fashion/aesthetic search cluster。",
+      "sourceType": "Fashion search cluster / exact UGC pending",
+      "suggestedSearch": "JLo Prada peekaboo bra Milan Fashion Week styling analysis celebrity fashion",
+      "xhsAngle": "标题：J.Lo 这套 Prada，其实是在把内衣外穿变成权力穿搭。"
     },
     {
-      "title": "LISA / Always Lalisa：粉丝成长叙事热，但 UGC 评论不足",
-      "reason": "9/28 YouTube 搜索显示 LISA 纪录片相关 reaction 多为几千到两万播放；9/09 SaWaDiKa reaction 为 7.69万播放 / 2377赞 / 60评论，评论未过 Social 主榜门槛。官方预告和粉丝剪辑可作热簇，不进主榜。",
-      "sourceType": "K-pop documentary search cluster / UGC exact below comments threshold",
-      "suggestedSearch": "LISA Always Lalisa documentary trailer reaction fan memory solo era branding",
-      "xhsAngle": "标题：LISA 纪录片最会抓人的，是让粉丝觉得“我也在场”。"
+      "title": "Alyssa Grace Bloodstream：旧精确样本过线但超出 Social 窗口",
+      "reason": "9/29 yt-dlp exact：2026-08-06 reaction 11.83万播放 / 3500赞 / 158评论，过线但已超出近 15 天 Social 窗口；近 30 天更多为歌词/官方内容。继续作为 TikTok-to-chart search cluster。",
+      "sourceType": "Music reaction outside Social window / chart-media search cluster",
+      "suggestedSearch": "Alyssa Grace Bloodstream TikTok reaction songwriting analysis comments",
+      "xhsAngle": "标题：一首歌出圈，有时靠的是评论区每个人都在认领一句歌词。"
     },
     {
-      "title": "Alyssa Grace / Bloodstream：TikTok 歌手从打工叙事到 Hot 100",
-      "reason": "Billboard Canada Chartbreaker 9/16 写到 Alyssa Grace 从 Cheesecake Factory 服务员到 Hot 100 的 TikTok-to-artist 路径。当前更适合作为 creator economy search cluster；YouTube reaction 互动不足。",
-      "sourceType": "Chart-media evidence / TikTok-to-chart search cluster",
-      "suggestedSearch": "Alyssa Grace Bloodstream TikTok Hot 100 reaction songwriting analysis",
-      "xhsAngle": "标题：一首歌从 TikTok 到 Hot 100，靠的是一句人人能代入的歌词。"
+      "title": "Practical Magic 2：怀旧女巫热回流，缺近 15 天 UGC 主榜证据",
+      "reason": "9/29 yt-dlp exact：近 15 天强样本为 Tonight Show 9/12 91.25万播放 / 3960赞 / 241评论，属节目采访；reaction 多为 4 月旧视频或低量级。只作 witchy nostalgia search cluster。",
+      "sourceType": "Film nostalgia search cluster / official-interview exact only",
+      "suggestedSearch": "Practical Magic 2 reaction witchy nostalgia Sandra Bullock Nicole Kidman analysis",
+      "xhsAngle": "标题：Practical Magic 2 让女巫风回潮，真正卖的是成年人想要的姐妹感。"
     },
     {
-      "title": "Claude skills 日用教程：新视频出现，但互动远低于 AI 主榜",
-      "reason": "9/28 yt-dlp 搜索：Dubibubi 2026-09-26 Claude skills 视频 1.75万播放 / 276赞 / 24评论；播放、点赞、评论均低于 AI YouTube 主榜门槛，只作观察。",
-      "sourceType": "AI YouTube watchlist / exact below threshold",
-      "suggestedSearch": "Claude Skills daily workflow tutorial agent skills install trust",
-      "xhsAngle": "标题：Claude skills 真正开始日常化了，但还没到大众爆款教程阶段。"
+      "title": "Claude skills / agent workflow：教程增温，但 skills 单项仍未普遍过线",
+      "reason": "9/29 yt-dlp exact：Claude Code Full Course 2026 为 10.45万播放 / 1665赞 / 151评论，播放评论过线但点赞低于 AI 主榜；skills 单项教程多数在 5-10万播放、赞评偏低。AI 主榜改用 Skills vs MCP vs RAG vs Memory 过线样本支撑。",
+      "sourceType": "AI YouTube watchlist / partial exact below likes threshold",
+      "suggestedSearch": "Claude skills agent workflow MCP RAG memory tutorial trust",
+      "xhsAngle": "标题：Claude skills 还没全民爆，但 agent 工作流已经开始分层。"
     }
   ],
   "aiSignals": [
     {
-      "title": "Agent skill 从职业 SOP 扩展到上线、视频和跨代理记忆",
+      "title": "Skills vs MCP vs RAG vs Memory：agent 内容进入“能力分层解释”阶段",
       "tags": [
         "AI",
-        "Agent Skills",
-        "GitHub Trend",
-        "Workflow Trust"
+        "Agent Architecture",
+        "Workflow Trust",
+        "MCP"
       ],
       "priority": "high",
-      "metrics": "9/28 16:38 GitHub Search API 动态样本：mikehasa/golive-skill 1025 stars / 75 forks / created_at 2026-09-23 / pushed_at 2026-09-27；kerpopule/hermes-jev-skills 879 / 84 / 2026-09-18 / 2026-09-28；feitangyuan/onetake 609 / 42 / 2026-09-26；alexgreensh/anidoodle 604 / 51 / 2026-09-22 / 2026-09-28；sno-ai/sno-station 269 / 222 / 2026-09-19；zhuyansen/awesome-claude-video-skills 101 / 11 / 2026-09-27。未写成已验证周涨幅。",
-      "channel": "GitHub samples + Search cluster: agent skills / vertical workflow / trust layer / install decision",
-      "heat": "下午样本从编剧/咨询 PPT 继续扩展到产品上线、连续镜头视频、创意编码、跨代理记忆和视频 skill 安全分级，说明 skill 生态正在从“岗位 SOP”进入“交付链路”。",
-      "signal": "可转译点：小红书 AI 工具内容可以写“我该装哪个 skill”，更可以写“这个 skill 是否能帮我从想法走到可验证结果”。",
-      "discussion": "评论热点可引导到：你会为哪种重复工作装 skill、陌生 skill 是否可信、团队如何判断输出是否可复核、以及垂直 skill 是否会成为新型知识产品。",
+      "metrics": "9/29 yt-dlp exact-video 复核：Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know，2026-09-03，17.95万播放 / 2455赞 / 126评论，过 AI YouTube 主榜门槛。",
+      "channel": "YouTube exact video + Search cluster: agent skills / MCP / RAG / memory / workflow trust",
+      "heat": "AI 讨论从“哪个模型更强”继续转向“agent 怎么组织工具、检索、记忆和技能”。这类解释视频不靠发布会噱头，而靠普通创作者理解成本降低和团队落地需求扩散。",
+      "signal": "可转译点：小红书 AI 内容可以把抽象架构拆成普通人问题：知识放哪里、工具怎么接、记忆能不能复用、失败后如何追责。",
+      "discussion": "评论热点可引导到：MCP 是工具接口还是工作流入口、RAG 和 memory 的边界、skill 是否等于可复用 SOP、团队如何判断 agent 输出可信。",
       "xhsTitles": [
-        "AI skill 的下一波机会，不是更聪明，而是更像一个岗位 SOP",
-        "别再乱装 AI skill 了，先看它有没有可信安装理由"
+        "AI agent 最难懂的四件事：Skills、MCP、RAG、Memory 到底差在哪",
+        "别再只问哪个模型强了，先看你的 AI 有没有记忆和工具边界"
       ],
       "sources": [
         [
-          "GitHub: golive-skill",
-          "https://github.com/mikehasa/golive-skill"
+          "Skills vs MCP vs RAG vs Memory / 17.95万播放 / 2455赞 / 126评论",
+          "https://www.youtube.com/watch?v=X4FVEEegCbk"
         ],
         [
-          "GitHub: hermes-jev-skills",
-          "https://github.com/kerpopule/hermes-jev-skills"
-        ],
-        [
-          "GitHub: onetake",
-          "https://github.com/feitangyuan/onetake"
-        ],
-        [
-          "GitHub: anidoodle",
-          "https://github.com/alexgreensh/anidoodle"
+          "Claude Code Full Course 2026 / 10.45万播放 / 1665赞 / 151评论（watchlist）",
+          "https://www.youtube.com/watch?v=u2QqWkMv3Lg"
         ]
       ]
     },
     {
-      "title": "GPT-6 Astra 工作流实测：AI 内容从“模型强不强”转向“能不能交付”",
+      "title": "Agent skill 从职业 SOP 扩展到模型路由、检索和创意资产",
       "tags": [
         "AI",
-        "Workflow",
-        "Model Trust",
-        "Agentic Work"
+        "Agent Skills",
+        "GitHub Trend",
+        "Developer Tools"
       ],
       "priority": "high",
-      "metrics": "9/11 yt-dlp exact-video 复核：Fireship 2026-09-04 402.77万播放 / 45381赞 / 2800评论；AI Explained 2026-09-04 82.82万播放 / 10519赞 / 1300评论；Chase AI 2026-09-05 40.65万播放 / 4449赞 / 477评论；Nate Herk 2026-09-04 41.67万播放 / 5744赞 / 380评论；Matt Wolfe 2026-09-03 48.82万播放 / 6858赞 / 531评论。",
-      "channel": "YouTube exact videos + Search cluster: GPT-6 Astra workflow / ChatGPT Work / AI agent use cases",
-      "heat": "Astra 仍在 AI 30 天窗口内；9/28 新搜 Claude skills 与 agent workflow 视频多为低互动，因此不新增 AI YouTube 主榜 exact。",
-      "signal": "可转译点：普通人不需要追参数表，而要看一个 AI 工作流能不能解释目标、保留过程、允许检查、失败后继续跑。",
-      "discussion": "评论热点：AGI 说法是否过度、真实工作流测试比演示更有价值、自动交易/自动设计是否可信、普通用户该不该升级。",
+      "metrics": "9/29 GitHub Search API 动态样本：yetone/magpie 2099 stars / 120 forks / created_at 2026-09-23 / pushed_at 2026-09-29；unreallabsai/unreal-agent 2022 / 114 / 2026-09-21 / 2026-09-23；dzhng/jevgrep 1666 / 105 / 2026-09-26 / 2026-09-29；kaankiziltug/logo-design-skill 716 / 32 / 2026-09-26 / 2026-09-29；lemomo-ai/lemo-opuscar 587 / 78 / 2026-09-26 / 2026-09-29；JohnHeibel/ClaudeAnimationBase 577 / 61 / 2026-09-23 / 2026-09-24。未写成已验证周涨幅。",
+      "channel": "GitHub samples + Search cluster: Codex / Claude Code / coding agents / semantic retrieval / creative coding skills",
+      "heat": "9/29 GitHub 新样本从“单个 skill”扩到 agent 模型路由、异步 harness、代码语义检索、logo/design skill、AI 短片风格库和动画 starter kit，说明 agent 工作台正在向“选择模型 + 找上下文 + 交付风格资产”组合演化。",
+      "signal": "可转译点：AI 工具内容可以写“我的 agent 缺的不是模型，而是菜单栏入口、语义检索、风格库和可复用交付模板”。",
+      "discussion": "评论热点可引导到：多模型 agent 是否会变成新菜单栏、coding agent 为什么需要语义 grep、logo/design skill 是否会成为品牌顾问的入门包。",
       "xhsTitles": [
-        "AI 发布会看不懂？先问它能不能把一件事做完",
-        "GPT-6 Astra 最值得写的不是强，而是它让人重新定义交付"
+        "AI agent 的下一波，不是聊天框，是菜单栏和语义搜索",
+        "设计 skill 火起来后，品牌顾问会不会变成 prompt 资产经理？"
       ],
       "sources": [
         [
-          "Fireship / 402.77万播放 / 45381赞 / 2800评论",
-          "https://www.youtube.com/watch?v=FluKUJyeYD8"
+          "GitHub: yetone/magpie",
+          "https://github.com/yetone/magpie"
         ],
         [
-          "AI Explained / 82.82万播放 / 10519赞 / 1300评论",
-          "https://www.youtube.com/watch?v=Spuza-KwTJ4"
+          "GitHub: unreallabsai/unreal-agent",
+          "https://github.com/unreallabsai/unreal-agent"
+        ],
+        [
+          "GitHub: dzhng/jevgrep",
+          "https://github.com/dzhng/jevgrep"
+        ],
+        [
+          "GitHub: kaankiziltug/logo-design-skill",
+          "https://github.com/kaankiziltug/logo-design-skill"
         ]
       ]
     }
   ],
   "tiktokSignals": [
     {
-      "title": "VMAs 2026 Madonna / Sabrina / Charli：舞台高能，UGC 解读待补",
+      "title": "Taylor Swift Patient Zero：粉丝侦探式 MV 彩蛋",
       "tags": [
         "TikTok",
-        "Awards Show",
-        "Performance Aesthetic"
+        "Music Video",
+        "Fan Detective"
       ],
-      "sourceType": "站内搜索聚类 / YouTube exact UGC 低于门槛 / 精确视频链接待补",
-      "heat": "适合先看搜索聚类里的舞台切片、造型二创和粉丝站位；目前没有可放主榜的精确高互动 UGC 链接。",
-      "xhsAngle": "标题：为什么奖项舞台越大，越需要一个普通观众能复述的视觉钩子？",
-      "source": "https://www.tiktok.com/search?q=VMAs%202026%20Madonna%20Sabrina%20Charli"
+      "sourceType": "站内搜索聚类 / YouTube UGC likes below Social threshold / 精确视频链接待补",
+      "heat": "站内适合看 cameo、歌词影射、服装符号和粉丝逐帧解码；YouTube UGC 评论有热度但点赞未达主榜线。",
+      "xhsAngle": "标题：Taylor 的 MV 为什么能让粉丝自愿做逐帧侦探？",
+      "source": "https://www.tiktok.com/search?q=Taylor%20Swift%20Patient%20Zero%20music%20video%20easter%20eggs"
     },
     {
-      "title": "Macklemore / Ed Sheeran tour controversy：粉丝消费伦理与艺人立场",
+      "title": "DWTS Viral Hits Night：综艺把 TikTok 热歌变成身份舞台",
       "tags": [
         "TikTok",
-        "Music Controversy",
-        "Fan Debate"
+        "TV Performance",
+        "Creator Economy"
       ],
-      "sourceType": "站内搜索聚类 / YouTube exact UGC 支撑 / 精确 TikTok 视频链接待补",
-      "heat": "站内搜索可见争议持续被剪成巡演时间线、艺人立场和退票讨论；有 YouTube 过线 UGC 支撑趋势方向，但没有匹配 TikTok 精确视频 URL 时只放搜索页。",
-      "xhsAngle": "标题：当演唱会变成价值观现场，你是在买歌，还是在买艺人的选择？",
-      "source": "https://www.tiktok.com/search?q=Macklemore%20Ed%20Sheeran%20tour%20controversy"
+      "sourceType": "站内搜索聚类 / official exact evidence only / 精确 UGC 视频链接待补",
+      "heat": "YouTube 官方片段互动很高，说明 viral song night 有跨平台注意力；但缺匹配 UGC 精确视频 URL 时只放搜索页。",
+      "xhsAngle": "标题：当综艺开始复刻 TikTok 热歌，谁才是真正的舞台主角？",
+      "source": "https://www.tiktok.com/search?q=DWTS%20Viral%20Hits%20Night%202026"
     },
     {
-      "title": "Barn jacket / heritage prep：普通外套变成秋季身份标签",
+      "title": "J.Lo / Prada peekaboo bra：内衣外穿的成熟权力感",
       "tags": [
         "TikTok",
         "Fashion",
-        "Heritage Prep"
+        "Celebrity Styling"
       ],
-      "sourceType": "站内搜索聚类 / fashion-media evidence / 精确视频链接待补",
-      "heat": "J.Crew 40 周年明星 portrait campaign 把 barn jacket、heritage prep、fall uniform 重新推到视觉前台；当前作为审美趋势 search cluster。",
-      "xhsAngle": "标题：今年秋天的“会生活感”，可能是一件不显眼的 barn jacket。",
-      "source": "https://www.tiktok.com/search?q=barn%20jacket%20fall%20outfit%20jcrew"
+      "sourceType": "站内搜索聚类 / exact UGC pending",
+      "heat": "适合观察 Milan Fashion Week 穿搭二创、Prada 造型解析和 mature glam 叙事；YouTube 未补到过线 UGC。",
+      "xhsAngle": "标题：J.Lo 这套 Prada，不是性感回春，是成熟权力感。",
+      "source": "https://www.tiktok.com/search?q=JLo%20Prada%20peekaboo%20bra%20Milan%20Fashion%20Week"
     },
     {
-      "title": "TikTok 2010s nostalgia songs：旧歌给遗憾配字幕",
+      "title": "Some people call me：一句话身份模板继续扩散",
       "tags": [
         "TikTok",
-        "Music Nostalgia",
-        "Identity Edit"
+        "Platform Meme",
+        "Identity Narrative"
       ],
-      "sourceType": "站内搜索聚类 / 平台榜单证据 / 精确视频链接待补",
-      "heat": "Billboard Canada 写到 Mac Miller Cinderella 登顶 TikTok Canada 夏日榜，The One That Got Away 等旧歌适合关系回忆、影视剪辑和自我叙事；当前只记录搜索页。",
-      "xhsAngle": "标题：为什么大家又开始用十年前的歌，讲今年的遗憾？",
-      "source": "https://www.tiktok.com/search?q=Mac%20Miller%20Cinderella%20nostalgia%20trend"
+      "sourceType": "站内搜索聚类 / YouTube compilation not exact TikTok video",
+      "heat": "YouTube 搜索多为 TikTok mashup/compilation，高播放但赞评和精确来源不足；更适合作为身份叙事模板观察。",
+      "xhsAngle": "标题：为什么大家爱用一句 Some people call me 来重新介绍自己？",
+      "source": "https://www.tiktok.com/search?q=Some%20people%20call%20me%20trend"
     },
     {
-      "title": "Alyssa Grace Bloodstream：打工人到歌手的代入型叙事",
+      "title": "Alyssa Grace Bloodstream：歌词认领型评论区",
       "tags": [
         "TikTok",
         "Singer-songwriter",
         "Confessional Pop"
       ],
-      "sourceType": "站内搜索聚类 / chart-media evidence / 精确视频链接待补",
-      "heat": "Billboard Canada 把 Bloodstream 的传播写成 TikTok 评论区故事外溢；适合观察“歌词一句话如何触发用户把自己的家庭/关系故事写出来”。",
-      "xhsAngle": "标题：一首歌出圈，有时靠的不是副歌，而是评论区每个人都在认领一句歌词。",
+      "sourceType": "站内搜索聚类 / older YouTube reaction outside Social window",
+      "heat": "8 月反应视频过线但已超出 Social 近 15 天窗口；9 月仍适合看歌曲如何被用户用来讲家庭、关系和自我修复故事。",
+      "xhsAngle": "标题：这类 TikTok 歌为什么出圈？因为评论区人人都在补自己的故事。",
       "source": "https://www.tiktok.com/search?q=Alyssa%20Grace%20Bloodstream"
     },
     {
-      "title": "LISA Always Lalisa：粉丝成长线剪辑",
+      "title": "Claude skills / MCP / Memory：AI 工作流开始被普通化解释",
       "tags": [
         "TikTok",
-        "K-pop",
-        "Fan Memory"
+        "AI Workflow",
+        "Agent Skills"
       ],
-      "sourceType": "站内搜索聚类 / 精确视频链接待补",
-      "heat": "Always Lalisa 纪录片预告带出 rookie-to-rockstar 成长线，适合粉丝共创剪辑和评论区记忆接龙；未拿到匹配精确视频 URL，不放账号页。",
-      "xhsAngle": "标题：粉丝最吃 LISA 纪录片哪一点？是看她把成长变成共同记忆。",
-      "source": "https://www.tiktok.com/search?q=Always%20Lalisa%20documentary%20reaction"
+      "sourceType": "站内搜索聚类 / YouTube AI exact evidence",
+      "heat": "YouTube 已有过线架构解释视频；TikTok 可观察短视频如何把 MCP、RAG、memory、skills 翻译成普通人工作流。",
+      "xhsAngle": "标题：AI agent 不是一个模型，而是一套工具、记忆和 SOP。",
+      "source": "https://www.tiktok.com/search?q=Claude%20skills%20MCP%20RAG%20memory%20agent"
     }
   ],
   "githubSkills": [
     {
-      "name": "mikehasa/golive-skill",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "urlLabel": "GitHub: mikehasa/golive-skill",
-      "heat": "GitHub API 9/28 16:38：1025 stars / 75 forks / created_at 2026-09-23 / pushed_at 2026-09-27。",
-      "why": "把 agent-built product 的 hosting、database、domain、email、payments 打包成可审批的上线 skill，说明 skill 正从内容生成走向交付闭环。",
-      "xhsAngle": "选题：AI skill 的下一站，是帮普通人把产品真正上线。"
+      "name": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "urlLabel": "GitHub: yetone/magpie",
+      "heat": "GitHub API 9/29：2099 stars / 120 forks / created_at 2026-09-23 / pushed_at 2026-09-29。",
+      "why": "把 Codex、Claude Code、DeepSeek、Kimi、Gemini CLI 等入口放进菜单栏，指向多模型 agent 统一入口机会。",
+      "xhsAngle": "选题：AI agent 的下一个入口，可能不是网页，而是菜单栏。"
     },
     {
-      "name": "kerpopule/hermes-jev-skills",
-      "url": "https://github.com/kerpopule/hermes-jev-skills",
-      "urlLabel": "GitHub: kerpopule/hermes-jev-skills",
-      "heat": "GitHub API 9/28 16:38：879 stars / 84 forks / created_at 2026-09-18 / pushed_at 2026-09-28。",
-      "why": "把模型路由、记忆、压缩、skill 选择和浏览器/电脑使用写成 Hermes/Claude/Codex 通用层，指向跨代理工作台机会。",
-      "xhsAngle": "选题：以后不是选一个 AI，而是让多个 AI 共用记忆和工作规则。"
+      "name": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "urlLabel": "GitHub: unreallabsai/unreal-agent",
+      "heat": "GitHub API 9/29：2022 stars / 114 forks / created_at 2026-09-21 / pushed_at 2026-09-23。",
+      "why": "Async-first agent harness 说明开发者正在把 agent 当作可排队、可追踪、可并行的生产系统，而不是一次性聊天。",
+      "xhsAngle": "选题：真正能干活的 AI，不应该只会同步回复。"
     },
     {
-      "name": "feitangyuan/onetake",
-      "url": "https://github.com/feitangyuan/onetake",
-      "urlLabel": "GitHub: feitangyuan/onetake",
-      "heat": "GitHub API 9/28 16:38：609 stars / 42 forks / created_at 2026-09-26 / pushed_at 2026-09-26。",
-      "why": "把产品发布片和功能 demo 做成 one continuous camera 的 Claude Agent Skill，说明视频 skill 开始追求可复核的视觉连续性。",
-      "xhsAngle": "选题：AI 做视频不只要炫，还要让每一帧能接上上一帧。"
+      "name": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "urlLabel": "GitHub: dzhng/jevgrep",
+      "heat": "GitHub API 9/29：1666 stars / 105 forks / created_at 2026-09-26 / pushed_at 2026-09-29。",
+      "why": "用自然语言找代码上下文，定位 coding agent 的刚需：先找到相关文件，才谈得上可靠修改。",
+      "xhsAngle": "选题：AI 写代码最怕乱改，语义搜索可能是第一层保险。"
     },
     {
-      "name": "alexgreensh/anidoodle",
-      "url": "https://github.com/alexgreensh/anidoodle",
-      "urlLabel": "GitHub: alexgreensh/anidoodle",
-      "heat": "GitHub API 9/28 16:38：604 stars / 51 forks / created_at 2026-09-22 / pushed_at 2026-09-28。",
-      "why": "把插画、循环动画、互动 web art、贴纸和 scored films 写成代码化创意 skill，适合观察设计师如何把风格资产产品化。",
-      "xhsAngle": "选题：AI 设计 skill 最值钱的不是出图，是把风格变成可复用资产。"
+      "name": "kaankiziltug/logo-design-skill",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "urlLabel": "GitHub: kaankiziltug/logo-design-skill",
+      "heat": "GitHub API 9/29：716 stars / 32 forks / created_at 2026-09-26 / pushed_at 2026-09-29。",
+      "why": "把 logo 原则、SVG 工艺、测试工具和参考库打包成 agent skill，适合观察设计服务如何被 SOP 化。",
+      "xhsAngle": "选题：AI logo skill 火了，设计师真正要卖的是判断标准。"
     },
     {
-      "name": "sno-ai/sno-station",
-      "url": "https://github.com/sno-ai/sno-station",
-      "urlLabel": "GitHub: sno-ai/sno-station",
-      "heat": "GitHub API 9/28 16:38：269 stars / 222 forks / created_at 2026-09-19 / pushed_at 2026-09-26。",
-      "why": "本地优先的 Claude Code + Codex 协作站，主打共享加密记忆、agent-to-agent messaging 和 squad skills。",
-      "xhsAngle": "选题：AI 工作台的核心可能不是聊天窗口，而是团队记忆。"
+      "name": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "urlLabel": "GitHub: lemomo-ai/lemo-opuscar",
+      "heat": "GitHub API 9/29：587 stars / 78 forks / created_at 2026-09-26 / pushed_at 2026-09-29。",
+      "why": "43 种影片风格、风格提示词和纯代码样片，说明 AI 视频 skill 正从单条效果演示转向风格库。",
+      "xhsAngle": "选题：AI 视频的下一步，是把“风格”做成可复用资产。"
     },
     {
-      "name": "zhuyansen/awesome-claude-video-skills",
-      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
-      "urlLabel": "GitHub: zhuyansen/awesome-claude-video-skills",
-      "heat": "GitHub API 9/28 16:38：101 stars / 11 forks / created_at 2026-09-27 / pushed_at 2026-09-27。",
-      "why": "整理 Claude Code/Codex 视频制作 skill，并加入 security-graded 分类，说明视频 skill 正在从样例清单走向安全分级。",
-      "xhsAngle": "选题：装 AI 视频 skill 前，先看它有没有安全分级。"
+      "name": "JohnHeibel/ClaudeAnimationBase",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "urlLabel": "GitHub: JohnHeibel/ClaudeAnimationBase",
+      "heat": "GitHub API 9/29：577 stars / 61 forks / created_at 2026-09-23 / pushed_at 2026-09-24。",
+      "why": "给 Claude 动画提供角色、情绪库和模型指南，适合观察创意 agent 如何从 prompt 走向可复用角色系统。",
+      "xhsAngle": "选题：AI 动画要稳定，先得有角色资产和情绪字典。"
     }
   ],
   "sparkPool": [
     {
-      "title": "巡演争议：谁在决定舞台边界",
-      "format": "时间线图文：媒体事实 -> 过线 UGC 评论 -> 艺人/场馆/promoter 三方权力 -> 粉丝投票",
-      "hook": "不要只写谁对谁错，写大型演唱会为什么不是艺人一个人说了算。"
+      "id": "2026-09-29-spark-1",
+      "title": "Patient Zero 把粉丝变成逐帧侦探",
+      "xhsTitle": "Taylor 的 MV 为什么总能让粉丝自愿做侦探？",
+      "hook": "你看 MV 是听歌，还是会暂停找彩蛋？",
+      "score": 86,
+      "from": "Taylor Swift / Patient Zero / MV easter eggs"
     },
     {
-      "title": "Barn jacket：普通外套如何被品牌拍成生活方式",
-      "format": "穿搭拆解：单品历史 -> 明星群像 -> 普通人可复刻场景",
-      "hook": "不要写贵，写“像一个周末有安排的人”。"
+      "id": "2026-09-29-spark-2",
+      "title": "DWTS 把 TikTok 热歌夜做成身份秀",
+      "xhsTitle": "综艺开始复刻 TikTok 热歌，真正卖的是谁的身份？",
+      "hook": "你更在意舞技，还是选歌和人设是不是对上？",
+      "score": 84,
+      "from": "DWTS Viral Hits Night / TikTok songs / TV performance"
     },
     {
-      "title": "旧歌复兴：每代人都需要自己的遗憾 BGM",
-      "format": "歌单+评论区互动：3 首旧歌 -> 3 种遗憾场景 -> 让用户填空",
-      "hook": "旧歌不是怀旧，是帮你把没说出口的话补上字幕。"
+      "id": "2026-09-29-spark-3",
+      "title": "Prada peekaboo bra 是成熟权力穿搭",
+      "xhsTitle": "J.Lo 这套 Prada，不是性感回春，是成熟权力感",
+      "hook": "你觉得内衣外穿是造型，还是一种姿态？",
+      "score": 80,
+      "from": "J.Lo / Prada / Milan Fashion Week"
     },
     {
-      "title": "Alyssa Grace：TikTok 歌手的打工人叙事",
-      "format": "人物小传：服务员身份 -> 评论区共情 -> chart moment",
-      "hook": "平台让她出圈，真正留住人的却是一句能代入的歌词。"
+      "id": "2026-09-29-spark-4",
+      "title": "Alyssa Grace 的评论区在认领歌词",
+      "xhsTitle": "一首歌出圈，有时靠的是评论区人人都在补自己的故事",
+      "hook": "你有没有被一句歌词击中过自己的关系经历？",
+      "score": 82,
+      "from": "Alyssa Grace / Bloodstream / TikTok music"
     },
     {
-      "title": "AI skill 岗位化：把专业流程做成可安装 SOP",
-      "format": "工具趋势：5 个 GitHub skill 样本 -> 对应岗位 -> 可复用交付物 -> 安装前检查",
-      "hook": "AI skill 的价值不是炫技，是把一个人会做事的方法拆给机器调用。"
+      "id": "2026-09-29-spark-5",
+      "title": "Some people call me 是一句话人设模板",
+      "xhsTitle": "为什么大家爱用一句 Some people call me 重新介绍自己？",
+      "hook": "如果用一句话介绍你，你会选哪个标签？",
+      "score": 78,
+      "from": "Some people call me / identity meme / TikTok template"
+    },
+    {
+      "id": "2026-09-29-spark-6",
+      "title": "Agent 架构内容开始讲清分层",
+      "xhsTitle": "AI agent 最难懂的四件事：Skills、MCP、RAG、Memory 差在哪",
+      "hook": "你现在最困惑的是工具连接、知识库，还是记忆？",
+      "score": 93,
+      "from": "Skills / MCP / RAG / Memory"
+    },
+    {
+      "id": "2026-09-29-spark-7",
+      "title": "GitHub 新样本指向 agent 工作台",
+      "xhsTitle": "AI agent 的下一波，不是聊天框，是菜单栏和语义搜索",
+      "hook": "你希望 AI 帮你先找上下文，还是直接动手改？",
+      "score": 91,
+      "from": "magpie / unreal-agent / jevgrep"
     }
   ],
   "valueFlows": [
     {
-      "from": "Tour Controversy",
-      "to": "Fan Consumption Ethics",
-      "example": "Macklemore / Ed Sheeran",
-      "xhsUse": "从争议新闻转成演唱会、粉丝付费和艺人边界讨论。"
+      "lane": "AI tools",
+      "from": "Skills vs MCP vs RAG vs Memory exact video",
+      "to": "普通人工作流解释、团队知识管理、agent 信任框架",
+      "action": "优先做解释型卡片，不做工具堆砌榜单。"
     },
     {
-      "from": "Heritage Fashion Campaign",
-      "to": "Ordinary Identity Uniform",
-      "example": "J.Crew barn jacket",
-      "xhsUse": "从品牌大片转成普通人秋季身份感。"
+      "lane": "Pop fandom",
+      "from": "Patient Zero MV search cluster",
+      "to": "粉丝参与感、彩蛋劳动、音乐视频视觉叙事",
+      "action": "标注 search cluster，避免写成已验证爆款单条。"
     },
     {
-      "from": "Old Song Revival",
-      "to": "Comment-section Confession",
-      "example": "The One That Got Away / Cinderella",
-      "xhsUse": "用旧歌触发用户讲自己的关系故事。"
-    },
-    {
-      "from": "TikTok-to-Chart Artist",
-      "to": "Creator Economy Case",
-      "example": "Alyssa Grace Bloodstream",
-      "xhsUse": "写素人创作者如何把真实处境变成可传播作品。"
-    },
-    {
-      "from": "Vertical Skill Repo",
-      "to": "Workflow Product Opportunity",
-      "example": "consulting-pptx-skill / zh-tech-writing",
-      "xhsUse": "从 repo 热度转成岗位 SOP、知识产品和工具信任选题。"
+      "lane": "Fashion",
+      "from": "J.Lo / Prada peekaboo styling",
+      "to": "成熟权力感、内衣外穿、时装周可迁移搭配",
+      "action": "用审美拆解替代未经验证的爆款判断。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "巡演争议的粉丝消费伦理",
-      "why": "已有过线 UGC exact 和稳定媒体事实，适合做高互动讨论型内容；要避免煽动性政治表述，把重点放在文化工业和粉丝选择。",
-      "xhsTitle": "当演唱会变成价值观现场，你还会只为歌买票吗？",
-      "commentsPrompt": "你会因为艺人的公开选择退票，还是把作品和立场分开？"
+      "title": "把 AI agent 分层讲成普通人的工作流选择题",
+      "why": "Skills/MCP/RAG/Memory 已有过线 YouTube exact evidence，且 GitHub 新仓正在把这些能力产品化。",
+      "xhsTitle": "AI agent 不是一个模型，而是一套工具、记忆和 SOP",
+      "format": "5 张卡片：问题场景 -> Skills/MCP/RAG/Memory 区别 -> 选择表 -> 常见误区 -> 评论投票",
+      "sourceType": "AI YouTube exact + GitHub samples"
     },
     {
-      "title": "Barn jacket 的生活方式翻译",
-      "why": "品牌媒体热簇清晰，国内可转成秋季穿搭和“普通但有故事”的身份感。",
-      "xhsTitle": "今年秋天想穿得像有故事的人，可以先从 barn jacket 开始",
-      "commentsPrompt": "你心里最有秋天感的一件外套是什么？"
+      "title": "把 Patient Zero 拆成 fandom 参与机制",
+      "why": "UGC 赞数不足不能进主榜，但彩蛋、cameo、歌词影射适合做 search cluster 观察。",
+      "xhsTitle": "Taylor 的 MV 为什么总能让粉丝自愿做侦探？",
+      "format": "3 段式：彩蛋不是彩蛋 -> 粉丝劳动如何获得成就感 -> 品牌如何借鉴",
+      "sourceType": "Music-video search cluster"
     },
     {
-      "title": "AI skill 职业 SOP 化",
-      "why": "GitHub 新样本覆盖编剧、AI 视频、PPT、中文文档和交接，适合做创业号和效率号的趋势判断。",
-      "xhsTitle": "AI skill 的下一波机会，是把一个岗位的做事方法打包",
-      "commentsPrompt": "你最想把哪类工作流程做成自己的 AI skill？"
+      "title": "把 J.Lo / Prada 写成 mature glam 风格语言",
+      "why": "时装周视觉强但 YouTube exact 暂缺；适合小红书穿搭审美号先做低风险风格拆解。",
+      "xhsTitle": "J.Lo 这套 Prada，不是性感回春，是成熟权力感",
+      "format": "穿搭拆解：露肤位置 -> 材质冲突 -> 年龄叙事 -> 普通人替代单品",
+      "sourceType": "Fashion search cluster"
     }
   ],
   "weeklySop": [
     {
-      "title": "动态发现先行",
-      "detail": "9/28 先扫巡演争议、J.Crew barn jacket、TikTok 旧歌怀旧、Alyssa Grace、LISA 纪录片和 GitHub skill 新样本，再反推二级搜索词。"
+      "title": "动态实体先行",
+      "detail": "9/29 先扫 Patient Zero、DWTS Viral Hits Night、J.Lo / Prada、Alyssa Grace、Some people call me、Claude skills/MCP/memory 与 GitHub 新仓，再反推二级搜索词。"
     },
     {
-      "title": "主榜只收 exact 证据",
-      "detail": "Macklemore / Ed Sheeran 争议有多条近 15 天过线 UGC exact，因此进入 Social 主榜；J.Crew、LISA、Alyssa Grace 和旧歌复兴缺过线 UGC exact，只进 Summary/watchlist。"
+      "title": "主榜继续只收过线 exact",
+      "detail": "Social 主榜只保留仍在窗口内且过线的 Macklemore / Ed Sheeran UGC；Taylor、DWTS、Practical Magic、J.Lo 均因来源类型或赞评不足降级。"
     },
     {
-      "title": "窗口滚动保守",
-      "detail": "Social 窗口推进到 2026.09.13 - 2026.09.28；ADÉLA 和 South Park 已超窗，不继续占主榜。"
+      "title": "AI exact 与 GitHub 样本分开写",
+      "detail": "AI 主榜用 9/03 过线视频支撑；GitHub feed 写 9/29 API stars/forks/created_at/pushed_at，不伪装周涨幅。"
     },
     {
-      "title": "GitHub 只写 API 样本",
-      "detail": "9/28 GitHub feed 写 stars、forks、created_at、pushed_at 和产品方向；没有历史对照时不写周涨幅。"
+      "title": "TikTok 没有精确 URL 只放搜索聚类",
+      "detail": "所有 TikTok 条目标注 sourceType；没有匹配精确视频时只链接搜索页，不跳到不匹配账号页。"
     }
   ],
   "contentFormats": [
-    "格式：巡演争议时间线：事实源、过线 UGC、三方权力结构、粉丝消费伦理、评论投票。",
-    "格式：search cluster 预警：今天看到什么、为什么不能进主榜、还差什么证据、如果升级该怎么写。",
-    "格式：AI skill 商品化：GitHub 新仓、对应岗位、复用价值、安装风险、输出证据。",
-    "格式：音乐人格审计：新歌传播、评论分歧、艺人人格、视觉母题、互动提问。",
-    "格式：GitHub 产品信号：新仓、stars/forks、解决的工作流、不是涨幅榜、产品机会。"
+    {
+      "title": "四象限解释卡",
+      "useFor": "Skills / MCP / RAG / Memory",
+      "structure": "一句话区别 -> 适用场景 -> 错用后果 -> 评论区投票"
+    },
+    {
+      "title": "粉丝侦探拆解",
+      "useFor": "Patient Zero / MV 彩蛋",
+      "structure": "视觉符号 -> cameo 讨论 -> 粉丝劳动 -> 品牌可借鉴点"
+    },
+    {
+      "title": "风格语言替代清单",
+      "useFor": "J.Lo / Prada / mature glam",
+      "structure": "明星造型 -> 普通人替代 -> 场景边界 -> 你会不会穿"
+    }
   ],
   "summarySparks": [
     {
-      "title": "Barn jacket 从单品变成普通人身份制服",
-      "xhsTitle": "为什么今年秋天的高级感，突然变成一件不显眼的 barn jacket？",
-      "commentHook": "你会被这种“看起来很会生活”的穿搭说服吗？",
-      "heatScore": 82,
-      "whyNow": "J.Crew 40 周年明星 portrait campaign 和媒体报道给 heritage prep 新视觉抓手，但暂缺过线 UGC exact。",
-      "xhsFit": "中高，适合秋季穿搭、品牌叙事和普通人身份感。",
+      "title": "Patient Zero 把粉丝变成逐帧侦探",
+      "xhsTitle": "Taylor 的 MV 为什么总能让粉丝自愿做侦探？",
+      "commentHook": "你看 MV 是听歌，还是会暂停找彩蛋？",
+      "heatScore": 86,
+      "whyNow": "9/29 YouTube exact 显示 Patient Zero 反应/彩蛋视频有高播放和评论，但 UGC 赞数未过主榜线；适合作为 search cluster 摘录。",
+      "xhsFit": "中高，适合粉丝文化、MV 视觉叙事和 fandom 参与感选题。",
       "related": [
-        "J.Crew",
-        "barn jacket",
-        "heritage prep"
+        "Taylor Swift",
+        "Patient Zero",
+        "MV easter eggs"
       ]
     },
     {
-      "title": "TikTok 旧歌复兴是在卖遗憾模板",
-      "xhsTitle": "今年最火的不是新歌，是大家开始用旧歌给遗憾配字幕",
-      "commentHook": "哪首旧歌一响，你会立刻想起一个人？",
+      "title": "DWTS 把 TikTok 热歌夜做成身份秀",
+      "xhsTitle": "综艺开始复刻 TikTok 热歌，真正卖的是谁的身份？",
+      "commentHook": "你更在意舞技，还是选歌和人设是不是对上？",
       "heatScore": 84,
-      "whyNow": "Billboard Canada 和 TikTok 夏日榜指向 Mac Miller Cinderella 与 2010s nostalgia songs，适合做关系叙事和歌单互动。",
-      "xhsFit": "高，适合评论区互动、歌单、关系叙事和影视剪辑模板。",
+      "whyNow": "9/23 DWTS Viral Hits Night 官方片段互动高，Guillermo Rodriguez 85.90万播放 / 10121赞 / 878评论，但缺 UGC 主榜证据。",
+      "xhsFit": "中高，适合综艺、平台文化、creator economy 与表演身份选题。",
       "related": [
-        "Mac Miller Cinderella",
-        "The One That Got Away",
-        "nostalgia songs"
+        "DWTS Viral Hits Night",
+        "TikTok songs",
+        "TV performance"
       ]
     },
     {
-      "title": "LISA 纪录片把粉丝记忆做成官方叙事",
-      "xhsTitle": "LISA 纪录片最聪明的地方，是让粉丝一起回忆她怎么长大",
-      "commentHook": "偶像纪录片最打动你的是幕后细节，还是你陪她走过的时间？",
-      "heatScore": 79,
-      "whyNow": "官方预告和粉丝讨论升温；YouTube UGC reaction 评论不足，所以只作为 Summary/search cluster。",
-      "xhsFit": "高，适合写粉丝经济、成长叙事和 solo era 品牌化。",
+      "title": "Prada peekaboo bra 是成熟权力穿搭",
+      "xhsTitle": "J.Lo 这套 Prada，不是性感回春，是成熟权力感",
+      "commentHook": "你觉得内衣外穿是造型，还是一种姿态？",
+      "heatScore": 80,
+      "whyNow": "J.Lo / Prada / Milan Fashion Week 形成 fashion search cluster；YouTube 搜索噪声高，暂缺过线 UGC exact。",
+      "xhsFit": "高，适合穿搭审美、成熟风格和明星红毯语言拆解。",
       "related": [
-        "Always Lalisa",
-        "K-pop documentary",
-        "fan memory"
+        "J.Lo",
+        "Prada",
+        "Milan Fashion Week"
       ]
     },
     {
-      "title": "Alyssa Grace 把 TikTok 歌手叙事推向打工人共情",
-      "xhsTitle": "一首歌从 TikTok 到 Hot 100，靠的可能是一句人人能代入的歌词",
-      "commentHook": "你更容易被歌手的作品打动，还是被她的现实处境打动？",
-      "heatScore": 78,
-      "whyNow": "Billboard Canada Chartbreaker 给出 Cheesecake Factory 到 Hot 100 的清晰叙事，但 YouTube reaction 互动不足。",
-      "xhsFit": "中高，适合写素人歌手、平台反馈和歌词共情。",
+      "title": "Alyssa Grace 的评论区在认领歌词",
+      "xhsTitle": "一首歌出圈，有时靠的是评论区人人都在补自己的故事",
+      "commentHook": "你有没有被一句歌词击中过自己的关系经历？",
+      "heatScore": 82,
+      "whyNow": "Bloodstream 旧反应样本过线但超窗，TikTok-to-chart 叙事仍适合作为音乐评论和普通人情绪模板。",
+      "xhsFit": "高，适合音乐、情绪文本、普通人故事和创作者成长线。",
       "related": [
         "Alyssa Grace",
         "Bloodstream",
-        "TikTok-to-chart"
+        "TikTok music"
       ]
     },
     {
-      "title": "AI skill 从工程方法扩散到职业 SOP",
-      "xhsTitle": "AI skill 的下一波机会，不是更聪明，而是更像一个岗位 SOP",
-      "commentHook": "你最想把哪一类重复工作打包成 AI skill？",
-      "heatScore": 90,
-      "whyNow": "9/28 GitHub Search API 出现编剧、AI 视频、咨询 PPT、中文技术写作和项目交接等垂直 skill 样本。",
-      "xhsFit": "高，适合 AI 工具创业、个人工作流和团队知识产品。",
+      "title": "Some people call me 是一句话人设模板",
+      "xhsTitle": "为什么大家爱用一句 Some people call me 重新介绍自己？",
+      "commentHook": "如果用一句话介绍你，你会选哪个标签？",
+      "heatScore": 78,
+      "whyNow": "YouTube 返回多条 TikTok mashup 高播放结果，但缺可验证精确 TikTok 视频与足够赞评；作为身份叙事 search cluster。",
+      "xhsFit": "中高，适合平台梗、身份标签、生活方式叙事模板。",
       "related": [
-        "screenwriting-skills",
-        "reelbench-skills",
-        "consulting-pptx-skill"
+        "Some people call me",
+        "identity meme",
+        "TikTok template"
       ]
     },
     {
-      "title": "AI 教程没爆，可信安装反而更值得写",
-      "xhsTitle": "普通人装 AI skill 前，最该看的不是教程，是风险和复用价值",
-      "commentHook": "你会安装陌生人写的 AI skill 吗？你最担心什么？",
-      "heatScore": 86,
-      "whyNow": "9/28 Claude skills 新视频互动不足，说明大众爆点暂不在教程本身；GitHub skill 生态更适合写 trust layer。",
-      "xhsFit": "高，适合工具号、效率号和创业 idea。",
+      "title": "Agent 架构内容开始讲清分层",
+      "xhsTitle": "AI agent 最难懂的四件事：Skills、MCP、RAG、Memory 差在哪",
+      "commentHook": "你现在最困惑的是工具连接、知识库，还是记忆？",
+      "heatScore": 93,
+      "whyNow": "9/29 yt-dlp exact 显示 Skills vs MCP vs RAG vs Memory 过 AI 主榜门槛，支撑普通人工作流解释选题。",
+      "xhsFit": "高，适合 AI 工具、知识管理、团队协作与普通人工作流。",
       "related": [
-        "Claude skills",
-        "workflow trust",
-        "install decision"
+        "Skills",
+        "MCP",
+        "RAG",
+        "Memory"
       ]
     },
     {
-      "title": "AI skill 从岗位 SOP 走向交付链路",
-      "xhsTitle": "AI skill 的下一波机会，是把想法一路推到上线",
-      "commentHook": "你更想要会写内容的 AI，还是能帮你把东西发布出去的 AI？",
-      "heatScore": 92,
-      "whyNow": "9/28 下午 GitHub API 出现 golive-skill、onetake、anidoodle、hermes-jev-skills 等新高星样本，方向从写作/文档扩展到上线、视频和跨代理记忆。",
-      "xhsFit": "高，适合 AI 工具、创业 idea、个人工作流和产品化知识内容。",
+      "title": "GitHub 新样本指向 agent 工作台",
+      "xhsTitle": "AI agent 的下一波，不是聊天框，是菜单栏和语义搜索",
+      "commentHook": "你希望 AI 帮你先找上下文，还是直接动手改？",
+      "heatScore": 91,
+      "whyNow": "9/29 GitHub API 显示 magpie、unreal-agent、jevgrep 等新仓快速获星，方向集中在多模型入口、异步 agent 和语义检索。",
+      "xhsFit": "高，适合开发者工具、AI 产品机会、创业 idea 和技能资产化。",
       "related": [
-        "golive-skill",
-        "onetake",
-        "hermes-jev-skills"
+        "magpie",
+        "unreal-agent",
+        "jevgrep"
       ]
     }
   ],
@@ -493,12 +526,12 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-28-1638",
-    "contentWindow": "内容研究窗口：2026.09.13 - 2026.09.28 / 部署包生成：2026-09-28 16:38 CST",
-    "researchedThrough": "2026-09-28",
-    "packageGeneratedAt": "2026-09-28 16:38 CST",
-    "summary": "9/28 同日二次巡检继续动态实体优先：复核 VMAs 2026 Madonna/Sabrina/Charli 搜索簇、Macklemore/Ed Sheeran 后续新闻视频、Claude/agent skill GitHub 新仓样本。VMAs 当天 reaction 仅 211 播放 / 52 赞 / 9 评论，官方 MV/现场不进主榜；Macklemore 后续 NBC/AP 新闻视频播放和点赞不足，不替代已过线 UGC 主榜。GitHub skill feed 更新为 9/28 下午可见的 agent skill 新仓样本，重点转向上线部署、连续镜头视频、创意编码、跨代理记忆和视频 skill 安全分级。",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/28 16:38 二次巡检新增发现：VMAs 2026 Madonna/Sabrina/Charli 现场讨论仍处低互动 UGC 阶段；Macklemore/Ed Sheeran 后续主要是新闻低赞样本；GitHub Search API 显示 mikehasa/golive-skill、kerpopule/hermes-jev-skills、feitangyuan/onetake、alexgreensh/anidoodle、sno-ai/sno-station、zhuyansen/awesome-claude-video-skills 等新 skill/agent workflow 仓库快速获得 stars。"
+    "editionId": "2026-09-29-2220",
+    "contentWindow": "内容研究窗口：2026.09.14 - 2026.09.29 / 部署包生成：2026-09-29 22:20 CST",
+    "researchedThrough": "2026-09-29",
+    "packageGeneratedAt": "2026-09-29 22:20 CST",
+    "summary": "9/29 继续动态实体优先：先从 Taylor Swift Patient Zero、DWTS Viral Hits Night、J.Lo / Prada peekaboo bra、Practical Magic 2、Alyssa Grace Bloodstream、Some people call me、Claude skills / agent workflow 与 GitHub 新仓反推搜索词，再复核 YouTube 精确互动。Taylor / DWTS / Practical Magic / J.Lo 等 pop culture 候选要么偏官方/媒体源，要么 UGC 赞评未过线，因此不新增 Social 主榜；AI 主榜新增 Skills vs MCP vs RAG vs Memory 过线 exact evidence；GitHub Skill feed 更新为 magpie、unreal-agent、jevgrep、logo-design-skill、lemo-opuscar、ClaudeAnimationBase 等 9/29 API 新样本。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/29 发现 Patient Zero MV 彩蛋/名人 cameo、DWTS Viral Hits Night、Prada peekaboo styling、Alyssa Grace / Bloodstream 评论区叙事、Some people call me 平台梗、Claude skills / MCP / RAG / memory 分工、multi-agent menu bar 与 coding-agent semantic retrieval 等热簇。YouTube exact 复核显示 pop culture 新候选缺近 15 天过线 UGC 主榜证据；AI agent 架构解释视频过 AI 主榜门槛。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
