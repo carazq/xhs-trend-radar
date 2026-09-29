@@ -526,10 +526,10 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-09-29-2220",
-    "contentWindow": "内容研究窗口：2026.09.14 - 2026.09.29 / 部署包生成：2026-09-29 22:20 CST",
+    "editionId": "2026-09-29-2217",
+    "contentWindow": "内容研究窗口：2026.09.14 - 2026.09.29 / 部署包生成：2026-09-29 22:17 CST",
     "researchedThrough": "2026-09-29",
-    "packageGeneratedAt": "2026-09-29 22:20 CST",
+    "packageGeneratedAt": "2026-09-29 22:17 CST",
     "summary": "9/29 继续动态实体优先：先从 Taylor Swift Patient Zero、DWTS Viral Hits Night、J.Lo / Prada peekaboo bra、Practical Magic 2、Alyssa Grace Bloodstream、Some people call me、Claude skills / agent workflow 与 GitHub 新仓反推搜索词，再复核 YouTube 精确互动。Taylor / DWTS / Practical Magic / J.Lo 等 pop culture 候选要么偏官方/媒体源，要么 UGC 赞评未过线，因此不新增 Social 主榜；AI 主榜新增 Skills vs MCP vs RAG vs Memory 过线 exact evidence；GitHub Skill feed 更新为 magpie、unreal-agent、jevgrep、logo-design-skill、lemo-opuscar、ClaudeAnimationBase 等 9/29 API 新样本。",
     "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。9/29 发现 Patient Zero MV 彩蛋/名人 cameo、DWTS Viral Hits Night、Prada peekaboo styling、Alyssa Grace / Bloodstream 评论区叙事、Some people call me 平台梗、Claude skills / MCP / RAG / memory 分工、multi-agent menu bar 与 coding-agent semantic retrieval 等热簇。YouTube exact 复核显示 pop culture 新候选缺近 15 天过线 UGC 主榜证据；AI agent 架构解释视频过 AI 主榜门槛。"
   },
