@@ -1,7 +1,7 @@
 window.RADAR_DATA = {
   "trends": [
     {
-      "title": "Taylor Patient Zero：从彩蛋劳动转向心理/关系解读",
+      "title": "Taylor Patient Zero：彩蛋劳动继续转向心理/关系解读",
       "tags": [
         "Pop Culture",
         "Music Reaction",
@@ -9,11 +9,11 @@ window.RADAR_DATA = {
         "Music Video"
       ],
       "priority": "high",
-      "metrics": "10/2 yt-dlp exact-video 复核：THE HIDDEN EASTER EGGS!! | Rapper Reacts to Taylor Swift - Patient Zero，2026-09-30，8.94万播放 / 4889赞 / 443评论；Therapist Reacts To: Patient Zero MV，2026-09-29，7.52万播放 / 2054赞 / 155评论，均过 Social 主榜门槛。",
-      "channel": "YouTube exact videos + Search cluster: Taylor Swift Patient Zero reaction / therapist reaction / easter eggs / fan analysis",
-      "heat": "Patient Zero 的二次传播从逐帧找 cameo，延伸到 red flags、关系叙事、成熟粉丝是否还愿意投入解谜劳动。治疗师视角过线说明观众想要的不只是彩蛋答案，而是把歌词和 MV 翻译成亲密关系判断。",
+      "metrics": "10/7 主榜沿用仍在窗口内的已复核 exact evidence：THE HIDDEN EASTER EGGS!! | Rapper Reacts to Taylor Swift - Patient Zero，2026-09-30，8.94万播放 / 4889赞 / 443评论；Therapist Reacts To: Patient Zero MV，2026-09-29，7.52万播放 / 2054赞 / 155评论，均过 Social 主榜门槛。",
+      "channel": "YouTube exact videos + Search cluster: Taylor Swift Patient Zero reaction / therapist reaction / easter eggs / fan analysis / SNL week discourse",
+      "heat": "Patient Zero 的二次传播还在从逐帧找 cameo，延伸到 red flags、关系叙事和成熟粉丝是否还愿意投入解谜劳动。10/7 新增搜索显示 Taylor 同周 SNL/era 讨论继续外溢，但今日无法精确复核新视频赞评，因此只用已过线 UGC 作主证据。",
       "signal": "可转译点：小红书可以写成“为什么一支 MV 会让粉丝同时做侦探、心理咨询师和品牌观察员”。",
-      "why": "适合小红书：明星叙事、粉丝文化、MV 视觉符号和情绪关系解读都能展开；证据使用 UGC reaction，不直接把官方 MV 当主榜证据。",
+      "why": "适合小红书：明星叙事、粉丝文化、MV 视觉符号和情绪关系解读都能展开；证据使用 UGC reaction，不直接把官方 MV 或 SNL 官方片段当主榜证据。",
       "discussion": "评论热点可引导到：你看 MV 是找彩蛋还是看关系信号；治疗师解读流行歌会不会过度解读；成熟粉丝对谜语式营销是否疲劳。",
       "ideas": [
         "标题：Taylor 的新 MV，为什么让粉丝一边找彩蛋一边看 red flag？",
@@ -40,9 +40,9 @@ window.RADAR_DATA = {
         "Music Industry"
       ],
       "priority": "high",
-      "metrics": "10/2 yt-dlp exact-video 复核：Taylor Swift Has a Bigger Problem Than Bad Reviews，2026-09-29，92.53万播放 / 24158赞 / 3700评论，过 Social 主榜门槛。",
+      "metrics": "10/7 主榜沿用仍在窗口内的已复核 exact evidence：Taylor Swift Has a Bigger Problem Than Bad Reviews，2026-09-29，92.53万播放 / 24158赞 / 3700评论，过 Social 主榜门槛。",
       "channel": "YouTube exact video + Search cluster: Taylor Swift bad reviews / The Life of a Showgirl commentary / fan reaction / pop star feedback loop",
-      "heat": "围绕 Taylor 新 era 的讨论从单曲好不好听，升级为超级明星如何接收评价、粉丝圈如何过滤批评、公众什么时候开始质疑一个品牌叙事是否失真。",
+      "heat": "Taylor 新 era 的讨论仍从单曲好不好听，升级为超级明星如何接收评价、粉丝圈如何过滤批评、公众什么时候开始质疑一个品牌叙事是否失真。",
       "signal": "可转译点：小红书可以把它写成“当一个人太成功，真实反馈会不会越来越难到达她”。",
       "why": "适合小红书：不仅是明星八卦，更能转译到个人品牌、饭圈反馈、作品评价与创作者迭代。",
       "discussion": "评论热点可引导到：粉丝保护和真实反馈的边界；超级明星是否需要负面评价；你会不会因为身份滤镜原谅作品短板。",
@@ -57,67 +57,43 @@ window.RADAR_DATA = {
           "https://www.youtube.com/watch?v=OLzQp91hazU"
         ]
       ]
-    },
-    {
-      "title": "no na - star：新团出圈靠舞蹈、镜头和 reaction 二次传播",
-      "tags": [
-        "Pop Culture",
-        "Music Reaction",
-        "Dance Commentary",
-        "K-pop Adjacent"
-      ],
-      "priority": "high",
-      "metrics": "10/2 yt-dlp exact-video 复核：COUPLE REACTS TO no na - star，2026-09-18，16.98万播放 / 7425赞 / 436评论；10/2 新搜到 9/28、9/29、10/1 reaction 仍未三项达标，因此主榜继续只使用已过线 UGC exact。",
-      "channel": "YouTube exact video + Search cluster: no na star music video reaction / choreography reaction / Indonesian pop visual identity",
-      "heat": "no na 的讨论不只停在歌曲本身，而是成员气场、编舞设计、镜头节奏和印尼文化符号如何被海外 reaction 快速读懂。",
-      "signal": "可转译点：小红书可以把它写成“新组合第一波破圈，先被记住的往往是视觉身份和反应视频里的尖叫点”。",
-      "why": "适合小红书：音乐反应、舞蹈审美、idol 视觉身份、MV 镜头语言都能展开；主榜证据来自 UGC reaction。",
-      "discussion": "评论热点可引导到：第一次看新舞台最先记住谁、编舞还是镜头；本土文化符号进入国际 pop 时是加分还是理解门槛。",
-      "ideas": [
-        "标题：no na 这支 MV 为什么让海外 reaction 先尖叫？",
-        "结构：过线 UGC -> 编舞记忆点 -> 镜头/造型如何制造第一印象 -> 新人出圈路径",
-        "评论引导：看新舞台，你最先被歌、舞、脸还是镜头抓住？"
-      ],
-      "sources": [
-        [
-          "Kess and Han Reacts / 16.98万播放 / 7425赞 / 436评论",
-          "https://www.youtube.com/watch?v=JMlPi_Qblzs"
-        ],
-        [
-          "Official MV / 官方源不用作 Social 主榜证据",
-          "https://www.youtube.com/watch?v=XAl6rZepmDg"
-        ]
-      ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "KPop Demon Hunters Halloween / cosplay：搜索强，但主榜证据结构不合格",
-      "reason": "10/2 搜索返回的强样本多为 2025 或 2026 窗口外内容、表演源、官方/动画音乐视频或 cosplay performance；例如 2025-12 Yokai Kabuki、2026-01 HUNTR/X cosplay、2026-09-09 cosplay live performance 均不适合 9/17-10/2 Social 主榜。标 search cluster/watchlist。",
-      "sourceType": "Search cluster / performance-source exact / window mismatch",
+      "title": "Miley Cyrus Bass Persuades：新专有热簇，但 reaction 未拿到过线精确互动",
+      "reason": "10/7 动态发现把 Miley Cyrus Bass Persuades 作为新实体搜索；yt-dlp 搜索能返回候选 ID，但单页精确提取触发 bot gate，无法复核播放/点赞/评论。缺 exact evidence，不进 Social 主榜。",
+      "sourceType": "Search cluster / exact interaction unavailable",
+      "suggestedSearch": "Miley Cyrus Bass Persuades album reaction review fan reaction",
+      "xhsAngle": "标题：Miley 新专为什么更像一次声音人格重置，而不是普通回归？"
+    },
+    {
+      "title": "Pretty Little Liars text from A：站内梗适合 TikTok 观察",
+      "reason": "10/7 动态发现 PLL text from A / getting a text from A 作为平台梗，但没有拿到可复核的 TikTok 精确视频 URL 和互动；只保留 search cluster。",
+      "sourceType": "TikTok search cluster / exact video pending",
+      "suggestedSearch": "Pretty Little Liars text from A TikTok trend explained",
+      "xhsAngle": "标题：为什么大家又开始用一条短信演悬疑人格？"
+    },
+    {
+      "title": "KPop Demon Hunters Halloween / cosplay：强搜索方向，仍缺合格 UGC 主证据",
+      "reason": "10/7 继续观察 HUNTR/X、SajaBoys、Golden、Soda Pop、Halloween costume/cosplay；YouTube 侧仍多为官方/表演源或窗口外内容，TikTok 精确视频待补。",
+      "sourceType": "Search cluster / performance-source risk",
       "suggestedSearch": "KPop Demon Hunters Halloween costume cosplay HUNTR/X SajaBoys trend",
       "xhsAngle": "标题：为什么今年万圣节最像一场虚拟女团 cosplay 考试？"
     },
     {
-      "title": "Obsession / Freaky Nikki：horror fashion 有长尾，但已过窗口",
-      "reason": "10/2 搜索到 Freaky Nikki、reverse walk、Obsession breakdown 等高互动样本，但集中在 2026-05 到 2026-07；Dominus Wears 7/25 fashion analysis 只有 4567播放 / 319赞 / 39评论。可做背景，不进主榜。",
-      "sourceType": "Horror-fashion search cluster / window mismatch",
-      "suggestedSearch": "Obsession Freaky Nikki fashion analysis reaction horror aesthetic",
-      "xhsAngle": "标题：恐怖片女主造型为什么越来越像 TikTok 人格模板？"
+      "title": "Street Fighter 2026 trailer reaction：搜索有候选，但今日无法精确复核",
+      "reason": "10/7 搜索 Street Fighter 2026 trailer reaction；yt-dlp 单页提取触发 bot gate，未拿到可发布的精确互动。保留为 watchlist，避免把 trailer 官方热度写成 UGC 爆款。",
+      "sourceType": "YouTube search cluster / exact interaction unavailable",
+      "suggestedSearch": "Street Fighter 2026 movie trailer reaction analysis fan reaction",
+      "xhsAngle": "标题：格斗游戏改电影，粉丝最先审的是选角还是招式还原？"
     },
     {
-      "title": "no na 新 reaction 长尾：有讨论但新增视频未过门槛",
-      "reason": "10/2 exact：9/28 kiwi's conscious 4.41万播放 / 1749赞 / 115评论，9/29 Nick Says 6789播放 / 328赞 / 46评论，10/1 Turner Girls 9330播放 / 赞不可见 / 38评论；均不进主榜。",
-      "sourceType": "Music-reaction exact below threshold / main evidence retained",
+      "title": "no na - star：9/18 过线样本超出本轮 Social 窗口",
+      "reason": "上轮主榜的 COUPLE REACTS TO no na - star 为 2026-09-18，已早于 2026-09-22 窗口起点；10/7 不再放 Social 主榜，只作为音乐 reaction 长尾观察。",
+      "sourceType": "Former exact evidence / window expired",
       "suggestedSearch": "no na star reaction choreography analysis dancer reacts",
       "xhsAngle": "标题：新团真正被记住，往往从 reaction 里的第一声尖叫开始。"
-    },
-    {
-      "title": "Claude Opus 5.5：模型发布热，但官方/低赞混杂",
-      "reason": "10/2 exact：Stefan 3D AI 的 Opus 5.5 tokens 视频 20.14万播放 / 4093赞 / 523评论过 AI 门槛，可作为 watchlist；Riley Brown 16.39万播放 / 1666赞 / 233评论赞数未过，Claude 官方 daily driver 不作为创作者主证据。",
-      "sourceType": "AI YouTube exact mixed quality / candidate for next run",
-      "suggestedSearch": "Claude Opus 5.5 workflow Muse coding agent cost tokens",
-      "xhsAngle": "标题：AI 模型发布后，大家真正关心的是一轮任务到底花多少钱。"
     }
   ],
   "aiSignals": [
@@ -130,7 +106,7 @@ window.RADAR_DATA = {
         "Agent Skills"
       ],
       "priority": "high",
-      "metrics": "10/2 yt-dlp exact-video 复核：Claude Code Full Course 2026 | How Senior Engineers Actually Build with AI，2026-09-25，13.61万播放 / 2032赞 / 167评论，过 AI YouTube 主榜门槛。",
+      "metrics": "10/7 主榜沿用近 30 天内已复核 exact evidence：Claude Code Full Course 2026 | How Senior Engineers Actually Build with AI，2026-09-25，13.61万播放 / 2032赞 / 167评论，过 AI YouTube 主榜门槛。",
       "channel": "YouTube exact video + Search cluster: Claude Code full course / senior engineer workflow / AI coding agents / reusable skills",
       "heat": "AI coding 高互动内容正在从“工具演示”转向“高级工程师到底怎么组织需求、上下文、验证和交付”。这和 GitHub skill 仓库的上涨相互印证：用户要的是可重复的工作流，而不是一次性 prompt。",
       "signal": "可转译点：小红书 AI 内容可以把 Claude Code 拆成普通人也懂的四步：给上下文、拆任务、让它自检、把成功流程沉淀成 skill。",
@@ -147,64 +123,39 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "title": "Skills vs MCP vs RAG vs Memory：agent 内容仍靠能力分层过线",
-      "tags": [
-        "AI",
-        "Agent Architecture",
-        "Workflow Trust",
-        "MCP"
-      ],
-      "priority": "high",
-      "metrics": "10/2 yt-dlp exact-video 复核：Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know，2026-09-03，18.30万播放 / 2498赞 / 128评论，仍过 AI YouTube 主榜门槛。",
-      "channel": "YouTube exact video + Search cluster: agent skills / MCP / RAG / memory / workflow trust",
-      "heat": "AI 讨论继续从模型发布转向 agent 的组织方式：工具怎么接、检索放哪、记忆怎么复用、skill 是否等于可交付 SOP。",
-      "signal": "可转译点：小红书 AI 内容可以把抽象架构拆成普通人问题：知识放哪里、工具怎么接、记忆能不能复用、失败后如何追责。",
-      "discussion": "评论热点可引导到：MCP 是工具接口还是工作流入口、RAG 和 memory 的边界、skill 是否等于可复用 SOP、团队如何判断 agent 输出可信。",
-      "xhsTitles": [
-        "AI agent 最难懂的四件事：Skills、MCP、RAG、Memory 到底差在哪",
-        "别急着追 A2A，先看你的 AI 有没有记忆和工具边界"
-      ],
-      "sources": [
-        [
-          "Skills vs MCP vs RAG vs Memory / 18.30万播放 / 2498赞 / 128评论",
-          "https://www.youtube.com/watch?v=X4FVEEegCbk"
-        ]
-      ]
-    },
-    {
-      "title": "Agent skill 从监控、检索扩展到游戏、视频和自然化改写",
+      "title": "Agent skill 从单点提示词转向可交付工作流资产",
       "tags": [
         "AI",
         "Agent Skills",
         "GitHub Trend",
-        "Creator Economy"
+        "Workflow Productization"
       ],
       "priority": "high",
-      "metrics": "10/2 GitHub Search API 动态样本：Louis-CFM/coucou 2527 stars / 377 forks；feder-cr/dots 2400 / 419；dzhng/jevgrep 2006 / 132；rehan-remade/universal-modder 1621 / 120；kaankiziltug/logo-design-skill 1370 / 76；yihui-dev/awesome-opus5-5-videos 1278 / 137；nanaism/yomiyasu 1020 / 21。未写成已验证周涨幅。",
-      "channel": "GitHub samples + Search cluster: coding-agent monitor / browser agent / context retrieval / game modding skill / AI video skill / writing naturalization",
-      "heat": "10/2 样本显示 skill 热潮继续从 coding 辅助扩展到创意交付：看住 coding agent、让 agent 拥有浏览器、帮 agent 找代码上下文、把游戏 mod、logo、视频风格和本地语感改写打包成可复用资产。",
+      "metrics": "10/7 GitHub Search API 动态样本：kaankiziltug/logo-design-skill 2196 stars / 145 forks；QingYunA/answer-me-with-html 1851 / 128；feitangyuan/onetake 1787 / 112；nanaism/yomiyasu 1657 / 37；mikehasa/golive-skill 1232 / 96；Oldcircle/geo-sleuth 811 / 102；Jakeschincariol/replica-skill 731 / 77。未写成已验证周涨幅。",
+      "channel": "GitHub samples + Search cluster: logo skill / HTML explainer skill / one-take product film / natural writing skill / go-live deployment skill / photo geolocation skill / app cloning skill",
+      "heat": "10/7 样本显示 skill 热潮继续从 coding 辅助扩展到可出售的交付包：设计、解释页、产品片、自然化写作、上线部署、图片定位和 app 复刻都在被打包成 agent 可执行资产。",
       "signal": "可转译点：AI 创作者以后卖的不是 prompt，而是能被复用、被检查、可交付的一整套 workflow。",
-      "discussion": "评论热点可引导到：agent 为什么需要被监控；创意 skill 会不会变成个人作品集；AI 视频 prompt 库和设计服务是否会商品化。",
+      "discussion": "评论热点可引导到：skill 会不会变成个人作品集；创意和上线流程是否会被产品化；普通人应该先沉淀哪一个高频工作流。",
       "xhsTitles": [
         "AI skill 的下一波：把一整套工作流打包成资产",
-        "从代码到视频，agent skill 正在变成个人生产线"
+        "从 logo 到上线部署，agent skill 正在变成个人生产线"
       ],
       "sources": [
         [
-          "GitHub: Louis-CFM/coucou",
-          "https://github.com/Louis-CFM/coucou"
+          "GitHub: kaankiziltug/logo-design-skill",
+          "https://github.com/kaankiziltug/logo-design-skill"
         ],
         [
-          "GitHub: feder-cr/dots",
-          "https://github.com/feder-cr/dots"
+          "GitHub: QingYunA/answer-me-with-html",
+          "https://github.com/QingYunA/answer-me-with-html"
         ],
         [
-          "GitHub: dzhng/jevgrep",
-          "https://github.com/dzhng/jevgrep"
+          "GitHub: feitangyuan/onetake",
+          "https://github.com/feitangyuan/onetake"
         ],
         [
-          "GitHub: rehan-remade/universal-modder",
-          "https://github.com/rehan-remade/universal-modder"
+          "GitHub: nanaism/yomiyasu",
+          "https://github.com/nanaism/yomiyasu"
         ]
       ]
     }
@@ -218,7 +169,7 @@ window.RADAR_DATA = {
         "Fan Detective"
       ],
       "sourceType": "站内搜索聚类 / YouTube UGC exact evidence / 精确 TikTok 视频待补",
-      "heat": "YouTube 已有两条过线 UGC reaction；TikTok 侧适合观察 cameo、歌词影射、red flag 解读和成熟粉丝对谜语营销的反应。",
+      "heat": "YouTube 仍有两条过线 UGC reaction；TikTok 侧适合观察 cameo、歌词影射、red flag 解读和成熟粉丝对谜语营销的反应。",
       "xhsAngle": "标题：Taylor 的 MV 为什么能让粉丝一边找彩蛋一边看 red flag？",
       "source": "https://www.tiktok.com/search?q=Taylor%20Swift%20Patient%20Zero%20music%20video%20easter%20eggs"
     },
@@ -235,95 +186,95 @@ window.RADAR_DATA = {
       "source": "https://www.tiktok.com/search?q=Taylor%20Swift%20bad%20reviews%20fan%20reaction"
     },
     {
+      "title": "Pretty Little Liars text from A：旧 IP 变成短信人格梗",
+      "tags": [
+        "TikTok",
+        "Platform Meme",
+        "Nostalgia"
+      ],
+      "sourceType": "站内搜索聚类 / 精确 TikTok 视频待补",
+      "heat": "10/7 动态发现 PLL text from A 作为 search cluster；适合观察怀旧 IP、短信截图、悬疑口吻和“收到某人消息”的身份表演。",
+      "xhsAngle": "标题：为什么大家又开始用一条短信演悬疑人格？",
+      "source": "https://www.tiktok.com/search?q=Pretty%20Little%20Liars%20text%20from%20A%20trend"
+    },
+    {
       "title": "KPop Demon Hunters Halloween/cosplay：虚拟女团变装模板",
       "tags": [
         "TikTok",
         "Cosplay",
         "Halloween"
       ],
-      "sourceType": "站内搜索聚类 / YouTube window mismatch / 精确 TikTok 视频待补",
+      "sourceType": "站内搜索聚类 / 精确 TikTok 视频待补",
       "heat": "YouTube 搜索显示 cosplay/performance 长尾很强，但主榜证据结构不合格；TikTok 侧适合继续观察 HUNTR/X、SajaBoys、Golden、Soda Pop 变装与万圣节服装。",
       "xhsAngle": "标题：为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
       "source": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Halloween%20costume%20cosplay"
     },
     {
-      "title": "no na - star：reaction 带动舞蹈与视觉身份讨论",
+      "title": "Miley Bass Persuades：新专声音人格重置",
       "tags": [
         "TikTok",
-        "Music Reaction",
-        "Dance"
+        "Music",
+        "Celebrity Aesthetic"
       ],
-      "sourceType": "YouTube exact video + 站内搜索聚类 / 精确 TikTok 视频待补",
-      "heat": "YouTube UGC reaction 仍有一条过 Social 主榜；TikTok 侧适合观察编舞切片、成员气场、MV 二创和首次观看反应。",
-      "xhsAngle": "标题：一支新 MV 出圈，先被记住的是歌还是舞台视觉？",
-      "source": "https://www.tiktok.com/search?q=no%20na%20star%20dance%20reaction"
-    },
-    {
-      "title": "AI skill / Claude Code：工作流资产从创意扩展到工程验收",
-      "tags": [
-        "TikTok",
-        "AI Workflow",
-        "Creator Economy"
-      ],
-      "sourceType": "GitHub samples + AI YouTube exact evidence",
-      "heat": "Claude Code Full Course 过 AI 主榜，GitHub 新样本指向 coding-agent monitor、browser agent、semantic retrieval、game modding skill、video skill 和 AI writing naturalization。",
-      "xhsAngle": "标题：AI 创作者以后卖的可能不是 prompt，而是一套可验收工作流。",
-      "source": "https://www.tiktok.com/search?q=Claude%20Code%20AI%20agent%20workflow%20skill"
+      "sourceType": "站内搜索聚类 / YouTube exact evidence 待补",
+      "heat": "10/7 将 Miley Cyrus Bass Persuades 标为 search cluster；适合观察新专声音、视觉身份、老粉评价和 comeback/rebrand 叙事。",
+      "xhsAngle": "标题：Miley 新专为什么更像一次声音人格重置？",
+      "source": "https://www.tiktok.com/search?q=Miley%20Cyrus%20Bass%20Persuades%20reaction"
     }
   ],
   "githubSkills": [
     {
-      "name": "Louis-CFM/coucou",
-      "url": "https://github.com/Louis-CFM/coucou",
-      "urlLabel": "GitHub: Louis-CFM/coucou",
-      "heat": "GitHub API 10/2：2527 stars / 377 forks / created_at 2026-09-27 / pushed_at 2026-10-02。",
-      "why": "把 Claude Code、Gemini CLI、Antigravity 等 coding agent 的状态做成桌面可见提示，说明 agent 工作流需要可观察和提醒机制。",
-      "xhsAngle": "选题：AI 编程工具下一步，是让你随时知道它在干嘛。"
-    },
-    {
-      "name": "feder-cr/dots",
-      "url": "https://github.com/feder-cr/dots",
-      "urlLabel": "GitHub: feder-cr/dots",
-      "heat": "GitHub API 10/2：2400 stars / 419 forks / created_at 2026-09-29 / pushed_at 2026-09-29。",
-      "why": "把 agent browser、anti-detect browser、Playwright 和 MCP 放到一起，说明 web agent 的痛点从能浏览转向稳定通过真实网页环境。",
-      "xhsAngle": "选题：AI agent 想上网，第一道门槛可能不是模型，而是浏览器环境。"
-    },
-    {
-      "name": "dzhng/jevgrep",
-      "url": "https://github.com/dzhng/jevgrep",
-      "urlLabel": "GitHub: dzhng/jevgrep",
-      "heat": "GitHub API 10/2：2006 stars / 132 forks / created_at 2026-09-26 / pushed_at 2026-10-02。",
-      "why": "用自然语言找代码上下文，定位 coding agent 的刚需：先找到相关文件，才谈得上可靠修改。",
-      "xhsAngle": "选题：AI 写代码最怕乱改，语义搜索可能是第一层保险。"
-    },
-    {
-      "name": "rehan-remade/universal-modder",
-      "url": "https://github.com/rehan-remade/universal-modder",
-      "urlLabel": "GitHub: rehan-remade/universal-modder",
-      "heat": "GitHub API 10/2：1621 stars / 120 forks / created_at 2026-09-30 / pushed_at 2026-09-30。",
-      "why": "把 Claude、MCP、游戏侦察、反向工程和素材生成组合成 PC game mod workflow，说明 skill 开始进入垂直娱乐创作链。",
-      "xhsAngle": "选题：AI skill 不只写代码，还可能帮普通玩家做游戏 mod。"
-    },
-    {
       "name": "kaankiziltug/logo-design-skill",
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "urlLabel": "GitHub: kaankiziltug/logo-design-skill",
-      "heat": "GitHub API 10/2：1370 stars / 76 forks / created_at 2026-09-26 / pushed_at 2026-09-30。",
-      "why": "把 logo 原则、SVG 工艺、测试工具和参考库打包成 agent skill，适合观察设计服务如何被 SOP 化。",
-      "xhsAngle": "选题：AI logo skill 火了，设计师真正要卖的是判断标准。"
+      "heat": "GitHub API 10/7：2196 stars / 145 forks / created_at 2026-09-26 / pushed_at 2026-09-30。",
+      "why": "把 logo 原则、SVG 工艺、测试工具和参考库打包成 agent skill，说明设计服务正在从单张图变成可验收流程。",
+      "xhsAngle": "选题：AI 设计不只生成 logo，而是把品牌流程做成 skill。"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "urlLabel": "GitHub: QingYunA/answer-me-with-html",
+      "heat": "GitHub API 10/7：1851 stars / 128 forks / created_at 2026-10-02 / pushed_at 2026-10-07。",
+      "why": "把复杂回答输出成可阅读的一页 HTML，反映用户想要的是可交付页面而不是聊天记录。",
+      "xhsAngle": "选题：AI 回答的下一步，是直接交付一页能看的网页。"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "urlLabel": "GitHub: feitangyuan/onetake",
+      "heat": "GitHub API 10/7：1787 stars / 112 forks / created_at 2026-09-26 / pushed_at 2026-09-29。",
+      "why": "用连续镜头做产品发布片和 feature demo，说明 AI 视频 skill 正从 prompt 库转向可验收叙事模板。",
+      "xhsAngle": "选题：产品 demo 也能变成 agent skill，一镜到底讲清功能。"
     },
     {
       "name": "nanaism/yomiyasu",
       "url": "https://github.com/nanaism/yomiyasu",
       "urlLabel": "GitHub: nanaism/yomiyasu",
-      "heat": "GitHub API 10/2：1020 stars / 21 forks / created_at 2026-09-30 / pushed_at 2026-10-02。",
-      "why": "面向 AI 生成日文的自然化改写 skill，说明内容工作流正在从生成扩展到去味、可信和本地语感。",
-      "xhsAngle": "选题：AI 文案真正难的不是写出来，而是去掉 AI 味。"
+      "heat": "GitHub API 10/7：1657 stars / 37 forks / created_at 2026-09-30 / pushed_at 2026-10-06。",
+      "why": "专门把 AI 生成日文改成自然日文，说明本地语感润色正在变成独立 agent skill。",
+      "xhsAngle": "选题：AI 写作真正难的不是生成，而是像本地人一样自然。"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "urlLabel": "GitHub: mikehasa/golive-skill",
+      "heat": "GitHub API 10/7：1232 stars / 96 forks / created_at 2026-09-23 / pushed_at 2026-10-04。",
+      "why": "把 hosting、database、domain、email、payments 的上线步骤打包为 detect-plan-approve-apply-verify 流程，指向 agent 交付最后一公里。",
+      "xhsAngle": "选题：AI 做完产品后，最值钱的 skill 是帮你真的上线。"
+    },
+    {
+      "name": "sno-ai/sno-station",
+      "url": "https://github.com/sno-ai/sno-station",
+      "urlLabel": "GitHub: sno-ai/sno-station",
+      "heat": "GitHub API 10/7：465 stars / 363 forks / created_at 2026-09-19 / pushed_at 2026-10-07。",
+      "why": "把 Claude Code 和 Codex 做成本地协作小队，强调共享记忆、agent-to-agent 消息和自我改进 skill。",
+      "xhsAngle": "选题：一个 AI 不够用时，下一步是让多个 agent 共享记忆。"
     }
   ],
   "sparkPool": [
     {
-      "id": "2026-10-02-spark-1",
+      "id": "2026-10-07-spark-1",
       "title": "Patient Zero 从彩蛋升级到关系 red flag 解读",
       "xhsTitle": "Taylor 的新 MV，为什么让粉丝一边找彩蛋一边看 red flag？",
       "hook": "你看 MV 会找彩蛋，还是会代入关系信号？",
@@ -331,7 +282,7 @@ window.RADAR_DATA = {
       "from": "Taylor Swift / Patient Zero / fan culture"
     },
     {
-      "id": "2026-10-02-spark-2",
+      "id": "2026-10-07-spark-2",
       "title": "Taylor 口碑讨论过线，评价泡泡可写",
       "xhsTitle": "Taylor 最大的问题，可能不是差评，而是听不到真实反馈",
       "hook": "你能接受喜欢的创作者被认真批评吗？",
@@ -339,56 +290,56 @@ window.RADAR_DATA = {
       "from": "Taylor Swift / bad reviews / fan reaction"
     },
     {
-      "id": "2026-10-02-spark-3",
-      "title": "no na reaction 仍过线，舞台视觉是第一抓手",
-      "xhsTitle": "no na 这支 MV 为什么让海外 reaction 先尖叫？",
-      "hook": "看一个新舞台，你最先被歌、舞、脸还是镜头抓住？",
-      "score": 89,
-      "from": "no na / star / music reaction"
-    },
-    {
-      "id": "2026-10-02-spark-4",
-      "title": "KPop Demon Hunters Halloween 是 search cluster",
-      "xhsTitle": "为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
-      "hook": "你会选 HUNTR/X、SajaBoys，还是只借一个配色？",
+      "id": "2026-10-07-spark-3",
+      "title": "PLL 短信梗回潮，怀旧 IP 变身份表演",
+      "xhsTitle": "为什么大家又开始用一条短信演悬疑人格？",
+      "hook": "如果你收到 A 的短信，你会先慌还是先截图？",
       "score": 82,
-      "from": "KPop Demon Hunters / Halloween / cosplay"
+      "from": "Pretty Little Liars / TikTok search cluster"
     },
     {
-      "id": "2026-10-02-spark-5",
-      "title": "Claude Code 高互动教程把 AI 编程讲成验收流程",
-      "xhsTitle": "Claude Code 真正好用的关键，不是模型，而是你的工作流",
-      "hook": "你用 AI 写代码时，最怕它乱改还是不会自检？",
+      "id": "2026-10-07-spark-4",
+      "title": "Miley 新专更像声音人格重置",
+      "xhsTitle": "Miley 新专为什么更像一次声音人格重置？",
+      "hook": "你判断歌手回归，是先听歌还是先看视觉？",
+      "score": 80,
+      "from": "Miley Cyrus / Bass Persuades / search cluster"
+    },
+    {
+      "id": "2026-10-07-spark-5",
+      "title": "AI skill 从 prompt 变成可交付资产",
+      "xhsTitle": "AI skill 的下一波：把一整套工作流打包成资产",
+      "hook": "你最想把哪个重复工作做成自己的 AI skill？",
       "score": 92,
-      "from": "Claude Code / AI coding / workflow"
+      "from": "GitHub agent skill samples"
     },
     {
-      "id": "2026-10-02-spark-6",
-      "title": "Agent skill 继续从工具扩展到可交付资产",
-      "xhsTitle": "从代码到视频，agent skill 正在变成个人生产线",
-      "hook": "你最想把哪种工作流变成 AI skill？",
-      "score": 93,
-      "from": "agent skills / Claude Code / workflow assets"
+      "id": "2026-10-07-spark-6",
+      "title": "KPop Demon Hunters cosplay 继续适合万圣节观察",
+      "xhsTitle": "为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
+      "hook": "你会选 HUNTR/X 还是 SajaBoys？",
+      "score": 84,
+      "from": "KPop Demon Hunters / TikTok search cluster"
     }
   ],
   "valueFlows": [
     {
       "lane": "AI tools",
-      "from": "Skills vs MCP vs RAG vs Memory exact video",
-      "to": "普通人工作流解释、团队知识管理、agent 信任框架",
+      "from": "Claude Code Full Course exact video + GitHub skill samples",
+      "to": "普通人工作流解释、团队知识管理、agent skill 商品化",
       "action": "优先做解释型卡片，不做工具堆砌榜单。"
     },
     {
       "lane": "Pop fandom",
-      "from": "Patient Zero MV search cluster",
-      "to": "粉丝参与感、彩蛋劳动、音乐视频视觉叙事",
-      "action": "标注 search cluster，避免写成已验证爆款单条。"
+      "from": "Patient Zero exact videos + Taylor bad-review commentary",
+      "to": "粉丝参与感、彩蛋劳动、评价泡泡、创作者真实反馈",
+      "action": "用已过线 exact 支撑主榜，把 SNL/新搜索只作为语境。"
     },
     {
-      "lane": "Fashion",
-      "from": "J.Lo / Prada peekaboo styling",
-      "to": "成熟权力感、内衣外穿、时装周可迁移搭配",
-      "action": "用审美拆解替代未经验证的爆款判断。"
+      "lane": "TikTok search cluster",
+      "from": "PLL text from A / Miley Bass Persuades / KPop Demon Hunters cosplay",
+      "to": "怀旧 IP、声音人格、万圣节变装、平台身份叙事",
+      "action": "标注 search cluster，拿不到精确视频 URL 和热评前不进 TikTok 主榜。"
     }
   ],
   "arbitragePicks": [
@@ -407,36 +358,36 @@ window.RADAR_DATA = {
       "sourceType": "YouTube UGC exact videos"
     },
     {
-      "title": "把 Claude Code 写成普通人的 AI 验收流程",
-      "why": "JavaScript Mastery 近 30 天过 AI 主榜，能连接 GitHub skill 热潮，讲清普通人如何从 prompt 走向 SOP。",
-      "xhsTitle": "Claude Code 真正好用的关键，不是模型，而是你的工作流",
-      "format": "5 张卡片：给上下文 -> 拆任务 -> 跑验证 -> 让它自检 -> 沉淀 skill",
-      "sourceType": "AI YouTube exact video + GitHub samples"
+      "title": "把 AI skill 写成个人生产线资产",
+      "why": "10/7 GitHub 新样本显示 logo、HTML explainer、产品片、上线部署和自然语感润色都在 skill 化，适合创业/效率号转译。",
+      "xhsTitle": "从 logo 到上线部署，agent skill 正在变成个人生产线",
+      "format": "6 张卡片：什么是 skill -> 设计 -> 内容 -> 上线 -> 本地化 -> 你该沉淀什么",
+      "sourceType": "GitHub API dynamic samples"
     }
   ],
   "weeklySop": [
     {
       "title": "动态实体先行",
-      "detail": "9/29 先扫 Patient Zero、DWTS Viral Hits Night、J.Lo / Prada、Alyssa Grace、Some people call me、Claude skills/MCP/memory 与 GitHub 新仓，再反推二级搜索词。"
+      "detail": "10/7 先扫 Taylor Patient Zero/SNL/口碑讨论、Miley Bass Persuades、PLL text from A、KPop Demon Hunters Halloween、Street Fighter 2026、Claude Code/Opus 5.5、GitHub 新 skill，再反推二级搜索词。"
     },
     {
       "title": "主榜继续只收过线 exact",
-      "detail": "Social 主榜只保留仍在窗口内且过线的 Macklemore / Ed Sheeran UGC；Taylor、DWTS、Practical Magic、J.Lo 均因来源类型或赞评不足降级。"
+      "detail": "Social 主榜只保留 9/29-9/30 仍在窗口内且过线的 Taylor exact videos；no na 9/18 超出窗口，Miley/PLL/KPop/Street Fighter 均因缺精确互动降级。"
     },
     {
-      "title": "AI exact 与 GitHub 样本分开写",
-      "detail": "AI 主榜用 9/03 过线视频支撑；GitHub feed 写 9/29 API stars/forks/created_at/pushed_at，不伪装周涨幅。"
+      "title": "AI 主榜按 30 天窗口处理",
+      "detail": "保留 9/25 Claude Code 课程；9/3 Skills vs MCP 已超出 30 天窗口，移出 AI 主榜，只作方法论背景。"
     },
     {
-      "title": "TikTok 没有精确 URL 只放搜索聚类",
-      "detail": "所有 TikTok 条目标注 sourceType；没有匹配精确视频时只链接搜索页，不跳到不匹配账号页。"
+      "title": "GitHub Skill 不写伪涨幅",
+      "detail": "10/7 GitHub feed 写 API 当日 stars/forks/created_at/pushed_at，不把固定仓库或未比较数据写成周上涨榜。"
     }
   ],
   "contentFormats": [
     {
       "title": "四象限解释卡",
-      "useFor": "Skills / MCP / RAG / Memory",
-      "structure": "一句话区别 -> 适用场景 -> 错用后果 -> 评论区投票"
+      "useFor": "Agent skill / workflow productization",
+      "structure": "一句话定义 -> 适用场景 -> 可交付物 -> 评论区投票"
     },
     {
       "title": "粉丝侦探拆解",
@@ -444,9 +395,9 @@ window.RADAR_DATA = {
       "structure": "视觉符号 -> cameo 讨论 -> 粉丝劳动 -> 品牌可借鉴点"
     },
     {
-      "title": "风格语言替代清单",
-      "useFor": "J.Lo / Prada / mature glam",
-      "structure": "明星造型 -> 普通人替代 -> 场景边界 -> 你会不会穿"
+      "title": "Search cluster 降级模板",
+      "useFor": "Miley / PLL / KPop Demon Hunters / Street Fighter",
+      "structure": "今天看到什么 -> 为什么不能进主榜 -> 下一步补什么证据 -> 可预留标题"
     }
   ],
   "summarySparks": [
@@ -455,7 +406,7 @@ window.RADAR_DATA = {
       "xhsTitle": "Taylor 的新 MV，为什么让粉丝一边找彩蛋一边看 red flag？",
       "commentHook": "你看 MV 会找彩蛋，还是会代入关系信号？",
       "heatScore": 95,
-      "whyNow": "10/2 exact 复核到 Knox Hill 8.94万播放 / 4889赞 / 443评论、Mend with Mere 7.52万播放 / 2054赞 / 155评论，均过 Social 主榜门槛。",
+      "whyNow": "10/7 仍在窗口内的 exact 证据：Knox Hill 8.94万播放 / 4889赞 / 443评论、Mend with Mere 7.52万播放 / 2054赞 / 155评论，均过 Social 主榜门槛。",
       "xhsFit": "高，适合明星叙事、粉丝文化、MV 视觉符号和关系心理解读。",
       "related": [
         "Taylor Swift",
@@ -477,55 +428,55 @@ window.RADAR_DATA = {
       ]
     },
     {
-      "title": "no na reaction 仍过线，舞台视觉是第一抓手",
-      "xhsTitle": "no na 这支 MV 为什么让海外 reaction 先尖叫？",
-      "commentHook": "看一个新舞台，你最先被歌、舞、脸还是镜头抓住？",
-      "heatScore": 89,
-      "whyNow": "Kess and Han Reacts 9/18 exact 更新到 16.98万播放 / 7425赞 / 436评论；新增 reaction 未过线，主榜只保留已验证证据。",
-      "xhsFit": "高，适合音乐 reaction、舞蹈审美、idol 视觉身份和 MV 镜头语言。",
+      "title": "PLL text from A 是搜索聚类，不是精确爆款",
+      "xhsTitle": "为什么大家又开始用一条短信演悬疑人格？",
+      "commentHook": "如果你收到 A 的短信，你会先慌还是先截图？",
+      "heatScore": 82,
+      "whyNow": "10/7 动态发现该梗进入 TikTok search cluster；暂无精确视频 URL 和可见热评，不能写成单条爆款。",
+      "xhsFit": "中高，适合怀旧 IP、截图叙事、身份表演，但发布前需补 TikTok 精确视频。",
       "related": [
-        "no na",
-        "star",
-        "music reaction"
+        "Pretty Little Liars",
+        "TikTok meme",
+        "nostalgia"
       ]
     },
     {
-      "title": "KPop Demon Hunters Halloween 是 search cluster",
+      "title": "Miley 新专可写 rebrand，但仍需精确互动补证",
+      "xhsTitle": "Miley 新专为什么更像一次声音人格重置？",
+      "commentHook": "你判断歌手回归，是先听歌还是先看视觉？",
+      "heatScore": 80,
+      "whyNow": "10/7 动态发现 Bass Persuades 相关搜索热簇；yt-dlp 单页复核触发 bot gate，暂不进 Social 主榜。",
+      "xhsFit": "中高，适合音乐人格、视觉身份、comeback 叙事，必须标 search cluster。",
+      "related": [
+        "Miley Cyrus",
+        "Bass Persuades",
+        "music rebrand"
+      ]
+    },
+    {
+      "title": "AI skill 正从提示词变成可交付资产",
+      "xhsTitle": "AI skill 的下一波：把一整套工作流打包成资产",
+      "commentHook": "你最想把哪个重复工作做成自己的 AI skill？",
+      "heatScore": 92,
+      "whyNow": "10/7 GitHub API 样本显示 logo-design-skill、answer-me-with-html、onetake、yomiyasu、golive-skill 等新仓高星。",
+      "xhsFit": "高，适合 AI 工具、普通人工作流、创业 idea 和个人生产线内容。",
+      "related": [
+        "agent skills",
+        "GitHub",
+        "AI workflow"
+      ]
+    },
+    {
+      "title": "KPop Demon Hunters cosplay 适合万圣节持续观察",
       "xhsTitle": "为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
-      "commentHook": "你会选 HUNTR/X、SajaBoys，还是只借一个配色？",
-      "heatScore": 82,
-      "whyNow": "YouTube 搜索返回强 cosplay/performance 长尾，但多为窗口外或表演源，不能进 Social 主榜；适合作为 TikTok 观察方向。",
-      "xhsFit": "中高，适合万圣节、cosplay、虚拟女团和流行文化服装模板。",
+      "commentHook": "你会选 HUNTR/X 还是 SajaBoys？",
+      "heatScore": 84,
+      "whyNow": "搜索聚类持续强，但 YouTube 侧多为官方/表演源或窗口外内容；TikTok 精确视频待补。",
+      "xhsFit": "中高，适合万圣节变装、虚拟偶像和粉丝审美，但主榜证据不足。",
       "related": [
         "KPop Demon Hunters",
         "Halloween",
         "cosplay"
-      ]
-    },
-    {
-      "title": "Claude Code 高互动教程把 AI 编程讲成验收流程",
-      "xhsTitle": "Claude Code 真正好用的关键，不是模型，而是你的工作流",
-      "commentHook": "你用 AI 写代码时，最怕它乱改还是不会自检？",
-      "heatScore": 92,
-      "whyNow": "JavaScript Mastery 9/25 Claude Code Full Course 2026 为 13.61万播放 / 2032赞 / 167评论，过 AI 主榜门槛。",
-      "xhsFit": "高，适合 AI 工具、普通人工作流、工程学习和创业效率内容。",
-      "related": [
-        "Claude Code",
-        "AI coding",
-        "workflow"
-      ]
-    },
-    {
-      "title": "Agent skill 继续从工具扩展到可交付资产",
-      "xhsTitle": "从代码到视频，agent skill 正在变成个人生产线",
-      "commentHook": "你最想把哪种工作流变成 AI skill？",
-      "heatScore": 93,
-      "whyNow": "10/2 GitHub 样本集中在 coucou、dots、jevgrep、universal-modder、logo-design-skill、yomiyasu 等新仓。",
-      "xhsFit": "高，适合 AI 创作者、设计服务、工作流工具和创业 idea。",
-      "related": [
-        "agent skills",
-        "Claude Code",
-        "workflow assets"
       ]
     }
   ],
@@ -549,12 +500,12 @@ window.RADAR_DATA = {
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-10-02-1244",
-    "contentWindow": "内容研究窗口：2026.09.17 - 2026.10.02 / 部署包生成：2026-10-02 12:44 CST",
-    "researchedThrough": "2026-10-02",
-    "packageGeneratedAt": "2026-10-02 12:44 CST",
-    "summary": "10/2 继续动态实体优先：先从 Taylor Swift Patient Zero / The Life of a Showgirl 口碑讨论、no na - star reaction、KPop Demon Hunters Halloween/cosplay 搜索热簇、Obsession/Freaky Nikki 长尾、Claude Opus 5.5 / Claude Code course、GitHub agent skill 新仓反推二级搜索词。Social 主榜更新 Taylor Patient Zero 数据并新增 Therapist Reacts 与 Philip DeFranco 口碑讨论；no na 保留但新 reaction 未过线；KPop Demon Hunters 与 Obsession 因窗口/来源结构降级；AI 新增 JavaScript Mastery Claude Code Full Course 2026；GitHub Skill feed 更新为 10/2 API 样本。",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/2 热簇包括 Taylor Patient Zero 彩蛋/心理解读、Taylor 新 era 评价泡泡、no na star 编舞 reaction、KPop Demon Hunters Halloween/cosplay、Obsession Freaky Nikki horror fashion、Claude Code / Opus 5.5 workflow、agent browser / coding context retrieval / coding-agent monitor / AI video skill / game modding skill。"
+    "editionId": "2026-10-07-1508",
+    "contentWindow": "内容研究窗口：2026.09.22 - 2026.10.07 / 部署包生成：2026-10-07 15:08 CST",
+    "researchedThrough": "2026-10-07",
+    "packageGeneratedAt": "2026-10-07 15:08 CST",
+    "summary": "10/7 继续动态实体优先：先扫 Taylor Swift Patient Zero/SNL/口碑讨论、Miley Cyrus Bass Persuades、Pretty Little Liars text from A、KPop Demon Hunters Halloween/cosplay、Street Fighter 2026 reaction、Claude Code/Opus 5.5、GitHub agent skill 新仓，再反推二级搜索词。YouTube 单页复核今日触发 bot gate，因此新增候选若缺精确赞评只进 watchlist/search cluster；Social 主榜保留 9/29-9/30 仍在 15 天窗口内且已过线的 Taylor exact evidence；no na 因 9/18 已超出窗口退出主榜。AI 主榜保留 9/25 Claude Code exact evidence，并更新 GitHub Skill feed 到 10/7 API 样本。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/7 热簇包括 Taylor Swift Patient Zero 长尾与 SNL/评价泡泡、Miley Cyrus Bass Persuades 新专 reaction、Pretty Little Liars text from A 站内梗、KPop Demon Hunters Halloween/cosplay、Street Fighter 2026 trailer reaction、Claude Code senior workflow、Claude Opus 5.5 token/cost 讨论、GitHub agent skill 新仓 answer-me-with-html / replica-skill / yomiyasu / golive-skill / sno-station。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
@@ -614,14 +565,14 @@ window.RADAR_DATA = {
       ],
       "forbiddenPattern": "不要每天固定只搜 pop girl rebrand / celebrity branding / artist branding；这些只能用于验证已发现的热簇是否有 branding 角度。"
     },
-    "researchedThrough": "2026-10-02",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/2 热簇包括 Taylor Patient Zero 彩蛋/心理解读、Taylor 新 era 评价泡泡、no na star 编舞 reaction、KPop Demon Hunters Halloween/cosplay、Obsession Freaky Nikki horror fashion、Claude Code / Opus 5.5 workflow、agent browser / coding context retrieval / coding-agent monitor / AI video skill / game modding skill。",
+    "researchedThrough": "2026-10-07",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/7 热簇包括 Taylor Swift Patient Zero 长尾与 SNL/评价泡泡、Miley Cyrus Bass Persuades 新专 reaction、Pretty Little Liars text from A 站内梗、KPop Demon Hunters Halloween/cosplay、Street Fighter 2026 trailer reaction、Claude Code senior workflow、Claude Opus 5.5 token/cost 讨论、GitHub agent skill 新仓 answer-me-with-html / replica-skill / yomiyasu / golive-skill / sno-station。",
     "sourceExclusions": [
       "No unstable microblog content",
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
     ],
-    "contentWindow": "内容研究窗口：2026.09.17 - 2026.10.02 / 部署包生成：2026-10-02 12:44 CST",
+    "contentWindow": "内容研究窗口：2026.09.22 - 2026.10.07 / 部署包生成：2026-10-07 15:08 CST",
     "fallbackKeywords": [
       "pop culture commentary",
       "celebrity aesthetic analysis",
@@ -629,8 +580,8 @@ window.RADAR_DATA = {
       "AI workflow",
       "open-source AI apps"
     ],
-    "qualityNote": "10/2 新增候选若只有官方源、媒体源、search cluster、旧视频、低赞评或精确视频 URL 待补，一律不进 Social/TikTok/AI 主榜；主榜只收近 15 天已复核过门槛的 Social exact videos 或近 30 天 AI exact videos。",
-    "notes": "Taylor Patient Zero 与 Taylor 口碑讨论由 UGC exact evidence 支撑；no na 继续由 9/18 过线 UGC 支撑；KPop Demon Hunters Halloween/cosplay 与 Obsession/Freaky Nikki 多为窗口外、官方/表演源或 search cluster，因此降级。",
+    "qualityNote": "10/7 新增候选若只有官方源、媒体源、search cluster、旧视频、低赞评或精确视频 URL/互动待补，一律不进 Social/TikTok/AI 主榜；主榜只收近 15 天已复核过门槛的 Social exact videos 或近 30 天 AI exact videos。",
+    "notes": "Taylor Patient Zero 与 Taylor 口碑讨论继续由 9/29-9/30 UGC exact evidence 支撑；Miley、PLL text from A、KPop Demon Hunters、Street Fighter 与 Taylor SNL 只写 search cluster/watchlist；no na 9/18 过线样本已超出本轮 Social 15 天窗口。",
     "blockedSources": [
       "X/Twitter 内容、链接、截图和嵌入",
       "官方 MV / 官方预告 / 官方采访不能直接作为 Social 主榜 UGC 证据",
