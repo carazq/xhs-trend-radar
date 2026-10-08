@@ -529,10 +529,10 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-10-08-1024",
-    "contentWindow": "内容研究窗口：2026.09.23 - 2026.10.08 / 部署包生成：2026-10-08 10:24 CST",
+    "editionId": "2026-10-08-1020",
+    "contentWindow": "内容研究窗口：2026.09.23 - 2026.10.08 / 部署包生成：2026-10-08 10:20 CST",
     "researchedThrough": "2026-10-08",
-    "packageGeneratedAt": "2026-10-08 10:24 CST",
+    "packageGeneratedAt": "2026-10-08 10:20 CST",
     "summary": "10/8 继续动态实体优先：先扫 Taylor Patient Zero/Showgirl 评价泡泡、Halloween reveal 与派对邀请格式、Verity 影视讨论、Street Fighter 2026 reaction、KPop Demon Hunters 万圣节/cosplay、PLL text from A、Claude Code/agent skills、GitHub 新 agent skill 仓库，再反推二级搜索词。YouTube 精确复核仍触发 bot gate，新增候选缺可验证赞评时只进 watchlist/search cluster；Social 主榜保留 9/29-9/30 仍在 15 天窗口且已过线的 Taylor exact evidence。AI 主榜保留 9/25 Claude Code exact evidence，并更新 GitHub Skill feed 到 10/8 API 样本。",
     "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/8 热簇包括 Taylor Swift Patient Zero 长尾与新 era 评价泡泡、Taylor Halloween reveal/party invite 格式、Verity 影视讨论、Street Fighter 2026 trailer reaction、KPop Demon Hunters Halloween/cosplay、Pretty Little Liars text from A、Claude Code/agent skills、GitHub agent skill 新仓 universal-modder / jianying-headless / anything2explainer / answer-me-with-html / geo-sleuth / golive-skill。"
   },
@@ -601,7 +601,7 @@
       "No unstable scraper-only sources",
       "No medicalized body/drug narratives"
     ],
-    "contentWindow": "内容研究窗口：2026.09.23 - 2026.10.08 / 部署包生成：2026-10-08 10:24 CST",
+    "contentWindow": "内容研究窗口：2026.09.23 - 2026.10.08 / 部署包生成：2026-10-08 10:20 CST",
     "fallbackKeywords": [
       "pop culture commentary",
       "celebrity aesthetic analysis",
