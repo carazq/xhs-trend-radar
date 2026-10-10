@@ -9,7 +9,7 @@
         "Celebrity Branding"
       ],
       "priority": "high",
-      "metrics": "10/9 exact evidence：Swiftologist 2026-09-25，78.58万播放 / 19146赞 / 4900评论；Chats & Reacts 2026-09-26，54.73万播放 / 19371赞 / 2700评论；Ally Sheehan 2026-09-26，24.81万播放 / 10024赞 / 1200评论；fantano 2026-09-27，71.25万播放 / 9876赞 / 1300评论，均过 Social 主榜门槛。",
+      "metrics": "10/10 保留窗口内 exact evidence：Swiftologist 2026-09-25，78.58万播放 / 19146赞 / 4900评论；Chats & Reacts 2026-09-26，54.73万播放 / 19371赞 / 2700评论；Ally Sheehan 2026-09-26，24.81万播放 / 10024赞 / 1200评论；fantano 2026-09-27，71.25万播放 / 9876赞 / 1300评论，均过 Social 主榜门槛。",
       "channel": "YouTube exact videos + Search cluster: Taylor Swift The Life of a Showgirl Encore reaction / review / can it change my mind / fan reaction / album criticism",
       "heat": "Showgirl Encore 的高互动 UGC 不只是在听新歌，而是在讨论一个超级明星能否用补充曲目修正口碑、粉丝是否会被“再给一次机会”的叙事重新拉回。",
       "signal": "可转译点：小红书可以写“当作品争议已经成形，补丁式发布还能不能改口碑”。",
@@ -40,96 +40,86 @@
       ]
     },
     {
-      "title": "Verity 电影争议：BookTok IP 进入观众互审模式",
+      "title": "Verity：BookTok 爆款改编被电影评论区重新审判",
       "tags": [
-        "Pop Culture",
         "FilmTok",
         "BookTok",
-        "Movie Review"
+        "Movie Review",
+        "Adaptation Discourse"
       ],
       "priority": "high",
-      "metrics": "10/9 exact evidence：Jeremy Jahns 2026-10-02，43.12万播放 / 9984赞 / 1000评论；Marshall Stannus 2026-09-30，26.26万播放 / 2444赞 / 300评论；Adam Does Movies 2026-10-03，7.23万播放 / 2141赞 / 367评论，均过 Social 主榜门槛。",
-      "channel": "YouTube exact videos + Search cluster: Verity movie review / book vs movie / ending explained / honest review / trailer lied",
-      "heat": "Verity 的讨论从“改编好不好”变成观众互相审判：谁在相信叙事者，谁在讨厌结局，谁觉得电影利用了 BookTok 期待。",
-      "signal": "可转译点：悬疑 IP 最强的传播点不是剧透，而是让评论区分阵营审判角色和叙事者。",
-      "why": "适合小红书：BookTok/FilmTok 迁移、改编争议、结局解释和角色道德判断都天然适合评论互动。",
-      "discussion": "评论热点可引导到：你更讨厌烂改编还是烂结局；看悬疑片会先站角色还是先怀疑叙事者；BookTok 热门书改电影是否天然背负期待债。",
+      "metrics": "10/10 保留窗口内 exact evidence：Jeremy Jahns 2026-10-02，43.12万播放 / 9984赞 / 1000评论；Marshall Stannus 2026-09-30，26.26万播放 / 2444赞 / 300评论；Adam Does Movies 2026-10-03，7.23万播放 / 2141赞 / 367评论，均过 Social 主榜门槛。",
+      "channel": "YouTube exact videos + Search cluster: Verity movie review / Colleen Hoover adaptation / book-to-film reaction / ending explained",
+      "heat": "Verity 的讨论不是单纯“电影好不好看”，而是 BookTok 时代原著粉、路人观众和影评人对改编伦理、角色气质和营销承诺的集体审判。",
+      "signal": "可转译点：小红书可以做“为什么爆款小说改电影，总会先被粉丝审判”。",
+      "why": "适合小红书：读书区、电影区、女性向悬疑和改编争议天然重叠；可用 UGC review 作主证据，避免使用新闻通稿或官方预告冒充评论区热度。",
+      "discussion": "评论热点可引导到：改编最该忠实剧情还是忠实情绪；原著粉是不是电影宣发的第一批质检员；BookTok 热度会不会反噬电影口碑。",
       "ideas": [
-        "标题：Verity 最会吵的地方，不是结局，而是谁在说谎",
-        "结构：三条过线 review -> BookTok 期待 -> 电影改编取舍 -> 评论区互审模板",
-        "评论引导：你看悬疑片会先怀疑角色，还是先怀疑导演？"
+        "标题：爆款小说改电影，为什么最先被粉丝审判？",
+        "结构：三条过线 review -> 原著预期 vs 电影语言 -> 角色气质争议 -> 小红书读书/电影双区选题",
+        "评论引导：你看改编最在意剧情、演员，还是氛围？"
       ],
       "sources": [
         [
           "Jeremy Jahns / 43.12万播放 / 9984赞 / 1000评论",
-          "https://www.youtube.com/watch?v=U5-oKbiXAIk"
+          "https://www.youtube.com/watch?v=EoZsr9bMJAI"
         ],
         [
           "Marshall Stannus / 26.26万播放 / 2444赞 / 300评论",
-          "https://www.youtube.com/watch?v=giPW1OXtDDk"
+          "https://www.youtube.com/watch?v=y-JF9n0dflE"
         ],
         [
           "Adam Does Movies / 7.23万播放 / 2141赞 / 367评论",
-          "https://www.youtube.com/watch?v=d17xwXcZ1k0"
+          "https://www.youtube.com/watch?v=AvGA15aFVx4"
         ]
       ]
     },
     {
-      "title": "Paris Fashion Week：时装周讨论从看秀转向审美方向盘",
+      "title": "Paris Fashion Week：秀场审美被转译成普通人穿搭预测",
       "tags": [
-        "Pop Culture",
         "Fashion",
         "Aesthetic Trend",
-        "Lifestyle Identity"
+        "Runway Commentary",
+        "Xiaohongshu Fit"
       ],
       "priority": "medium",
-      "metrics": "10/9 search cluster exact evidence：What's Paris Fashion Week Really Telling Us?，The Truth IS，2026-10-04，35.52万播放 / 6876赞 / 1700评论，过 Social 主榜门槛。",
-      "channel": "YouTube exact video + Search cluster: Paris Fashion Week 2026 commentary / fashion direction / viral looks / what everyone is wearing in Paris",
-      "heat": "巴黎时装周不只是秀场资讯，评论区更关心“下一季审美往哪走”：安静奢华是否退潮、街拍是否比 runway 更能决定普通人的穿衣模板、品牌视觉是否越来越需要一句可传播的身份标签。",
-      "signal": "可转译点：小红书可以把时装周写成“普通人明年会买什么风格”的审美预测，而不是堆品牌图。",
-      "why": "适合小红书：时尚趋势、穿搭身份、品牌视觉和生活方式叙事都能落地；证据标注为 search cluster 命中的 exact video，避免夸成全站时装周榜首。",
-      "discussion": "评论热点可引导到：你更信 runway 还是街拍；安静奢华是否退潮；今年最想复制的是轮廓、颜色还是态度。",
+      "metrics": "10/10 保留 search-cluster exact evidence：The Truth IS 2026-10-04，35.52万播放 / 6876赞 / 1700评论，过 Social 主榜门槛；其他 PFW 搜索结果多为官方秀场/媒体素材，未进主榜。",
+      "channel": "YouTube exact video + Search cluster: Paris Fashion Week 2026 fashion commentary / viral runway looks / aesthetic forecast",
+      "heat": "PFW 的可转译价值不在“谁坐前排”，而在普通人能从秀场提炼出配色、妆发、廓形和品牌视觉语言。",
+      "signal": "可转译点：小红书可以写“时装周真正可抄的，不是造型，是审美信号”。",
+      "why": "适合小红书：能连接穿搭、妆发、品牌视觉和审美教育；但今日只按审美方向写，不夸成全平台第一热。",
+      "discussion": "评论热点可引导到：你看秀场会直接抄单品吗；什么趋势真正适合日常；审美预测是不是比穿搭清单更有价值。",
       "ideas": [
-        "标题：巴黎时装周真正告诉我们的，是明年普通人会怎么穿",
-        "结构：过线 commentary -> runway 信号 -> 街拍可复制点 -> 小红书穿搭标题模板",
-        "评论引导：你看时装周，是看品牌，还是找明年穿搭答案？"
+        "标题：时装周真正可抄的，不是造型，是审美信号",
+        "结构：一条过线 commentary -> 秀场语言拆成日常元素 -> 小红书穿搭/妆发翻译",
+        "评论引导：你今年最想尝试哪种秀场元素？"
       ],
       "sources": [
         [
           "The Truth IS / 35.52万播放 / 6876赞 / 1700评论",
-          "https://www.youtube.com/watch?v=kC74my3knHQ"
+          "https://www.youtube.com/watch?v=tYFcH3vxqow"
         ]
       ]
     }
   ],
   "youtubeWatchlist": [
     {
-      "title": "Taylor Halloween reveal / party invite：站内格式热，但缺精确视频证据",
-      "reason": "10/9 继续观察 Taylor Halloween reveal、party invite、Showgirl outfit search cluster；适合节日造型、粉丝 era 身份和派对内容模板。没有拿到可复核 TikTok 精确视频 URL 或过线 YouTube UGC，不进主榜。",
-      "sourceType": "Search cluster / exact video pending",
-      "suggestedSearch": "Taylor Swift Halloween reveal party invite Showgirl outfit fan reaction",
-      "xhsAngle": "标题：万圣节不只是变装，而是一次粉丝身份 reveal。"
+      "title": "KPop Demon Hunters Halloween / cosplay",
+      "status": "search cluster",
+      "why": "10 月 Halloween/cosplay 场景继续适配 K-pop、动画角色和群像变装；今日未取得精确过线 UGC 视频，不能进入主榜。",
+      "source": "https://www.youtube.com/results?search_query=KPop+Demon+Hunters+Halloween+cosplay+reaction"
     },
     {
-      "title": "KPop Demon Hunters Halloween/cosplay：有搜索热度，主榜证据仍不足",
-      "reason": "10/9 搜索显示 cosplay 和 reaction 长尾仍活跃，但近窗口内精确视频多为低互动、儿童向剪辑、旧视频或未来日期结果；未找到符合 Social 主榜的 UGC commentary exact evidence。",
-      "sourceType": "Search cluster / performance-source risk / exact evidence pending",
-      "suggestedSearch": "KPop Demon Hunters Halloween costume cosplay HUNTR/X SajaBoys trend",
-      "xhsAngle": "标题：为什么今年万圣节最像一场虚拟女团 cosplay 考试？"
+      "title": "October mood / Text message from -A / Some people call me",
+      "status": "search cluster",
+      "why": "稳定 TikTok 趋势站点继续记录 10 月情绪、文本梗和身份叙事格式；适合做标题模板，但没有精确视频 URL 和热评证据时不进主榜。",
+      "source": "https://www.tiktok.com/search?q=October%20mood%20Text%20message%20from%20A%20Some%20people%20call%20me"
     },
     {
-      "title": "Claude Skills 讲解潮：播放够的多，赞评过线的少",
-      "reason": "10/9 搜索到 Jay E / AI LABS / Claude 官方等新视频，但多数赞评低于 AI 主榜门槛；官方 Claude 视频互动过线但不作为 UGC 主证据。保留为 AI watchlist，用 Simon Scrapes 过线 UGC 支撑主榜。",
-      "sourceType": "YouTube search cluster / exact interaction mixed",
-      "suggestedSearch": "Claude Skills Claude Code mods AI agent skills explained",
-      "xhsAngle": "标题：AI skill 真正变热，是因为大家开始要可复用流程。"
-    },
-    {
-      "title": "Pretty Little Liars text from A：旧 IP 短信人格梗继续待补",
-      "reason": "10/9 沿用 PLL text from A 作为平台梗观察；没有拿到可复核的 TikTok 精确视频 URL 和互动，只保留 search cluster。",
-      "sourceType": "TikTok search cluster / exact video pending",
-      "suggestedSearch": "Pretty Little Liars text from A TikTok trend explained",
-      "xhsAngle": "标题：为什么大家又开始用一条短信演悬疑人格？"
+      "title": "Claude/Codex skill directories",
+      "status": "search cluster",
+      "why": "awesome-claude-codex-skills、skilld、devsly 等目录/榜单可作 AI skill 生态背景；主榜仍只用过线 YouTube exact evidence。",
+      "source": "https://www.youtube.com/results?search_query=Claude+Code+skills+Codex+agent+skills"
     }
   ],
   "aiSignals": [
@@ -142,7 +132,7 @@
         "Creator Tools"
       ],
       "priority": "high",
-      "metrics": "10/9 exact evidence：Everything You Know About Skills IS OUTDATED，Simon Scrapes，2026-10-01，27.04万播放 / 2734赞 / 95评论，过 AI YouTube 主榜门槛。相关官方/工具源：Claude 官方 Mods in Claude Code 2026-10-05，32.10万播放 / 4634赞 / 185评论，仅作产品背景。",
+      "metrics": "10/10 保留窗口内 exact evidence：Everything You Know About Skills IS OUTDATED，Simon Scrapes，2026-10-01，27.04万播放 / 2734赞 / 95评论，过 AI YouTube 主榜门槛。相关官方/工具源：Claude 官方 Mods in Claude Code 2026-10-05，32.10万播放 / 4634赞 / 185评论，仅作产品背景。",
       "channel": "YouTube exact video + Search cluster: Claude Skills / Claude Code mods / skill.md / progressive disclosure / agent workflow",
       "heat": "AI 内容正在从“给我一个神奇提示词”转向“把流程写成技能，让 agent 能反复调用”。评论区更关心技能边界、何时用 skill、何时用 MCP、团队是否要维护自己的 workflow 库。",
       "signal": "可转译点：小红书 AI 内容可以把 skill 讲成普通人的 SOP 资产：一次写清楚，之后让 AI 按你的方法复用。",
@@ -163,73 +153,68 @@
       ]
     },
     {
-      "title": "Claude Code Full Course 2026：AI 编程内容从技巧转向 senior workflow",
-      "tags": [
-        "AI",
-        "Claude Code",
-        "Coding Workflow",
-        "Agent Skills"
-      ],
-      "priority": "high",
-      "metrics": "10/9 保留近 30 天内已复核 exact evidence：Claude Code Full Course 2026 | How Senior Engineers Actually Build with AI，2026-09-25，13.61万播放 / 2032赞 / 167评论，过 AI YouTube 主榜门槛。",
-      "channel": "YouTube exact video + Search cluster: Claude Code full course / senior engineer workflow / AI coding agents / reusable skills",
-      "heat": "AI coding 高互动内容继续从工具演示转向高级工程师如何组织上下文、拆任务、验证和交付；与 Claude Skills/Mods 热簇共同指向“流程资产化”。",
-      "signal": "可转译点：把 Claude Code 拆成普通人也懂的四步：给上下文、拆任务、让它自检、把成功流程沉淀成 skill。",
-      "discussion": "评论热点可引导到：AI 编程是降低门槛还是抬高审查能力；新手该学 prompt 还是学验收；团队是否需要自己的 coding skill 模板。",
-      "xhsTitles": [
-        "Claude Code 真正好用的关键，不是模型，而是你的工作流",
-        "高级工程师怎么用 AI 写代码：先把验收标准讲清楚"
-      ],
-      "sources": [
-        [
-          "JavaScript Mastery / 13.61万播放 / 2032赞 / 167评论",
-          "https://www.youtube.com/watch?v=u2QqWkMv3Lg"
-        ]
-      ]
-    },
-    {
-      "title": "Agent skill 从提示词资产升级为垂直工作台",
+      "title": "Agent skills 市场化：从单个教程变成目录、榜单和跨代理安装",
       "tags": [
         "AI",
         "Agent Skills",
-        "GitHub Trend",
-        "Workflow Productization"
+        "Codex",
+        "GitHub"
       ],
-      "priority": "high",
-      "metrics": "10/9 GitHub Search API 动态样本：rehan-remade/universal-modder 5659 stars / 530 forks；Louis-CFM/coucou 4258 / 715；nykooi1/vibe-wise 3191 / 135；kaankiziltug/logo-design-skill 2379 / 162；QingYunA/answer-me-with-html 2331 / 155；feitangyuan/onetake 1964 / 124。未写成已验证周涨幅。",
-      "channel": "GitHub samples + Search cluster: game modding skill / agent monitor app / vibe coding learning plugin / logo skill / HTML explainer skill / one-take product film skill",
-      "heat": "10/9 样本显示 skill 热潮继续从单点 prompt 扩展为垂直工作台：游戏 mod、agent 审批监控、边做边学的 coding plugin、品牌 logo、一页 HTML 解释器、连续镜头产品片都被打包成 agent 可执行资产。",
-      "signal": "可转译点：AI 创作者以后卖的不是 prompt，而是能被复用、被检查、可交付的一整套 workflow。",
-      "discussion": "评论热点可引导到：skill 会不会变成个人作品集；创意和上线流程是否会被产品化；普通人应该先沉淀哪一个高频工作流。",
+      "priority": "medium",
+      "metrics": "10/10 GitHub/API + 稳定网页样本：skymined/awesome-claude-codex-skills 标注 daily directory；skilld/devsly 等榜单追踪 agent skill；GitHub Search API 命中 answer-me-with-html 2543 stars / 172 forks、jianying-headless 3025 / 1949、replica-skill 1393 / 180、golive-skill 1258 / 95。该条为生态信号，不伪装成 YouTube 视频。",
+      "channel": "GitHub Search API + Search cluster: Claude Codex skills / agent skill marketplace / skill distribution / workflow library",
+      "heat": "skill 生态正在从“个人写一段 prompt”走向“可安装、可组合、可迁移的工作流资产”。讨论焦点变成谁来维护、怎么版本化、不同 agent 能不能共用同一套技能。",
+      "signal": "可转译点：小红书可以把 AI skill 解释成普通人的可安装 SOP，而不是程序员专属插件。",
+      "discussion": "评论热点可引导到：你最想把哪件重复劳动做成 skill；skill 是知识管理还是自动化产品；个人 IP 能不能卖自己的 workflow 包。",
       "xhsTitles": [
-        "AI skill 的下一波：把一整套工作流打包成资产",
-        "从游戏 mod 到产品片，agent skill 正在变成个人生产线"
+        "AI skill 现在像插件市场：谁会先拥有自己的工作流库？",
+        "从 prompt 到 skill，AI 工具正在变成可安装资产"
       ],
       "sources": [
         [
-          "GitHub: rehan-remade/universal-modder",
-          "https://github.com/rehan-remade/universal-modder"
+          "awesome-claude-codex-skills daily directory",
+          "https://github.com/skymined/awesome-claude-codex-skills"
         ],
         [
-          "GitHub: Louis-CFM/coucou",
-          "https://github.com/Louis-CFM/coucou"
-        ],
-        [
-          "GitHub: nykooi1/vibe-wise",
-          "https://github.com/nykooi1/vibe-wise"
-        ],
-        [
-          "GitHub: QingYunA/answer-me-with-html",
+          "answer-me-with-html / 2543 stars / 172 forks",
           "https://github.com/QingYunA/answer-me-with-html"
         ],
         [
-          "GitHub: feitangyuan/onetake",
-          "https://github.com/feitangyuan/onetake"
+          "jianying-headless / 3025 stars / 1949 forks",
+          "https://github.com/mcncarl/jianying-headless"
+        ],
+        [
+          "replica-skill / 1393 stars / 180 forks",
+          "https://github.com/Jakeschincariol/replica-skill"
         ]
       ]
     }
   ],
   "tiktokSignals": [
+    {
+      "title": "October mood：秋季情绪从视觉素材变成身份标签",
+      "tags": [
+        "TikTok",
+        "Lifestyle",
+        "Aesthetic"
+      ],
+      "sourceType": "站内搜索聚类 / 稳定趋势站点观察 / 精确 TikTok 视频待补",
+      "heat": "SocialPilot 10/10 前后仍记录 #octobermood、秋季 montage、咖啡馆/美甲/发型/唱片店等生活方式场景；适合小红书做模板化标题和生活方式身份叙事。",
+      "xhsAngle": "标题：10 月流行感，不是南瓜，是你给自己贴的情绪标签",
+      "source": "https://www.tiktok.com/search?q=octobermood"
+    },
+    {
+      "title": "Text message from -A：影视梗变成日常吐槽模板",
+      "tags": [
+        "TikTok",
+        "Platform Meme",
+        "TV Nostalgia"
+      ],
+      "sourceType": "站内搜索聚类 / 稳定趋势站点观察 / 精确 TikTok 视频待补",
+      "heat": "Later 10 月趋势页记录 Text message from -A 格式；可从 Pretty Little Liars 式悬疑短信转译成工作、恋爱、朋友局吐槽。",
+      "xhsAngle": "标题：如果今天收到一条来自 A 的短信，你最怕它写什么？",
+      "source": "https://www.tiktok.com/search?q=Text%20message%20from%20A"
+    },
     {
       "title": "Taylor Showgirl Encore：补丁式发布变成粉丝改观测试",
       "tags": [
@@ -243,241 +228,193 @@
       "source": "https://www.tiktok.com/search?q=Taylor%20Swift%20Showgirl%20Encore%20reaction"
     },
     {
-      "title": "Verity movie：BookTok 到 FilmTok 的审判迁移",
+      "title": "Verity movie：BookTok 读者把改编当成公开质检",
       "tags": [
         "TikTok",
-        "FilmTok",
-        "BookTok"
+        "BookTok",
+        "FilmTok"
       ],
-      "sourceType": "站内搜索聚类 / YouTube review exact evidence / 精确 TikTok 视频待补",
-      "heat": "YouTube 影评已过线；TikTok 侧适合观察 Verity ending、book vs movie、trailer lied、Anne Hathaway 角色争议和观众阵营。",
-      "xhsAngle": "标题：Verity 最会吵的地方，不是结局，而是谁在说谎",
-      "source": "https://www.tiktok.com/search?q=Verity%20movie%20book%20ending%20reaction"
+      "sourceType": "站内搜索聚类 / YouTube UGC exact evidence / 精确 TikTok 视频待补",
+      "heat": "YouTube 影评已过线；TikTok 侧适合追 Verity movie reaction、book vs movie、Colleen Hoover adaptation 讨论。",
+      "xhsAngle": "标题：爆款小说改电影，为什么最先被粉丝审判？",
+      "source": "https://www.tiktok.com/search?q=Verity%20movie%20reaction"
     },
     {
-      "title": "Paris Fashion Week：下一季审美方向搜索聚类",
+      "title": "Claude/Codex skills：AI 工作流从 prompt 收藏变成可安装资产",
       "tags": [
         "TikTok",
-        "Fashion",
-        "Aesthetic Trend"
-      ],
-      "sourceType": "站内搜索聚类 / YouTube exact evidence",
-      "heat": "YouTube 命中一条 35.52万播放时装周解读；TikTok 侧适合观察 viral looks、what everyone is wearing in Paris、quiet luxury 后续和品牌视觉标签。",
-      "xhsAngle": "标题：巴黎时装周真正告诉我们的，是明年普通人会怎么穿",
-      "source": "https://www.tiktok.com/search?q=Paris%20Fashion%20Week%202026%20viral%20looks"
-    },
-    {
-      "title": "KPop Demon Hunters Halloween/cosplay：虚拟女团变装模板",
-      "tags": [
-        "TikTok",
-        "Cosplay",
-        "Halloween"
-      ],
-      "sourceType": "站内搜索聚类 / 精确 TikTok 视频待补",
-      "heat": "YouTube 侧未找到近窗口高质量 UGC commentary exact evidence；TikTok 侧继续适合观察 HUNTR/X、SajaBoys、Golden、Soda Pop、Halloween costume/cosplay。",
-      "xhsAngle": "标题：为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
-      "source": "https://www.tiktok.com/search?q=KPop%20Demon%20Hunters%20Halloween%20costume%20cosplay"
-    },
-    {
-      "title": "Claude Skills：AI 工作流从收藏 prompt 转向沉淀 SOP",
-      "tags": [
-        "TikTok",
-        "AI Workflow",
+        "AI",
         "Creator Economy"
       ],
-      "sourceType": "站内搜索聚类 / YouTube AI exact evidence / GitHub samples",
-      "heat": "YouTube 和 GitHub 同时显示 skill/workflow 资产化；TikTok 侧适合观察普通人如何把写作、剪辑、设计、代码审查做成可复用流程。",
+      "sourceType": "站内搜索聚类 / GitHub Search API / YouTube exact evidence",
+      "heat": "Claude Skills exact YouTube 样本过线，GitHub skill 目录和新仓继续活跃；TikTok 侧适合观察普通人工作流、AI side hustle、prompt library 升级。",
       "xhsAngle": "标题：别再只收藏 prompt 了，你该把工作流写成 skill",
       "source": "https://www.tiktok.com/search?q=Claude%20Skills%20AI%20workflow"
     }
   ],
   "githubSkills": [
     {
-      "name": "rehan-remade/universal-modder",
-      "stars": 5659,
-      "forks": 530,
-      "createdAt": "2026-09-30",
-      "pushedAt": "2026-10-08",
-      "whyItMatters": "把 Claude Code、MCP、生成式素材和游戏 modding 打包成一套可执行技能，显示 agent skill 正在进入游戏/创意生产工作台。",
-      "xhsAngle": "标题：AI skill 已经开始帮人改游戏，而不是只写代码。",
-      "url": "https://github.com/rehan-remade/universal-modder"
-    },
-    {
-      "name": "Louis-CFM/coucou",
-      "stars": 4258,
-      "forks": 715,
-      "createdAt": "2026-09-27",
-      "pushedAt": "2026-10-09",
-      "whyItMatters": "把多种 AI coding agents 的审批和状态放进桌面/手机界面，说明 agent 工作流开始需要可见、可控、可中断的操作层。",
-      "xhsAngle": "标题：当你同时开好几个 AI agent，真正稀缺的是控制台。",
-      "url": "https://github.com/Louis-CFM/coucou"
-    },
-    {
-      "name": "nykooi1/vibe-wise",
-      "stars": 3191,
-      "forks": 135,
-      "createdAt": "2026-09-29",
-      "pushedAt": "2026-10-06",
-      "whyItMatters": "把 vibe coding 从替你写，转成边写边学，击中新手使用 AI 编程时最焦虑的“我到底有没有学会”。",
-      "xhsAngle": "标题：AI 写代码之后，新手最需要的是一个学习副驾驶。",
-      "url": "https://github.com/nykooi1/vibe-wise"
+      "name": "mcncarl/jianying-headless",
+      "stars": 3025,
+      "forks": 1949,
+      "createdAt": "2026-09-15",
+      "pushedAt": "2026-09-27",
+      "whyItMatters": "把剪映草稿、隔离编辑/导出和 standalone Agent Skill 打包，说明 skill 正在进入短视频生产工具链。",
+      "xhsAngle": "标题：AI skill 不只写代码，也开始接管短视频剪辑草稿。",
+      "url": "https://github.com/mcncarl/jianying-headless"
     },
     {
       "name": "QingYunA/answer-me-with-html",
-      "stars": 2331,
-      "forks": 155,
+      "stars": 2543,
+      "forks": 172,
       "createdAt": "2026-10-02",
-      "pushedAt": "2026-10-08",
-      "whyItMatters": "把复杂问题的回答固定输出为一页可读 HTML，说明知识解释类 agent skill 正在从文字答案转向可浏览交付物。",
-      "xhsAngle": "标题：以后问 AI，不一定要一段文字，而是一页能看的网页。",
+      "pushedAt": "2026-10-10",
+      "whyItMatters": "把复杂回答变成可浏览的一页 HTML，适合解释型内容、咨询交付和小红书长图/网页灵感库。",
+      "xhsAngle": "标题：为什么 AI 回答开始从文字，变成一页能看的网页？",
       "url": "https://github.com/QingYunA/answer-me-with-html"
     },
     {
-      "name": "feitangyuan/onetake",
-      "stars": 1964,
-      "forks": 124,
+      "name": "kaankiziltug/logo-design-skill",
+      "stars": 2452,
+      "forks": 170,
       "createdAt": "2026-09-26",
-      "pushedAt": "2026-10-08",
-      "whyItMatters": "把产品发布片、功能演示和连续镜头叙事做成 Claude Agent Skill，显示创意视频 production workflow 正在 skill 化。",
-      "xhsAngle": "标题：AI skill 下一步，是把产品片也变成可复用流程。",
-      "url": "https://github.com/feitangyuan/onetake"
+      "pushedAt": "2026-09-30",
+      "whyItMatters": "把 logo 原则、流程、SVG craft、测试工具和参考库做成 skill，代表设计知识开始被结构化为 agent 工作流。",
+      "xhsAngle": "标题：AI 设计真正变强，不是会画图，是有一套审美 SOP。",
+      "url": "https://github.com/kaankiziltug/logo-design-skill"
+    },
+    {
+      "name": "Oldcircle/geo-sleuth",
+      "stars": 1575,
+      "forks": 162,
+      "createdAt": "2026-09-18",
+      "pushedAt": "2026-10-09",
+      "whyItMatters": "把图片地理定位、OSM、海拔天际线、卫星图和街景验证做成 agent skill，显示技能正在进入专业调查/内容考据场景。",
+      "xhsAngle": "标题：一张照片能被 AI 反推地点，内容考据会变成新技能吗？",
+      "url": "https://github.com/Oldcircle/geo-sleuth"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "stars": 1393,
+      "forks": 180,
+      "createdAt": "2026-10-03",
+      "pushedAt": "2026-10-03",
+      "whyItMatters": "把 app 逆向、重建、测试和修复用户痛点包装成一组技能，反映 indie hacker 正在把 agent 当产品复制工作台。",
+      "xhsAngle": "标题：AI skill 的新方向：不是问答，而是复刻一个产品。",
+      "url": "https://github.com/Jakeschincariol/replica-skill"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "stars": 1258,
+      "forks": 95,
+      "createdAt": "2026-09-23",
+      "pushedAt": "2026-10-04",
+      "whyItMatters": "把 hosting、database、domain、email、payments 的上线流程沉淀成 detect-plan-approve-apply-verify 技能，适合解释 agent 交付闭环。",
+      "xhsAngle": "标题：AI 做网站已经不稀奇，能上线收款才是下一步。",
+      "url": "https://github.com/mikehasa/golive-skill"
     }
   ],
   "sparkPool": [
     {
-      "id": "2026-10-09-spark-1",
-      "title": "Taylor Encore 从新歌反应变成改口碑考试",
-      "xhsTitle": "Taylor 的 Encore，为什么像一次公开改口碑考试？",
-      "hook": "你会因为补充曲目重新评价一张专辑吗？",
-      "score": 97,
-      "from": "Taylor Swift / The Life of a Showgirl / fan reaction"
+      "lane": "Celebrity / Music",
+      "prompt": "Taylor Encore 不只是 deluxe 曲目，而是超级明星在公开环境里处理差评的一次产品迭代。",
+      "xhsPost": "标题：Taylor 的 Encore，为什么像一次公开改口碑考试？",
+      "format": "四屏长图：争议形成 -> Encore 发布 -> reaction 证据 -> 粉丝/路人分歧"
     },
     {
-      "id": "2026-10-09-spark-2",
-      "title": "Verity 电影争议让观众进入互审模式",
-      "xhsTitle": "Verity 最会吵的地方，不是结局，而是谁在说谎",
-      "hook": "你看悬疑片会先怀疑角色，还是先怀疑导演？",
-      "score": 94,
-      "from": "Verity / BookTok / FilmTok"
+      "lane": "BookTok / FilmTok",
+      "prompt": "Verity 说明爆款小说改编最难的不是还原剧情，而是管理粉丝对角色气质和情绪强度的预期。",
+      "xhsPost": "标题：爆款小说改电影，为什么最先被粉丝审判？",
+      "format": "影评拆解 + 原著粉评论问题清单"
     },
     {
-      "id": "2026-10-09-spark-3",
-      "title": "Paris Fashion Week 可写成普通人审美预测",
-      "xhsTitle": "巴黎时装周真正告诉我们的，是明年普通人会怎么穿",
-      "hook": "你看时装周，是看品牌，还是找明年穿搭答案？",
-      "score": 88,
-      "from": "Paris Fashion Week / fashion / aesthetic trend"
+      "lane": "TikTok Template",
+      "prompt": "October mood、Text message from -A、Some people call me 都是把自我描述做成可复制文本格式。",
+      "xhsPost": "标题：10 月 TikTok 的流行感，不是南瓜，是情绪标签",
+      "format": "模板合集：5 个可直接套用的标题/封面文案"
     },
     {
-      "id": "2026-10-09-spark-4",
-      "title": "Claude Skills 把 prompt 收藏变成 SOP 资产",
-      "xhsTitle": "别再只收藏 prompt 了，你该把工作流写成 skill",
-      "hook": "你最想把哪个重复工作做成自己的 AI skill？",
-      "score": 93,
-      "from": "Claude Skills / AI workflow / agent skills"
-    },
-    {
-      "id": "2026-10-09-spark-5",
-      "title": "Agent skill 新仓显示垂直工作台继续外溢",
-      "xhsTitle": "从游戏 mod 到产品片，agent skill 正在变成个人生产线",
-      "hook": "你会把 skill 当作品集、工具箱，还是创业项目？",
-      "score": 91,
-      "from": "GitHub / agent skill / workflow productization"
-    },
-    {
-      "id": "2026-10-09-spark-6",
-      "title": "KPop Demon Hunters Halloween 仍适合作为待补灵感",
-      "xhsTitle": "为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
-      "hook": "你更想偷妆容公式，还是直接 cos 一个角色？",
-      "score": 79,
-      "from": "KPop Demon Hunters / Halloween / cosplay"
+      "lane": "AI Workflow",
+      "prompt": "Agent skill 的价值不是更聪明的模型，而是把你的判断、流程和审美保存成下一次可调用的资产。",
+      "xhsPost": "标题：别再只收藏 prompt 了，你该把工作流写成 skill",
+      "format": "普通人 SOP 案例：选题、写作、剪辑、复盘各一个 skill"
     }
   ],
   "valueFlows": [
     {
-      "lane": "AI tools",
-      "from": "Claude Code Full Course exact video + GitHub skill samples",
-      "to": "普通人工作流解释、团队知识管理、agent skill 商品化",
-      "action": "优先做解释型卡片，不做工具堆砌榜单。"
+      "from": "Overseas UGC reaction",
+      "to": "Xiaohongshu cultural explainer",
+      "move": "把播放/赞评证据压缩成一个可评论的问题，而不是搬运原视频。",
+      "example": "Taylor Encore -> 作品争议后，继续解释是修复还是消耗？"
     },
     {
-      "lane": "Pop fandom",
-      "from": "Patient Zero exact videos + Taylor bad-review commentary",
-      "to": "粉丝参与感、彩蛋劳动、评价泡泡、创作者真实反馈",
-      "action": "用已过线 exact 支撑主榜，把 SNL/新搜索只作为语境。"
+      "from": "TikTok search cluster",
+      "to": "Xiaohongshu template post",
+      "move": "没有精确视频时只抽取格式，不伪装热评；把格式翻译成中文可复用标题。",
+      "example": "Text message from -A -> 如果今天收到一条来自 A 的短信。"
     },
     {
-      "lane": "TikTok search cluster",
-      "from": "PLL text from A / Miley Bass Persuades / KPop Demon Hunters cosplay",
-      "to": "怀旧 IP、声音人格、万圣节变装、平台身份叙事",
-      "action": "标注 search cluster，拿不到精确视频 URL 和热评前不进 TikTok 主榜。"
+      "from": "GitHub skill repo",
+      "to": "Creator workflow product idea",
+      "move": "把 stars/forks 当生态信号，不当消费级爆款；观察可交付场景。",
+      "example": "answer-me-with-html -> 把复杂回答交付成一页网页。"
     }
   ],
   "arbitragePicks": [
     {
-      "title": "把 Taylor Encore 写成补丁式发布和改口碑考试",
-      "why": "多条过线 UGC exact evidence，能从粉丝 reaction 转译到创作者面对差评时的迭代策略。",
-      "xhsTitle": "Taylor 的 Encore，为什么像一次公开改口碑考试？",
-      "format": "6 张卡片：反应数据 -> Encore 是补丁还是新叙事 -> 粉丝改观测试 -> 创作者何时解释 -> 评论投票",
-      "sourceType": "YouTube UGC reaction exact videos"
+      "title": "Taylor Encore：把差评处理讲成个人品牌迭代",
+      "sourceCluster": "YouTube exact videos / Music reaction",
+      "xhsTitle": "作品翻车后，补丁式发布真的能救口碑吗？",
+      "whyItTravels": "国内小红书创作者也常遇到“解释越多越像辩解”的问题，能从明星案例转译到个人品牌、产品迭代和内容复盘。",
+      "evidence": "四条 YouTube UGC reaction/review 已过 Social 主榜门槛。"
     },
     {
-      "title": "把 Verity 写成 BookTok 改编审判局",
-      "why": "三条过线影评 exact evidence，适合影视号用结局争议和角色道德判断带评论。",
-      "xhsTitle": "Verity 最会吵的地方，不是结局，而是谁在说谎",
-      "format": "5 张卡片：改编期待 -> 电影争议 -> 叙事者怀疑 -> 评论区分阵营 -> 你站谁",
-      "sourceType": "YouTube movie review exact videos"
+      "title": "Verity：BookTok 改编审判",
+      "sourceCluster": "YouTube exact videos / Film review",
+      "xhsTitle": "为什么爆款小说改电影，总会先被原著粉审判？",
+      "whyItTravels": "小红书读书区和影视区天然重叠，适合用“改编预期管理”解释粉丝为什么会从宣发助力变成口碑压力。",
+      "evidence": "三条 YouTube UGC review 已过 Social 主榜门槛。"
     },
     {
-      "title": "把 AI skill 写成普通人的 SOP 资产",
-      "why": "YouTube 过线解读与 GitHub 新 skill 仓库同向，适合效率号/创业号把技能资产化讲透。",
-      "xhsTitle": "别再只收藏 prompt 了，你该把工作流写成 skill",
-      "format": "6 张卡片：prompt 的问题 -> skill 是什么 -> 可复用流程 -> 示例 -> 普通人第一步",
-      "sourceType": "YouTube AI exact video + GitHub API dynamic samples"
+      "title": "Agent skills：把 prompt 收藏升级成工作流资产",
+      "sourceCluster": "YouTube exact video + GitHub Search API",
+      "xhsTitle": "AI skill 现在像插件市场：谁会先拥有自己的工作流库？",
+      "whyItTravels": "小红书 AI 用户更关心普通人可落地工作流，不关心底层术语；skill 可以被翻译成 SOP、模板库、个人效率资产。",
+      "evidence": "Simon Scrapes 视频过 AI 主榜门槛；GitHub 新 skill 仓库和目录持续更新。"
     }
   ],
   "weeklySop": [
-    {
-      "title": "动态实体先行",
-      "detail": "10/7 先扫 Taylor Patient Zero/SNL/口碑讨论、Miley Bass Persuades、PLL text from A、KPop Demon Hunters Halloween、Street Fighter 2026、Claude Code/Opus 5.5、GitHub 新 skill，再反推二级搜索词。"
-    },
-    {
-      "title": "主榜继续只收过线 exact",
-      "detail": "Social 主榜只保留 9/29-9/30 仍在窗口内且过线的 Taylor exact videos；no na 9/18 超出窗口，Miley/PLL/KPop/Street Fighter 均因缺精确互动降级。"
-    },
-    {
-      "title": "AI 主榜按 30 天窗口处理",
-      "detail": "保留 9/25 Claude Code 课程；9/3 Skills vs MCP 已超出 30 天窗口，移出 AI 主榜，只作方法论背景。"
-    },
-    {
-      "title": "GitHub Skill 不写伪涨幅",
-      "detail": "10/7 GitHub feed 写 API 当日 stars/forks/created_at/pushed_at，不把固定仓库或未比较数据写成周上涨榜。"
-    }
+    "先做动态热簇发现：人物、作品、事件、梗、视觉风格、平台格式、AI 产品/仓库。",
+    "再用实体组合二级搜索词，不用固定抽象词决定当天抓什么。",
+    "YouTube/TikTok 主榜必须有精确视频和可见互动证据；被 gate 或只拿到搜索页时降级为 search cluster。",
+    "官方 MV、官方采访、红毯、新闻网站内容只作背景，不直接进 Social 主榜。",
+    "GitHub skill 只写当前 API 可见 stars/forks/更新时间，不把固定仓库列表写成上涨榜。",
+    "可见选题继续过滤高风险医疗化叙事、身体极端化叙事和可能引导模仿的内容。"
   ],
   "contentFormats": [
     {
-      "title": "四象限解释卡",
-      "useFor": "Agent skill / workflow productization",
-      "structure": "一句话定义 -> 适用场景 -> 可交付物 -> 评论区投票"
+      "format": "三证据一判断",
+      "useFor": "Taylor / Verity / PFW 这类已过线 UGC",
+      "structure": "精确视频指标 -> 评论区问题 -> 文化判断 -> 小红书评论引导"
     },
     {
-      "title": "粉丝侦探拆解",
-      "useFor": "Patient Zero / MV 彩蛋",
-      "structure": "视觉符号 -> cameo 讨论 -> 粉丝劳动 -> 品牌可借鉴点"
+      "format": "Search cluster 转模板",
+      "useFor": "October mood / Text message from -A / TikTok 梗",
+      "structure": "标注 search cluster -> 不放错链 -> 提炼中文标题模板 -> 让用户补充自己的版本"
     },
     {
-      "title": "Search cluster 降级模板",
-      "useFor": "Miley / PLL / KPop Demon Hunters / Street Fighter",
-      "structure": "今天看到什么 -> 为什么不能进主榜 -> 下一步补什么证据 -> 可预留标题"
+      "format": "AI skill 普通人化",
+      "useFor": "Claude/Codex skills / GitHub skill repo",
+      "structure": "不要讲术语堆叠 -> 用一个高频任务举例 -> 解释一次写清楚多次复用 -> 评论区征集 workflow"
     }
   ],
   "summarySparks": [
     {
-      "title": "Taylor Encore 从新歌反应变成改口碑考试",
+      "title": "Taylor Encore 仍是粉丝改口碑考试",
       "xhsTitle": "Taylor 的 Encore，为什么像一次公开改口碑考试？",
       "commentHook": "你会因为补充曲目重新评价一张专辑吗？",
       "heatScore": 97,
-      "whyNow": "10/9 exact evidence：Swiftologist 78.58万播放 / 19146赞 / 4900评论，Chats & Reacts 54.73万播放 / 19371赞 / 2700评论，Ally Sheehan 24.81万播放 / 10024赞 / 1200评论，fantano 71.25万播放 / 9876赞 / 1300评论。",
+      "whyNow": "仍在 2026.09.25 - 2026.10.10 窗口内，且 10/9 exact evidence 已复核过线：Swiftologist 78.58万播放 / 19146赞 / 4900评论，Chats & Reacts 54.73万播放 / 19371赞 / 2700评论，Ally Sheehan 24.81万播放 / 10024赞 / 1200评论，fantano 71.25万播放 / 9876赞 / 1300评论。",
       "xhsFit": "高，适合明星叙事、粉丝反馈、作品迭代和个人品牌讨论。",
       "related": [
         "Taylor Swift",
@@ -486,68 +423,68 @@
       ]
     },
     {
-      "title": "Verity 电影争议让观众进入互审模式",
-      "xhsTitle": "Verity 最会吵的地方，不是结局，而是谁在说谎",
-      "commentHook": "你看悬疑片会先怀疑角色，还是先怀疑导演？",
-      "heatScore": 94,
-      "whyNow": "Jeremy Jahns 43.12万播放 / 9984赞 / 1000评论，Marshall Stannus 26.26万播放 / 2444赞 / 300评论，Adam Does Movies 7.23万播放 / 2141赞 / 367评论，均过 Social 主榜门槛。",
-      "xhsFit": "高，适合影视号、BookTok/FilmTok 迁移、结局争议和角色道德审判。",
+      "title": "Verity 改编争议是 BookTok 的审判现场",
+      "xhsTitle": "爆款小说改电影，为什么最先被粉丝审判？",
+      "commentHook": "你看改编时最在意忠实原著、演员气质，还是电影本身？",
+      "heatScore": 92,
+      "whyNow": "仍在窗口内，10/9 exact evidence 已复核过线：Jeremy Jahns 43.12万播放 / 9984赞 / 1000评论，Marshall Stannus 26.26万播放 / 2444赞 / 300评论，Adam Does Movies 7.23万播放 / 2141赞 / 367评论。",
+      "xhsFit": "高，适合 BookTok/FilmTok、改编预期管理、粉丝二创和电影口碑讨论。",
       "related": [
         "Verity",
-        "BookTok",
-        "FilmTok"
+        "Colleen Hoover",
+        "book-to-film"
       ]
     },
     {
-      "title": "Paris Fashion Week 可写成普通人审美预测",
-      "xhsTitle": "巴黎时装周真正告诉我们的，是明年普通人会怎么穿",
-      "commentHook": "你看时装周，是看品牌，还是找明年穿搭答案？",
-      "heatScore": 88,
-      "whyNow": "The Truth IS 10/4 exact evidence 35.52万播放 / 6876赞 / 1700评论，来自 pop culture commentary search cluster 命中。",
-      "xhsFit": "中高，适合穿搭趋势、品牌视觉、生活方式身份和可复制风格清单。",
+      "title": "Paris Fashion Week 变成普通人审美预测入口",
+      "xhsTitle": "时装周真正可抄的，不是造型，是审美信号",
+      "commentHook": "你会从秀场看趋势，还是只看穿搭博主二次翻译？",
+      "heatScore": 86,
+      "whyNow": "10/9 exact evidence：The Truth IS 2026-10-04，35.52万播放 / 6876赞 / 1700评论。今日只保留为审美方向 search cluster，不夸成全平台爆款。",
+      "xhsFit": "中高，适合把秀场话题转译成妆发、配色、通勤穿搭和品牌视觉语言。",
       "related": [
         "Paris Fashion Week",
-        "fashion",
-        "aesthetic trend"
+        "fashion commentary",
+        "aesthetic forecast"
       ]
     },
     {
-      "title": "Claude Skills 把 prompt 收藏变成 SOP 资产",
-      "xhsTitle": "别再只收藏 prompt 了，你该把工作流写成 skill",
-      "commentHook": "你最想把哪个重复工作做成自己的 AI skill？",
-      "heatScore": 93,
-      "whyNow": "Simon Scrapes 10/1 exact evidence 27.04万播放 / 2734赞 / 95评论，过 AI 主榜门槛；Claude 官方 Mods 视频可作产品背景。",
-      "xhsFit": "高，适合普通人工作流、创作者工具、产品人格和创业 idea。",
+      "title": "October TikTok 进入文本梗和秋季情绪聚类",
+      "xhsTitle": "10 月 TikTok 的流行感，不是南瓜，是情绪标签",
+      "commentHook": "你最近更爱文字梗、秋季氛围，还是影视台词二创？",
+      "heatScore": 82,
+      "whyNow": "稳定趋势站点 10/10 前后继续记录 #octobermood、Text message from -A、Some people call me 等格式；今日未拿到精确 TikTok 视频 URL，只进入 search cluster。",
+      "xhsFit": "中高，适合做小红书标题模板、评论互动模板和生活方式身份叙事。",
+      "related": [
+        "October mood",
+        "Text message from -A",
+        "Some people call me"
+      ]
+    },
+    {
+      "title": "Claude/Codex skills 从教程变成分发目录",
+      "xhsTitle": "AI skill 现在像插件市场：谁会先拥有自己的工作流库？",
+      "commentHook": "你更想收藏 prompt，还是安装一个可复用 skill？",
+      "heatScore": 91,
+      "whyNow": "YouTube exact evidence 保留 Simon Scrapes 2026-10-01，27.04万播放 / 2734赞 / 95评论；网页索引和 GitHub 搜索显示 skills directory、agent skill marketplace、跨代理安装继续升温。",
+      "xhsFit": "高，适合普通人工作流、知识资产、AI 工具人格和团队 SOP 选题。",
       "related": [
         "Claude Skills",
-        "AI workflow",
-        "agent skills"
+        "Codex skills",
+        "agent workflow"
       ]
     },
     {
-      "title": "Agent skill 新仓显示垂直工作台继续外溢",
-      "xhsTitle": "从游戏 mod 到产品片，agent skill 正在变成个人生产线",
-      "commentHook": "你会把 skill 当作品集、工具箱，还是创业项目？",
-      "heatScore": 91,
-      "whyNow": "10/9 GitHub API 样本：universal-modder 5659 stars、coucou 4258、vibe-wise 3191、logo-design-skill 2379、answer-me-with-html 2331、onetake 1964；不写成已验证周涨幅。",
-      "xhsFit": "高，能转成普通人工作流、创作者产品化和个人资产叙事。",
+      "title": "GitHub skill 新仓更像可执行创意工具",
+      "xhsTitle": "AI agent skill 的新方向：直接替你生成可交付作品",
+      "commentHook": "你最想让 AI skill 固化哪一个重复工作？",
+      "heatScore": 88,
+      "whyNow": "GitHub Search API 10/10 样本显示 answer-me-with-html、jianying-headless、replica-skill、golive-skill、geo-sleuth 等仍有高 star/更新信号；未写成已验证周涨幅。",
+      "xhsFit": "高，适合解释 AI 从聊天工具变成“可安装工作流”的产品机会。",
       "related": [
-        "GitHub",
         "agent skill",
-        "workflow productization"
-      ]
-    },
-    {
-      "title": "KPop Demon Hunters Halloween 仍适合作为待补灵感",
-      "xhsTitle": "为什么今年万圣节最像一场虚拟女团 cosplay 考试？",
-      "commentHook": "你更想偷妆容公式，还是直接 cos 一个角色？",
-      "heatScore": 79,
-      "whyNow": "10/9 搜索显示 Halloween/cosplay search cluster 仍活跃，但近窗口 exact video 多为低互动、旧视频或未来日期结果；降级 watchlist。",
-      "xhsFit": "中高，适合妆造拆解、万圣节灵感、虚拟偶像和 K-pop 审美模板。",
-      "related": [
-        "KPop Demon Hunters",
-        "Halloween",
-        "cosplay"
+        "GitHub",
+        "workflow library"
       ]
     }
   ],
@@ -571,12 +508,12 @@
   ],
   "meta": {
     "label": "数据版本",
-    "editionId": "2026-10-09-1010",
-    "contentWindow": "内容研究窗口：2026.09.24 - 2026.10.09 / 部署包生成：2026-10-09 10:10 CST",
-    "researchedThrough": "2026-10-09",
-    "packageGeneratedAt": "2026-10-09 10:10 CST",
-    "summary": "10/9 继续动态实体优先：先扫 Taylor Showgirl Encore、Verity 电影争议、Paris Fashion Week 审美方向、KPop Demon Hunters Halloween/cosplay、Taylor Halloween reveal、Claude Skills/Claude Code mods、GitHub agent skill 新仓，再反推二级搜索词。Social 主榜新增 Showgirl Encore、Verity、Paris Fashion Week exact evidence；AI 主榜新增 Simon Scrapes 的 Skills 解读 exact evidence，并保留 Claude Code full course。未拿到精确 TikTok 视频 URL 的趋势全部标注为站内搜索聚类/待补。",
-    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/9 热簇包括 Taylor Swift The Life of a Showgirl: The Encore reaction/review、Verity movie/book-to-film review、Paris Fashion Week 2026/2027 aesthetic commentary、KPop Demon Hunters Halloween/cosplay、Taylor Halloween reveal、Claude Skills / Claude Code mods / AI workflow skills、GitHub 新 agent skill 仓库 universal-modder / coucou / vibe-wise / answer-me-with-html / onetake。"
+    "editionId": "2026-10-10-1010",
+    "contentWindow": "内容研究窗口：2026.09.25 - 2026.10.10 / 部署包生成：2026-10-10 10:10 CST",
+    "researchedThrough": "2026-10-10",
+    "packageGeneratedAt": "2026-10-10 10:10 CST",
+    "summary": "10/10 继续动态实体优先：先扫 Taylor Showgirl Encore、Verity 电影争议、Paris Fashion Week 审美方向、KPop Demon Hunters Halloween/cosplay、October TikTok 文本/秋季审美趋势、Claude/Codex agent skills 分发、GitHub 新 skill 仓库，再反推二级搜索词。YouTube 今日新增抽取触发登录/bot gate，未拿到精确互动的新候选全部降级为 search cluster/watchlist；Social 主榜只保留 9/25-10/10 窗口内已精确复核过门槛的 Showgirl Encore、Verity、Paris Fashion Week UGC。AI 主榜保留 Claude Skills 高互动 exact evidence，并把 GitHub skill 分发热度写入 Skill feed，不伪装成 YouTube 爆款。",
+    "dynamicDiscovery": "先扫描 24-72 小时与近 15/30 天流行文化实体，再用实体组合二级搜索词；固定主题词只作 fallback。10/10 热簇包括 Taylor Swift The Life of a Showgirl Encore reaction/review、Verity movie/book-to-film review、Paris Fashion Week 2026/2027 aesthetic commentary、KPop Demon Hunters Halloween/cosplay、October mood / Text message from -A / Some people call me TikTok 格式、Claude Skills / Codex-compatible agent skills / skill distribution directories、GitHub 新 agent skill 仓库 answer-me-with-html / jianying-headless / replica-skill / golive-skill / geo-sleuth。"
   },
   "selectionPolicy": {
     "version": "2026-07-07",
